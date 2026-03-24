@@ -1,9 +1,9 @@
 #EXTM3U
-#name: SonyLiv Direct Playlist
-#last update: 10:44:20 PM 24-03-2026
+#name: SonyLiv Auto Playlist
+#telegram: https://t.me/livesportsplay
+#owner: Md Sohanur Rahman Hady
+#last update: 10:48:05 PM 24-03-2026
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016503/177427369984580_WOF_simulcast_23mar_landscape_thumb.jpg" group-title="SonyLiv Live", Wheel Of Fortune [HINDI]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://www.sonyliv.com/
 https://dai.google.com/ssai/event/ywC0TYXoSbOYu7fxpFglFA/master.m3u8
 
