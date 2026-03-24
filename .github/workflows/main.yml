@@ -1,10 +1,9 @@
-name: SonyLiv Auto Update
+name: SonyLiv Auto Update (Lite)
 
 on:
   workflow_dispatch:
-  # অটোমেটিকভাবে চালানোর জন্য নিচের লাইনগুলোর সামনের '#' মুছে দিতে পারেন
   # schedule:
-  #   - cron: '*/15 * * * *'
+  #   - cron: '0 */1 * * *' # প্রতি ১ ঘণ্টা পর পর (আপনার ইচ্ছা অনুযায়ী পরিবর্তন করতে পারেন)
 
 jobs:
   update-sonyliv:
@@ -14,7 +13,7 @@ jobs:
       - name: 📥 চেকআউট পাবলিক রিপোজিটরি (SonyLiv)
         uses: actions/checkout@v4
 
-      - name: 🔐 চেকআউট প্রাইভেট রিপোজিটরি (Sports)
+      - name: 🔐 চেকআউট প্রাইভেট রিপোজিটরি (Sports - Script Only)
         uses: actions/checkout@v4
         with:
           repository: srhady/Sports
@@ -36,33 +35,29 @@ jobs:
           cd private_sports_repo
           python sonyliv_bot.py
 
-      - name: 💾 প্রাইভেট রিপোতে মাস্টার স্ট্রিমগুলো পুশ করা (Sports)
-        run: |
-          cd private_sports_repo
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -A
-          git commit -m "Auto updated SonyLiv master streams & cleaned dead files" || echo "No changes to commit"
-          git push origin main
-
       - name: 🚚 পাবলিক রিপোতে প্লেলিস্ট কপি করা
         run: |
           cp private_sports_repo/sonyliv_playlist.m3u ./ || true
           cp private_sports_repo/sonyliv_playlist.json ./ || true
 
-      - name: 🧹 রানার থেকে প্রাইভেট ডাটা মুছে ফেলা (অ্যান্টি-থেফট)
+      - name: 🧹 রানার থেকে প্রাইভেট ডাটা মুছে ফেলা (Security)
         run: rm -rf private_sports_repo
 
       - name: 🕒 README-তে বিডি সময় আপডেট করা
         run: |
           CUR_TIME=$(TZ='Asia/Dhaka' date +'%I:%M %p, %d %b %Y')
+          # আপনার README-তে থাকা ব্যাজ লিংকের প্যাটার্ন ঠিক রাখতে sed ব্যবহার
           sed -i "s|last--commit--time-.*-blue|last--commit--time-${CUR_TIME// /%20}-blue|g" README.md || true
 
       - name: 💾 প্লেলিস্ট গিটহাবে পুশ করা (SonyLiv)
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          
           git add sonyliv_playlist.m3u sonyliv_playlist.json README.md || true
-          git commit -m "Auto Update SonyLiv Playlist & BD Time: $(TZ='Asia/Dhaka' date +'%I:%M %p')" || echo "No changes to commit"
+          
+          # যদি কোনো পরিবর্তন না থাকে তবে এরর ছাড়াই পরের ধাপে যাবে
+          git commit -m "Auto Update SonyLiv: $(TZ='Asia/Dhaka' date +'%I:%M %p')" || echo "No changes to commit"
+          
           git pull --rebase --autostash origin main
           git push
