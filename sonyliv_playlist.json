@@ -2,7 +2,7 @@
     "name": "SonyLiv Matches Full Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last_update": "07:00:19 PM 25-03-2026",
+    "last_update": "07:15:16 PM 25-03-2026",
     "live": [
         {
             "contentId": 1090507376,
@@ -18,6 +18,21 @@
             "endTime": "25 Mar 2026, 11:00 PM",
             "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016478/17741596232086_IFC_Sreenidi_Deccan_FC_vs_Dempo_Sports_Club_landscape_thumb.jpg",
             "stream_url": "https://dai.google.com/ssai/event/AmQPWgDqQUWpYQBuiuFZhw/master.m3u8"
+        },
+        {
+            "contentId": 1090507599,
+            "title": "Bhutan vs Tajikistan - 25 Mar 2026",
+            "shortDescription": "Watch all the action from the U23 Tri-Nation Championship 2026 as Bhutan U23 takes on Tajikistan U23, LIVE and exclusively on Sony LIV.",
+            "longDescription": "Watch all the action from the U23 Tri-Nation Championship 2026 as Bhutan U23 takes on Tajikistan U23, LIVE and exclusively on Sony LIV.",
+            "genres": [
+                "Football"
+            ],
+            "broadcast_channel": "Sony Sports Ten 2",
+            "language": "ENGLISH",
+            "startTime": "25 Mar 2026, 06:30 PM",
+            "endTime": "25 Mar 2026, 11:30 PM",
+            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016574/1774436585729185_U23_Tri_Nation_Champ26_Bhutan_vs_Tajikistan_25mar_landscape_thumb.jpg",
+            "stream_url": "https://dai.google.com/ssai/event/GjjJjDqkSOGs5_q3zMTG2Q/master.m3u8"
         },
         {
             "contentId": 1090507370,
