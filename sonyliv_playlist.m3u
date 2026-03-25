@@ -2,5 +2,11 @@
 #name: SonyLiv Full Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update: 06:45:18 PM 25-03-2026
+#last update: 07:00:19 PM 25-03-2026
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016478/17741596232086_IFC_Sreenidi_Deccan_FC_vs_Dempo_Sports_Club_landscape_thumb.jpg" group-title="SonyLiv Live", Sreenidi Deccan FC vs Dempo Sports Club - 25 Mar 2026 [ENGLISH]
+https://dai.google.com/ssai/event/AmQPWgDqQUWpYQBuiuFZhw/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016542/1774367473409588_INT_Friendlies26_Kazakhstan_vs_Comoros_24mar_landscape_thumb.jpg" group-title="SonyLiv Live", Kazakhstan vs Namibia - 25 Mar 2026 [ENGLISH]
+https://dai.google.com/ssai/event/lJS_OXxuQzuAqyu_oGTjDg/master.m3u8
 
