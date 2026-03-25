@@ -2,7 +2,7 @@
     "name": "SonyLiv Matches Full Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last_update": "08:30:20 PM 25-03-2026",
+    "last_update": "08:45:18 PM 25-03-2026",
     "live": [
         {
             "contentId": 1090507376,
@@ -33,21 +33,6 @@
             "endTime": "25 Mar 2026, 11:30 PM",
             "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016574/1774436585729185_U23_Tri_Nation_Champ26_Bhutan_vs_Tajikistan_25mar_landscape_thumb.jpg",
             "stream_url": "https://dai.google.com/ssai/event/GjjJjDqkSOGs5_q3zMTG2Q/master.m3u8"
-        },
-        {
-            "contentId": 1090507370,
-            "title": "Kazakhstan vs Namibia - 25 Mar 2026",
-            "shortDescription": "Kazakhstan and Namibia are set to meet in an international friendly in 2026, offering both sides a chance to test their squads. Fans can expect a competitive clash as each team looks to build momentum ahead of future tournaments. Which team will prevail? Tune in to catch all the action from this UEFA International Friendly, LIVE on Sony LIV.",
-            "longDescription": "Kazakhstan and Namibia are set to meet in an international friendly in 2026, offering both sides a chance to test their squads. Fans can expect a competitive clash as each team looks to build momentum ahead of future tournaments. Which team will prevail? Tune in to catch all the action from this UEFA International Friendly, LIVE on Sony LIV.",
-            "genres": [
-                "Football"
-            ],
-            "broadcast_channel": "Sony Sports Ten 2",
-            "language": "ENGLISH",
-            "startTime": "25 Mar 2026, 04:50 PM",
-            "endTime": "25 Mar 2026, 09:50 PM",
-            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016542/1774367473409588_INT_Friendlies26_Kazakhstan_vs_Comoros_24mar_landscape_thumb.jpg",
-            "stream_url": "https://dai.google.com/ssai/event/lJS_OXxuQzuAqyu_oGTjDg/master.m3u8"
         }
     ],
     "upcoming": [
