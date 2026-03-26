@@ -2,8 +2,23 @@
     "name": "SonyLiv Matches Full Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last_update": "04:00:21 PM 26-03-2026",
+    "last_update": "04:15:18 PM 26-03-2026",
     "live": [
+        {
+            "contentId": 1090507517,
+            "title": "Rajasthan United FC vs Diamond Harbour FC - 26 Mar 2026",
+            "shortDescription": "A crucial clash between sides featuring key in\u2011form players, including Pedro Astray and Aboubacar Soukouna for RUFC and Luka Majcen for Diamond Harbour. Find out which team will come out on top. Tune in to catch all the action from Indian Football League 2026, LIVE on Sony LIV.",
+            "longDescription": "A crucial clash between sides featuring key in\u2011form players, including Pedro Astray and Aboubacar Soukouna for RUFC and Luka Majcen for Diamond Harbour. Find out which team will come out on top. Tune in to catch all the action from Indian Football League 2026, LIVE on Sony LIV.",
+            "genres": [
+                "Football"
+            ],
+            "broadcast_channel": "Sony Sports Ten 2",
+            "language": "ENGLISH",
+            "startTime": "26 Mar 2026, 03:30 PM",
+            "endTime": "26 Mar 2026, 08:30 PM",
+            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016478/17741598426996_IFC_Rajasthan_United_FC-vs-Diamond_Harbour_FC_landscape_thumb.jpg",
+            "stream_url": "https://dai.google.com/ssai/event/ahLdkaRoSWavrsFLPU8THA/master.m3u8"
+        },
         {
             "contentId": 1090507374,
             "title": "Hero Indian Open Day 1 - 26 Mar 2026",
@@ -78,6 +93,17 @@
             ],
             "startTime": "14 Mar 2026, 12:00 AM",
             "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016189/1773494443654730_gec_combo_promo_landscape_thumb.jpg"
+        },
+        {
+            "contentId": 1090507595,
+            "title": "Upcoming - India\u2019s Cricketing Mayhem",
+            "shortDescription": "Tune in to catch all the action from India\u2019s Cricketing Mayhem, only on Sony LIV.",
+            "longDescription": "Tune in to catch all the action from India\u2019s Cricketing Mayhem, only on Sony LIV.",
+            "genres": [
+                "Cricket"
+            ],
+            "startTime": "25 Mar 2026, 12:00 PM",
+            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016596/1774511365140541_9_India_Series_promo_landscape_thumb.jpg"
         },
         {
             "contentId": 1090507217,
