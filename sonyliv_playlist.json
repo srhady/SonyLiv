@@ -2,7 +2,7 @@
     "name": "SonyLiv Matches Full Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last_update": "07:30:20 PM 26-03-2026",
+    "last_update": "07:45:22 PM 26-03-2026",
     "live": [
         {
             "contentId": 1090507530,
@@ -18,21 +18,6 @@
             "endTime": "26 Mar 2026, 11:00 PM",
             "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016478/17741600276016_IFC_Gokulam_Kerala_FC-vs-Shillong_Lajong_FC_landscape_thumb.jpg",
             "stream_url": "https://dai.google.com/ssai/event/k546vMA7RwaIHM8n9oSIyw/master.m3u8"
-        },
-        {
-            "contentId": 1090507374,
-            "title": "Hero Indian Open Day 1 - 26 Mar 2026",
-            "shortDescription": "Watch all the action from Hero Indian Open Day 1, LIVE on Sony LIV.",
-            "longDescription": "Watch all the action from Hero Indian Open Day 1, LIVE on Sony LIV.",
-            "genres": [
-                "Golf"
-            ],
-            "broadcast_channel": "LIV",
-            "language": "ENGLISH",
-            "startTime": "26 Mar 2026, 12:30 PM",
-            "endTime": "26 Mar 2026, 08:30 PM",
-            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016532/177435943318137_DP_World_Tour26_Hero_Indian_Open_day1_24mar_landscape_thumb.jpg",
-            "stream_url": "https://dai.google.com/ssai/event/lCPeNz0CSL6iH5VTP5pRYQ/master.m3u8"
         }
     ],
     "upcoming": [
