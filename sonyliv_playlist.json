@@ -2,82 +2,112 @@
     "name": "SonyLiv Matches Full Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last_update": "01:30:20 AM 27-03-2026",
+    "last_update": "01:45:15 AM 27-03-2026",
     "live": [
         {
-            "contentId": 1090507636,
-            "title": "Turkiye vs Romania - Playoff Semi-finals - 26 Mar 2026",
-            "shortDescription": "T\u00fcrkiye and Romania are set to face off in a high\u2011stakes 2026 FIFA World Cup Qualifiers Play\u2011Off semifinal, a clash loaded with pressure, history, and contrasting momentum. Both sides are fighting for survival on the road to the World Cup. This semifinal promises intensity, drama, and high\u2011stakes football as T\u00fcrkiye look to capitalize on home advantage while Romania search for another upset on the road. Find out who comes on top as we bring you all the action from the European Qualifiers for 2026 FIFA World Cup, LIVE on Sony LIV.",
-            "longDescription": "T\u00fcrkiye and Romania are set to face off in a high\u2011stakes 2026 FIFA World Cup Qualifiers Play\u2011Off semifinal, a clash loaded with pressure, history, and contrasting momentum. Both sides are fighting for survival on the road to the World Cup. This semifinal promises intensity, drama, and high\u2011stakes football as T\u00fcrkiye look to capitalize on home advantage while Romania search for another upset on the road. Find out who comes on top as we bring you all the action from the European Qualifiers for 2026 FIFA World Cup, LIVE on Sony LIV.",
+            "contentId": 1090507643,
+            "title": "Italy vs Northern Ireland - Playoff Semi-finals - 27 Mar 2026",
+            "shortDescription": "Italy and Northern Ireland meet in a high\u2011pressure 2026 FIFA World Cup Qualifiers Play\u2011Off semifinal, with both nations fighting to keep their World Cup dreams alive. For Italy, the stakes are particularly significant. Having missed out on both the 2018 and 2022 World Cups, the Azzurri now fight to avoid a third consecutive absence from global football\u2019s premier tournament. Will Northern Ireland be able to pull an upset? Find out who comes on top as we bring you all the action from the European Qualifiers for 2026 FIFA World Cup, LIVE on Sony LIV.",
+            "longDescription": "Italy and Northern Ireland meet in a high\u2011pressure 2026 FIFA World Cup Qualifiers Play\u2011Off semifinal, with both nations fighting to keep their World Cup dreams alive. For Italy, the stakes are particularly significant. Having missed out on both the 2018 and 2022 World Cups, the Azzurri now fight to avoid a third consecutive absence from global football\u2019s premier tournament. Will Northern Ireland be able to pull an upset? Find out who comes on top as we bring you all the action from the European Qualifiers for 2026 FIFA World Cup, LIVE on Sony LIV.",
             "genres": [
                 "Football"
             ],
             "broadcast_channel": "Sony Sports Ten 2",
             "language": "ENGLISH",
-            "startTime": "26 Mar 2026, 09:50 PM",
-            "endTime": "27 Mar 2026, 02:50 AM",
-            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016520/1774345476864257_EQ26_Playoffs_Semifinal_Turkiye_vs_Romania_24mar_landscape_thumb.jpg",
-            "stream_url": "https://dai.google.com/ssai/event/shkqoON_T6OVwAhCb9YdoA/master.m3u8"
+            "startTime": "27 Mar 2026, 12:35 AM",
+            "endTime": "27 Mar 2026, 05:35 AM",
+            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016520/1774345615236257_EQ26_Playoffs_Semifinal_Italy_vs_Northern_Ireland_24mar_landscape_thumb.jpg",
+            "stream_url": "https://dai.google.com/ssai/event/qUrxRM0JTN2vDEKIr8tUKA/master.m3u8"
         },
         {
-            "contentId": 1090507667,
-            "title": "Malta vs Luxembourg - Relegation Play-outs - 1st Leg - 26 Mar 2026 ",
-            "shortDescription": "Tune in to catch all the action from UEFA Nations League relegation play-outs as Malta take on Luxembourg, LIVE on Sony LIV.",
-            "longDescription": "Tune in to catch all the action from UEFA Nations League relegation play-outs as Malta take on Luxembourg, LIVE on Sony LIV.",
+            "contentId": 1090507663,
+            "title": "Poland vs Albania - Playoff Semi-finals - 27 Mar 2026",
+            "shortDescription": "Poland welcome Albania in a heavyweight Play\u2011Off semifinal featuring contrasting styles but equally fierce ambition. Poland will rely on their frontline efficiency and home support to seize control, while Albania enter with growing confidence after strong qualifying performances. With both teams capable of producing decisive moments, this matchup sets the stage for a tense, high\u2011stakes encounter on the road to 2026. Find out who comes on top as we bring you all the action from the European Qualifiers for 2026 FIFA World Cup, LIVE on Sony LIV.",
+            "longDescription": "Poland welcome Albania in a heavyweight Play\u2011Off semifinal featuring contrasting styles but equally fierce ambition. Poland will rely on their frontline efficiency and home support to seize control, while Albania enter with growing confidence after strong qualifying performances. With both teams capable of producing decisive moments, this matchup sets the stage for a tense, high\u2011stakes encounter on the road to 2026. Find out who comes on top as we bring you all the action from the European Qualifiers for 2026 FIFA World Cup, LIVE on Sony LIV.",
             "genres": [
                 "Football"
             ],
             "broadcast_channel": "Sony Sports Ten 2",
             "language": "ENGLISH",
-            "startTime": "26 Mar 2026, 09:50 PM",
-            "endTime": "27 Mar 2026, 02:50 AM",
-            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016519/1774344388037677_UNL_Malta_vs_Luxembourg_landscape_thumb.jpg",
-            "stream_url": "https://dai.google.com/ssai/event/1L-mQIceRleayqoATY9gmw/master.m3u8"
+            "startTime": "27 Mar 2026, 12:35 AM",
+            "endTime": "27 Mar 2026, 05:35 AM",
+            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016520/1774346356356257_EQ26_Playoffs_Semifinal_Poland_vs_Albania_24mar_landscape_thumb.jpg",
+            "stream_url": "https://dai.google.com/ssai/event/mjvI9zBJQ3CRRIT-yHHgeA/master.m3u8"
         },
         {
-            "contentId": 1090507661,
-            "title": "Gibraltar vs Latvia - Relegation Play-outs - 1st Leg - 26 Mar 2026 ",
-            "shortDescription": "Tune in to catch all the action from UEFA Nations League relegation play-outs as Gibraltar take on Latvia, LIVE on Sony LIV.",
-            "longDescription": "Tune in to catch all the action from UEFA Nations League relegation play-outs as Gibraltar take on Latvia, LIVE on Sony LIV.",
+            "contentId": 1090507662,
+            "title": "Ukraine vs Sweden - Playoff Semi-finals - 27 Mar 2026",
+            "shortDescription": "Ukraine meet Sweden in a high\u2011pressure Play\u2011Off showdown, bringing together two sides known for resilience, tactical discipline, and late\u2011game grit. Ukraine aim to channel their attacking fluidity and control in midfield, while Sweden\u2019s compact structure and counter\u2011punching threat promise a demanding test. With a World Cup berth hanging in the balance, this semifinal carries all the ingredients of a tight, dramatic European battle. Find out who comes on top as we bring you all the action from the European Qualifiers for 2026 FIFA World Cup, LIVE on Sony LIV.",
+            "longDescription": "Ukraine meet Sweden in a high\u2011pressure Play\u2011Off showdown, bringing together two sides known for resilience, tactical discipline, and late\u2011game grit. Ukraine aim to channel their attacking fluidity and control in midfield, while Sweden\u2019s compact structure and counter\u2011punching threat promise a demanding test. With a World Cup berth hanging in the balance, this semifinal carries all the ingredients of a tight, dramatic European battle. Find out who comes on top as we bring you all the action from the European Qualifiers for 2026 FIFA World Cup, LIVE on Sony LIV.",
             "genres": [
                 "Football"
             ],
             "broadcast_channel": "Sony Sports Ten 2",
             "language": "ENGLISH",
-            "startTime": "26 Mar 2026, 09:50 PM",
-            "endTime": "27 Mar 2026, 02:50 AM",
-            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016519/1774344178655677_UNL_Gibraltar_vs_Latvia_landscape_thumb.jpg",
-            "stream_url": "https://dai.google.com/ssai/event/RyLJ_PwXTFWClUI4uHJjwA/master.m3u8"
+            "startTime": "27 Mar 2026, 12:35 AM",
+            "endTime": "27 Mar 2026, 05:35 AM",
+            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016520/1774346167110257_EQ26_Playoffs_Semifinal_Ukraine_vs_Sweden_24mar_landscape_thumb.jpg",
+            "stream_url": "https://dai.google.com/ssai/event/7P6fceT3R0Oq4e50eUvybA/master.m3u8"
         },
         {
-            "contentId": 1090507440,
-            "title": "Cyprus vs Belarus - 26 Mar 2026",
-            "shortDescription": "Tune in to catch all the action from UEFA International Friendlies as Cyprus take on Belarus, LIVE only on Sony LIV.",
-            "longDescription": "Tune in to catch all the action from UEFA International Friendlies as Cyprus take on Belarus, LIVE only on Sony LIV.",
+            "contentId": 1090507665,
+            "title": "Denmark vs North Macedonia - Playoff Semi-finals - 27 Mar 2026",
+            "shortDescription": "Denmark host North Macedonia in a high\u2011pressure Play\u2011Off semifinal, with the Danes leaning on their structured, possession\u2011driven style and strong home pedigree in Copenhagen. North Macedonia, known for producing shock results on the big stage, arrive determined to unsettle the hosts with grit, intensity, and quick transitions. With World Cup survival at stake, this matchup promises tension, urgency, and a fiercely contested battle. Find out who comes on top as we bring you all the action from the European Qualifiers for 2026 FIFA World Cup, LIVE on Sony LIV.",
+            "longDescription": "Denmark host North Macedonia in a high\u2011pressure Play\u2011Off semifinal, with the Danes leaning on their structured, possession\u2011driven style and strong home pedigree in Copenhagen. North Macedonia, known for producing shock results on the big stage, arrive determined to unsettle the hosts with grit, intensity, and quick transitions. With World Cup survival at stake, this matchup promises tension, urgency, and a fiercely contested battle. Find out who comes on top as we bring you all the action from the European Qualifiers for 2026 FIFA World Cup, LIVE on Sony LIV.",
             "genres": [
                 "Football"
             ],
             "broadcast_channel": "Sony Sports Ten 2",
             "language": "ENGLISH",
-            "startTime": "26 Mar 2026, 09:50 PM",
-            "endTime": "27 Mar 2026, 02:50 AM",
-            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016470/1774018880713735_INT_Friendlies26_Cyprus_vs_Belarus_20mar_landscape_thumb.jpg",
-            "stream_url": "https://dai.google.com/ssai/event/wdO8mORMRqi8l7ztwLnBiw/master.m3u8"
+            "startTime": "27 Mar 2026, 12:35 AM",
+            "endTime": "27 Mar 2026, 05:35 AM",
+            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016520/1774347195954257_EQ26_Playoffs_Semifinal_Denmark_vs_North_Macedonia_24mar_landscape_thumb.jpg",
+            "stream_url": "https://dai.google.com/ssai/event/votA95rUSayCu-pRRIJhfw/master.m3u8"
         },
         {
-            "contentId": 1090507441,
-            "title": "Georgia vs Israel - 26 Mar 2026",
-            "shortDescription": "Tune in to catch all the action from UEFA International Friendlies as Georgia take on Israel , LIVE only on Sony LIV.",
-            "longDescription": "Tune in to catch all the action from UEFA International Friendlies as Georgia take on Israel , LIVE only on Sony LIV.",
+            "contentId": 1090507666,
+            "title": "Czechia vs Republic of Ireland - Playoff Semi-finals - 27 Mar 2026",
+            "shortDescription": "Czechia and the Republic of Ireland meet in a finely balanced Play\u2011Off semifinal that pits Czechia\u2019s technical fluency against Ireland\u2019s trademark resilience and combative discipline. The hosts will aim to dictate play through midfield control, while Ireland seek to capitalize on set\u2011pieces, defensive solidity, and opportunistic breaks. With both sides fully aware of what a World Cup berth would mean, this clash sets the stage for a tight, physical, and high\u2011stakes European showdown. Find out who comes on top as we bring you all the action from the European Qualifiers for 2026 FIFA World Cup, LIVE on Sony LIV.",
+            "longDescription": "Czechia and the Republic of Ireland meet in a finely balanced Play\u2011Off semifinal that pits Czechia\u2019s technical fluency against Ireland\u2019s trademark resilience and combative discipline. The hosts will aim to dictate play through midfield control, while Ireland seek to capitalize on set\u2011pieces, defensive solidity, and opportunistic breaks. With both sides fully aware of what a World Cup berth would mean, this clash sets the stage for a tight, physical, and high\u2011stakes European showdown. Find out who comes on top as we bring you all the action from the European Qualifiers for 2026 FIFA World Cup, LIVE on Sony LIV.",
             "genres": [
                 "Football"
             ],
             "broadcast_channel": "Sony Sports Ten 2",
             "language": "ENGLISH",
-            "startTime": "26 Mar 2026, 09:50 PM",
-            "endTime": "27 Mar 2026, 02:50 AM",
-            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016471/1774019280227959_INT_Friendlies26_Georgia_vs_Israel_20mar_landscape_thumb.jpg",
-            "stream_url": "https://dai.google.com/ssai/event/jnpvw9goRV2lb3bMV8Z_Kw/master.m3u8"
+            "startTime": "27 Mar 2026, 12:35 AM",
+            "endTime": "27 Mar 2026, 05:35 AM",
+            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016520/1774347355346257_EQ26_Playoffs_Semifinal_Czechia_vs_Republic_of_Ireland_24mar_landscape_thumb.jpg",
+            "stream_url": "https://dai.google.com/ssai/event/BThnuo0uRi6vAZSk2UFcew/master.m3u8"
+        },
+        {
+            "contentId": 1090507644,
+            "title": "Wales vs Bosnia-Herzegovina - Playoff Semi-finals - 27 Mar 2026",
+            "shortDescription": "Wales and Bosnia\u2011Herzegovina square off in a tense Play\u2011Off semifinal, with both nations fighting to keep their World Cup dream alive. Wales will look to harness the energy of the Cardiff City Stadium and lean on their disciplined defensive structure, while Bosnia\u2011Herzegovina arrive hungry for a statement performance on the road. A finely balanced clash awaits, with momentum and nerve likely to define who moves one step closer to 2026. Find out who comes on top as we bring you all the action from the European Qualifiers for 2026 FIFA World Cup, LIVE on Sony LIV.",
+            "longDescription": "Wales and Bosnia\u2011Herzegovina square off in a tense Play\u2011Off semifinal, with both nations fighting to keep their World Cup dream alive. Wales will look to harness the energy of the Cardiff City Stadium and lean on their disciplined defensive structure, while Bosnia\u2011Herzegovina arrive hungry for a statement performance on the road. A finely balanced clash awaits, with momentum and nerve likely to define who moves one step closer to 2026. Find out who comes on top as we bring you all the action from the European Qualifiers for 2026 FIFA World Cup, LIVE on Sony LIV.",
+            "genres": [
+                "Football"
+            ],
+            "broadcast_channel": "Sony Sports Ten 2",
+            "language": "ENGLISH",
+            "startTime": "27 Mar 2026, 12:35 AM",
+            "endTime": "27 Mar 2026, 05:35 AM",
+            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016520/1774345776128257_EQ26_Playoffs_Semifinal_Wales_vs_Bosnia_Herzegovina_24mar_landscape_thumb.jpg",
+            "stream_url": "https://dai.google.com/ssai/event/GjjJjDqkSOGs5_q3zMTG2Q/master.m3u8"
+        },
+        {
+            "contentId": 1090507664,
+            "title": "Slovakia vs Kosovo - Playoff Semi-finals - 27 Mar 2026",
+            "shortDescription": "Slovakia host Kosovo in a compelling Play\u2011Off duel that pits Slovakia\u2019s structured, possession\u2011driven approach against Kosovo\u2019s dynamic, fearless attacking identity. The hosts will look to assert control early, but Kosovo\u2019s unpredictability and willingness to take risks ensure a potentially explosive contest. With a World Cup place within reach, both sides enter with urgency and belief, promising a gripping semifinal. Find out who comes on top as we bring you all the action from the European Qualifiers for 2026 FIFA World Cup, LIVE on Sony LIV.",
+            "longDescription": "Slovakia host Kosovo in a compelling Play\u2011Off duel that pits Slovakia\u2019s structured, possession\u2011driven approach against Kosovo\u2019s dynamic, fearless attacking identity. The hosts will look to assert control early, but Kosovo\u2019s unpredictability and willingness to take risks ensure a potentially explosive contest. With a World Cup place within reach, both sides enter with urgency and belief, promising a gripping semifinal. Find out who comes on top as we bring you all the action from the European Qualifiers for 2026 FIFA World Cup, LIVE on Sony LIV.",
+            "genres": [
+                "Football"
+            ],
+            "broadcast_channel": "Sony Sports Ten 2",
+            "language": "ENGLISH",
+            "startTime": "27 Mar 2026, 12:35 AM",
+            "endTime": "27 Mar 2026, 05:35 AM",
+            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016520/1774346748946257_EQ26_Playoffs_Semifinal_Slovakia_vs_Kosovo_24mar_landscape_thumb.jpg",
+            "stream_url": "https://dai.google.com/ssai/event/i3W424xBTFmjSHum4gdPbA/master.m3u8"
         }
     ],
     "upcoming": [
@@ -149,39 +179,6 @@
             ],
             "startTime": "25 Mar 2026, 12:00 PM",
             "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016596/1774511365140541_9_India_Series_promo_landscape_thumb.jpg"
-        },
-        {
-            "contentId": 1090507226,
-            "title": "Upcoming - Italy vs Northern Ireland - European Qualifiers for 2026 FIFA World Cup",
-            "shortDescription": "Catch all the action from European Qualifiers for 2026 FIFA World Cup, only on Sony LIV.",
-            "longDescription": "Catch all the action from European Qualifiers for 2026 FIFA World Cup, only on Sony LIV.",
-            "genres": [
-                "Football"
-            ],
-            "startTime": "19 Mar 2026, 04:00 PM",
-            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016530/1774356435623887_EQ26_FIFA_WC_Italy_vs_Northern_Ireland_promo_tonight_landscape_thumb.jpg"
-        },
-        {
-            "contentId": 1090507227,
-            "title": "Upcoming - Poland vs Albania - European Qualifiers for 2026 FIFA World Cup",
-            "shortDescription": "Catch all the action from European Qualifiers for 2026 FIFA World Cup, only on Sony LIV.",
-            "longDescription": "Catch all the action from European Qualifiers for 2026 FIFA World Cup, only on Sony LIV.",
-            "genres": [
-                "Football"
-            ],
-            "startTime": "19 Mar 2026, 04:00 PM",
-            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016530/1774356923770887_EQ26_FIFA_WC_Poland_vs_Albania_promo_tonight_landscape_thumb.jpg"
-        },
-        {
-            "contentId": 1090507229,
-            "title": "Upcoming - Ukraine vs Sweden - European Qualifiers for 2026 FIFA World Cup",
-            "shortDescription": "Catch all the action from European Qualifiers for 2026 FIFA World Cup, only on Sony LIV.",
-            "longDescription": "Catch all the action from European Qualifiers for 2026 FIFA World Cup, only on Sony LIV.",
-            "genres": [
-                "Football"
-            ],
-            "startTime": "19 Mar 2026, 04:00 PM",
-            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016531/1774356669232939_EQ26_FIFA_WC_Ukraine_vs_Sweden_promo_tonight_landscape_thumb.jpg"
         }
     ]
 }

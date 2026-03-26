@@ -2,20 +2,26 @@
 #name: SonyLiv Full Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update: 01:30:20 AM 27-03-2026
+#last update: 01:45:15 AM 27-03-2026
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016520/1774345476864257_EQ26_Playoffs_Semifinal_Turkiye_vs_Romania_24mar_landscape_thumb.jpg" group-title="SonyLiv Live", Turkiye vs Romania - Playoff Semi-finals - 26 Mar 2026 [ENGLISH]
-https://dai.google.com/ssai/event/shkqoON_T6OVwAhCb9YdoA/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016520/1774345615236257_EQ26_Playoffs_Semifinal_Italy_vs_Northern_Ireland_24mar_landscape_thumb.jpg" group-title="SonyLiv Live", Italy vs Northern Ireland - Playoff Semi-finals - 27 Mar 2026 [ENGLISH]
+https://dai.google.com/ssai/event/qUrxRM0JTN2vDEKIr8tUKA/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016519/1774344388037677_UNL_Malta_vs_Luxembourg_landscape_thumb.jpg" group-title="SonyLiv Live", Malta vs Luxembourg - Relegation Play-outs - 1st Leg - 26 Mar 2026  [ENGLISH]
-https://dai.google.com/ssai/event/1L-mQIceRleayqoATY9gmw/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016520/1774346356356257_EQ26_Playoffs_Semifinal_Poland_vs_Albania_24mar_landscape_thumb.jpg" group-title="SonyLiv Live", Poland vs Albania - Playoff Semi-finals - 27 Mar 2026 [ENGLISH]
+https://dai.google.com/ssai/event/mjvI9zBJQ3CRRIT-yHHgeA/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016519/1774344178655677_UNL_Gibraltar_vs_Latvia_landscape_thumb.jpg" group-title="SonyLiv Live", Gibraltar vs Latvia - Relegation Play-outs - 1st Leg - 26 Mar 2026  [ENGLISH]
-https://dai.google.com/ssai/event/RyLJ_PwXTFWClUI4uHJjwA/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016520/1774346167110257_EQ26_Playoffs_Semifinal_Ukraine_vs_Sweden_24mar_landscape_thumb.jpg" group-title="SonyLiv Live", Ukraine vs Sweden - Playoff Semi-finals - 27 Mar 2026 [ENGLISH]
+https://dai.google.com/ssai/event/7P6fceT3R0Oq4e50eUvybA/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016470/1774018880713735_INT_Friendlies26_Cyprus_vs_Belarus_20mar_landscape_thumb.jpg" group-title="SonyLiv Live", Cyprus vs Belarus - 26 Mar 2026 [ENGLISH]
-https://dai.google.com/ssai/event/wdO8mORMRqi8l7ztwLnBiw/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016520/1774347195954257_EQ26_Playoffs_Semifinal_Denmark_vs_North_Macedonia_24mar_landscape_thumb.jpg" group-title="SonyLiv Live", Denmark vs North Macedonia - Playoff Semi-finals - 27 Mar 2026 [ENGLISH]
+https://dai.google.com/ssai/event/votA95rUSayCu-pRRIJhfw/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016471/1774019280227959_INT_Friendlies26_Georgia_vs_Israel_20mar_landscape_thumb.jpg" group-title="SonyLiv Live", Georgia vs Israel - 26 Mar 2026 [ENGLISH]
-https://dai.google.com/ssai/event/jnpvw9goRV2lb3bMV8Z_Kw/master.m3u8
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016520/1774347355346257_EQ26_Playoffs_Semifinal_Czechia_vs_Republic_of_Ireland_24mar_landscape_thumb.jpg" group-title="SonyLiv Live", Czechia vs Republic of Ireland - Playoff Semi-finals - 27 Mar 2026 [ENGLISH]
+https://dai.google.com/ssai/event/BThnuo0uRi6vAZSk2UFcew/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016520/1774345776128257_EQ26_Playoffs_Semifinal_Wales_vs_Bosnia_Herzegovina_24mar_landscape_thumb.jpg" group-title="SonyLiv Live", Wales vs Bosnia-Herzegovina - Playoff Semi-finals - 27 Mar 2026 [ENGLISH]
+https://dai.google.com/ssai/event/GjjJjDqkSOGs5_q3zMTG2Q/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016520/1774346748946257_EQ26_Playoffs_Semifinal_Slovakia_vs_Kosovo_24mar_landscape_thumb.jpg" group-title="SonyLiv Live", Slovakia vs Kosovo - Playoff Semi-finals - 27 Mar 2026 [ENGLISH]
+https://dai.google.com/ssai/event/i3W424xBTFmjSHum4gdPbA/master.m3u8
 
