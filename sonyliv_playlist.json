@@ -2,7 +2,7 @@
     "name": "SonyLiv Matches Full Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last_update": "03:45:16 AM 27-03-2026",
+    "last_update": "04:00:22 AM 27-03-2026",
     "live": [
         {
             "contentId": 1090507643,
@@ -33,36 +33,6 @@
             "endTime": "27 Mar 2026, 05:35 AM",
             "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016520/1774346356356257_EQ26_Playoffs_Semifinal_Poland_vs_Albania_24mar_landscape_thumb.jpg",
             "stream_url": "https://dai.google.com/ssai/event/mjvI9zBJQ3CRRIT-yHHgeA/master.m3u8"
-        },
-        {
-            "contentId": 1090507662,
-            "title": "Ukraine vs Sweden - Playoff Semi-finals - 27 Mar 2026",
-            "shortDescription": "Ukraine meet Sweden in a high\u2011pressure Play\u2011Off showdown, bringing together two sides known for resilience, tactical discipline, and late\u2011game grit. Ukraine aim to channel their attacking fluidity and control in midfield, while Sweden\u2019s compact structure and counter\u2011punching threat promise a demanding test. With a World Cup berth hanging in the balance, this semifinal carries all the ingredients of a tight, dramatic European battle. Find out who comes on top as we bring you all the action from the European Qualifiers for 2026 FIFA World Cup, LIVE on Sony LIV.",
-            "longDescription": "Ukraine meet Sweden in a high\u2011pressure Play\u2011Off showdown, bringing together two sides known for resilience, tactical discipline, and late\u2011game grit. Ukraine aim to channel their attacking fluidity and control in midfield, while Sweden\u2019s compact structure and counter\u2011punching threat promise a demanding test. With a World Cup berth hanging in the balance, this semifinal carries all the ingredients of a tight, dramatic European battle. Find out who comes on top as we bring you all the action from the European Qualifiers for 2026 FIFA World Cup, LIVE on Sony LIV.",
-            "genres": [
-                "Football"
-            ],
-            "broadcast_channel": "Sony Sports Ten 2",
-            "language": "ENGLISH",
-            "startTime": "27 Mar 2026, 12:35 AM",
-            "endTime": "27 Mar 2026, 05:35 AM",
-            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016520/1774346167110257_EQ26_Playoffs_Semifinal_Ukraine_vs_Sweden_24mar_landscape_thumb.jpg",
-            "stream_url": "https://dai.google.com/ssai/event/7P6fceT3R0Oq4e50eUvybA/master.m3u8"
-        },
-        {
-            "contentId": 1090507665,
-            "title": "Denmark vs North Macedonia - Playoff Semi-finals - 27 Mar 2026",
-            "shortDescription": "Denmark host North Macedonia in a high\u2011pressure Play\u2011Off semifinal, with the Danes leaning on their structured, possession\u2011driven style and strong home pedigree in Copenhagen. North Macedonia, known for producing shock results on the big stage, arrive determined to unsettle the hosts with grit, intensity, and quick transitions. With World Cup survival at stake, this matchup promises tension, urgency, and a fiercely contested battle. Find out who comes on top as we bring you all the action from the European Qualifiers for 2026 FIFA World Cup, LIVE on Sony LIV.",
-            "longDescription": "Denmark host North Macedonia in a high\u2011pressure Play\u2011Off semifinal, with the Danes leaning on their structured, possession\u2011driven style and strong home pedigree in Copenhagen. North Macedonia, known for producing shock results on the big stage, arrive determined to unsettle the hosts with grit, intensity, and quick transitions. With World Cup survival at stake, this matchup promises tension, urgency, and a fiercely contested battle. Find out who comes on top as we bring you all the action from the European Qualifiers for 2026 FIFA World Cup, LIVE on Sony LIV.",
-            "genres": [
-                "Football"
-            ],
-            "broadcast_channel": "Sony Sports Ten 2",
-            "language": "ENGLISH",
-            "startTime": "27 Mar 2026, 12:35 AM",
-            "endTime": "27 Mar 2026, 05:35 AM",
-            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016520/1774347195954257_EQ26_Playoffs_Semifinal_Denmark_vs_North_Macedonia_24mar_landscape_thumb.jpg",
-            "stream_url": "https://dai.google.com/ssai/event/votA95rUSayCu-pRRIJhfw/master.m3u8"
         },
         {
             "contentId": 1090507666,
