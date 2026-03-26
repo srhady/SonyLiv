@@ -2,7 +2,7 @@
     "name": "SonyLiv Matches Full Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last_update": "03:30:21 PM 26-03-2026",
+    "last_update": "03:45:22 PM 26-03-2026",
     "live": [
         {
             "contentId": 1090507374,
@@ -45,6 +45,17 @@
             "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090506382/thumbnail/1773409831023_./Yaadein_Landscape_Thumb_Dated.jpg"
         },
         {
+            "contentId": 1090507227,
+            "title": "Upcoming - Poland vs Albania - European Qualifiers for 2026 FIFA World Cup",
+            "shortDescription": "Catch all the action from European Qualifiers for 2026 FIFA World Cup, only on Sony LIV.",
+            "longDescription": "Catch all the action from European Qualifiers for 2026 FIFA World Cup, only on Sony LIV.",
+            "genres": [
+                "Football"
+            ],
+            "startTime": "19 Mar 2026, 04:00 PM",
+            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016530/1774356923770887_EQ26_FIFA_WC_Poland_vs_Albania_promo_tonight_landscape_thumb.jpg"
+        },
+        {
             "contentId": 1090505313,
             "title": "India's Best Dancer",
             "shortDescription": "India's Best Dancer Season 5 is coming back with Karisma Kapoor. Watch India's Best Dancer, streaming soon, on Sony LIV. ",
@@ -78,6 +89,39 @@
             ],
             "startTime": "14 Mar 2026, 12:00 AM",
             "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016189/1773494443654730_gec_combo_promo_landscape_thumb.jpg"
+        },
+        {
+            "contentId": 1090507217,
+            "title": "Upcoming - Turkey vs Romania - European Qualifiers for 2026 FIFA World Cup",
+            "shortDescription": "Catch all the action from European Qualifiers for 2026 FIFA World Cup, only on Sony LIV.",
+            "longDescription": "Catch all the action from European Qualifiers for 2026 FIFA World Cup, only on Sony LIV.",
+            "genres": [
+                "Football"
+            ],
+            "startTime": "19 Mar 2026, 04:00 PM",
+            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016530/1774356128247887_EQ26_FIFA_WC_Turkiye_vs_Romania_promo_tonight_landscape_thumb.jpg"
+        },
+        {
+            "contentId": 1090507226,
+            "title": "Upcoming - Italy vs Northern Ireland - European Qualifiers for 2026 FIFA World Cup",
+            "shortDescription": "Catch all the action from European Qualifiers for 2026 FIFA World Cup, only on Sony LIV.",
+            "longDescription": "Catch all the action from European Qualifiers for 2026 FIFA World Cup, only on Sony LIV.",
+            "genres": [
+                "Football"
+            ],
+            "startTime": "19 Mar 2026, 04:00 PM",
+            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016530/1774356435623887_EQ26_FIFA_WC_Italy_vs_Northern_Ireland_promo_tonight_landscape_thumb.jpg"
+        },
+        {
+            "contentId": 1090507229,
+            "title": "Upcoming - Ukraine vs Sweden - European Qualifiers for 2026 FIFA World Cup",
+            "shortDescription": "Catch all the action from European Qualifiers for 2026 FIFA World Cup, only on Sony LIV.",
+            "longDescription": "Catch all the action from European Qualifiers for 2026 FIFA World Cup, only on Sony LIV.",
+            "genres": [
+                "Football"
+            ],
+            "startTime": "19 Mar 2026, 04:00 PM",
+            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016531/1774356669232939_EQ26_FIFA_WC_Ukraine_vs_Sweden_promo_tonight_landscape_thumb.jpg"
         }
     ]
 }
