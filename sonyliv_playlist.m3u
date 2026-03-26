@@ -2,10 +2,7 @@
 #name: SonyLiv Full Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update: 11:00:22 PM 26-03-2026
-
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016503/177427369984580_WOF_simulcast_23mar_landscape_thumb.jpg" group-title="SonyLiv Live", Wheel Of Fortune [HINDI]
-https://dai.google.com/ssai/event/ywC0TYXoSbOYu7fxpFglFA/master.m3u8
+#last update: 11:15:16 PM 26-03-2026
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016520/1774345476864257_EQ26_Playoffs_Semifinal_Turkiye_vs_Romania_24mar_landscape_thumb.jpg" group-title="SonyLiv Live", Turkiye vs Romania - Playoff Semi-finals - 26 Mar 2026 [ENGLISH]
 https://dai.google.com/ssai/event/shkqoON_T6OVwAhCb9YdoA/master.m3u8
@@ -15,9 +12,6 @@ https://dai.google.com/ssai/event/1L-mQIceRleayqoATY9gmw/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016519/1774344178655677_UNL_Gibraltar_vs_Latvia_landscape_thumb.jpg" group-title="SonyLiv Live", Gibraltar vs Latvia - Relegation Play-outs - 1st Leg - 26 Mar 2026  [ENGLISH]
 https://dai.google.com/ssai/event/RyLJ_PwXTFWClUI4uHJjwA/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016471/1774018662876959_INT_Friendlies26_Moldova_vs_Lithuania_20mar_landscape_thumb.jpg" group-title="SonyLiv Live", Moldova vs Lithuania - 26 Mar 2026 [ENGLISH]
-https://dai.google.com/ssai/event/seP8U3FeRPKV5OA5RUe6aA/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016470/1774018880713735_INT_Friendlies26_Cyprus_vs_Belarus_20mar_landscape_thumb.jpg" group-title="SonyLiv Live", Cyprus vs Belarus - 26 Mar 2026 [ENGLISH]
 https://dai.google.com/ssai/event/wdO8mORMRqi8l7ztwLnBiw/master.m3u8
