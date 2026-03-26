@@ -2,7 +2,7 @@
     "name": "SonyLiv Matches Full Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last_update": "10:30:21 PM 26-03-2026",
+    "last_update": "10:45:17 PM 26-03-2026",
     "live": [
         {
             "contentId": 1090500468,
@@ -20,6 +20,51 @@
             "stream_url": "https://dai.google.com/ssai/event/ywC0TYXoSbOYu7fxpFglFA/master.m3u8"
         },
         {
+            "contentId": 1090507636,
+            "title": "Turkiye vs Romania - Playoff Semi-finals - 26 Mar 2026",
+            "shortDescription": "T\u00fcrkiye and Romania are set to face off in a high\u2011stakes 2026 FIFA World Cup Qualifiers Play\u2011Off semifinal, a clash loaded with pressure, history, and contrasting momentum. Both sides are fighting for survival on the road to the World Cup. This semifinal promises intensity, drama, and high\u2011stakes football as T\u00fcrkiye look to capitalize on home advantage while Romania search for another upset on the road. Find out who comes on top as we bring you all the action from the European Qualifiers for 2026 FIFA World Cup, LIVE on Sony LIV.",
+            "longDescription": "T\u00fcrkiye and Romania are set to face off in a high\u2011stakes 2026 FIFA World Cup Qualifiers Play\u2011Off semifinal, a clash loaded with pressure, history, and contrasting momentum. Both sides are fighting for survival on the road to the World Cup. This semifinal promises intensity, drama, and high\u2011stakes football as T\u00fcrkiye look to capitalize on home advantage while Romania search for another upset on the road. Find out who comes on top as we bring you all the action from the European Qualifiers for 2026 FIFA World Cup, LIVE on Sony LIV.",
+            "genres": [
+                "Football"
+            ],
+            "broadcast_channel": "Sony Sports Ten 2",
+            "language": "ENGLISH",
+            "startTime": "26 Mar 2026, 09:50 PM",
+            "endTime": "27 Mar 2026, 02:50 AM",
+            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016520/1774345476864257_EQ26_Playoffs_Semifinal_Turkiye_vs_Romania_24mar_landscape_thumb.jpg",
+            "stream_url": "https://dai.google.com/ssai/event/shkqoON_T6OVwAhCb9YdoA/master.m3u8"
+        },
+        {
+            "contentId": 1090507667,
+            "title": "Malta vs Luxembourg - Relegation Play-outs - 1st Leg - 26 Mar 2026 ",
+            "shortDescription": "Tune in to catch all the action from UEFA Nations League relegation play-outs as Malta take on Luxembourg, LIVE on Sony LIV.",
+            "longDescription": "Tune in to catch all the action from UEFA Nations League relegation play-outs as Malta take on Luxembourg, LIVE on Sony LIV.",
+            "genres": [
+                "Football"
+            ],
+            "broadcast_channel": "Sony Sports Ten 2",
+            "language": "ENGLISH",
+            "startTime": "26 Mar 2026, 09:50 PM",
+            "endTime": "27 Mar 2026, 02:50 AM",
+            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016519/1774344388037677_UNL_Malta_vs_Luxembourg_landscape_thumb.jpg",
+            "stream_url": "https://dai.google.com/ssai/event/1L-mQIceRleayqoATY9gmw/master.m3u8"
+        },
+        {
+            "contentId": 1090507661,
+            "title": "Gibraltar vs Latvia - Relegation Play-outs - 1st Leg - 26 Mar 2026 ",
+            "shortDescription": "Tune in to catch all the action from UEFA Nations League relegation play-outs as Gibraltar take on Latvia, LIVE on Sony LIV.",
+            "longDescription": "Tune in to catch all the action from UEFA Nations League relegation play-outs as Gibraltar take on Latvia, LIVE on Sony LIV.",
+            "genres": [
+                "Football"
+            ],
+            "broadcast_channel": "Sony Sports Ten 2",
+            "language": "ENGLISH",
+            "startTime": "26 Mar 2026, 09:50 PM",
+            "endTime": "27 Mar 2026, 02:50 AM",
+            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016519/1774344178655677_UNL_Gibraltar_vs_Latvia_landscape_thumb.jpg",
+            "stream_url": "https://dai.google.com/ssai/event/RyLJ_PwXTFWClUI4uHJjwA/master.m3u8"
+        },
+        {
             "contentId": 1090507434,
             "title": "Moldova vs Lithuania - 26 Mar 2026",
             "shortDescription": "Tune in to catch all the action from UEFA International Friendlies as Moldova take on Lithuania, LIVE only on Sony LIV.",
@@ -33,6 +78,36 @@
             "endTime": "27 Mar 2026, 12:50 AM",
             "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016471/1774018662876959_INT_Friendlies26_Moldova_vs_Lithuania_20mar_landscape_thumb.jpg",
             "stream_url": "https://dai.google.com/ssai/event/seP8U3FeRPKV5OA5RUe6aA/master.m3u8"
+        },
+        {
+            "contentId": 1090507440,
+            "title": "Cyprus vs Belarus - 26 Mar 2026",
+            "shortDescription": "Tune in to catch all the action from UEFA International Friendlies as Cyprus take on Belarus, LIVE only on Sony LIV.",
+            "longDescription": "Tune in to catch all the action from UEFA International Friendlies as Cyprus take on Belarus, LIVE only on Sony LIV.",
+            "genres": [
+                "Football"
+            ],
+            "broadcast_channel": "Sony Sports Ten 2",
+            "language": "ENGLISH",
+            "startTime": "26 Mar 2026, 09:50 PM",
+            "endTime": "27 Mar 2026, 02:50 AM",
+            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016470/1774018880713735_INT_Friendlies26_Cyprus_vs_Belarus_20mar_landscape_thumb.jpg",
+            "stream_url": "https://dai.google.com/ssai/event/wdO8mORMRqi8l7ztwLnBiw/master.m3u8"
+        },
+        {
+            "contentId": 1090507441,
+            "title": "Georgia vs Israel - 26 Mar 2026",
+            "shortDescription": "Tune in to catch all the action from UEFA International Friendlies as Georgia take on Israel , LIVE only on Sony LIV.",
+            "longDescription": "Tune in to catch all the action from UEFA International Friendlies as Georgia take on Israel , LIVE only on Sony LIV.",
+            "genres": [
+                "Football"
+            ],
+            "broadcast_channel": "Sony Sports Ten 2",
+            "language": "ENGLISH",
+            "startTime": "26 Mar 2026, 09:50 PM",
+            "endTime": "27 Mar 2026, 02:50 AM",
+            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016471/1774019280227959_INT_Friendlies26_Georgia_vs_Israel_20mar_landscape_thumb.jpg",
+            "stream_url": "https://dai.google.com/ssai/event/jnpvw9goRV2lb3bMV8Z_Kw/master.m3u8"
         }
     ],
     "upcoming": [
@@ -104,17 +179,6 @@
             ],
             "startTime": "25 Mar 2026, 12:00 PM",
             "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016596/1774511365140541_9_India_Series_promo_landscape_thumb.jpg"
-        },
-        {
-            "contentId": 1090507217,
-            "title": "Upcoming - Turkey vs Romania - European Qualifiers for 2026 FIFA World Cup",
-            "shortDescription": "Catch all the action from European Qualifiers for 2026 FIFA World Cup, only on Sony LIV.",
-            "longDescription": "Catch all the action from European Qualifiers for 2026 FIFA World Cup, only on Sony LIV.",
-            "genres": [
-                "Football"
-            ],
-            "startTime": "19 Mar 2026, 04:00 PM",
-            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016530/1774356128247887_EQ26_FIFA_WC_Turkiye_vs_Romania_promo_tonight_landscape_thumb.jpg"
         },
         {
             "contentId": 1090507226,
