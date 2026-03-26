@@ -2,7 +2,10 @@
 #name: SonyLiv Full Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update: 09:30:21 PM 26-03-2026
+#last update: 09:45:24 PM 26-03-2026
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016503/177427369984580_WOF_simulcast_23mar_landscape_thumb.jpg" group-title="SonyLiv Live", Wheel Of Fortune [HINDI]
+https://dai.google.com/ssai/event/ywC0TYXoSbOYu7fxpFglFA/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016471/1774018662876959_INT_Friendlies26_Moldova_vs_Lithuania_20mar_landscape_thumb.jpg" group-title="SonyLiv Live", Moldova vs Lithuania - 26 Mar 2026 [ENGLISH]
 https://dai.google.com/ssai/event/seP8U3FeRPKV5OA5RUe6aA/master.m3u8
