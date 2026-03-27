@@ -2,7 +2,7 @@
     "name": "SonyLiv Matches Full Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last_update": "01:30:19 PM 27-03-2026",
+    "last_update": "01:45:16 PM 27-03-2026",
     "live": [
         {
             "contentId": 1090507671,
@@ -89,6 +89,28 @@
             ],
             "startTime": "25 Mar 2026, 12:00 PM",
             "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016596/1774511365140541_9_India_Series_promo_landscape_thumb.jpg"
+        },
+        {
+            "contentId": 1090507734,
+            "title": "Upcoming - UEFA International Friendlies - England vs Uruguay",
+            "shortDescription": "Watch all the action from the UEFA International Friendlies here, only on Sony LIV.",
+            "longDescription": "Watch all the action from the UEFA International Friendlies here, only on Sony LIV.",
+            "genres": [
+                "Football"
+            ],
+            "startTime": "27 Mar 2026, 10:30 AM",
+            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016597/1774515431160108_International-Friendlies_England-vs-Uruguay_Tonight_landscape_thumb.jpg"
+        },
+        {
+            "contentId": 1090507738,
+            "title": "Upcoming - UEFA International Friendlies - Switzerland vs Germany",
+            "shortDescription": "Watch all the action from the UEFA International Friendlies here, only on Sony LIV.",
+            "longDescription": "Watch all the action from the UEFA International Friendlies here, only on Sony LIV.",
+            "genres": [
+                "Football"
+            ],
+            "startTime": "27 Mar 2026, 10:30 AM",
+            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016597/1774514204506108_International-Friendlies_Switzerland-vs-Germany_Tonight_landscape_thumb.jpg"
         }
     ]
 }
