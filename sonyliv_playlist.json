@@ -2,24 +2,8 @@
     "name": "SonyLiv Matches Full Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last_update": "08:45:26 PM 27-03-2026",
-    "live": [
-        {
-            "contentId": 1090507671,
-            "title": "Hero Indian Open Day 2 - 27 Mar 2026",
-            "shortDescription": "Watch all the action from Hero Indian Open Day 2, LIVE on Sony LIV.",
-            "longDescription": "Watch all the action from Hero Indian Open Day 2, LIVE on Sony LIV.",
-            "genres": [
-                "Golf"
-            ],
-            "broadcast_channel": "LIV",
-            "language": "ENGLISH",
-            "startTime": "27 Mar 2026, 12:30 PM",
-            "endTime": "27 Mar 2026, 08:30 PM",
-            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016532/177435942628837_DP_World_Tour26_Hero_Indian_Open_day2_24mar_landscape_thumb.jpg",
-            "stream_url": "https://dai.google.com/ssai/event/ahLdkaRoSWavrsFLPU8THA/master.m3u8"
-        }
-    ],
+    "last_update": "09:00:21 PM 27-03-2026",
+    "live": [],
     "upcoming": [
         {
             "contentId": 1090507645,
