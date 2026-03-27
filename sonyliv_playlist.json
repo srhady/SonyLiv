@@ -2,22 +2,52 @@
     "name": "SonyLiv Matches Full Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last_update": "01:00:25 AM 28-03-2026",
+    "last_update": "01:15:20 AM 28-03-2026",
     "live": [
         {
-            "contentId": 1090507704,
-            "title": "Austria vs Ghana - 27 Mar 2026",
-            "shortDescription": "Tune in to catch all the action from UEFA International Friendlies as Austria take on Ghana, LIVE only on Sony LIV.",
-            "longDescription": "Tune in to catch all the action from UEFA International Friendlies as Austria take on Ghana, LIVE only on Sony LIV.",
+            "contentId": 1090507708,
+            "title": "England vs Uruguay - 28 Mar 2026",
+            "shortDescription": "England face Uruguay in a heavyweight friendly clash featuring two nations with rich footballing history and contrasting styles. England will lean on their possession play, wide creativity, and home strength, while Uruguay bring their trademark intensity, compact defending, and dangerous counter\u2011attacks. With both sides using the fixture to measure their readiness, this meeting promises a tight, highly engaging contest. Tune in to catch all the action from the UEFA International Friendlies, LIVE only on Sony LIV.",
+            "longDescription": "England face Uruguay in a heavyweight friendly clash featuring two nations with rich footballing history and contrasting styles. England will lean on their possession play, wide creativity, and home strength, while Uruguay bring their trademark intensity, compact defending, and dangerous counter\u2011attacks. With both sides using the fixture to measure their readiness, this meeting promises a tight, highly engaging contest. Tune in to catch all the action from the UEFA International Friendlies, LIVE only on Sony LIV.",
             "genres": [
                 "Football"
             ],
             "broadcast_channel": "Sony Sports Ten 2",
             "language": "ENGLISH",
-            "startTime": "27 Mar 2026, 09:50 PM",
-            "endTime": "28 Mar 2026, 02:50 AM",
-            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016470/1774040646020735_INT_Friendlies26_Austria_vs_Ghana_20mar_landscape_thumb.jpg",
-            "stream_url": "https://dai.google.com/ssai/event/tGz4b922TXuMvUgfV_FymQ/master.m3u8"
+            "startTime": "28 Mar 2026, 12:35 AM",
+            "endTime": "28 Mar 2026, 05:35 AM",
+            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016470/1774042192399735_INT_Friendlies26_England_vs_Uruguay_20mar_landscape_thumb.jpg",
+            "stream_url": "https://dai.google.com/ssai/event/SRArPVGVSfS0UheUcQATlQ/master.m3u8"
+        },
+        {
+            "contentId": 1090507707,
+            "title": "Switzerland vs Germany - 28 Mar 2026",
+            "shortDescription": "Switzerland and Germany meet in a marquee international friendly that promises high\u2011quality football between two technically strong European sides. Switzerland will look to test their evolving structure and disciplined buildup play, while Germany arrive aiming to showcase their attacking depth and tactical sharpness ahead of a crucial year. Tune in to catch all the action from the UEFA International Friendlies, LIVE only on Sony LIV.",
+            "longDescription": "Switzerland and Germany meet in a marquee international friendly that promises high\u2011quality football between two technically strong European sides. Switzerland will look to test their evolving structure and disciplined buildup play, while Germany arrive aiming to showcase their attacking depth and tactical sharpness ahead of a crucial year. Tune in to catch all the action from the UEFA International Friendlies, LIVE only on Sony LIV.",
+            "genres": [
+                "Football"
+            ],
+            "broadcast_channel": "Sony Sports Ten 2",
+            "language": "ENGLISH",
+            "startTime": "28 Mar 2026, 12:35 AM",
+            "endTime": "28 Mar 2026, 05:35 AM",
+            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016472/1774041514049488_INT_Friendlies26_Switzerland_vs_Germany_20mar_landscape_thumb.jpg",
+            "stream_url": "https://dai.google.com/ssai/event/u8rgGDjFSiik2rAYGQ-KzA/master.m3u8"
+        },
+        {
+            "contentId": 1090507709,
+            "title": "Netherlands vs Norway - 28 Mar 2026",
+            "shortDescription": "The Netherlands welcome Norway in a fascinating friendly that pits the Oranje\u2019s fluid, attacking philosophy against Norway\u2019s powerful, direct approach. The hosts aim to further refine their rhythm in possession, while Norway look to make a statement through physicality and transitional threat. Tune in to catch all the action from the UEFA International Friendlies, LIVE only on Sony LIV.",
+            "longDescription": "The Netherlands welcome Norway in a fascinating friendly that pits the Oranje\u2019s fluid, attacking philosophy against Norway\u2019s powerful, direct approach. The hosts aim to further refine their rhythm in possession, while Norway look to make a statement through physicality and transitional threat. Tune in to catch all the action from the UEFA International Friendlies, LIVE only on Sony LIV.",
+            "genres": [
+                "Football"
+            ],
+            "broadcast_channel": "Sony Sports Ten 2",
+            "language": "ENGLISH",
+            "startTime": "28 Mar 2026, 12:35 AM",
+            "endTime": "28 Mar 2026, 05:35 AM",
+            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016471/1774042754452959_INT_Friendlies26_Netherlands_vs_Norway_20mar_landscape_thumb.jpg",
+            "stream_url": "https://dai.google.com/ssai/event/S0VJWjy3QyiWTtdo2LeBaA/master.m3u8"
         },
         {
             "contentId": 1090507706,
@@ -33,21 +63,6 @@
             "endTime": "28 Mar 2026, 04:50 AM",
             "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016626/1774568881428686_INT_Friendlies26_Greece_vs_Paraguay_27mar_landscape_thumb.jpg",
             "stream_url": "https://dai.google.com/ssai/event/-O_xBocnQ-ufGun506JvAA/master.m3u8"
-        },
-        {
-            "contentId": 1090507705,
-            "title": "Montenegro vs Andorra - 27 Mar 2026",
-            "shortDescription": "Tune in to catch all the action from UEFA International Friendlies as Montenegro take on Andorra, LIVE only on Sony LIV.",
-            "longDescription": "Tune in to catch all the action from UEFA International Friendlies as Montenegro take on Andorra, LIVE only on Sony LIV.",
-            "genres": [
-                "Football"
-            ],
-            "broadcast_channel": "Sony Sports Ten 2",
-            "language": "ENGLISH",
-            "startTime": "27 Mar 2026, 09:50 PM",
-            "endTime": "28 Mar 2026, 02:50 AM",
-            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016471/1774041329837959_INT_Friendlies26_Montenegro_vs_Andorra_20mar_landscape_thumb.jpg",
-            "stream_url": "https://dai.google.com/ssai/event/Wp7eXX6qSw29MPdmXF3pxw/master.m3u8"
         }
     ],
     "upcoming": [
@@ -119,28 +134,6 @@
             ],
             "startTime": "25 Mar 2026, 12:00 PM",
             "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016596/1774511365140541_9_India_Series_promo_landscape_thumb.jpg"
-        },
-        {
-            "contentId": 1090507734,
-            "title": "Upcoming - UEFA International Friendlies - England vs Uruguay",
-            "shortDescription": "Watch all the action from the UEFA International Friendlies here, only on Sony LIV.",
-            "longDescription": "Watch all the action from the UEFA International Friendlies here, only on Sony LIV.",
-            "genres": [
-                "Football"
-            ],
-            "startTime": "27 Mar 2026, 10:30 AM",
-            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016597/1774515431160108_International-Friendlies_England-vs-Uruguay_Tonight_landscape_thumb.jpg"
-        },
-        {
-            "contentId": 1090507738,
-            "title": "Upcoming - UEFA International Friendlies - Switzerland vs Germany",
-            "shortDescription": "Watch all the action from the UEFA International Friendlies here, only on Sony LIV.",
-            "longDescription": "Watch all the action from the UEFA International Friendlies here, only on Sony LIV.",
-            "genres": [
-                "Football"
-            ],
-            "startTime": "27 Mar 2026, 10:30 AM",
-            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016597/1774514204506108_International-Friendlies_Switzerland-vs-Germany_Tonight_landscape_thumb.jpg"
         }
     ]
 }
