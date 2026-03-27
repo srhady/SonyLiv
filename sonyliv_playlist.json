@@ -2,7 +2,7 @@
     "name": "SonyLiv Matches Full Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last_update": "03:00:23 AM 28-03-2026",
+    "last_update": "03:15:18 AM 28-03-2026",
     "live": [
         {
             "contentId": 1090507708,
@@ -63,21 +63,6 @@
             "endTime": "28 Mar 2026, 05:35 AM",
             "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016471/1774042754452959_INT_Friendlies26_Netherlands_vs_Norway_20mar_landscape_thumb.jpg",
             "stream_url": "https://dai.google.com/ssai/event/S0VJWjy3QyiWTtdo2LeBaA/master.m3u8"
-        },
-        {
-            "contentId": 1090507706,
-            "title": "Greece vs Paraguay - 28 Mar 2026",
-            "shortDescription": "Tune in to catch all the action from UEFA International Friendlies as Greece take on Paraguay, LIVE only on Sony LIV.",
-            "longDescription": "Tune in to catch all the action from UEFA International Friendlies as Greece take on Paraguay, LIVE only on Sony LIV.",
-            "genres": [
-                "Football"
-            ],
-            "broadcast_channel": "Sony Sports Ten 2",
-            "language": "ENGLISH",
-            "startTime": "27 Mar 2026, 11:50 PM",
-            "endTime": "28 Mar 2026, 04:50 AM",
-            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016626/1774568881428686_INT_Friendlies26_Greece_vs_Paraguay_27mar_landscape_thumb.jpg",
-            "stream_url": "https://dai.google.com/ssai/event/-O_xBocnQ-ufGun506JvAA/master.m3u8"
         }
     ],
     "upcoming": [
