@@ -2,10 +2,13 @@
 #name: SonyLiv Full Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update: 01:30:17 AM 28-03-2026
+#last update: 01:45:19 AM 28-03-2026
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016470/1774042192399735_INT_Friendlies26_England_vs_Uruguay_20mar_landscape_thumb.jpg" group-title="SonyLiv Live", England vs Uruguay - 28 Mar 2026 [ENGLISH]
 https://dai.google.com/ssai/event/SRArPVGVSfS0UheUcQATlQ/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016626/1774568983992686_INT_Friendlies26_Spain_vs_Serbia_27mar_landscape_thumb.jpg" group-title="SonyLiv Live", Spain vs Serbia - 28 Mar 2026 [ENGLISH]
+https://dai.google.com/ssai/event/k546vMA7RwaIHM8n9oSIyw/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016472/1774041514049488_INT_Friendlies26_Switzerland_vs_Germany_20mar_landscape_thumb.jpg" group-title="SonyLiv Live", Switzerland vs Germany - 28 Mar 2026 [ENGLISH]
 https://dai.google.com/ssai/event/u8rgGDjFSiik2rAYGQ-KzA/master.m3u8
