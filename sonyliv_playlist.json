@@ -2,39 +2,8 @@
     "name": "SonyLiv Matches Full Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last_update": "04:00:19 AM 28-03-2026",
-    "live": [
-        {
-            "contentId": 1090507708,
-            "title": "England vs Uruguay - 28 Mar 2026",
-            "shortDescription": "England face Uruguay in a heavyweight friendly clash featuring two nations with rich footballing history and contrasting styles. England will lean on their possession play, wide creativity, and home strength, while Uruguay bring their trademark intensity, compact defending, and dangerous counter\u2011attacks. With both sides using the fixture to measure their readiness, this meeting promises a tight, highly engaging contest. Tune in to catch all the action from the UEFA International Friendlies, LIVE only on Sony LIV.",
-            "longDescription": "England face Uruguay in a heavyweight friendly clash featuring two nations with rich footballing history and contrasting styles. England will lean on their possession play, wide creativity, and home strength, while Uruguay bring their trademark intensity, compact defending, and dangerous counter\u2011attacks. With both sides using the fixture to measure their readiness, this meeting promises a tight, highly engaging contest. Tune in to catch all the action from the UEFA International Friendlies, LIVE only on Sony LIV.",
-            "genres": [
-                "Football"
-            ],
-            "broadcast_channel": "Sony Sports Ten 2",
-            "language": "ENGLISH",
-            "startTime": "28 Mar 2026, 12:35 AM",
-            "endTime": "28 Mar 2026, 05:35 AM",
-            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016470/1774042192399735_INT_Friendlies26_England_vs_Uruguay_20mar_landscape_thumb.jpg",
-            "stream_url": "https://dai.google.com/ssai/event/SRArPVGVSfS0UheUcQATlQ/master.m3u8"
-        },
-        {
-            "contentId": 1090507710,
-            "title": "Spain vs Serbia - 28 Mar 2026",
-            "shortDescription": "Spain and Serbia square off in a stylistic showdown, with Spain expected to dominate possession through their trademark technical precision, while Serbia counter with physicality, direct play, and strong aerial presence. Both teams view the friendly as a key test of balance and adaptability, setting the stage for a competitive encounter filled with tactical contrasts and high\u2011level execution. Tune in to catch all the action from the UEFA International Friendlies, LIVE only on Sony LIV.",
-            "longDescription": "Spain and Serbia square off in a stylistic showdown, with Spain expected to dominate possession through their trademark technical precision, while Serbia counter with physicality, direct play, and strong aerial presence. Both teams view the friendly as a key test of balance and adaptability, setting the stage for a competitive encounter filled with tactical contrasts and high\u2011level execution. Tune in to catch all the action from the UEFA International Friendlies, LIVE only on Sony LIV.",
-            "genres": [
-                "Football"
-            ],
-            "broadcast_channel": "Sony Sports Ten 2",
-            "language": "ENGLISH",
-            "startTime": "28 Mar 2026, 12:50 AM",
-            "endTime": "28 Mar 2026, 05:50 AM",
-            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016626/1774568983992686_INT_Friendlies26_Spain_vs_Serbia_27mar_landscape_thumb.jpg",
-            "stream_url": "https://dai.google.com/ssai/event/k546vMA7RwaIHM8n9oSIyw/master.m3u8"
-        }
-    ],
+    "last_update": "04:15:17 AM 28-03-2026",
+    "live": [],
     "upcoming": [
         {
             "contentId": 1090507645,
