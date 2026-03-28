@@ -2,24 +2,8 @@
     "name": "SonyLiv Matches Full Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last_update": "06:45:18 PM 28-03-2026",
-    "live": [
-        {
-            "contentId": 1090507723,
-            "title": "Hero Indian Open Day 3 - 28 Mar 2026",
-            "shortDescription": "Watch all the action from Hero Indian Open Day 3, LIVE on Sony LIV.",
-            "longDescription": "Watch all the action from Hero Indian Open Day 3, LIVE on Sony LIV.",
-            "genres": [
-                "Golf"
-            ],
-            "broadcast_channel": "LIV",
-            "language": "ENGLISH",
-            "startTime": "28 Mar 2026, 01:00 PM",
-            "endTime": "28 Mar 2026, 08:30 PM",
-            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016532/177435941895737_DP_World_Tour26_Hero_Indian_Open_day3_24mar_landscape_thumb.jpg",
-            "stream_url": "https://dai.google.com/ssai/event/WbS0f3dkTZOWlzvQaKABdw/master.m3u8"
-        }
-    ],
+    "last_update": "07:00:22 PM 28-03-2026",
+    "live": [],
     "upcoming": [
         {
             "contentId": 1090507645,
@@ -47,8 +31,8 @@
         {
             "contentId": 1090507783,
             "title": "Chetak Screen Award",
-            "shortDescription": "Watch the Chetak Awards on Sunday, 5th April, at 8 PM, only on Sony LIV.",
-            "longDescription": "Watch the Chetak Awards on Sunday, 5th April, at 8 PM, only on Sony LIV.",
+            "shortDescription": "Watch the Chetak Screen Award on Sunday, 5th April, at 8 PM, only on Sony LIV.",
+            "longDescription": "Watch the Chetak Screen Award on Sunday, 5th April, at 8 PM, only on Sony LIV.",
             "genres": [
                 "Event"
             ],
