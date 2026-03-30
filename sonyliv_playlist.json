@@ -2,23 +2,8 @@
     "name": "SonyLiv Matches Full Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last_update": "11:30:21 PM 30-03-2026",
+    "last_update": "11:45:17 PM 30-03-2026",
     "live": [
-        {
-            "contentId": 1090507774,
-            "title": "Azerbaijan vs Sierra Leone - 30 Mar 2026",
-            "shortDescription": "Tune in to catch all the action from the UEFA International Friendlies as Azerbaijan take on Sierra Leone, LIVE only on Sony LIV.",
-            "longDescription": "Tune in to catch all the action from the UEFA International Friendlies as Azerbaijan take on Sierra Leone, LIVE only on Sony LIV.",
-            "genres": [
-                "Football"
-            ],
-            "broadcast_channel": "Sony Sports Ten 2",
-            "language": "ENGLISH",
-            "startTime": "30 Mar 2026, 07:50 PM",
-            "endTime": "31 Mar 2026, 12:50 AM",
-            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016626/1774569315401686_INT_Friendlies26_Azerbaijan_vs_Sierra_Leone_27mar_landscape_thumb.jpg",
-            "stream_url": "https://dai.google.com/ssai/event/ahLdkaRoSWavrsFLPU8THA/master.m3u8"
-        },
         {
             "contentId": 1090507790,
             "title": "Cyprus vs Moldova - 30 Mar 2026",
