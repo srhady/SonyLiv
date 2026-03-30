@@ -2,22 +2,22 @@
     "name": "SonyLiv Matches Full Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last_update": "12:00:23 AM 31-03-2026",
+    "last_update": "12:15:15 AM 31-03-2026",
     "live": [
         {
-            "contentId": 1090507790,
-            "title": "Cyprus vs Moldova - 30 Mar 2026",
-            "shortDescription": "Tune in to catch all the action from the UEFA International Friendlies as Cyprus take on Moldova, LIVE only on Sony LIV.",
-            "longDescription": "Tune in to catch all the action from the UEFA International Friendlies as Cyprus take on Moldova, LIVE only on Sony LIV.",
+            "contentId": 1090507843,
+            "title": "Germany vs Ghana - 31 Mar 2026",
+            "shortDescription": "Tune in to catch all the action from the UEFA International Friendlies as Germany take on Ghana, LIVE only on Sony LIV.",
+            "longDescription": "Tune in to catch all the action from the UEFA International Friendlies as Germany take on Ghana, LIVE only on Sony LIV.",
             "genres": [
                 "Football"
             ],
             "broadcast_channel": "Sony Sports Ten 2",
             "language": "ENGLISH",
-            "startTime": "30 Mar 2026, 08:50 PM",
-            "endTime": "31 Mar 2026, 01:50 AM",
-            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016470/1774105349406735_INT_Friendlies26_Cyprus_vs_Moldova_20mar_landscape_thumb.jpg",
-            "stream_url": "https://dai.google.com/ssai/event/8EM-MlH-S-6dmV7SK2YPnA/master.m3u8"
+            "startTime": "30 Mar 2026, 11:35 PM",
+            "endTime": "31 Mar 2026, 04:35 AM",
+            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016471/1774107054134959_INT_Friendlies26_Germany_vs_Ghana_20mar_landscape_thumb.jpg",
+            "stream_url": "https://dai.google.com/ssai/event/sOwA5A2UQJuw2u-eli66dg/master.m3u8"
         }
     ],
     "upcoming": [
