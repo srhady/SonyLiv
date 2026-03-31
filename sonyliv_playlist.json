@@ -2,7 +2,7 @@
     "name": "SonyLiv Matches Full Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last_update": "06:45:22 PM 31-03-2026",
+    "last_update": "07:00:24 PM 31-03-2026",
     "live": [
         {
             "contentId": 1090507846,
@@ -18,21 +18,6 @@
             "endTime": "31 Mar 2026, 09:50 PM",
             "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016471/1774017613885959_INT_Friendlies26_Kazakhstan_vs_Comoros_20mar_landscape_thumb.jpg",
             "stream_url": "https://dai.google.com/ssai/event/jrKIOZsGTju4MxXaWpgU3w/master.m3u8"
-        },
-        {
-            "contentId": 1090507847,
-            "title": "Gokulam Kerala FC vs Aizawl FC - 31 Mar 2026",
-            "shortDescription": "Gokulam Kerala FC face Aizawl FC in a crucial Indian Football League 2026 clash, with both sides eager to climb the table. Aizawl\u2019s sharper form gives them the edge, but Gokulam\u2019s home advantage could tilt the balance. Which team will come out on top? Tune in to catch all the action from Indian Football League 2026, LIVE on Sony LIV.",
-            "longDescription": "Gokulam Kerala FC face Aizawl FC in a crucial Indian Football League 2026 clash, with both sides eager to climb the table. Aizawl\u2019s sharper form gives them the edge, but Gokulam\u2019s home advantage could tilt the balance. Which team will come out on top? Tune in to catch all the action from Indian Football League 2026, LIVE on Sony LIV.",
-            "genres": [
-                "Football"
-            ],
-            "broadcast_channel": "Sony Sports Ten 2",
-            "language": "ENGLISH",
-            "startTime": "31 Mar 2026, 03:30 PM",
-            "endTime": "31 Mar 2026, 08:30 PM",
-            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016701/1774779082736601_IFC_Gokulam_Kerala_FC_vs_Aizawl_FC_landscape_thumb.jpg",
-            "stream_url": "https://dai.google.com/ssai/event/Eu4uu53PS1i6RWZCvuh7ww/master.m3u8"
         }
     ],
     "upcoming": [
