@@ -2,7 +2,7 @@
     "name": "SonyLiv Matches Full Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last_update": "05:45:19 PM 31-03-2026",
+    "last_update": "06:00:22 PM 31-03-2026",
     "live": [
         {
             "contentId": 1090507846,
@@ -116,6 +116,39 @@
             ],
             "startTime": "14 Mar 2026, 12:00 AM",
             "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016189/1773494443654730_gec_combo_promo_landscape_thumb.jpg"
+        },
+        {
+            "contentId": 1090508008,
+            "title": "Upcoming - Emirates FA Cup - Manchester City vs Liverpool",
+            "shortDescription": "Tune in to catch all the action from the Emirates FA Cup, exclusively on Sony LIV.",
+            "longDescription": "Tune in to catch all the action from the Emirates FA Cup, exclusively on Sony LIV.",
+            "genres": [
+                "Football"
+            ],
+            "startTime": "30 Mar 2026, 09:00 PM",
+            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016712/1774854754685308_FA_Cup_26_QF_Manchester_City_vs_Liverpool_Landscape_Thumbnail_Dated.jpg"
+        },
+        {
+            "contentId": 1090508009,
+            "title": "Upcoming - Emirates FA Cup - Chelsea vs Port Vale",
+            "shortDescription": "Tune in to catch all the action from the Emirates FA Cup, exclusively on Sony LIV.",
+            "longDescription": "Tune in to catch all the action from the Emirates FA Cup, exclusively on Sony LIV.",
+            "genres": [
+                "Football"
+            ],
+            "startTime": "30 Mar 2026, 09:00 PM",
+            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016712/1774854998110308_FA_Cup_26_QF_Chelsea_vs_Port_Vale_Landscape_Thumbnail_Dated.jpg"
+        },
+        {
+            "contentId": 1090508010,
+            "title": "Upcoming - Emirates FA Cup - Southampton vs Arsenal",
+            "shortDescription": "Tune in to catch all the action from the Emirates FA Cup, exclusively on Sony LIV.",
+            "longDescription": "Tune in to catch all the action from the Emirates FA Cup, exclusively on Sony LIV.",
+            "genres": [
+                "Football"
+            ],
+            "startTime": "30 Mar 2026, 09:00 PM",
+            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016712/1774855184779308_FA_Cup_26_QF_Southampton_vs_Arsenal_Landscape_Thumbnail_Dated.jpg"
         }
     ]
 }
