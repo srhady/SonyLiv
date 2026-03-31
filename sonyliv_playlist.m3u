@@ -2,20 +2,14 @@
 #name: SonyLiv Full Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update: 03:00:22 AM 01-04-2026
+#last update: 03:15:18 AM 01-04-2026
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016646/1774623263469696_NZw_vs_SAw_2nd_ODI_landscape_thumb.jpg" group-title="SonyLiv Live", 2nd ODI - 1 Apr 2026 [ENGLISH]
+https://dai.google.com/ssai/event/jRQlKg2DQWa70jsLHUtxGA/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016706/1774839890651799_European_Qualifiers26_Play_offs_Finals_Bosnia_Herzegovina_vs_Italy_30mar_landscape_thumb.jpg" group-title="SonyLiv Live", Bosnia-Herzegovina vs Italy - Playoff Final - 1 Apr 2026 [ENGLISH]
 https://dai.google.com/ssai/event/x5tmobOeShGQ_plgKYHAGg/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016706/1774840145795799_European_Qualifiers26_Play_offs_Finals_Kosovo_vs_Turkiye_30mar_landscape_thumb.jpg" group-title="SonyLiv Live", Kosovo vs Türkiye - Playoff Final - 1 Apr 2026 [ENGLISH]
-https://dai.google.com/ssai/event/pksPTeCxSHCErPmNF-xpPQ/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016706/1774840286083799_European_Qualifiers26_Play_offs_Finals_Czechia_vs_Denmark_30mar_landscape_thumb.jpg" group-title="SonyLiv Live", Czechia vs Denmark - Playoff Final - 1 Apr 2026 [ENGLISH]
 https://dai.google.com/ssai/event/1h3C6TAxRsafA9aTwWJN7A/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016748/1774945506682671_INT_Friendlies26_Spain_vs_Egypt_live_landscape_thumb.jpg" group-title="SonyLiv Live", Spain vs Egypt - 1 Apr 2026 [ENGLISH]
-https://dai.google.com/ssai/event/KtcC3D_SQvaZTdrPH_zu9Q/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016471/1774131352706959_INT_Friendlies26_Netherlands_vs_Ecuador_20mar_landscape_thumb.jpg" group-title="SonyLiv Live", Netherlands vs Ecuador - 1 Apr 2026 [ENGLISH]
-https://dai.google.com/ssai/event/X9tnEM9wQHKUIX6nWcZ4TA/master.m3u8
 
