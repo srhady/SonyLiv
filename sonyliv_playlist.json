@@ -2,22 +2,172 @@
     "name": "SonyLiv Matches Full Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last_update": "12:00:20 AM 01-04-2026",
+    "last_update": "12:15:17 AM 01-04-2026",
     "live": [
         {
-            "contentId": 1090507923,
-            "title": "Norway vs Switzerland - 31 Mar 2026",
-            "shortDescription": "Norway and Switzerland meet in an intriguing international friendly that brings together two sides known for physical presence, tactical discipline, and attacking quality. Norway will look to impose themselves through intensity and direct play, while Switzerland aim to control the tempo with structured buildup and midfield balance. Tune in to catch all the action from the UEFA International Friendlies as Norway and Switzerland, LIVE only on Sony LIV.",
-            "longDescription": "Norway and Switzerland meet in an intriguing international friendly that brings together two sides known for physical presence, tactical discipline, and attacking quality. Norway will look to impose themselves through intensity and direct play, while Switzerland aim to control the tempo with structured buildup and midfield balance. Tune in to catch all the action from the UEFA International Friendlies as Norway and Switzerland, LIVE only on Sony LIV.",
+            "contentId": 1090507929,
+            "title": "England vs Japan - 1 Apr 2026",
+            "shortDescription": "England and Japan meet in an international friendly that brings together two sides known for discipline, tempo, and technical precision. England will look to utilize their home advantage and control possession, while Japan arrive with a compact structure and quick transitional threat. Tune in to catch all the action from the UEFA International Friendlies, LIVE only on Sony LIV.",
+            "longDescription": "England and Japan meet in an international friendly that brings together two sides known for discipline, tempo, and technical precision. England will look to utilize their home advantage and control possession, while Japan arrive with a compact structure and quick transitional threat. Tune in to catch all the action from the UEFA International Friendlies, LIVE only on Sony LIV.",
             "genres": [
                 "Football"
             ],
             "broadcast_channel": "Sony Sports Ten 2",
             "language": "ENGLISH",
-            "startTime": "31 Mar 2026, 08:50 PM",
-            "endTime": "01 Apr 2026, 01:50 AM",
-            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016471/1774112028828959_INT_Friendlies26_Norway_vs_Switzerland_20mar_landscape_thumb.jpg",
-            "stream_url": "https://dai.google.com/ssai/event/WbS0f3dkTZOWlzvQaKABdw/master.m3u8"
+            "startTime": "31 Mar 2026, 11:35 PM",
+            "endTime": "01 Apr 2026, 04:35 AM",
+            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016470/1774130904143735_INT_Friendlies26_England_vs_Japan_20mar_landscape_thumb.jpg",
+            "stream_url": "https://dai.google.com/ssai/event/dBx5Vc9xTxqXfdRd65F79A/master.m3u8"
+        },
+        {
+            "contentId": 1090507969,
+            "title": "Sweden vs Poland - Playoff Final - 1 Apr 2026",
+            "shortDescription": "Sweden face Poland in a compelling Play\u2011Off final that pits organization and physical strength against technical execution and counter\u2011attacking threat. Sweden will seek to control territory and tempo, while Poland aim to stay compact and strike decisively when opportunities arise. Find out who comes on top as we bring you all the action from the European Qualifiers for 2026 FIFA World Cup, LIVE on Sony LIV.",
+            "longDescription": "Sweden face Poland in a compelling Play\u2011Off final that pits organization and physical strength against technical execution and counter\u2011attacking threat. Sweden will seek to control territory and tempo, while Poland aim to stay compact and strike decisively when opportunities arise. Find out who comes on top as we bring you all the action from the European Qualifiers for 2026 FIFA World Cup, LIVE on Sony LIV.",
+            "genres": [
+                "Football"
+            ],
+            "broadcast_channel": "Sony Sports Ten 2",
+            "language": "ENGLISH",
+            "startTime": "31 Mar 2026, 11:35 PM",
+            "endTime": "01 Apr 2026, 04:35 AM",
+            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016706/1774840046470799_European_Qualifiers26_Play_offs_Finals_Sweden_vs_Poland_30mar_landscape_thumb.jpg",
+            "stream_url": "https://dai.google.com/ssai/event/V47K7tiETg-G2DLx-x9Arw/master.m3u8"
+        },
+        {
+            "contentId": 1090507968,
+            "title": "Bosnia-Herzegovina vs Italy - Playoff Final - 1 Apr 2026",
+            "shortDescription": "Bosnia\u2011Herzegovina and Italy collide in a high\u2011stakes Play\u2011Off final that brings together belief, resilience, and elite knockout pedigree. Bosnia\u2011Herzegovina arrive aiming to disrupt the rhythm and feed off moments of pressure, while Italy will look to impose control through structure, discipline, and game management. With a World Cup berth on the line, this final promises intensity, precision, and a razor\u2011thin margin between success and heartbreak. Find out who comes on top as we bring you all the action from the European Qualifiers for 2026 FIFA World Cup, LIVE on Sony LIV.",
+            "longDescription": "Bosnia\u2011Herzegovina and Italy collide in a high\u2011stakes Play\u2011Off final that brings together belief, resilience, and elite knockout pedigree. Bosnia\u2011Herzegovina arrive aiming to disrupt the rhythm and feed off moments of pressure, while Italy will look to impose control through structure, discipline, and game management. With a World Cup berth on the line, this final promises intensity, precision, and a razor\u2011thin margin between success and heartbreak. Find out who comes on top as we bring you all the action from the European Qualifiers for 2026 FIFA World Cup, LIVE on Sony LIV.",
+            "genres": [
+                "Football"
+            ],
+            "broadcast_channel": "Sony Sports Ten 2",
+            "language": "ENGLISH",
+            "startTime": "31 Mar 2026, 11:35 PM",
+            "endTime": "01 Apr 2026, 04:35 AM",
+            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016706/1774839890651799_European_Qualifiers26_Play_offs_Finals_Bosnia_Herzegovina_vs_Italy_30mar_landscape_thumb.jpg",
+            "stream_url": "https://dai.google.com/ssai/event/x5tmobOeShGQ_plgKYHAGg/master.m3u8"
+        },
+        {
+            "contentId": 1090507970,
+            "title": "Kosovo vs T\u00fcrkiye - Playoff Final - 1 Apr 2026",
+            "shortDescription": "Kosovo and T\u00fcrkiye meet in a dramatic Play\u2011Off final fueled by momentum, emotion, and contrasting approaches. Kosovo will rely on intensity, belief, and fearless attacking transitions, while T\u00fcrkiye aim to harness structure, width, and composure in decisive moments. Find out who comes on top as we bring you all the action from the European Qualifiers for 2026 FIFA World Cup, LIVE on Sony LIV.",
+            "longDescription": "Kosovo and T\u00fcrkiye meet in a dramatic Play\u2011Off final fueled by momentum, emotion, and contrasting approaches. Kosovo will rely on intensity, belief, and fearless attacking transitions, while T\u00fcrkiye aim to harness structure, width, and composure in decisive moments. Find out who comes on top as we bring you all the action from the European Qualifiers for 2026 FIFA World Cup, LIVE on Sony LIV.",
+            "genres": [
+                "Football"
+            ],
+            "broadcast_channel": "Sony Sports Ten 2",
+            "language": "ENGLISH",
+            "startTime": "31 Mar 2026, 11:35 PM",
+            "endTime": "01 Apr 2026, 04:35 AM",
+            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016706/1774840145795799_European_Qualifiers26_Play_offs_Finals_Kosovo_vs_Turkiye_30mar_landscape_thumb.jpg",
+            "stream_url": "https://dai.google.com/ssai/event/pksPTeCxSHCErPmNF-xpPQ/master.m3u8"
+        },
+        {
+            "contentId": 1090507971,
+            "title": "Czechia vs Denmark - Playoff Final - 1 Apr 2026",
+            "shortDescription": "Czechia take on Denmark in a finely balanced Play\u2011Off final that blends tactical discipline with attacking intent. Czechia will look to assert control through measured buildup and midfield dominance, while Denmark bring cohesion, physical presence, and efficient pressing. With qualification hanging in the balance, this clash shapes up as a controlled yet hard\u2011fought European final where execution under pressure will be key. Find out who comes on top as we bring you all the action from the European Qualifiers for 2026 FIFA World Cup, LIVE on Sony LIV.",
+            "longDescription": "Czechia take on Denmark in a finely balanced Play\u2011Off final that blends tactical discipline with attacking intent. Czechia will look to assert control through measured buildup and midfield dominance, while Denmark bring cohesion, physical presence, and efficient pressing. With qualification hanging in the balance, this clash shapes up as a controlled yet hard\u2011fought European final where execution under pressure will be key. Find out who comes on top as we bring you all the action from the European Qualifiers for 2026 FIFA World Cup, LIVE on Sony LIV.",
+            "genres": [
+                "Football"
+            ],
+            "broadcast_channel": "Sony Sports Ten 2",
+            "language": "ENGLISH",
+            "startTime": "31 Mar 2026, 11:35 PM",
+            "endTime": "01 Apr 2026, 04:35 AM",
+            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016706/1774840286083799_European_Qualifiers26_Play_offs_Finals_Czechia_vs_Denmark_30mar_landscape_thumb.jpg",
+            "stream_url": "https://dai.google.com/ssai/event/1h3C6TAxRsafA9aTwWJN7A/master.m3u8"
+        },
+        {
+            "contentId": 1090507930,
+            "title": "Netherlands vs Ecuador - 1 Apr 2026",
+            "shortDescription": "The Netherlands face Ecuador in a physical and tactically intriguing friendly, as contrasting styles take center stage. The Dutch aim to dictate play through structured buildup and territorial control, while Ecuador bring intensity, athleticism, and direct attacking intent. Expect a hard\u2011fought contest as both sides fine\u2011tune their approach against strong opposition. Tune in to catch all the action from the UEFA International Friendlies, LIVE only on Sony LIV.",
+            "longDescription": "The Netherlands face Ecuador in a physical and tactically intriguing friendly, as contrasting styles take center stage. The Dutch aim to dictate play through structured buildup and territorial control, while Ecuador bring intensity, athleticism, and direct attacking intent. Expect a hard\u2011fought contest as both sides fine\u2011tune their approach against strong opposition. Tune in to catch all the action from the UEFA International Friendlies, LIVE only on Sony LIV.",
+            "genres": [
+                "Football"
+            ],
+            "broadcast_channel": "Sony Sports Ten 2",
+            "language": "ENGLISH",
+            "startTime": "31 Mar 2026, 11:35 PM",
+            "endTime": "01 Apr 2026, 04:35 AM",
+            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016471/1774131352706959_INT_Friendlies26_Netherlands_vs_Ecuador_20mar_landscape_thumb.jpg",
+            "stream_url": "https://dai.google.com/ssai/event/X9tnEM9wQHKUIX6nWcZ4TA/master.m3u8"
+        },
+        {
+            "contentId": 1090507931,
+            "title": "Austria vs Korea Republic - 1 Apr 2026",
+            "shortDescription": "Tune in to catch all the action from the UEFA International Friendlies as Austria take on Korea Republic, LIVE only on Sony LIV.",
+            "longDescription": "Tune in to catch all the action from the UEFA International Friendlies as Austria take on Korea Republic, LIVE only on Sony LIV.",
+            "genres": [
+                "Football"
+            ],
+            "broadcast_channel": "Sony Sports Ten 2",
+            "language": "ENGLISH",
+            "startTime": "31 Mar 2026, 11:35 PM",
+            "endTime": "01 Apr 2026, 04:35 AM",
+            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016470/1774131671644735_INT_Friendlies26_Austria_vs_Korea_Republic_20mar_landscape_thumb.jpg",
+            "stream_url": "https://dai.google.com/ssai/event/dZkNDykwQ_CNIPPQph-8zw/master.m3u8"
+        },
+        {
+            "contentId": 1090507933,
+            "title": "Ukraine vs Albania - 1 Apr 2026",
+            "shortDescription": "Tune in to catch all the action from the UEFA International Friendlies as Ukraine take on Albania, LIVE only on Sony LIV.",
+            "longDescription": "Tune in to catch all the action from the UEFA International Friendlies as Ukraine take on Albania, LIVE only on Sony LIV.",
+            "genres": [
+                "Football"
+            ],
+            "broadcast_channel": "Sony Sports Ten 2",
+            "language": "ENGLISH",
+            "startTime": "31 Mar 2026, 11:35 PM",
+            "endTime": "01 Apr 2026, 04:35 AM",
+            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016705/1774838906375538_INT_Friendlies26_Ukraine_vs_Albania_27mar_landscape_thumb.jpg",
+            "stream_url": "https://dai.google.com/ssai/event/ccHKh3aRTjCL5zyXqX2_GQ/master.m3u8"
+        },
+        {
+            "contentId": 1090507934,
+            "title": "Slovakia vs Romania - 1 Apr 2026",
+            "shortDescription": "Tune in to catch all the action from the UEFA International Friendlies as Slovakia take on Romania, LIVE only on Sony LIV.",
+            "longDescription": "Tune in to catch all the action from the UEFA International Friendlies as Slovakia take on Romania, LIVE only on Sony LIV.",
+            "genres": [
+                "Football"
+            ],
+            "broadcast_channel": "Sony Sports Ten 2",
+            "language": "ENGLISH",
+            "startTime": "31 Mar 2026, 11:35 PM",
+            "endTime": "01 Apr 2026, 04:35 AM",
+            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016705/1774839145832538_INT_Friendlies26_Slovakia_vs_Romania_27mar_landscape_thumb.jpg",
+            "stream_url": "https://dai.google.com/ssai/event/o6OXEiAZTVqBjgTho6YBOw/master.m3u8"
+        },
+        {
+            "contentId": 1090507932,
+            "title": "Wales vs Northern Ireland - 1 Apr 2026",
+            "shortDescription": "Tune in to catch all the action from the UEFA International Friendlies as Wales take on Northern Ireland, LIVE only on Sony LIV.",
+            "longDescription": "Tune in to catch all the action from the UEFA International Friendlies as Wales take on Northern Ireland, LIVE only on Sony LIV.",
+            "genres": [
+                "Football"
+            ],
+            "broadcast_channel": "Sony Sports Ten 2",
+            "language": "ENGLISH",
+            "startTime": "31 Mar 2026, 11:35 PM",
+            "endTime": "01 Apr 2026, 04:35 AM",
+            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016705/1774838756444538_INT_Friendlies26_Wales_vs_Northern_Ireland_27mar_landscape_thumb.jpg",
+            "stream_url": "https://dai.google.com/ssai/event/7ErM3ZpsQUqRsKQx2YRlHg/master.m3u8"
+        },
+        {
+            "contentId": 1090507935,
+            "title": "Republic of Ireland vs North Macedonia - 1 Apr 2026",
+            "shortDescription": "Tune in to catch all the action from the UEFA International Friendlies as Republic of Ireland take on North Macedonia, LIVE only on Sony LIV.",
+            "longDescription": "Tune in to catch all the action from the UEFA International Friendlies as Republic of Ireland take on North Macedonia, LIVE only on Sony LIV.",
+            "genres": [
+                "Football"
+            ],
+            "broadcast_channel": "Sony Sports Ten 2",
+            "language": "ENGLISH",
+            "startTime": "31 Mar 2026, 11:35 PM",
+            "endTime": "01 Apr 2026, 04:35 AM",
+            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016705/1774839350228538_INT_Friendlies26_Republic_of_Ireland_vs_North_Macedonia_27mar_landscape_thumb.jpg",
+            "stream_url": "https://dai.google.com/ssai/event/A7advyooTBuiL5pWJwtbUg/master.m3u8"
         },
         {
             "contentId": 1090507926,
@@ -33,81 +183,6 @@
             "endTime": "01 Apr 2026, 02:50 AM",
             "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016471/1774112406797959_INT_Friendlies26_Hungary_vs_Greece_20mar_landscape_thumb.jpg",
             "stream_url": "https://dai.google.com/ssai/event/H6S0mE59SISkkXTAenoE_w/master.m3u8"
-        },
-        {
-            "contentId": 1090507918,
-            "title": "Serbia vs Saudia Arabia - 31 Mar 2026",
-            "shortDescription": "Tune in to catch all the action from the UEFA International Friendlies as Serbia take on Saudia Arabia, LIVE only on Sony LIV.",
-            "longDescription": "Tune in to catch all the action from the UEFA International Friendlies as Serbia take on Saudia Arabia, LIVE only on Sony LIV.",
-            "genres": [
-                "Football"
-            ],
-            "broadcast_channel": "Sony Sports Ten 2",
-            "language": "ENGLISH",
-            "startTime": "31 Mar 2026, 08:50 PM",
-            "endTime": "01 Apr 2026, 01:50 AM",
-            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016626/1774569511446686_INT_Friendlies26_Serbia_vs_Saudi_Arabia_27mar_landscape_thumb.jpg",
-            "stream_url": "https://dai.google.com/ssai/event/SRArPVGVSfS0UheUcQATlQ/master.m3u8"
-        },
-        {
-            "contentId": 1090507924,
-            "title": "Montenegro vs Slovenia - 31 Mar 2026",
-            "shortDescription": "Tune in to catch all the action from the UEFA International Friendlies as Montenegro take on Slovenia, LIVE only on Sony LIV.",
-            "longDescription": "Tune in to catch all the action from the UEFA International Friendlies as Montenegro take on Slovenia, LIVE only on Sony LIV.",
-            "genres": [
-                "Football"
-            ],
-            "broadcast_channel": "Sony Sports Ten 2",
-            "language": "ENGLISH",
-            "startTime": "31 Mar 2026, 08:50 PM",
-            "endTime": "01 Apr 2026, 01:50 AM",
-            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016471/1774112164255959_INT_Friendlies26_Montenegro_vs_Slovenia_20mar_landscape_thumb.jpg",
-            "stream_url": "https://dai.google.com/ssai/event/YWEgb2bCQMyARGS1v3fUYw/master.m3u8"
-        },
-        {
-            "contentId": 1090507925,
-            "title": "San Marino vs Andorra - 31 Mar 2026",
-            "shortDescription": "Tune in to catch all the action from the UEFA International Friendlies as San Marino take on Andorra, LIVE only on Sony LIV.",
-            "longDescription": "Tune in to catch all the action from the UEFA International Friendlies as San Marino take on Andorra, LIVE only on Sony LIV.",
-            "genres": [
-                "Football"
-            ],
-            "broadcast_channel": "Sony Sports Ten 2",
-            "language": "ENGLISH",
-            "startTime": "31 Mar 2026, 08:50 PM",
-            "endTime": "01 Apr 2026, 01:50 AM",
-            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016626/1774569671208686_INT_Friendlies26_San_Marino_vs_Andorra_27mar_landscape_thumb.jpg",
-            "stream_url": "https://dai.google.com/ssai/event/a95x9sKGTcCGXEXE6Ug7pA/master.m3u8"
-        },
-        {
-            "contentId": 1090507928,
-            "title": "Luxembourg vs Malta - Relegation Play-outs - 2nd Leg - 31 Mar 2026 ",
-            "shortDescription": "Tune in to catch all the action from UEFA Nations League relegation play-outs as Luxembourg and Malta, LIVE on Sony LIV.",
-            "longDescription": "Tune in to catch all the action from UEFA Nations League relegation play-outs as Luxembourg and Malta, LIVE on Sony LIV.",
-            "genres": [
-                "Football"
-            ],
-            "broadcast_channel": "Sony Sports Ten 2",
-            "language": "ENGLISH",
-            "startTime": "31 Mar 2026, 08:50 PM",
-            "endTime": "01 Apr 2026, 01:50 AM",
-            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016519/1774344601637677_UNL_Luxembourg_vs_Malta_landscape_thumb.jpg",
-            "stream_url": "https://dai.google.com/ssai/event/Sarl-BcWQOqaXsZvqKWeeg/master.m3u8"
-        },
-        {
-            "contentId": 1090507927,
-            "title": "Latvia vs Gibraltar - Relegation Play-outs - 2nd Leg - 31 Mar 2026 ",
-            "shortDescription": "Tune in to catch all the action from UEFA Nations League relegation play-outs as Latvia take on Gibraltar, LIVE on Sony LIV.",
-            "longDescription": "Tune in to catch all the action from UEFA Nations League relegation play-outs as Latvia take on Gibraltar, LIVE on Sony LIV.",
-            "genres": [
-                "Football"
-            ],
-            "broadcast_channel": "Sony Sports Ten 2",
-            "language": "ENGLISH",
-            "startTime": "31 Mar 2026, 08:50 PM",
-            "endTime": "01 Apr 2026, 01:50 AM",
-            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016519/1774344471597677_UNL_Latvia_vs_Gibraltar_landscape_thumb.jpg",
-            "stream_url": "https://dai.google.com/ssai/event/f9S-XIPoTna2JgKFX5SnoA/master.m3u8"
         }
     ],
     "upcoming": [
