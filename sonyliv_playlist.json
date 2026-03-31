@@ -2,7 +2,7 @@
     "name": "SonyLiv Matches Full Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last_update": "10:30:19 PM 31-03-2026",
+    "last_update": "10:45:15 PM 31-03-2026",
     "live": [
         {
             "contentId": 1090500468,
@@ -20,21 +20,6 @@
             "stream_url": "https://dai.google.com/ssai/event/ywC0TYXoSbOYu7fxpFglFA/master.m3u8"
         },
         {
-            "contentId": 1090507850,
-            "title": "India vs Tajikistan - 31 Mar 2026",
-            "shortDescription": "Watch all the action from the U23 Tri-Nation Championship 2026 as India U23 takes on Tajikistan U23, LIVE and exclusively on Sony LIV.",
-            "longDescription": "Watch all the action from the U23 Tri-Nation Championship 2026 as India U23 takes on Tajikistan U23, LIVE and exclusively on Sony LIV.",
-            "genres": [
-                "Football"
-            ],
-            "broadcast_channel": "Sony Sports Ten 2",
-            "language": "ENGLISH",
-            "startTime": "31 Mar 2026, 06:30 PM",
-            "endTime": "31 Mar 2026, 11:30 PM",
-            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016575/177443677376145_U23_Tri_Nation_Champ26_india_vs_Tajikistan_25mar_landscape_thumb.jpg",
-            "stream_url": "https://dai.google.com/ssai/event/TciBRxSYRBCqEX-pWbqvdg/master.m3u8"
-        },
-        {
             "contentId": 1090507923,
             "title": "Norway vs Switzerland - 31 Mar 2026",
             "shortDescription": "Norway and Switzerland meet in an intriguing international friendly that brings together two sides known for physical presence, tactical discipline, and attacking quality. Norway will look to impose themselves through intensity and direct play, while Switzerland aim to control the tempo with structured buildup and midfield balance. Tune in to catch all the action from the UEFA International Friendlies as Norway and Switzerland, LIVE only on Sony LIV.",
@@ -48,6 +33,21 @@
             "endTime": "01 Apr 2026, 01:50 AM",
             "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016471/1774112028828959_INT_Friendlies26_Norway_vs_Switzerland_20mar_landscape_thumb.jpg",
             "stream_url": "https://dai.google.com/ssai/event/WbS0f3dkTZOWlzvQaKABdw/master.m3u8"
+        },
+        {
+            "contentId": 1090507926,
+            "title": "Hungary vs Greece - 31 Mar 2026",
+            "shortDescription": "Tune in to catch all the action from the UEFA International Friendlies as Hungary take on Greece, LIVE only on Sony LIV.",
+            "longDescription": "Tune in to catch all the action from the UEFA International Friendlies as Hungary take on Greece, LIVE only on Sony LIV.",
+            "genres": [
+                "Football"
+            ],
+            "broadcast_channel": "Sony Sports Ten 2",
+            "language": "ENGLISH",
+            "startTime": "31 Mar 2026, 09:50 PM",
+            "endTime": "01 Apr 2026, 02:50 AM",
+            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016471/1774112406797959_INT_Friendlies26_Hungary_vs_Greece_20mar_landscape_thumb.jpg",
+            "stream_url": "https://dai.google.com/ssai/event/H6S0mE59SISkkXTAenoE_w/master.m3u8"
         },
         {
             "contentId": 1090507918,
