@@ -2,13 +2,7 @@
 #name: SonyLiv Full Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update: 02:45:19 AM 01-04-2026
-
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016470/1774130904143735_INT_Friendlies26_England_vs_Japan_20mar_landscape_thumb.jpg" group-title="SonyLiv Live", England vs Japan - 1 Apr 2026 [ENGLISH]
-https://dai.google.com/ssai/event/dBx5Vc9xTxqXfdRd65F79A/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016706/1774840046470799_European_Qualifiers26_Play_offs_Finals_Sweden_vs_Poland_30mar_landscape_thumb.jpg" group-title="SonyLiv Live", Sweden vs Poland - Playoff Final - 1 Apr 2026 [ENGLISH]
-https://dai.google.com/ssai/event/V47K7tiETg-G2DLx-x9Arw/master.m3u8
+#last update: 03:00:22 AM 01-04-2026
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016706/1774839890651799_European_Qualifiers26_Play_offs_Finals_Bosnia_Herzegovina_vs_Italy_30mar_landscape_thumb.jpg" group-title="SonyLiv Live", Bosnia-Herzegovina vs Italy - Playoff Final - 1 Apr 2026 [ENGLISH]
 https://dai.google.com/ssai/event/x5tmobOeShGQ_plgKYHAGg/master.m3u8
@@ -24,19 +18,4 @@ https://dai.google.com/ssai/event/KtcC3D_SQvaZTdrPH_zu9Q/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016471/1774131352706959_INT_Friendlies26_Netherlands_vs_Ecuador_20mar_landscape_thumb.jpg" group-title="SonyLiv Live", Netherlands vs Ecuador - 1 Apr 2026 [ENGLISH]
 https://dai.google.com/ssai/event/X9tnEM9wQHKUIX6nWcZ4TA/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016470/1774131671644735_INT_Friendlies26_Austria_vs_Korea_Republic_20mar_landscape_thumb.jpg" group-title="SonyLiv Live", Austria vs Korea Republic - 1 Apr 2026 [ENGLISH]
-https://dai.google.com/ssai/event/dZkNDykwQ_CNIPPQph-8zw/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016705/1774838906375538_INT_Friendlies26_Ukraine_vs_Albania_27mar_landscape_thumb.jpg" group-title="SonyLiv Live", Ukraine vs Albania - 1 Apr 2026 [ENGLISH]
-https://dai.google.com/ssai/event/ccHKh3aRTjCL5zyXqX2_GQ/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016705/1774839145832538_INT_Friendlies26_Slovakia_vs_Romania_27mar_landscape_thumb.jpg" group-title="SonyLiv Live", Slovakia vs Romania - 1 Apr 2026 [ENGLISH]
-https://dai.google.com/ssai/event/o6OXEiAZTVqBjgTho6YBOw/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016705/1774838756444538_INT_Friendlies26_Wales_vs_Northern_Ireland_27mar_landscape_thumb.jpg" group-title="SonyLiv Live", Wales vs Northern Ireland - 1 Apr 2026 [ENGLISH]
-https://dai.google.com/ssai/event/7ErM3ZpsQUqRsKQx2YRlHg/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016705/1774839350228538_INT_Friendlies26_Republic_of_Ireland_vs_North_Macedonia_27mar_landscape_thumb.jpg" group-title="SonyLiv Live", Republic of Ireland vs North Macedonia - 1 Apr 2026 [ENGLISH]
-https://dai.google.com/ssai/event/A7advyooTBuiL5pWJwtbUg/master.m3u8
 
