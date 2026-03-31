@@ -2,7 +2,7 @@
     "name": "SonyLiv Matches Full Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last_update": "03:45:20 AM 01-04-2026",
+    "last_update": "04:00:20 AM 01-04-2026",
     "live": [
         {
             "contentId": 1090507972,
@@ -18,36 +18,6 @@
             "endTime": "01 Apr 2026, 03:30 PM",
             "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016646/1774623263469696_NZw_vs_SAw_2nd_ODI_landscape_thumb.jpg",
             "stream_url": "https://dai.google.com/ssai/event/jRQlKg2DQWa70jsLHUtxGA/master.m3u8"
-        },
-        {
-            "contentId": 1090507968,
-            "title": "Bosnia-Herzegovina vs Italy - Playoff Final - 1 Apr 2026",
-            "shortDescription": "Bosnia\u2011Herzegovina and Italy collide in a high\u2011stakes Play\u2011Off final that brings together belief, resilience, and elite knockout pedigree. Bosnia\u2011Herzegovina arrive aiming to disrupt the rhythm and feed off moments of pressure, while Italy will look to impose control through structure, discipline, and game management. With a World Cup berth on the line, this final promises intensity, precision, and a razor\u2011thin margin between success and heartbreak. Find out who comes on top as we bring you all the action from the European Qualifiers for 2026 FIFA World Cup, LIVE on Sony LIV.",
-            "longDescription": "Bosnia\u2011Herzegovina and Italy collide in a high\u2011stakes Play\u2011Off final that brings together belief, resilience, and elite knockout pedigree. Bosnia\u2011Herzegovina arrive aiming to disrupt the rhythm and feed off moments of pressure, while Italy will look to impose control through structure, discipline, and game management. With a World Cup berth on the line, this final promises intensity, precision, and a razor\u2011thin margin between success and heartbreak. Find out who comes on top as we bring you all the action from the European Qualifiers for 2026 FIFA World Cup, LIVE on Sony LIV.",
-            "genres": [
-                "Football"
-            ],
-            "broadcast_channel": "Sony Sports Ten 2",
-            "language": "ENGLISH",
-            "startTime": "31 Mar 2026, 11:35 PM",
-            "endTime": "01 Apr 2026, 04:35 AM",
-            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016706/1774839890651799_European_Qualifiers26_Play_offs_Finals_Bosnia_Herzegovina_vs_Italy_30mar_landscape_thumb.jpg",
-            "stream_url": "https://dai.google.com/ssai/event/x5tmobOeShGQ_plgKYHAGg/master.m3u8"
-        },
-        {
-            "contentId": 1090507971,
-            "title": "Czechia vs Denmark - Playoff Final - 1 Apr 2026",
-            "shortDescription": "Czechia take on Denmark in a finely balanced Play\u2011Off final that blends tactical discipline with attacking intent. Czechia will look to assert control through measured buildup and midfield dominance, while Denmark bring cohesion, physical presence, and efficient pressing. With qualification hanging in the balance, this clash shapes up as a controlled yet hard\u2011fought European final where execution under pressure will be key. Find out who comes on top as we bring you all the action from the European Qualifiers for 2026 FIFA World Cup, LIVE on Sony LIV.",
-            "longDescription": "Czechia take on Denmark in a finely balanced Play\u2011Off final that blends tactical discipline with attacking intent. Czechia will look to assert control through measured buildup and midfield dominance, while Denmark bring cohesion, physical presence, and efficient pressing. With qualification hanging in the balance, this clash shapes up as a controlled yet hard\u2011fought European final where execution under pressure will be key. Find out who comes on top as we bring you all the action from the European Qualifiers for 2026 FIFA World Cup, LIVE on Sony LIV.",
-            "genres": [
-                "Football"
-            ],
-            "broadcast_channel": "Sony Sports Ten 2",
-            "language": "ENGLISH",
-            "startTime": "31 Mar 2026, 11:35 PM",
-            "endTime": "01 Apr 2026, 04:35 AM",
-            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016706/1774840286083799_European_Qualifiers26_Play_offs_Finals_Czechia_vs_Denmark_30mar_landscape_thumb.jpg",
-            "stream_url": "https://dai.google.com/ssai/event/1h3C6TAxRsafA9aTwWJN7A/master.m3u8"
         }
     ],
     "upcoming": [
