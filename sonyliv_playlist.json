@@ -2,7 +2,7 @@
     "name": "SonyLiv Matches Full Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last_update": "12:30:18 AM 01-04-2026",
+    "last_update": "01:00:19 AM 01-04-2026",
     "live": [
         {
             "contentId": 1090507929,
@@ -78,6 +78,21 @@
             "endTime": "01 Apr 2026, 04:35 AM",
             "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016706/1774840286083799_European_Qualifiers26_Play_offs_Finals_Czechia_vs_Denmark_30mar_landscape_thumb.jpg",
             "stream_url": "https://dai.google.com/ssai/event/1h3C6TAxRsafA9aTwWJN7A/master.m3u8"
+        },
+        {
+            "contentId": 1090507936,
+            "title": "Spain vs Egypt - 1 Apr 2026",
+            "shortDescription": "Spain take on Egypt in a friendly that blends possession\u2011based control with pace and direct threat. Spain will look to dominate the ball and test combinations, while Egypt arrive keen to capitalize on quick breaks and physical presence. It\u2019s an ideal setting for both teams to sharpen their systems in a competitive international test. Tune in to catch all the action from the UEFA International Friendlies, LIVE only on Sony LIV.",
+            "longDescription": "Spain take on Egypt in a friendly that blends possession\u2011based control with pace and direct threat. Spain will look to dominate the ball and test combinations, while Egypt arrive keen to capitalize on quick breaks and physical presence. It\u2019s an ideal setting for both teams to sharpen their systems in a competitive international test. Tune in to catch all the action from the UEFA International Friendlies, LIVE only on Sony LIV.",
+            "genres": [
+                "Football"
+            ],
+            "broadcast_channel": "Sony Sports Ten 2",
+            "language": "ENGLISH",
+            "startTime": "31 Mar 2026, 11:50 PM",
+            "endTime": "01 Apr 2026, 04:50 AM",
+            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016748/1774945506682671_INT_Friendlies26_Spain_vs_Egypt_live_landscape_thumb.jpg",
+            "stream_url": "https://dai.google.com/ssai/event/KtcC3D_SQvaZTdrPH_zu9Q/master.m3u8"
         },
         {
             "contentId": 1090507930,

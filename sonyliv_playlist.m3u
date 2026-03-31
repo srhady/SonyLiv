@@ -2,7 +2,7 @@
 #name: SonyLiv Full Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update: 12:30:18 AM 01-04-2026
+#last update: 01:00:19 AM 01-04-2026
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016470/1774130904143735_INT_Friendlies26_England_vs_Japan_20mar_landscape_thumb.jpg" group-title="SonyLiv Live", England vs Japan - 1 Apr 2026 [ENGLISH]
 https://dai.google.com/ssai/event/dBx5Vc9xTxqXfdRd65F79A/master.m3u8
@@ -18,6 +18,9 @@ https://dai.google.com/ssai/event/pksPTeCxSHCErPmNF-xpPQ/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016706/1774840286083799_European_Qualifiers26_Play_offs_Finals_Czechia_vs_Denmark_30mar_landscape_thumb.jpg" group-title="SonyLiv Live", Czechia vs Denmark - Playoff Final - 1 Apr 2026 [ENGLISH]
 https://dai.google.com/ssai/event/1h3C6TAxRsafA9aTwWJN7A/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016748/1774945506682671_INT_Friendlies26_Spain_vs_Egypt_live_landscape_thumb.jpg" group-title="SonyLiv Live", Spain vs Egypt - 1 Apr 2026 [ENGLISH]
+https://dai.google.com/ssai/event/KtcC3D_SQvaZTdrPH_zu9Q/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016471/1774131352706959_INT_Friendlies26_Netherlands_vs_Ecuador_20mar_landscape_thumb.jpg" group-title="SonyLiv Live", Netherlands vs Ecuador - 1 Apr 2026 [ENGLISH]
 https://dai.google.com/ssai/event/X9tnEM9wQHKUIX6nWcZ4TA/master.m3u8
