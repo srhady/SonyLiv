@@ -2,7 +2,7 @@
 #name: SonyLiv Full Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update: 01:00:19 AM 01-04-2026
+#last update: 01:15:18 AM 01-04-2026
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016470/1774130904143735_INT_Friendlies26_England_vs_Japan_20mar_landscape_thumb.jpg" group-title="SonyLiv Live", England vs Japan - 1 Apr 2026 [ENGLISH]
 https://dai.google.com/ssai/event/dBx5Vc9xTxqXfdRd65F79A/master.m3u8
@@ -39,7 +39,4 @@ https://dai.google.com/ssai/event/7ErM3ZpsQUqRsKQx2YRlHg/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016705/1774839350228538_INT_Friendlies26_Republic_of_Ireland_vs_North_Macedonia_27mar_landscape_thumb.jpg" group-title="SonyLiv Live", Republic of Ireland vs North Macedonia - 1 Apr 2026 [ENGLISH]
 https://dai.google.com/ssai/event/A7advyooTBuiL5pWJwtbUg/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016471/1774112406797959_INT_Friendlies26_Hungary_vs_Greece_20mar_landscape_thumb.jpg" group-title="SonyLiv Live", Hungary vs Greece - 31 Mar 2026 [ENGLISH]
-https://dai.google.com/ssai/event/H6S0mE59SISkkXTAenoE_w/master.m3u8
 
