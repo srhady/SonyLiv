@@ -2,8 +2,23 @@
     "name": "SonyLiv Matches Full Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last_update": "05:15:19 PM 31-03-2026",
+    "last_update": "05:30:21 PM 31-03-2026",
     "live": [
+        {
+            "contentId": 1090507846,
+            "title": "Kazakhstan vs Comoros - 31 Mar 2026",
+            "shortDescription": "Tune in to catch all the action from the UEFA International Friendlies as Kazakhstan take on Comoros, LIVE only on Sony LIV.",
+            "longDescription": "Tune in to catch all the action from the UEFA International Friendlies as Kazakhstan take on Comoros, LIVE only on Sony LIV.",
+            "genres": [
+                "Football"
+            ],
+            "broadcast_channel": "Sony Sports Ten 2",
+            "language": "ENGLISH",
+            "startTime": "31 Mar 2026, 04:50 PM",
+            "endTime": "31 Mar 2026, 09:50 PM",
+            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016471/1774017613885959_INT_Friendlies26_Kazakhstan_vs_Comoros_20mar_landscape_thumb.jpg",
+            "stream_url": "https://dai.google.com/ssai/event/jrKIOZsGTju4MxXaWpgU3w/master.m3u8"
+        },
         {
             "contentId": 1090507847,
             "title": "Gokulam Kerala FC vs Aizawl FC - 31 Mar 2026",
