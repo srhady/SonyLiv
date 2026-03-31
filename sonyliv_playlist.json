@@ -2,8 +2,23 @@
     "name": "SonyLiv Matches Full Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last_update": "07:00:24 PM 31-03-2026",
+    "last_update": "07:15:18 PM 31-03-2026",
     "live": [
+        {
+            "contentId": 1090507850,
+            "title": "India vs Tajikistan - 31 Mar 2026",
+            "shortDescription": "Watch all the action from the U23 Tri-Nation Championship 2026 as India U23 takes on Tajikistan U23, LIVE and exclusively on Sony LIV.",
+            "longDescription": "Watch all the action from the U23 Tri-Nation Championship 2026 as India U23 takes on Tajikistan U23, LIVE and exclusively on Sony LIV.",
+            "genres": [
+                "Football"
+            ],
+            "broadcast_channel": "Sony Sports Ten 2",
+            "language": "ENGLISH",
+            "startTime": "31 Mar 2026, 06:30 PM",
+            "endTime": "31 Mar 2026, 11:30 PM",
+            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016575/177443677376145_U23_Tri_Nation_Champ26_india_vs_Tajikistan_25mar_landscape_thumb.jpg",
+            "stream_url": "https://dai.google.com/ssai/event/TciBRxSYRBCqEX-pWbqvdg/master.m3u8"
+        },
         {
             "contentId": 1090507846,
             "title": "Kazakhstan vs Comoros - 31 Mar 2026",
