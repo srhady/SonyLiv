@@ -2,24 +2,8 @@
     "name": "SonyLiv Matches Full Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last_update": "09:00:24 PM 02-04-2026",
-    "live": [
-        {
-            "contentId": 1090509673,
-            "title": "Dempo Sports Club vs Namdhari FC - 2 Apr 2026",
-            "shortDescription": "Dempo Sports Club host Namdhari FC in an important fixture as both sides chase valuable points. With momentum at stake, execution and composure could prove decisive in a closely contested matchup. Which team will come out on top? Tune in to catch all the action from Indian Football League 2026, LIVE on Sony LIV.",
-            "longDescription": "Dempo Sports Club host Namdhari FC in an important fixture as both sides chase valuable points. With momentum at stake, execution and composure could prove decisive in a closely contested matchup. Which team will come out on top? Tune in to catch all the action from Indian Football League 2026, LIVE on Sony LIV.",
-            "genres": [
-                "Football"
-            ],
-            "broadcast_channel": "Sony Sports Ten 2",
-            "language": "ENGLISH",
-            "startTime": "02 Apr 2026, 06:00 PM",
-            "endTime": "02 Apr 2026, 11:00 PM",
-            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016576/1774437032054422_IFC_Dempo_Sports_Club_vs_Namdhari_FC_landscape_thumb.jpg",
-            "stream_url": "https://dai.google.com/ssai/event/TsEkcIl3QKG8ofuBX8upnQ/master.m3u8"
-        }
-    ],
+    "last_update": "09:15:18 PM 02-04-2026",
+    "live": [],
     "upcoming": [
         {
             "contentId": 1090507837,
