@@ -2,8 +2,24 @@
     "name": "SonyLiv Matches Full Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last_update": "04:30:21 PM 02-04-2026",
-    "live": [],
+    "last_update": "04:45:17 PM 02-04-2026",
+    "live": [
+        {
+            "contentId": 1090509616,
+            "title": "Real Kashmir FC vs Diamond Harbour FC - 2 Apr 2026",
+            "shortDescription": "Real Kashmir FC host Diamond Harbour FC in an important fixture as both sides chase valuable points. With momentum at stake, execution and composure could prove decisive in a closely contested matchup. Which team will come out on top? Tune in to catch all the action from Indian Football League 2026, LIVE on Sony LIV.",
+            "longDescription": "Real Kashmir FC host Diamond Harbour FC in an important fixture as both sides chase valuable points. With momentum at stake, execution and composure could prove decisive in a closely contested matchup. Which team will come out on top? Tune in to catch all the action from Indian Football League 2026, LIVE on Sony LIV.",
+            "genres": [
+                "Football"
+            ],
+            "broadcast_channel": "Sony Sports Ten 2",
+            "language": "ENGLISH",
+            "startTime": "02 Apr 2026, 03:30 PM",
+            "endTime": "02 Apr 2026, 08:30 PM",
+            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016579/1774439433270819_IFC_Real_Kashmir_FC_vs_Diamond_Harbour_FC_landscape_thumb.jpg",
+            "stream_url": "https://dai.google.com/ssai/event/_wNibTTjRKGbTJkQbT7_mQ/master.m3u8"
+        }
+    ],
     "upcoming": [
         {
             "contentId": 1090507834,
@@ -30,7 +46,7 @@
         },
         {
             "contentId": 1090507988,
-            "title": "Chetak Screen Award",
+            "title": "Chetak Screen Awards",
             "shortDescription": "Chetak Screen Awards celebrates the filmmakers. Watch Chetak Screen Awards, Sunday, 5th April at 8 PM, on Sony LIV.",
             "longDescription": "Chetak Screen Awards celebrates the filmmakers. Watch Chetak Screen Awards, Sunday, 5th April at 8 PM, on Sony LIV.",
             "genres": [
