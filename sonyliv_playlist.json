@@ -2,8 +2,24 @@
     "name": "SonyLiv Matches Full Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last_update": "09:00:20 PM 03-04-2026",
-    "live": [],
+    "last_update": "09:15:18 PM 03-04-2026",
+    "live": [
+        {
+            "contentId": 1090500468,
+            "title": "Wheel Of Fortune",
+            "shortDescription": "Recognised by Guinness World Records as the world\u2019s most popular TV game show, Wheel of Fortune arrives in India in spectacular fashion, hosted by Akshay Kumar. Contestants enter a thrilling word game, decoding phrases spanning Bollywood, pop culture and everyday life. Blending entertainment with edge-of-the-seat moments, every alphabet can change the game as players compete for paisa and prizes.",
+            "longDescription": "Recognised by Guinness World Records as the world\u2019s most popular TV game show, Wheel of Fortune arrives in India in spectacular fashion, hosted by Akshay Kumar. Contestants enter a thrilling word game, decoding phrases spanning Bollywood, pop culture and everyday life. Blending entertainment with edge-of-the-seat moments, every alphabet can change the game as players compete for paisa and prizes.",
+            "genres": [
+                "Game show"
+            ],
+            "broadcast_channel": "SET",
+            "language": "HINDI",
+            "startTime": "03 Apr 2026, 08:30 PM",
+            "endTime": "03 Apr 2026, 10:40 PM",
+            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016744/1774877224201375_WOF_simulcast_landscape_thumb.jpg",
+            "stream_url": "https://dai.google.com/ssai/event/ywC0TYXoSbOYu7fxpFglFA/master.m3u8"
+        }
+    ],
     "upcoming": [
         {
             "contentId": 1090507837,
@@ -39,6 +55,18 @@
             "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090507783/thumbnail/1774677409719_./SCREEN_AWARDS_Landscape_Thumb_Dated.jpg"
         },
         {
+            "contentId": 1090511806,
+            "title": "Main Woh Aur Fuji",
+            "shortDescription": "In a world where love is filtered, scored and predicted, a couple in Pune collides in a fierce, consuming romance. What begins in urgency and desire slowly fractures. Seven years later, beneath the shadow of Mount Fuji, they meet again carrying different lives, different scars, confronting a past that never truly left them. Can love survive its own history or shall it merely haunt them? Witness Lalit Prabhakar and Mrinmayee Godbole in a fresh, new-age romantic movie Main Woh Aur Fuji, streaming from 10th April, on Sony LIV.",
+            "longDescription": "In a world where love is filtered, scored and predicted, a couple in Pune collides in a fierce, consuming romance. What begins in urgency and desire slowly fractures. Seven years later, beneath the shadow of Mount Fuji, they meet again carrying different lives, different scars, confronting a past that never truly left them. Can love survive its own history or shall it merely haunt them? Witness Lalit Prabhakar and Mrinmayee Godbole in a fresh, new-age romantic movie Main Woh Aur Fuji, streaming from 10th April, on Sony LIV.",
+            "genres": [
+                "Romance",
+                "Drama"
+            ],
+            "startTime": "02 Apr 2026, 10:00 AM",
+            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016842/17751209400003_MWF_Landscape_Thumb_Dated.jpg"
+        },
+        {
             "contentId": 1090508009,
             "title": "Upcoming - Emirates FA Cup - Chelsea vs Port Vale",
             "shortDescription": "Tune in to catch all the action from the Emirates FA Cup, exclusively on Sony LIV.",
@@ -61,18 +89,6 @@
             "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016712/1774855184779308_FA_Cup_26_QF_Southampton_vs_Arsenal_Landscape_Thumbnail_Dated.jpg"
         },
         {
-            "contentId": 1090507834,
-            "title": "Sitaare Zameen Par",
-            "shortDescription": "After a DUI, an arrogant basketball coach must train neurodivergent adults for community service, only to discover that his players will change his outlook on life. Catch Sitaare Zameen Par streaming from 3rd April, only on Sony LIV. ",
-            "longDescription": "After a DUI, an arrogant basketball coach must train neurodivergent adults for community service, only to discover that his players will change his outlook on life. Catch Sitaare Zameen Par streaming from 3rd April, only on Sony LIV. ",
-            "genres": [
-                "Drama",
-                "Comedy"
-            ],
-            "startTime": "25 Mar 2026, 12:00 PM",
-            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016491/1774259226685589_SZP_1_Landscape_Thumb_dated.jpg"
-        },
-        {
             "contentId": 1090507833,
             "title": "India's Best Dancer",
             "shortDescription": "India's Best Dancer Season 5 is coming back with Karisma Kapoor. Watch India's Best Dancer, streaming soon, on Sony LIV. ",
@@ -85,14 +101,14 @@
             "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016061/1773238145752831_ibd5_11mar_SS_landscape_thumb.jpg"
         },
         {
-            "contentId": 1090507839,
+            "contentId": 1090513882,
             "title": "Hastinapur Ke Veer",
-            "shortDescription": "A mythological TV series, Hastinapur Ke Veer is centered around themes of courage, discipline, brotherhood, and timeless values, drawing inspiration from the Mahabharata era.",
-            "longDescription": "A mythological TV series, Hastinapur Ke Veer is centered around themes of courage, discipline, brotherhood, and timeless values, drawing inspiration from the Mahabharata era.",
+            "shortDescription": "Hastinapur Ke Veer unfolds the saga of the five Pandavas brothers, who embody courage, righteousness, and sacrifice as they confront the relentless forces of ambition and injustice. Watch Hastinapur Ke Veer streaming soon, only on Sony LIV. ",
+            "longDescription": "Hastinapur Ke Veer unfolds the saga of the five Pandavas brothers, who embody courage, righteousness, and sacrifice as they confront the relentless forces of ambition and injustice. Watch Hastinapur Ke Veer streaming soon, only on Sony LIV. ",
             "genres": [
                 "Mythology"
             ],
-            "startTime": "23 Mar 2026, 03:00 PM",
+            "startTime": "03 Apr 2026, 03:00 PM",
             "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016500/1774271039207830_Hastinapur_k_veer_23march_SS_Landscape_Thumb.jpg"
         },
         {
