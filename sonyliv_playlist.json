@@ -2,24 +2,8 @@
     "name": "SonyLiv Matches Full Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last_update": "11:45:16 AM 04-04-2026",
-    "live": [
-        {
-            "contentId": 1090509674,
-            "title": "3rd ODI - 4 Apr 2026",
-            "shortDescription": "New Zealand Women and South Africa Women return to the Hagley Oval, Christchurch, for the 3rd ODI, with the series on the line after a fiercely contested buildup. With everything to play for, this final showdown promises a gripping contest in the capital. Tune in to catch all the action from the 3rd ODI of South Africa Women's Tour of New Zealand 2026, LIVE on Sony LIV.",
-            "longDescription": "New Zealand Women and South Africa Women return to the Hagley Oval, Christchurch, for the 3rd ODI, with the series on the line after a fiercely contested buildup. With everything to play for, this final showdown promises a gripping contest in the capital. Tune in to catch all the action from the 3rd ODI of South Africa Women's Tour of New Zealand 2026, LIVE on Sony LIV.",
-            "genres": [
-                "Cricket"
-            ],
-            "broadcast_channel": "Sony Sports Ten 5",
-            "language": "ENGLISH",
-            "startTime": "04 Apr 2026, 02:30 AM",
-            "endTime": "04 Apr 2026, 03:30 PM",
-            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016646/1774623473828696_NZw_vs_SAw_3rd_ODI_landscape_thumb.jpg",
-            "stream_url": "https://dai.google.com/ssai/event/_wNibTTjRKGbTJkQbT7_mQ/master.m3u8"
-        }
-    ],
+    "last_update": "12:00:22 PM 04-04-2026",
+    "live": [],
     "upcoming": [
         {
             "contentId": 1090507837,
