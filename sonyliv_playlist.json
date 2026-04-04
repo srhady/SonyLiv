@@ -2,7 +2,7 @@
     "name": "SonyLiv Matches Full Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last_update": "10:30:19 PM 04-04-2026",
+    "last_update": "10:45:13 PM 04-04-2026",
     "live": [
         {
             "contentId": 1090513275,
@@ -18,22 +18,6 @@
             "endTime": "05 Apr 2026, 02:05 AM",
             "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016634/1774600605381142_FC_Cup_26_QF_Chelsea_vs_Port_Vale_landscape_thumb.jpg",
             "stream_url": "https://dai.google.com/ssai/event/noB3YwyRQVm5K-y_47MrBA/master.m3u8"
-        },
-        {
-            "contentId": 1090492547,
-            "title": "Indian Idol",
-            "shortDescription": "Indian Idol 16 \u2013 \u201cYaadon Ki Playlist\u201d celebrates music that brings back cherished memories and emotions. For the first time ever, auditions go outdoors, traveling across India to discover raw talent, hosted by the legendary Udit Narayan, while Aditya Narayan returns as the main host. The judges - Vishal Dadlani, Shreya Ghoshal, and Badshah - search for voices that touch hearts. A season where every song is a memory, and every melody tells a story.",
-            "longDescription": "Indian Idol 16 \u2013 \u201cYaadon Ki Playlist\u201d celebrates music that brings back cherished memories and emotions. For the first time ever, auditions go outdoors, traveling across India to discover raw talent, hosted by the legendary Udit Narayan, while Aditya Narayan returns as the main host. The judges - Vishal Dadlani, Shreya Ghoshal, and Badshah - search for voices that touch hearts. A season where every song is a memory, and every melody tells a story.",
-            "genres": [
-                "Reality",
-                "Music"
-            ],
-            "broadcast_channel": "SET",
-            "language": "HINDI",
-            "startTime": "04 Apr 2026, 07:40 PM",
-            "endTime": "04 Apr 2026, 09:52 PM",
-            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016899/1775307249850824_Indian_Idol_Golden_Jubilee_Simulcast_landscape_thumb.jpg",
-            "stream_url": "https://dai.google.com/ssai/event/g1cPcUIdSQC_3FXsrgV5iA/master.m3u8"
         },
         {
             "contentId": 1090509685,
