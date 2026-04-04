@@ -2,24 +2,8 @@
     "name": "SonyLiv Matches Full Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last_update": "03:00:17 AM 05-04-2026",
-    "live": [
-        {
-            "contentId": 1090514989,
-            "title": "Southampton vs Arsenal - Quarter-Final - 5 Apr 2026",
-            "shortDescription": "Southampton host Arsenal in an FA Cup quarter-final clash at St Mary's, with the Saints chasing a Wembley semi-final spot and the Gunners aiming to rebound from their Carabao Cup final loss. Will Southampton's momentum shatter Arsenal's title charge, or will the Gunners roll on? Catch all action from the Emirates FA Cup 2025-26, LIVE on Sony LIV.",
-            "longDescription": "Southampton host Arsenal in an FA Cup quarter-final clash at St Mary's, with the Saints chasing a Wembley semi-final spot and the Gunners aiming to rebound from their Carabao Cup final loss. Will Southampton's momentum shatter Arsenal's title charge, or will the Gunners roll on? Catch all action from the Emirates FA Cup 2025-26, LIVE on Sony LIV.",
-            "genres": [
-                "Football"
-            ],
-            "broadcast_channel": "Sony Sports Ten 2",
-            "language": "ENGLISH",
-            "startTime": "04 Apr 2026, 11:50 PM",
-            "endTime": "05 Apr 2026, 04:50 AM",
-            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016634/1774600644373142_FC_Cup_26_QF_Southampton_vs_Arsenal_landscape_thumb.jpg",
-            "stream_url": "https://dai.google.com/ssai/event/5F9zoppqQ_WmchSbXbE58w/master.m3u8"
-        }
-    ],
+    "last_update": "03:15:16 AM 05-04-2026",
+    "live": [],
     "upcoming": [
         {
             "contentId": 1090507837,
