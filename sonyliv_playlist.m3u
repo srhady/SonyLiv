@@ -2,7 +2,10 @@
 #name: SonyLiv Full Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update: 08:00:20 PM 04-04-2026
+#last update: 08:15:17 PM 04-04-2026
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016899/1775307249850824_Indian_Idol_Golden_Jubilee_Simulcast_landscape_thumb.jpg" group-title="SonyLiv Live", Indian Idol [HINDI]
+https://dai.google.com/ssai/event/g1cPcUIdSQC_3FXsrgV5iA/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016629/1774505859291346_BLIGA_26_MD28_sc-Freiburg-vs-Bayern_landscape_thumb.jpg" group-title="SonyLiv Live", Freiburg vs Bayern Munich - MD 28 - 4 Apr 2026 [ENGLISH]
 https://dai.google.com/ssai/event/qsP7wpRuRn21SQtlFwpLlg/master.m3u8
