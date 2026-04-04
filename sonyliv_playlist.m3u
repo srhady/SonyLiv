@@ -2,8 +2,26 @@
 #name: SonyLiv Full Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update: 06:45:18 PM 04-04-2026
+#last update: 07:00:20 PM 04-04-2026
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016634/1774600565261142_FC_Cup_26_QF_Manchester_City_vs_Liverpool_landscape_thumb.jpg" group-title="SonyLiv Live", Manchester City vs Liverpool - Quarter-Final - 4 Apr 2026 [ENGLISH]
 https://dai.google.com/ssai/event/xq7h_HJVS7mEliIeK8sjnQ/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016629/1774505859291346_BLIGA_26_MD28_sc-Freiburg-vs-Bayern_landscape_thumb.jpg" group-title="SonyLiv Live", Freiburg vs Bayern Munich - MD 28 - 4 Apr 2026 [ENGLISH]
+https://dai.google.com/ssai/event/qsP7wpRuRn21SQtlFwpLlg/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016629/1774504746163346_BLIGA_26_MD28_Bayer-Leverkusen-vs-Wolfsburg_landscape_thumb.jpg" group-title="SonyLiv Live", Bayer Leverkusen vs Wolfsburg - MD 28 - 4 Apr 2026 [ENGLISH]
+https://dai.google.com/ssai/event/oZs88hOjQ3S-EChISQYBTg/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016629/1774506083029346_BLIGA_26_MD28_Werder-Bremen-vs-RB-Leipzig_landscape_thumb.jpg" group-title="SonyLiv Live", Werder Bremen vs RB Leipzig - MD 28 - 4 Apr 2026 [ENGLISH]
+https://dai.google.com/ssai/event/ZZK3RrQPQGqD39XWHxFThQ/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016629/1774506910935346_BLIGA_26_MD28_Borussia-Mgladbach-vs-Heidenheim_landscape_thumb.jpg" group-title="SonyLiv Live", Borussia Mönchengladbach vs Heidenheim - MD 28 - 4 Apr 2026 [ENGLISH]
+https://dai.google.com/ssai/event/d0oBqiCqSkGDp4wRsUIxqA/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016629/1774526182318346_BLIGA_26_MD28_Hamburger-vs-Augsburg_landscape_thumb.jpg" group-title="SonyLiv Live", Hamburger SV vs Augsburg - MD 28 - 4 Apr 2026 [ENGLISH]
+https://dai.google.com/ssai/event/009yZ9yLQU2Hu-Axxf6LXQ/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016629/1774525570195346_BLIGA_26_MD28_Hoffenheim-vs-Mainz_landscape_thumb.jpg" group-title="SonyLiv Live", Hoffenheim vs Mainz - MD 28 - 4 Apr 2026 [ENGLISH]
+https://dai.google.com/ssai/event/UpH4UngGS3S6Wt3YU5PjuQ/master.m3u8
 
