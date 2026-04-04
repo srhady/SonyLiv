@@ -2,22 +2,22 @@
     "name": "SonyLiv Matches Full Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last_update": "12:30:18 AM 05-04-2026",
+    "last_update": "12:45:13 AM 05-04-2026",
     "live": [
         {
-            "contentId": 1090513275,
-            "title": "Chelsea vs Port Vale - Quarter-Final - 4 Apr 2026",
-            "shortDescription": "Chelsea welcome Port Vale to Stamford Bridge for a thrilling cup clash, as the Premier League giants face a spirited League One side. The Blues will look to assert their dominance and move one step closer to silverware, while Port Vale aim to produce an upset and make headlines with a memorable win. Can Chelsea\u2019s quality prove too much, or will Port Vale defy the odds under the lights? Catch all action from the Emirates FA Cup 2025-26, LIVE on Sony LIV.",
-            "longDescription": "Chelsea welcome Port Vale to Stamford Bridge for a thrilling cup clash, as the Premier League giants face a spirited League One side. The Blues will look to assert their dominance and move one step closer to silverware, while Port Vale aim to produce an upset and make headlines with a memorable win. Can Chelsea\u2019s quality prove too much, or will Port Vale defy the odds under the lights? Catch all action from the Emirates FA Cup 2025-26, LIVE on Sony LIV.",
+            "contentId": 1090514989,
+            "title": "Southampton vs Arsenal - Quarter-Final - 5 Apr 2026",
+            "shortDescription": "Southampton host Arsenal in an FA Cup quarter-final clash at St Mary's, with the Saints chasing a Wembley semi-final spot and the Gunners aiming to rebound from their Carabao Cup final loss. Will Southampton's momentum shatter Arsenal's title charge, or will the Gunners roll on? Catch all action from the Emirates FA Cup 2025-26, LIVE on Sony LIV.",
+            "longDescription": "Southampton host Arsenal in an FA Cup quarter-final clash at St Mary's, with the Saints chasing a Wembley semi-final spot and the Gunners aiming to rebound from their Carabao Cup final loss. Will Southampton's momentum shatter Arsenal's title charge, or will the Gunners roll on? Catch all action from the Emirates FA Cup 2025-26, LIVE on Sony LIV.",
             "genres": [
                 "Football"
             ],
             "broadcast_channel": "Sony Sports Ten 2",
             "language": "ENGLISH",
-            "startTime": "04 Apr 2026, 09:05 PM",
-            "endTime": "05 Apr 2026, 02:05 AM",
-            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016634/1774600605381142_FC_Cup_26_QF_Chelsea_vs_Port_Vale_landscape_thumb.jpg",
-            "stream_url": "https://dai.google.com/ssai/event/noB3YwyRQVm5K-y_47MrBA/master.m3u8"
+            "startTime": "04 Apr 2026, 11:50 PM",
+            "endTime": "05 Apr 2026, 04:50 AM",
+            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016634/1774600644373142_FC_Cup_26_QF_Southampton_vs_Arsenal_landscape_thumb.jpg",
+            "stream_url": "https://dai.google.com/ssai/event/5F9zoppqQ_WmchSbXbE58w/master.m3u8"
         },
         {
             "contentId": 1090509685,
@@ -69,17 +69,6 @@
             ],
             "startTime": "02 Apr 2026, 10:00 AM",
             "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1590015819/thumbnail/1775273627241_./MWF_Landscape_Thumb_Dated.jpg"
-        },
-        {
-            "contentId": 1090508010,
-            "title": "Upcoming - Emirates FA Cup - Southampton vs Arsenal",
-            "shortDescription": "Tune in to catch all the action from the Emirates FA Cup, exclusively on Sony LIV.",
-            "longDescription": "Tune in to catch all the action from the Emirates FA Cup, exclusively on Sony LIV.",
-            "genres": [
-                "Football"
-            ],
-            "startTime": "30 Mar 2026, 09:00 PM",
-            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016712/1774855184779308_FA_Cup_26_QF_Southampton_vs_Arsenal_Landscape_Thumbnail_Dated.jpg"
         },
         {
             "contentId": 1090507833,
