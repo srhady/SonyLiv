@@ -2,8 +2,24 @@
     "name": "SonyLiv Matches Full Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last_update": "05:00:20 PM 04-04-2026",
-    "live": [],
+    "last_update": "05:15:17 PM 04-04-2026",
+    "live": [
+        {
+            "contentId": 1090510251,
+            "title": "Manchester City vs Liverpool - Quarter-Final - 4 Apr 2026",
+            "shortDescription": "Manchester City and Liverpool renew their fierce rivalry with a semi-final spot at stake in a high-intensity knockout clash. Stars like Erling Haaland, Mohamed Salah, and Virgil van Dijk headline a contest that promises elite quality, tactical tension, and fine margins. Tune in to catch all action from the Emirates FA Cup 2025-26, LIVE on Sony LIV.",
+            "longDescription": "Manchester City and Liverpool renew their fierce rivalry with a semi-final spot at stake in a high-intensity knockout clash. Stars like Erling Haaland, Mohamed Salah, and Virgil van Dijk headline a contest that promises elite quality, tactical tension, and fine margins. Tune in to catch all action from the Emirates FA Cup 2025-26, LIVE on Sony LIV.",
+            "genres": [
+                "Football"
+            ],
+            "broadcast_channel": "Sony Sports Ten 2",
+            "language": "ENGLISH",
+            "startTime": "04 Apr 2026, 04:35 PM",
+            "endTime": "04 Apr 2026, 09:35 PM",
+            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016634/1774600565261142_FC_Cup_26_QF_Manchester_City_vs_Liverpool_landscape_thumb.jpg",
+            "stream_url": "https://dai.google.com/ssai/event/xq7h_HJVS7mEliIeK8sjnQ/master.m3u8"
+        }
+    ],
     "upcoming": [
         {
             "contentId": 1090507837,
@@ -15,17 +31,6 @@
             ],
             "startTime": "13 Mar 2026, 10:00 AM",
             "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090506382/thumbnail/1773409831023_./Yaadein_Landscape_Thumb_Dated.jpg"
-        },
-        {
-            "contentId": 1090508008,
-            "title": "Upcoming - Emirates FA Cup - Manchester City vs Liverpool",
-            "shortDescription": "Tune in to catch all the action from the Emirates FA Cup, exclusively on Sony LIV.",
-            "longDescription": "Tune in to catch all the action from the Emirates FA Cup, exclusively on Sony LIV.",
-            "genres": [
-                "Football"
-            ],
-            "startTime": "30 Mar 2026, 09:00 PM",
-            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016712/1774854754685308_FA_Cup_26_QF_Manchester_City_vs_Liverpool_Landscape_Thumbnail_Dated.jpg"
         },
         {
             "contentId": 1090507988,
