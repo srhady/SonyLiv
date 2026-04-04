@@ -2,7 +2,7 @@
     "name": "SonyLiv Matches Full Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last_update": "12:45:13 AM 05-04-2026",
+    "last_update": "01:00:22 AM 05-04-2026",
     "live": [
         {
             "contentId": 1090514989,
@@ -18,21 +18,6 @@
             "endTime": "05 Apr 2026, 04:50 AM",
             "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016634/1774600644373142_FC_Cup_26_QF_Southampton_vs_Arsenal_landscape_thumb.jpg",
             "stream_url": "https://dai.google.com/ssai/event/5F9zoppqQ_WmchSbXbE58w/master.m3u8"
-        },
-        {
-            "contentId": 1090509685,
-            "title": "VfB Stuttgart vs Borussia Dortmund - MD 28 - 4 Apr 2026",
-            "shortDescription": "VfB Stuttgart host Borussia Dortmund in a high-profile clash with important implications near the top half of the table. Stuttgart aim to impose intensity and structure on home soil, while Dortmund bring attacking threat and experience in high\u2011pressure situations. With points crucial at this stage, this encounter promises pace, intensity, and edge\u2011of\u2011the\u2011seat moments. Catch all the action from Bundesliga 2025-26, LIVE on Sony LIV.",
-            "longDescription": "VfB Stuttgart host Borussia Dortmund in a high-profile clash with important implications near the top half of the table. Stuttgart aim to impose intensity and structure on home soil, while Dortmund bring attacking threat and experience in high\u2011pressure situations. With points crucial at this stage, this encounter promises pace, intensity, and edge\u2011of\u2011the\u2011seat moments. Catch all the action from Bundesliga 2025-26, LIVE on Sony LIV.",
-            "genres": [
-                "Football"
-            ],
-            "broadcast_channel": "Sony Sports Ten 2",
-            "language": "ENGLISH",
-            "startTime": "04 Apr 2026, 09:20 PM",
-            "endTime": "05 Apr 2026, 02:20 AM",
-            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016629/1774526664928346_BLIGA_26_MD28_VfB-Stuttgart-vs-Dortmund_landscape_thumb.jpg",
-            "stream_url": "https://dai.google.com/ssai/event/midOIjk_Sh6MvUr2-jXEWQ/master.m3u8"
         }
     ],
     "upcoming": [
