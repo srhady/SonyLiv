@@ -2,7 +2,7 @@
     "name": "SonyLiv Matches Full Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last_update": "09:45:16 PM 05-04-2026",
+    "last_update": "10:00:24 PM 05-04-2026",
     "live": [
         {
             "contentId": 1090513704,
@@ -48,21 +48,6 @@
             "endTime": "06 Apr 2026, 01:20 AM",
             "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016806/1775056642442385_bliga26_MD28_Eintracht_Frankfurt_vs_FC_Koln_1apr_landscape_thumb.jpg",
             "stream_url": "https://dai.google.com/ssai/event/by07ZzrmTgerkPQ39CviUA/master.m3u8"
-        },
-        {
-            "contentId": 1090514991,
-            "title": "Union Berlin vs St. Pauli - MD 28 - 5 Apr 2026",
-            "shortDescription": "Expect a physical, hard-fought contest as Union Berlin host St. Pauli with both sides aiming to secure vital points as the season enters its decisive stretch. Catch all the action from Bundesliga 2025-26, LIVE on Sony LIV.",
-            "longDescription": "Expect a physical, hard-fought contest as Union Berlin host St. Pauli with both sides aiming to secure vital points as the season enters its decisive stretch. Catch all the action from Bundesliga 2025-26, LIVE on Sony LIV.",
-            "genres": [
-                "Football"
-            ],
-            "broadcast_channel": "Sony Sports Ten 2",
-            "language": "ENGLISH",
-            "startTime": "05 Apr 2026, 06:20 PM",
-            "endTime": "05 Apr 2026, 11:20 PM",
-            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016629/1774527175601346_BLIGA_26_MD28_Union-Berlin-vs-St-Pauli_landscape_thumb.jpg",
-            "stream_url": "https://dai.google.com/ssai/event/Fe-Yf9eVSKeRfjMsJNyn4g/master.m3u8"
         }
     ],
     "upcoming": [
