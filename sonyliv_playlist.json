@@ -2,23 +2,8 @@
     "name": "SonyLiv Matches Full Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last_update": "11:30:17 PM 05-04-2026",
+    "last_update": "11:45:14 PM 05-04-2026",
     "live": [
-        {
-            "contentId": 1090513704,
-            "title": "Chetak Screen Awards",
-            "shortDescription": "The Screen Awards is an annual Indian film and television awards ceremony that recognizes excellence in cinema and entertainment. It honors achievements across categories like acting, direction, music, and technical craft, featuring performances, celebrity appearances, and industry recognition, making it one of the prominent award events in India's entertainment calendar.",
-            "longDescription": "The Screen Awards is an annual Indian film and television awards ceremony that recognizes excellence in cinema and entertainment. It honors achievements across categories like acting, direction, music, and technical craft, featuring performances, celebrity appearances, and industry recognition, making it one of the prominent award events in India's entertainment calendar.",
-            "genres": [
-                "Event"
-            ],
-            "broadcast_channel": "SET",
-            "language": "HINDI",
-            "startTime": "05 Apr 2026, 07:30 PM",
-            "endTime": "05 Apr 2026, 11:00 PM",
-            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016943/1775399659114986_SCREEN_AWARDS_rev_simulcast_landscape_Thumb.jpg",
-            "stream_url": "https://dai.google.com/ssai/event/-9b6XJc7R-6Qneau7JKlJg/master.m3u8"
-        },
         {
             "contentId": 1090516993,
             "title": "West Ham United vs Leeds United - Quarter-Final - 5 Apr 2026",
