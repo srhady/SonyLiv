@@ -2,13 +2,19 @@
 #name: SonyLiv Full Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update: 08:45:15 PM 05-04-2026
+#last update: 09:00:20 PM 05-04-2026
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016937/1775379981709798_SCREEN_AWARDS_simulcast_landscape_Thumb.jpg" group-title="SonyLiv Live", Chetak Screen Awards [HINDI]
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016943/1775399659114986_SCREEN_AWARDS_rev_simulcast_landscape_Thumb.jpg" group-title="SonyLiv Live", Chetak Screen Awards [HINDI]
 https://dai.google.com/ssai/event/-9b6XJc7R-6Qneau7JKlJg/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016634/1774600684666142_FC_Cup_26_QF_West-Ham_United_vs_Leeds_United_landscape_thumb.jpg" group-title="SonyLiv Live", West Ham United vs Leeds United - Quarter-Final - 5 Apr 2026 [ENGLISH]
+https://dai.google.com/ssai/event/_wNibTTjRKGbTJkQbT7_mQ/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016579/1774439731299819_IFC_Sreenidi_Deccan_FC_vs_Aizawl_FC_landscape_thumb.jpg" group-title="SonyLiv Live", Sreenidi Deccan FC vs Aizawl FC - 5 Apr 2026 [ENGLISH]
 https://dai.google.com/ssai/event/9iKEkpCWT7eFsJb10bBztQ/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016806/1775056642442385_bliga26_MD28_Eintracht_Frankfurt_vs_FC_Koln_1apr_landscape_thumb.jpg" group-title="SonyLiv Live", Eintracht Frankfurt vs FC Koln - MD 28 - 5 Apr 2026 [ENGLISH]
+https://dai.google.com/ssai/event/by07ZzrmTgerkPQ39CviUA/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016629/1774527175601346_BLIGA_26_MD28_Union-Berlin-vs-St-Pauli_landscape_thumb.jpg" group-title="SonyLiv Live", Union Berlin vs St. Pauli - MD 28 - 5 Apr 2026 [ENGLISH]
 https://dai.google.com/ssai/event/Fe-Yf9eVSKeRfjMsJNyn4g/master.m3u8
