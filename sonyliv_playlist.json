@@ -2,7 +2,7 @@
     "name": "SonyLiv Matches Full Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last_update": "11:45:14 PM 05-04-2026",
+    "last_update": "12:00:18 AM 06-04-2026",
     "live": [
         {
             "contentId": 1090516993,
@@ -18,21 +18,6 @@
             "endTime": "06 Apr 2026, 01:20 AM",
             "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016634/1774600684666142_FC_Cup_26_QF_West-Ham_United_vs_Leeds_United_landscape_thumb.jpg",
             "stream_url": "https://dai.google.com/ssai/event/_wNibTTjRKGbTJkQbT7_mQ/master.m3u8"
-        },
-        {
-            "contentId": 1090516992,
-            "title": "Eintracht Frankfurt vs FC Koln - MD 28 - 5 Apr 2026",
-            "shortDescription": "Eintracht Frankfurt face K\u00f6ln as both sides look to pick up crucial points in the business end of the season. Frankfurt will aim to use home advantage to press their European ambitions, while K\u00f6ln arrive determined to stay compact and challenge for a result in a high-stakes encounter. Catch all the action from Bundesliga 2025-26, LIVE on Sony LIV.",
-            "longDescription": "Eintracht Frankfurt face K\u00f6ln as both sides look to pick up crucial points in the business end of the season. Frankfurt will aim to use home advantage to press their European ambitions, while K\u00f6ln arrive determined to stay compact and challenge for a result in a high-stakes encounter. Catch all the action from Bundesliga 2025-26, LIVE on Sony LIV.",
-            "genres": [
-                "Football"
-            ],
-            "broadcast_channel": "Sony Sports Ten 2",
-            "language": "ENGLISH",
-            "startTime": "05 Apr 2026, 08:20 PM",
-            "endTime": "06 Apr 2026, 01:20 AM",
-            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016806/1775056642442385_bliga26_MD28_Eintracht_Frankfurt_vs_FC_Koln_1apr_landscape_thumb.jpg",
-            "stream_url": "https://dai.google.com/ssai/event/by07ZzrmTgerkPQ39CviUA/master.m3u8"
         }
     ],
     "upcoming": [
