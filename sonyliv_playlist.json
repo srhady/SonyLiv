@@ -2,7 +2,7 @@
     "name": "SonyLiv Matches Full Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last_update": "09:00:20 PM 05-04-2026",
+    "last_update": "09:15:16 PM 05-04-2026",
     "live": [
         {
             "contentId": 1090513704,
@@ -12,7 +12,7 @@
             "genres": [
                 "Event"
             ],
-            "broadcast_channel": "Sony Entertainment Television",
+            "broadcast_channel": "SET",
             "language": "HINDI",
             "startTime": "05 Apr 2026, 07:30 PM",
             "endTime": "05 Apr 2026, 11:00 PM",
@@ -33,21 +33,6 @@
             "endTime": "06 Apr 2026, 01:20 AM",
             "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016634/1774600684666142_FC_Cup_26_QF_West-Ham_United_vs_Leeds_United_landscape_thumb.jpg",
             "stream_url": "https://dai.google.com/ssai/event/_wNibTTjRKGbTJkQbT7_mQ/master.m3u8"
-        },
-        {
-            "contentId": 1090516994,
-            "title": "Sreenidi Deccan FC vs Aizawl FC - 5 Apr 2026",
-            "shortDescription": "Sreenidi Deccan FC welcome Aizawl FC in an Indian Football League clash as both sides look to build momentum in a tightly contested phase of the season. Expect a competitive encounter, with Sreenidi aiming to capitalize on home advantage while Aizawl seek to frustrate their hosts and target a crucial away result. Tune in to catch all the action from Indian Football League 2026, LIVE on Sony LIV.",
-            "longDescription": "Sreenidi Deccan FC welcome Aizawl FC in an Indian Football League clash as both sides look to build momentum in a tightly contested phase of the season. Expect a competitive encounter, with Sreenidi aiming to capitalize on home advantage while Aizawl seek to frustrate their hosts and target a crucial away result. Tune in to catch all the action from Indian Football League 2026, LIVE on Sony LIV.",
-            "genres": [
-                "Football"
-            ],
-            "broadcast_channel": "Sony Sports Ten 2",
-            "language": "ENGLISH",
-            "startTime": "05 Apr 2026, 06:00 PM",
-            "endTime": "05 Apr 2026, 11:00 PM",
-            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016579/1774439731299819_IFC_Sreenidi_Deccan_FC_vs_Aizawl_FC_landscape_thumb.jpg",
-            "stream_url": "https://dai.google.com/ssai/event/9iKEkpCWT7eFsJb10bBztQ/master.m3u8"
         },
         {
             "contentId": 1090516992,
