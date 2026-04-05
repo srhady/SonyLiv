@@ -2,24 +2,8 @@
     "name": "SonyLiv Matches Full Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last_update": "09:00:22 AM 05-04-2026",
-    "live": [
-        {
-            "contentId": 1090516983,
-            "title": "UFC Fight Night - Moicano vs Duncan - 5 Apr 2026",
-            "shortDescription": "Moicano vs Duncan sets up as a compelling lightweight main event between Renato Moicano\u2019s veteran pressure and grappling savvy and Chris Duncan\u2019s aggressive pace, power, and finishing instinct. Tune in to catch all the action from UFC Fight Night, LIVE on Sony LIV.",
-            "longDescription": "Moicano vs Duncan sets up as a compelling lightweight main event between Renato Moicano\u2019s veteran pressure and grappling savvy and Chris Duncan\u2019s aggressive pace, power, and finishing instinct. Tune in to catch all the action from UFC Fight Night, LIVE on Sony LIV.",
-            "genres": [
-                "Fight Sports"
-            ],
-            "broadcast_channel": "Sony Sports Ten 2",
-            "language": "ENGLISH",
-            "startTime": "05 Apr 2026, 05:00 AM",
-            "endTime": "05 Apr 2026, 11:00 AM",
-            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016890/1775297558682105_UFC_Fight_Night_Moicano_vs_Duncan_landscape_thumbnail.jpg",
-            "stream_url": "https://dai.google.com/ssai/event/_wNibTTjRKGbTJkQbT7_mQ/master.m3u8"
-        }
-    ],
+    "last_update": "09:15:19 AM 05-04-2026",
+    "live": [],
     "upcoming": [
         {
             "contentId": 1090507837,
