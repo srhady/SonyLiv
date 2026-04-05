@@ -2,24 +2,8 @@
     "name": "SonyLiv Matches Full Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last_update": "12:45:15 AM 06-04-2026",
-    "live": [
-        {
-            "contentId": 1090516993,
-            "title": "West Ham United vs Leeds United - Quarter-Final - 5 Apr 2026",
-            "shortDescription": "West Ham United take on Leeds United with a place in the semis at stake, setting up a compelling all-Premier League-style encounter. The Hammers will look to make home advantage count, while Leeds arrive intent on maintaining their cup momentum and testing West Ham\u2019s resolve in a high-energy battle. Catch all action from the Emirates FA Cup 2025-26, LIVE on Sony LIV.",
-            "longDescription": "West Ham United take on Leeds United with a place in the semis at stake, setting up a compelling all-Premier League-style encounter. The Hammers will look to make home advantage count, while Leeds arrive intent on maintaining their cup momentum and testing West Ham\u2019s resolve in a high-energy battle. Catch all action from the Emirates FA Cup 2025-26, LIVE on Sony LIV.",
-            "genres": [
-                "Football"
-            ],
-            "broadcast_channel": "Sony Sports Ten 2",
-            "language": "ENGLISH",
-            "startTime": "05 Apr 2026, 08:20 PM",
-            "endTime": "06 Apr 2026, 01:20 AM",
-            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016634/1774600684666142_FC_Cup_26_QF_West-Ham_United_vs_Leeds_United_landscape_thumb.jpg",
-            "stream_url": "https://dai.google.com/ssai/event/_wNibTTjRKGbTJkQbT7_mQ/master.m3u8"
-        }
-    ],
+    "last_update": "01:00:20 AM 06-04-2026",
+    "live": [],
     "upcoming": [
         {
             "contentId": 1090507837,
