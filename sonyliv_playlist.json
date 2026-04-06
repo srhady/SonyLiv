@@ -2,23 +2,8 @@
     "name": "SonyLiv Matches Full Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last_update": "06:45:18 PM 06-04-2026",
+    "last_update": "07:00:21 PM 06-04-2026",
     "live": [
-        {
-            "contentId": 1090517006,
-            "title": "Namdhari FC vs Diamond Harbour FC - 6 Apr 2026",
-            "shortDescription": "Namdhari FC welcome table-toppers Diamond Harbour FC promising a competitive contest, with Namdhari aiming to capitalise on home strengths while the visitors will look to continue the momentum with disciplined play and quick transitions. Tune in to catch all the action from Indian Football League 2026, LIVE on Sony LIV.",
-            "longDescription": "Namdhari FC welcome table-toppers Diamond Harbour FC promising a competitive contest, with Namdhari aiming to capitalise on home strengths while the visitors will look to continue the momentum with disciplined play and quick transitions. Tune in to catch all the action from Indian Football League 2026, LIVE on Sony LIV.",
-            "genres": [
-                "Football"
-            ],
-            "broadcast_channel": "Sony Sports Ten 2",
-            "language": "ENGLISH",
-            "startTime": "06 Apr 2026, 03:30 PM",
-            "endTime": "06 Apr 2026, 08:30 PM",
-            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016579/1774439983097819_IFC_Namdhari_FC_vs_Diamond_Harbour_FC_landscape_thumb.jpg",
-            "stream_url": "https://dai.google.com/ssai/event/KWiN0SYqQXKKU-r5pMmVYw/master.m3u8"
-        },
         {
             "contentId": 1090517009,
             "title": "Real Kashmir FC vs Chanmari FC - 6 Apr 2026",
