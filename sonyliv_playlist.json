@@ -2,9 +2,69 @@
     "name": "SonyLiv Matches Full Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last_update": "04:00:23 PM 06-04-2026",
-    "live": [],
+    "last_update": "04:15:20 PM 06-04-2026",
+    "live": [
+        {
+            "contentId": 1090517006,
+            "title": "Namdhari FC vs Diamond Harbour FC - 6 Apr 2026",
+            "shortDescription": "Namdhari FC welcome table-toppers Diamond Harbour FC promising a competitive contest, with Namdhari aiming to capitalise on home strengths while the visitors will look to continue the momentum with disciplined play and quick transitions. Tune in to catch all the action from Indian Football League 2026, LIVE on Sony LIV.",
+            "longDescription": "Namdhari FC welcome table-toppers Diamond Harbour FC promising a competitive contest, with Namdhari aiming to capitalise on home strengths while the visitors will look to continue the momentum with disciplined play and quick transitions. Tune in to catch all the action from Indian Football League 2026, LIVE on Sony LIV.",
+            "genres": [
+                "Football"
+            ],
+            "broadcast_channel": "Sony Sports Ten 2",
+            "language": "ENGLISH",
+            "startTime": "06 Apr 2026, 03:30 PM",
+            "endTime": "06 Apr 2026, 08:30 PM",
+            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016579/1774439983097819_IFC_Namdhari_FC_vs_Diamond_Harbour_FC_landscape_thumb.jpg",
+            "stream_url": "https://dai.google.com/ssai/event/KWiN0SYqQXKKU-r5pMmVYw/master.m3u8"
+        }
+    ],
     "upcoming": [
+        {
+            "contentId": 1090511808,
+            "title": "Upcoming - Real Madrid vs Bayern - UEFA Champions League 2025-26",
+            "shortDescription": "Watch the UEFA Champions League 2025-26 here, only on Sony LIV.",
+            "longDescription": "Watch the UEFA Champions League 2025-26 here, only on Sony LIV.",
+            "genres": [
+                "Football"
+            ],
+            "startTime": "03 Apr 2026, 01:00 AM",
+            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016885/1775282412536532_UCL_QF_Leg1_Real_Madrid_vs_Bayern_Munich_promo_with_sponsors_landscape_thumb_dated.jpg"
+        },
+        {
+            "contentId": 1090511809,
+            "title": "Upcoming - Sporting CP vs Arsenal - UEFA Champions League 2025-26",
+            "shortDescription": "Watch the UEFA Champions League 2025-26 here, only on Sony LIV.",
+            "longDescription": "Watch the UEFA Champions League 2025-26 here, only on Sony LIV.",
+            "genres": [
+                "Football"
+            ],
+            "startTime": "03 Apr 2026, 01:00 AM",
+            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016885/1775284259516532_UCL_QF_Leg1_Sporting_vs_Arsenal_promo_with_sponsors_landscape_thumb_dated.jpg"
+        },
+        {
+            "contentId": 1090511810,
+            "title": "Upcoming - PSG vs Liverpool - UEFA Champions League 2025-26",
+            "shortDescription": "Watch the UEFA Champions League 2025-26 here, only on Sony LIV.",
+            "longDescription": "Watch the UEFA Champions League 2025-26 here, only on Sony LIV.",
+            "genres": [
+                "Football"
+            ],
+            "startTime": "03 Apr 2026, 01:00 AM",
+            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016885/1775284946043532_UCL_QF_Leg1_PSG_vs_Liverpool_promo_with_sponsors_landscape_thumb_dated.jpg"
+        },
+        {
+            "contentId": 1090511811,
+            "title": "Upcoming - Barcelona vs Atletico - UEFA Champions League 2025-26",
+            "shortDescription": "Watch the UEFA Champions League 2025-26 here, only on Sony LIV.",
+            "longDescription": "Watch the UEFA Champions League 2025-26 here, only on Sony LIV.",
+            "genres": [
+                "Football"
+            ],
+            "startTime": "03 Apr 2026, 01:00 AM",
+            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016885/1775285337543532_UCL_QF_Leg1_Barcelona_vs_Atletico_promo_with_sponsors_landscape_thumb_dated.jpg"
+        },
         {
             "contentId": 1090507837,
             "title": "Hui Gumm Yaadein Ek Doctor, Do Zindagiyaan",
@@ -14,7 +74,7 @@
                 "Drama"
             ],
             "startTime": "13 Mar 2026, 10:00 AM",
-            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090506382/thumbnail/1773409831023_./Yaadein_Landscape_Thumb_Dated.jpg"
+            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090507837/landscapeThumb/1775451440653_1775449482480599_Yaadein_Landscape_Thumb_tonight.jpg"
         },
         {
             "contentId": 1090511806,
@@ -74,50 +134,6 @@
             ],
             "startTime": "14 Mar 2026, 12:00 AM",
             "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016189/1773494443654730_gec_combo_promo_landscape_thumb.jpg"
-        },
-        {
-            "contentId": 1090511808,
-            "title": "Upcoming - Real Madrid vs Bayern - UEFA Champions League 2025-26",
-            "shortDescription": "Watch the UEFA Champions League 2025-26 here, only on Sony LIV.",
-            "longDescription": "Watch the UEFA Champions League 2025-26 here, only on Sony LIV.",
-            "genres": [
-                "Football"
-            ],
-            "startTime": "03 Apr 2026, 01:00 AM",
-            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016885/1775282412536532_UCL_QF_Leg1_Real_Madrid_vs_Bayern_Munich_promo_with_sponsors_landscape_thumb_dated.jpg"
-        },
-        {
-            "contentId": 1090511810,
-            "title": "Upcoming - PSG vs Liverpool - UEFA Champions League 2025-26",
-            "shortDescription": "Watch the UEFA Champions League 2025-26 here, only on Sony LIV.",
-            "longDescription": "Watch the UEFA Champions League 2025-26 here, only on Sony LIV.",
-            "genres": [
-                "Football"
-            ],
-            "startTime": "03 Apr 2026, 01:00 AM",
-            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016885/1775284946043532_UCL_QF_Leg1_PSG_vs_Liverpool_promo_with_sponsors_landscape_thumb_dated.jpg"
-        },
-        {
-            "contentId": 1090511811,
-            "title": "Upcoming - Barcelona vs Atletico - UEFA Champions League 2025-26",
-            "shortDescription": "Watch the UEFA Champions League 2025-26 here, only on Sony LIV.",
-            "longDescription": "Watch the UEFA Champions League 2025-26 here, only on Sony LIV.",
-            "genres": [
-                "Football"
-            ],
-            "startTime": "03 Apr 2026, 01:00 AM",
-            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016885/1775285337543532_UCL_QF_Leg1_Barcelona_vs_Atletico_promo_with_sponsors_landscape_thumb_dated.jpg"
-        },
-        {
-            "contentId": 1090511809,
-            "title": "Upcoming - Sporting CP vs Arsenal - UEFA Champions League 2025-26",
-            "shortDescription": "Watch the UEFA Champions League 2025-26 here, only on Sony LIV.",
-            "longDescription": "Watch the UEFA Champions League 2025-26 here, only on Sony LIV.",
-            "genres": [
-                "Football"
-            ],
-            "startTime": "03 Apr 2026, 01:00 AM",
-            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016885/1775284259516532_UCL_QF_Leg1_Sporting_vs_Arsenal_promo_with_sponsors_landscape_thumb_dated.jpg"
         }
     ]
 }
