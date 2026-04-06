@@ -2,22 +2,22 @@
     "name": "SonyLiv Matches Full Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last_update": "09:00:21 PM 06-04-2026",
+    "last_update": "09:15:18 PM 06-04-2026",
     "live": [
         {
-            "contentId": 1090517009,
-            "title": "Real Kashmir FC vs Chanmari FC - 6 Apr 2026",
-            "shortDescription": "Real Kashmir FC, struggling at the bottom of the table, face Chanmari FC as both sides aim to find form and secure vital points in their campaign. Tune in to catch all the action from Indian Football League 2026, LIVE on Sony LIV.",
-            "longDescription": "Real Kashmir FC, struggling at the bottom of the table, face Chanmari FC as both sides aim to find form and secure vital points in their campaign. Tune in to catch all the action from Indian Football League 2026, LIVE on Sony LIV.",
+            "contentId": 1090500468,
+            "title": "Wheel Of Fortune",
+            "shortDescription": "Recognised by Guinness World Records as the world\u2019s most popular TV game show, Wheel of Fortune arrives in India in spectacular fashion, hosted by Akshay Kumar. Contestants enter a thrilling word game, decoding phrases spanning Bollywood, pop culture and everyday life. Blending entertainment with edge-of-the-seat moments, every alphabet can change the game as players compete for paisa and prizes.",
+            "longDescription": "Recognised by Guinness World Records as the world\u2019s most popular TV game show, Wheel of Fortune arrives in India in spectacular fashion, hosted by Akshay Kumar. Contestants enter a thrilling word game, decoding phrases spanning Bollywood, pop culture and everyday life. Blending entertainment with edge-of-the-seat moments, every alphabet can change the game as players compete for paisa and prizes.",
             "genres": [
-                "Football"
+                "Game show"
             ],
-            "broadcast_channel": "Sony Sports Ten 2",
-            "language": "ENGLISH",
-            "startTime": "06 Apr 2026, 06:00 PM",
-            "endTime": "06 Apr 2026, 11:00 PM",
-            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016586/1774440493882616_IFC_Real_Kashmir_FC_vs_Chanmari_FC_landscape_thumb.jpg",
-            "stream_url": "https://dai.google.com/ssai/event/JX6SebEQTjyVdexY_GRu5A/master.m3u8"
+            "broadcast_channel": "SET",
+            "language": "HINDI",
+            "startTime": "06 Apr 2026, 08:30 PM",
+            "endTime": "06 Apr 2026, 10:27 PM",
+            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016744/1774877224201375_WOF_simulcast_landscape_thumb.jpg",
+            "stream_url": "https://dai.google.com/ssai/event/ywC0TYXoSbOYu7fxpFglFA/master.m3u8"
         }
     ],
     "upcoming": [
