@@ -2,8 +2,11 @@
 #name: SonyLiv Full Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update: 06:30:21 PM 07-04-2026
+#last update: 06:45:17 PM 07-04-2026
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016586/1774440804721616_IFC_Rajasthan_United_FC_vs_Gokulam_Kerala_FC_landscape_thumb.jpg" group-title="SonyLiv Live", Rajasthan United FC vs Gokulam Kerala FC - 7 Apr 2026 [ENGLISH]
 https://dai.google.com/ssai/event/AniN2Q6kTeGcsh3vD1SuEA/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016586/1774440984292617_IFC_Dempo_Sports_Club_vs_Shillong_Lajong_FC_landscape_thumb.jpg" group-title="SonyLiv Live", Dempo Sports Club vs Shillong Lajong FC - 7 Apr 2026 [ENGLISH]
+https://dai.google.com/ssai/event/VwE3AaQJTiiGLezAr_2DvQ/master.m3u8
 
