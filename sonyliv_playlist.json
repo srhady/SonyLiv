@@ -2,7 +2,7 @@
     "name": "SonyLiv Matches Full Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last_update": "03:00:24 AM 08-04-2026",
+    "last_update": "03:15:21 AM 08-04-2026",
     "live": [
         {
             "contentId": 1090524065,
@@ -18,21 +18,6 @@
             "endTime": "08 Apr 2026, 05:30 AM",
             "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016931/177535953179090_UCL26_QF_leg1_Real_Madrid_vs_Bayern_4apr_SP_landscape_thumb.jpg",
             "stream_url": "https://dai.google.com/ssai/event/QBKr7YPhS3mRxEVsxKqx4g/master.m3u8"
-        },
-        {
-            "contentId": 1090524529,
-            "title": "Sporting CP vs Arsenal - Quarter-Final - Leg 1 - 7 Apr 2026",
-            "shortDescription": "Sporting CP take on Arsenal in a compelling European clash, with both sides eager to gain the upper hand and build momentum on the continental stage. The Portuguese hosts are strong at home and will look to set the tone early, but Arsenal arrive with pace and confidence, aiming to assert their authority away from North London. Will Sporting make home advantage count, or can the Gunners seize control on the road? Find out as we bring you all the action from UEFA Champions League 2025-26, LIVE & exclusively on Sony LIV.",
-            "longDescription": "Sporting CP take on Arsenal in a compelling European clash, with both sides eager to gain the upper hand and build momentum on the continental stage. The Portuguese hosts are strong at home and will look to set the tone early, but Arsenal arrive with pace and confidence, aiming to assert their authority away from North London. Will Sporting make home advantage count, or can the Gunners seize control on the road? Find out as we bring you all the action from UEFA Champions League 2025-26, LIVE & exclusively on Sony LIV.",
-            "genres": [
-                "Football"
-            ],
-            "broadcast_channel": "Sony Sports Ten 2",
-            "language": "ENGLISH",
-            "startTime": "07 Apr 2026, 10:30 PM",
-            "endTime": "08 Apr 2026, 05:30 AM",
-            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016931/177536207889490_UCL26_QF_leg1_sporting_vs_arsenal_4apr_SP_landscape_thumb.jpg",
-            "stream_url": "https://dai.google.com/ssai/event/_wNibTTjRKGbTJkQbT7_mQ/master.m3u8"
         }
     ],
     "upcoming": [
