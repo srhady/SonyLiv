@@ -2,47 +2,40 @@
     "name": "SonyLiv Matches Full Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last_update": "11:30:19 PM 07-04-2026",
+    "last_update": "11:45:17 PM 07-04-2026",
     "live": [
         {
-            "contentId": 1090500468,
-            "title": "Wheel Of Fortune",
-            "shortDescription": "Recognised by Guinness World Records as the world\u2019s most popular TV game show, Wheel of Fortune arrives in India in spectacular fashion, hosted by Akshay Kumar. Contestants enter a thrilling word game, decoding phrases spanning Bollywood, pop culture and everyday life. Blending entertainment with edge-of-the-seat moments, every alphabet can change the game as players compete for paisa and prizes.",
-            "longDescription": "Recognised by Guinness World Records as the world\u2019s most popular TV game show, Wheel of Fortune arrives in India in spectacular fashion, hosted by Akshay Kumar. Contestants enter a thrilling word game, decoding phrases spanning Bollywood, pop culture and everyday life. Blending entertainment with edge-of-the-seat moments, every alphabet can change the game as players compete for paisa and prizes.",
+            "contentId": 1090524065,
+            "title": "Real Madrid vs Bayern - Quarter-Final - Leg 1- 7 Apr 2026",
+            "shortDescription": "Real Madrid welcome Bayern Munich in a heavyweight UEFA Champions League showdown, with two European giants colliding for continental supremacy. Los Blancos boast a strong home record in high\u2011stakes UCL nights, but Bayern arrive carrying their own legacy and firepower, eager to assert dominance. Will Madrid make home advantage count, or will Bayern deliver a statement win in Spain? Find out as we bring you all the action from UEFA Champions League 2025-26, LIVE & exclusively on Sony LIV.",
+            "longDescription": "Real Madrid welcome Bayern Munich in a heavyweight UEFA Champions League showdown, with two European giants colliding for continental supremacy. Los Blancos boast a strong home record in high\u2011stakes UCL nights, but Bayern arrive carrying their own legacy and firepower, eager to assert dominance. Will Madrid make home advantage count, or will Bayern deliver a statement win in Spain? Find out as we bring you all the action from UEFA Champions League 2025-26, LIVE & exclusively on Sony LIV.",
             "genres": [
-                "Game show"
+                "Football"
             ],
-            "broadcast_channel": "SET",
-            "language": "HINDI",
-            "startTime": "07 Apr 2026, 08:30 PM",
-            "endTime": "07 Apr 2026, 10:31 PM",
-            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016744/1774877224201375_WOF_simulcast_landscape_thumb.jpg",
-            "stream_url": "https://dai.google.com/ssai/event/ywC0TYXoSbOYu7fxpFglFA/master.m3u8"
+            "broadcast_channel": "Sony Sports Ten 2",
+            "language": "ENGLISH",
+            "startTime": "07 Apr 2026, 10:30 PM",
+            "endTime": "08 Apr 2026, 05:30 AM",
+            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016961/1775473412351103_UCL_QF_Champions_Ki_Charcha_Real_Madrid_vs_Bayern_Munich_landscape_thumb.jpg",
+            "stream_url": "https://dai.google.com/ssai/event/QBKr7YPhS3mRxEVsxKqx4g/master.m3u8"
+        },
+        {
+            "contentId": 1090524529,
+            "title": "Sporting CP vs Arsenal - Quarter-Final - Leg 1 - 7 Apr 2026",
+            "shortDescription": "Sporting CP take on Arsenal in a compelling European clash, with both sides eager to gain the upper hand and build momentum on the continental stage. The Portuguese hosts are strong at home and will look to set the tone early, but Arsenal arrive with pace and confidence, aiming to assert their authority away from North London. Will Sporting make home advantage count, or can the Gunners seize control on the road? Find out as we bring you all the action from UEFA Champions League 2025-26, LIVE & exclusively on Sony LIV.",
+            "longDescription": "Sporting CP take on Arsenal in a compelling European clash, with both sides eager to gain the upper hand and build momentum on the continental stage. The Portuguese hosts are strong at home and will look to set the tone early, but Arsenal arrive with pace and confidence, aiming to assert their authority away from North London. Will Sporting make home advantage count, or can the Gunners seize control on the road? Find out as we bring you all the action from UEFA Champions League 2025-26, LIVE & exclusively on Sony LIV.",
+            "genres": [
+                "Football"
+            ],
+            "broadcast_channel": "Sony Sports Ten 2",
+            "language": "ENGLISH",
+            "startTime": "07 Apr 2026, 10:30 PM",
+            "endTime": "08 Apr 2026, 05:30 AM",
+            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016931/177536207889490_UCL26_QF_leg1_sporting_vs_arsenal_4apr_SP_landscape_thumb.jpg",
+            "stream_url": "https://dai.google.com/ssai/event/_wNibTTjRKGbTJkQbT7_mQ/master.m3u8"
         }
     ],
     "upcoming": [
-        {
-            "contentId": 1090511808,
-            "title": "Upcoming - Real Madrid vs Bayern - UEFA Champions League 2025-26",
-            "shortDescription": "Watch the UEFA Champions League 2025-26 here, only on Sony LIV.",
-            "longDescription": "Watch the UEFA Champions League 2025-26 here, only on Sony LIV.",
-            "genres": [
-                "Football"
-            ],
-            "startTime": "03 Apr 2026, 01:00 AM",
-            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016885/1775282430562532_UCL_QF_Leg1_Real_Madrid_vs_Bayern_Munich_promo_with_sponsors_landscape_thumb_tonight.jpg"
-        },
-        {
-            "contentId": 1090511809,
-            "title": "Upcoming - Sporting CP vs Arsenal - UEFA Champions League 2025-26",
-            "shortDescription": "Watch the UEFA Champions League 2025-26 here, only on Sony LIV.",
-            "longDescription": "Watch the UEFA Champions League 2025-26 here, only on Sony LIV.",
-            "genres": [
-                "Football"
-            ],
-            "startTime": "03 Apr 2026, 01:00 AM",
-            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016885/1775284277330532_UCL_QF_Leg1_Sporting_vs_Arsenal_promo_with_sponsors_landscape_thumb_tonight.jpg"
-        },
         {
             "contentId": 1090511810,
             "title": "Upcoming - PSG vs Liverpool - UEFA Champions League 2025-26",
