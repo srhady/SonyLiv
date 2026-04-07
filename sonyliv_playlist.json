@@ -2,24 +2,8 @@
     "name": "SonyLiv Matches Full Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last_update": "03:45:22 AM 08-04-2026",
-    "live": [
-        {
-            "contentId": 1090524065,
-            "title": "Real Madrid vs Bayern - Quarter-Final - Leg 1- 7 Apr 2026",
-            "shortDescription": "Real Madrid welcome Bayern Munich in a heavyweight UEFA Champions League showdown, with two European giants colliding for continental supremacy. Los Blancos boast a strong home record in high\u2011stakes UCL nights, but Bayern arrive carrying their own legacy and firepower, eager to assert dominance. Will Madrid make home advantage count, or will Bayern deliver a statement win in Spain? Find out as we bring you all the action from UEFA Champions League 2025-26, LIVE & exclusively on Sony LIV.",
-            "longDescription": "Real Madrid welcome Bayern Munich in a heavyweight UEFA Champions League showdown, with two European giants colliding for continental supremacy. Los Blancos boast a strong home record in high\u2011stakes UCL nights, but Bayern arrive carrying their own legacy and firepower, eager to assert dominance. Will Madrid make home advantage count, or will Bayern deliver a statement win in Spain? Find out as we bring you all the action from UEFA Champions League 2025-26, LIVE & exclusively on Sony LIV.",
-            "genres": [
-                "Football"
-            ],
-            "broadcast_channel": "Sony Sports Ten 2",
-            "language": "ENGLISH",
-            "startTime": "07 Apr 2026, 10:30 PM",
-            "endTime": "08 Apr 2026, 05:30 AM",
-            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016931/177535953179090_UCL26_QF_leg1_Real_Madrid_vs_Bayern_4apr_SP_landscape_thumb.jpg",
-            "stream_url": "https://dai.google.com/ssai/event/QBKr7YPhS3mRxEVsxKqx4g/master.m3u8"
-        }
-    ],
+    "last_update": "04:00:23 AM 08-04-2026",
+    "live": [],
     "upcoming": [
         {
             "contentId": 1090511810,
