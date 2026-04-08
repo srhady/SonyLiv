@@ -2,8 +2,24 @@
     "name": "SonyLiv Matches Full Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last_update": "09:00:35 PM 08-04-2026",
-    "live": [],
+    "last_update": "09:15:29 PM 08-04-2026",
+    "live": [
+        {
+            "contentId": 1090500468,
+            "title": "Wheel Of Fortune",
+            "shortDescription": "Recognised by Guinness World Records as the world\u2019s most popular TV game show, Wheel of Fortune arrives in India in spectacular fashion, hosted by Akshay Kumar. Contestants enter a thrilling word game, decoding phrases spanning Bollywood, pop culture and everyday life. Blending entertainment with edge-of-the-seat moments, every alphabet can change the game as players compete for paisa and prizes.",
+            "longDescription": "Recognised by Guinness World Records as the world\u2019s most popular TV game show, Wheel of Fortune arrives in India in spectacular fashion, hosted by Akshay Kumar. Contestants enter a thrilling word game, decoding phrases spanning Bollywood, pop culture and everyday life. Blending entertainment with edge-of-the-seat moments, every alphabet can change the game as players compete for paisa and prizes.",
+            "genres": [
+                "Game show"
+            ],
+            "broadcast_channel": "SET",
+            "language": "HINDI",
+            "startTime": "08 Apr 2026, 08:30 PM",
+            "endTime": "08 Apr 2026, 10:36 PM",
+            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016744/1774877224201375_WOF_simulcast_landscape_thumb.jpg",
+            "stream_url": "https://dai.google.com/ssai/event/ywC0TYXoSbOYu7fxpFglFA/master.m3u8"
+        }
+    ],
     "upcoming": [
         {
             "contentId": 1090511810,
@@ -14,7 +30,7 @@
                 "Football"
             ],
             "startTime": "03 Apr 2026, 01:00 AM",
-            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016885/1775284946043532_UCL_QF_Leg1_PSG_vs_Liverpool_promo_with_sponsors_landscape_thumb_dated.jpg"
+            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016885/1775284963766532_UCL_QF_Leg1_PSG_vs_Liverpool_promo_with_sponsors_landscape_thumb_tonight.jpg"
         },
         {
             "contentId": 1090511811,
@@ -25,19 +41,7 @@
                 "Football"
             ],
             "startTime": "03 Apr 2026, 01:00 AM",
-            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016885/1775285337543532_UCL_QF_Leg1_Barcelona_vs_Atletico_promo_with_sponsors_landscape_thumb_dated.jpg"
-        },
-        {
-            "contentId": 1090511806,
-            "title": "Main Woh Aur Fuji",
-            "shortDescription": "In a world where love is filtered, scored and predicted, a couple in Pune collides in a fierce, consuming romance. What begins in urgency and desire slowly fractures. Seven years later, beneath the shadow of Mount Fuji, they meet again carrying different lives, different scars, confronting a past that never truly left them. Can love survive its own history or shall it merely haunt them? Witness Lalit Prabhakar and Mrinmayee Godbole in a fresh, new-age romantic movie Main Woh Aur Fuji, streaming from 10th April, on Sony LIV.",
-            "longDescription": "In a world where love is filtered, scored and predicted, a couple in Pune collides in a fierce, consuming romance. What begins in urgency and desire slowly fractures. Seven years later, beneath the shadow of Mount Fuji, they meet again carrying different lives, different scars, confronting a past that never truly left them. Can love survive its own history or shall it merely haunt them? Witness Lalit Prabhakar and Mrinmayee Godbole in a fresh, new-age romantic movie Main Woh Aur Fuji, streaming from 10th April, on Sony LIV.",
-            "genres": [
-                "Romance",
-                "Drama"
-            ],
-            "startTime": "02 Apr 2026, 10:00 AM",
-            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1590015819/thumbnail/1775273627241_./MWF_Landscape_Thumb_Dated.jpg"
+            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016885/1775285354730532_UCL_QF_Leg1_Barcelona_vs_Atletico_promo_with_sponsors_landscape_thumb_tonight.jpg"
         },
         {
             "contentId": 1090507833,
@@ -85,6 +89,29 @@
             ],
             "startTime": "14 Mar 2026, 12:00 AM",
             "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016189/1773494443654730_gec_combo_promo_landscape_thumb.jpg"
+        },
+        {
+            "contentId": 1090525225,
+            "title": "Tum Ho Naa",
+            "shortDescription": "Tum Ho Naa - coming soon, a reality game show with a strong emotional core, blending human stories with competitive gameplay. Stay tuned, only on Sony LIV.",
+            "longDescription": "Tum Ho Naa - coming soon, a reality game show with a strong emotional core, blending human stories with competitive gameplay. Stay tuned, only on Sony LIV.",
+            "genres": [
+                "Game show"
+            ],
+            "startTime": "07 Apr 2026, 09:00 PM",
+            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090525150/thumbnail/1775577279173_./THN_Landscape_ThumB_SN.jpg"
+        },
+        {
+            "contentId": 1090511806,
+            "title": "Main Woh Aur Fuji",
+            "shortDescription": "In a world where love is filtered, scored and predicted, a couple in Pune collides in a fierce, consuming romance. What begins in urgency and desire slowly fractures. Seven years later, beneath the shadow of Mount Fuji, they meet again carrying different lives, different scars, confronting a past that never truly left them. Can love survive its own history or shall it merely haunt them? Witness Lalit Prabhakar and Mrinmayee Godbole in a fresh, new-age romantic movie Main Woh Aur Fuji, streaming from 10th April, on Sony LIV.",
+            "longDescription": "In a world where love is filtered, scored and predicted, a couple in Pune collides in a fierce, consuming romance. What begins in urgency and desire slowly fractures. Seven years later, beneath the shadow of Mount Fuji, they meet again carrying different lives, different scars, confronting a past that never truly left them. Can love survive its own history or shall it merely haunt them? Witness Lalit Prabhakar and Mrinmayee Godbole in a fresh, new-age romantic movie Main Woh Aur Fuji, streaming from 10th April, on Sony LIV.",
+            "genres": [
+                "Romance",
+                "Drama"
+            ],
+            "startTime": "02 Apr 2026, 10:00 AM",
+            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1590015819/thumbnail/1775273627241_./MWF_Landscape_Thumb_Dated.jpg"
         }
     ]
 }
