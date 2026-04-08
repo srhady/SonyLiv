@@ -2,22 +2,37 @@
     "name": "SonyLiv Matches Full Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last_update": "11:00:23 PM 08-04-2026",
+    "last_update": "11:15:25 PM 08-04-2026",
     "live": [
         {
-            "contentId": 1090500468,
-            "title": "Wheel Of Fortune",
-            "shortDescription": "Recognised by Guinness World Records as the world\u2019s most popular TV game show, Wheel of Fortune arrives in India in spectacular fashion, hosted by Akshay Kumar. Contestants enter a thrilling word game, decoding phrases spanning Bollywood, pop culture and everyday life. Blending entertainment with edge-of-the-seat moments, every alphabet can change the game as players compete for paisa and prizes.",
-            "longDescription": "Recognised by Guinness World Records as the world\u2019s most popular TV game show, Wheel of Fortune arrives in India in spectacular fashion, hosted by Akshay Kumar. Contestants enter a thrilling word game, decoding phrases spanning Bollywood, pop culture and everyday life. Blending entertainment with edge-of-the-seat moments, every alphabet can change the game as players compete for paisa and prizes.",
+            "contentId": 1090525146,
+            "title": "PSG vs Liverpool - Quarter-Final - Leg 1 - 8 Apr 2026",
+            "shortDescription": "Under the lights at the Parc des Princes, PSG\u2019s attacking firepower led by Ousmane Demb\u00e9l\u00e9, Achraf Hakimi and Vitinha takes on Liverpool, featuring stars such as Mohamed Salah, Virgil van Dijk and Florian Wirtz, in a quarter\u2011final that promises elite quality, relentless pace and razor\u2011thin margins. Catch all the action from UEFA Champions League 2025-26, LIVE & exclusively on Sony LIV.",
+            "longDescription": "Under the lights at the Parc des Princes, PSG\u2019s attacking firepower led by Ousmane Demb\u00e9l\u00e9, Achraf Hakimi and Vitinha takes on Liverpool, featuring stars such as Mohamed Salah, Virgil van Dijk and Florian Wirtz, in a quarter\u2011final that promises elite quality, relentless pace and razor\u2011thin margins. Catch all the action from UEFA Champions League 2025-26, LIVE & exclusively on Sony LIV.",
             "genres": [
-                "Game show"
+                "Football"
             ],
-            "broadcast_channel": "SET",
-            "language": "HINDI",
-            "startTime": "08 Apr 2026, 08:30 PM",
-            "endTime": "08 Apr 2026, 10:36 PM",
-            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016744/1774877224201375_WOF_simulcast_landscape_thumb.jpg",
-            "stream_url": "https://dai.google.com/ssai/event/ywC0TYXoSbOYu7fxpFglFA/master.m3u8"
+            "broadcast_channel": "Sony Sports Ten 2",
+            "language": "ENGLISH",
+            "startTime": "08 Apr 2026, 10:30 PM",
+            "endTime": "09 Apr 2026, 05:30 AM",
+            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016961/1775473480038103_UCL_QF_Champions_Ki_Charcha_PSG_vs_Liverpool_landscape_thumb.jpg",
+            "stream_url": "https://dai.google.com/ssai/event/_wNibTTjRKGbTJkQbT7_mQ/master.m3u8"
+        },
+        {
+            "contentId": 1090525204,
+            "title": "Barcelona  vs Atletico - Quarter-Final - Leg 1 - 8 Apr 2026",
+            "shortDescription": "Barcelona\u2019s attacking flair, led by Lamine Yamal and the experience of Robert Lewandowski, meets the dynamism of Antoine Griezmann and the shot\u2011stopping assurance of Jan Oblak. A high\u2011intensity night is expected at Camp Nou, where the hosts are still searching for their first UCL victory over Atl\u00e9tico Madrid. Catch all the action from UEFA Champions League 2025-26, LIVE & exclusively on Sony LIV.",
+            "longDescription": "Barcelona\u2019s attacking flair, led by Lamine Yamal and the experience of Robert Lewandowski, meets the dynamism of Antoine Griezmann and the shot\u2011stopping assurance of Jan Oblak. A high\u2011intensity night is expected at Camp Nou, where the hosts are still searching for their first UCL victory over Atl\u00e9tico Madrid. Catch all the action from UEFA Champions League 2025-26, LIVE & exclusively on Sony LIV.",
+            "genres": [
+                "Football"
+            ],
+            "broadcast_channel": "Sony Sports Ten 2",
+            "language": "ENGLISH",
+            "startTime": "08 Apr 2026, 10:30 PM",
+            "endTime": "09 Apr 2026, 05:30 AM",
+            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016931/177536304662090_UCL26_QF_leg1_barcelona_vs_atletico_4apr_sp_landscape_thumb.jpg",
+            "stream_url": "https://dai.google.com/ssai/event/XSjjwrlLR6Cfn7Whgceqxg/master.m3u8"
         },
         {
             "contentId": 1090525163,
@@ -36,17 +51,6 @@
         }
     ],
     "upcoming": [
-        {
-            "contentId": 1090511810,
-            "title": "Upcoming - PSG vs Liverpool - UEFA Champions League 2025-26",
-            "shortDescription": "Watch the UEFA Champions League 2025-26 here, only on Sony LIV.",
-            "longDescription": "Watch the UEFA Champions League 2025-26 here, only on Sony LIV.",
-            "genres": [
-                "Football"
-            ],
-            "startTime": "03 Apr 2026, 01:00 AM",
-            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016885/1775284963766532_UCL_QF_Leg1_PSG_vs_Liverpool_promo_with_sponsors_landscape_thumb_tonight.jpg"
-        },
         {
             "contentId": 1090511811,
             "title": "Upcoming - Barcelona vs Atletico - UEFA Champions League 2025-26",
