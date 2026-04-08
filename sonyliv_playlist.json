@@ -2,7 +2,7 @@
     "name": "SonyLiv Matches Full Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last_update": "12:45:52 AM 09-04-2026",
+    "last_update": "01:00:35 AM 09-04-2026",
     "live": [
         {
             "contentId": 1090525146,
@@ -16,7 +16,7 @@
             "language": "ENGLISH",
             "startTime": "08 Apr 2026, 10:30 PM",
             "endTime": "09 Apr 2026, 05:30 AM",
-            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016961/1775473480038103_UCL_QF_Champions_Ki_Charcha_PSG_vs_Liverpool_landscape_thumb.jpg",
+            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016931/177536250217890_UCL26_QF_leg1_psg_vs_liverpool_4apr_SP_landscape_thumb.jpg",
             "stream_url": "https://dai.google.com/ssai/event/_wNibTTjRKGbTJkQbT7_mQ/master.m3u8"
         },
         {
@@ -33,21 +33,6 @@
             "endTime": "09 Apr 2026, 05:30 AM",
             "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016931/177536304662090_UCL26_QF_leg1_barcelona_vs_atletico_4apr_sp_landscape_thumb.jpg",
             "stream_url": "https://dai.google.com/ssai/event/XSjjwrlLR6Cfn7Whgceqxg/master.m3u8"
-        },
-        {
-            "contentId": 1090525163,
-            "title": "Braga vs Real Betis - Quarter-Final - Leg 1 - 8 Apr 2026",
-            "shortDescription": "SC Braga take on Real Betis in a high-pressure encounter, with the Portuguese side aiming to draw on their intensity and home strength against technically polished opponents who will look to dictate play through possession and experience. Catch all the action from the UEFA Europa League 2025-26 match between Braga and Real Betis, LIVE & exclusively on Sony LIV.",
-            "longDescription": "SC Braga take on Real Betis in a high-pressure encounter, with the Portuguese side aiming to draw on their intensity and home strength against technically polished opponents who will look to dictate play through possession and experience. Catch all the action from the UEFA Europa League 2025-26 match between Braga and Real Betis, LIVE & exclusively on Sony LIV.",
-            "genres": [
-                "Football"
-            ],
-            "broadcast_channel": "Sony Sports Ten 2",
-            "language": "ENGLISH",
-            "startTime": "08 Apr 2026, 09:40 PM",
-            "endTime": "09 Apr 2026, 02:40 AM",
-            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016836/1774841627666488_UEL26_QuarterFinal_Leg1_Braga_vs_Real_Betis_30mar_landscape_thumb.jpg",
-            "stream_url": "https://dai.google.com/ssai/event/AniN2Q6kTeGcsh3vD1SuEA/master.m3u8"
         }
     ],
     "upcoming": [
