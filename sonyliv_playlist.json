@@ -2,7 +2,7 @@
     "name": "SonyLiv Matches Full Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last_update": "12:15:37 AM 09-04-2026",
+    "last_update": "12:30:38 AM 09-04-2026",
     "live": [
         {
             "contentId": 1090525146,
@@ -51,17 +51,6 @@
         }
     ],
     "upcoming": [
-        {
-            "contentId": 1090511811,
-            "title": "Upcoming - Barcelona vs Atletico - UEFA Champions League 2025-26",
-            "shortDescription": "Watch the UEFA Champions League 2025-26 here, only on Sony LIV.",
-            "longDescription": "Watch the UEFA Champions League 2025-26 here, only on Sony LIV.",
-            "genres": [
-                "Football"
-            ],
-            "startTime": "03 Apr 2026, 01:00 AM",
-            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016885/1775285354730532_UCL_QF_Leg1_Barcelona_vs_Atletico_promo_with_sponsors_landscape_thumb_tonight.jpg"
-        },
         {
             "contentId": 1090507833,
             "title": "India's Best Dancer",
