@@ -2,24 +2,8 @@
     "name": "SonyLiv Matches Full Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last_update": "03:15:21 AM 09-04-2026",
-    "live": [
-        {
-            "contentId": 1090525204,
-            "title": "Barcelona  vs Atletico - Quarter-Final - Leg 1 - 8 Apr 2026",
-            "shortDescription": "Barcelona\u2019s attacking flair, led by Lamine Yamal and the experience of Robert Lewandowski, meets the dynamism of Antoine Griezmann and the shot\u2011stopping assurance of Jan Oblak. A high\u2011intensity night is expected at Camp Nou, where the hosts are still searching for their first UCL victory over Atl\u00e9tico Madrid. Catch all the action from UEFA Champions League 2025-26, LIVE & exclusively on Sony LIV.",
-            "longDescription": "Barcelona\u2019s attacking flair, led by Lamine Yamal and the experience of Robert Lewandowski, meets the dynamism of Antoine Griezmann and the shot\u2011stopping assurance of Jan Oblak. A high\u2011intensity night is expected at Camp Nou, where the hosts are still searching for their first UCL victory over Atl\u00e9tico Madrid. Catch all the action from UEFA Champions League 2025-26, LIVE & exclusively on Sony LIV.",
-            "genres": [
-                "Football"
-            ],
-            "broadcast_channel": "Sony Sports Ten 2",
-            "language": "ENGLISH",
-            "startTime": "08 Apr 2026, 10:30 PM",
-            "endTime": "09 Apr 2026, 05:30 AM",
-            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016931/177536304662090_UCL26_QF_leg1_barcelona_vs_atletico_4apr_sp_landscape_thumb.jpg",
-            "stream_url": "https://dai.google.com/ssai/event/XSjjwrlLR6Cfn7Whgceqxg/master.m3u8"
-        }
-    ],
+    "last_update": "03:30:20 AM 09-04-2026",
+    "live": [],
     "upcoming": [
         {
             "contentId": 1090507833,
