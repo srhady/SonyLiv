@@ -2,23 +2,8 @@
     "name": "SonyLiv Matches Full Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last_update": "03:00:23 AM 09-04-2026",
+    "last_update": "03:15:21 AM 09-04-2026",
     "live": [
-        {
-            "contentId": 1090525146,
-            "title": "PSG vs Liverpool - Quarter-Final - Leg 1 - 8 Apr 2026",
-            "shortDescription": "Under the lights at the Parc des Princes, PSG\u2019s attacking firepower led by Ousmane Demb\u00e9l\u00e9, Achraf Hakimi and Vitinha takes on Liverpool, featuring stars such as Mohamed Salah, Virgil van Dijk and Florian Wirtz, in a quarter\u2011final that promises elite quality, relentless pace and razor\u2011thin margins. Catch all the action from UEFA Champions League 2025-26, LIVE & exclusively on Sony LIV.",
-            "longDescription": "Under the lights at the Parc des Princes, PSG\u2019s attacking firepower led by Ousmane Demb\u00e9l\u00e9, Achraf Hakimi and Vitinha takes on Liverpool, featuring stars such as Mohamed Salah, Virgil van Dijk and Florian Wirtz, in a quarter\u2011final that promises elite quality, relentless pace and razor\u2011thin margins. Catch all the action from UEFA Champions League 2025-26, LIVE & exclusively on Sony LIV.",
-            "genres": [
-                "Football"
-            ],
-            "broadcast_channel": "Sony Sports Ten 2",
-            "language": "ENGLISH",
-            "startTime": "08 Apr 2026, 10:30 PM",
-            "endTime": "09 Apr 2026, 05:30 AM",
-            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016931/177536250217890_UCL26_QF_leg1_psg_vs_liverpool_4apr_SP_landscape_thumb.jpg",
-            "stream_url": "https://dai.google.com/ssai/event/_wNibTTjRKGbTJkQbT7_mQ/master.m3u8"
-        },
         {
             "contentId": 1090525204,
             "title": "Barcelona  vs Atletico - Quarter-Final - Leg 1 - 8 Apr 2026",
