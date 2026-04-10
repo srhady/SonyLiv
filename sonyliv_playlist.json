@@ -2,24 +2,8 @@
     "name": "SonyLiv Matches Full Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last_update": "06:45:17 PM 10-04-2026",
-    "live": [
-        {
-            "contentId": 1090525483,
-            "title": "Namdhari FC vs Shillong Lajong FC - 10 Apr 2026",
-            "shortDescription": "Namdhari Football Club welcome Shillong Lajong Football Club in an I-League clash, with both sides aiming to build momentum in a tightly contested phase of the season. Expect a competitive encounter as Namdhari Football Club look to make home advantage count, while Shillong Lajong Football Club aim to stay resilient and push for a valuable away result. Tune in to catch all the action from Indian Football League 2026, LIVE on Sony LIV.",
-            "longDescription": "Namdhari Football Club welcome Shillong Lajong Football Club in an I-League clash, with both sides aiming to build momentum in a tightly contested phase of the season. Expect a competitive encounter as Namdhari Football Club look to make home advantage count, while Shillong Lajong Football Club aim to stay resilient and push for a valuable away result. Tune in to catch all the action from Indian Football League 2026, LIVE on Sony LIV.",
-            "genres": [
-                "Football"
-            ],
-            "broadcast_channel": "Sony Sports Ten 2",
-            "language": "ENGLISH",
-            "startTime": "10 Apr 2026, 03:30 PM",
-            "endTime": "10 Apr 2026, 08:30 PM",
-            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016586/1774442040682617_IFC_Namdhari_FC_vs_Shillong_Lajong_FC_landscape_thumb.jpg",
-            "stream_url": "https://dai.google.com/ssai/event/q8r8RIRsRpS9P1T4Wq1dBA/master.m3u8"
-        }
-    ],
+    "last_update": "07:00:27 PM 10-04-2026",
+    "live": [],
     "upcoming": [
         {
             "contentId": 1090526615,
