@@ -2,24 +2,8 @@
     "name": "SonyLiv Matches Full Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last_update": "02:45:17 AM 11-04-2026",
-    "live": [
-        {
-            "contentId": 1090526600,
-            "title": "Augsburg vs Hoffenheim - MD 29 - 10 Apr 2026",
-            "shortDescription": "Augsburg welcome Hoffenheim in a Matchday 29 clash with momentum and positioning in the table firmly at stake. Augsburg will look to harness home intensity and defensive discipline, while Hoffenheim arrive intent on imposing their attacking rhythm and vertical play. With both sides eager to gain an edge at a crucial stage of the season, this encounter promises energy, physicality, and fine margins throughout. Catch all the action from Bundesliga 2025-26, LIVE on Sony LIV.",
-            "longDescription": "Augsburg welcome Hoffenheim in a Matchday 29 clash with momentum and positioning in the table firmly at stake. Augsburg will look to harness home intensity and defensive discipline, while Hoffenheim arrive intent on imposing their attacking rhythm and vertical play. With both sides eager to gain an edge at a crucial stage of the season, this encounter promises energy, physicality, and fine margins throughout. Catch all the action from Bundesliga 2025-26, LIVE on Sony LIV.",
-            "genres": [
-                "Football"
-            ],
-            "broadcast_channel": "Sony Sports Ten 2",
-            "language": "ENGLISH",
-            "startTime": "10 Apr 2026, 11:20 PM",
-            "endTime": "11 Apr 2026, 04:20 AM",
-            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016905/1774527805629658_BLIGA_26_MD29_Augsburg-vs-Hoffenheim__landscape_thumb.jpg",
-            "stream_url": "https://dai.google.com/ssai/event/lqVj4YjSQE6TgVCJaDNnlA/master.m3u8"
-        }
-    ],
+    "last_update": "03:00:24 AM 11-04-2026",
+    "live": [],
     "upcoming": [
         {
             "contentId": 1090526615,
