@@ -2,24 +2,8 @@
     "name": "SonyLiv Matches Full Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last_update": "09:45:15 AM 10-04-2026",
-    "live": [
-        {
-            "contentId": 1090525220,
-            "title": "Rayo Vallecano vs AEK Athens - Quarter-Final - Leg 1 - 9 Apr 2026",
-            "shortDescription": "Tune in to catch all the action from UEFA Conference League 2025-26 Quarter-Final Leg 1 as Rayo Vallecano take on AEK Athens, LIVE on Sony LIV.",
-            "longDescription": "Tune in to catch all the action from UEFA Conference League 2025-26 Quarter-Final Leg 1 as Rayo Vallecano take on AEK Athens, LIVE on Sony LIV.",
-            "genres": [
-                "Football"
-            ],
-            "broadcast_channel": "Sony Sports Ten 2",
-            "language": "ENGLISH",
-            "startTime": "09 Apr 2026, 09:40 PM",
-            "endTime": "10 Apr 2026, 02:40 AM",
-            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016853/1775150815349363_UECL26_QF_leg1_Rayo_Vallecano_vs_AEK_Athens_2apr_landscape_thumb.jpg",
-            "stream_url": "https://dai.google.com/ssai/event/ny2x3upqT0C3ZqW7UEQLsQ/master.m3u8"
-        }
-    ],
+    "last_update": "10:00:24 AM 10-04-2026",
+    "live": [],
     "upcoming": [
         {
             "contentId": 1090507833,
@@ -45,30 +29,6 @@
             "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016500/1774271039207830_Hastinapur_k_veer_23march_SS_Landscape_Thumb.jpg"
         },
         {
-            "contentId": 1090507836,
-            "title": "A New Story Every Friday",
-            "shortDescription": "Catch a new story every Friday and make your summers brighter. Watch exclusive shows, films and sports content only on Sony LIV.",
-            "longDescription": "Catch a new story every Friday and make your summers brighter. Watch exclusive shows, films and sports content only on Sony LIV.",
-            "genres": [
-                "Entertainment",
-                "Sports"
-            ],
-            "startTime": "14 Mar 2026, 12:00 AM",
-            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016189/1773494443654730_gec_combo_promo_landscape_thumb.jpg"
-        },
-        {
-            "contentId": 1090507838,
-            "title": "A New Story Every Friday",
-            "shortDescription": "Catch a new story every Friday and make your summers brighter. Watch exclusive shows, films and sports content only on Sony LIV.",
-            "longDescription": "Catch a new story every Friday and make your summers brighter. Watch exclusive shows, films and sports content only on Sony LIV.",
-            "genres": [
-                "Entertainment",
-                "Sports"
-            ],
-            "startTime": "14 Mar 2026, 12:00 AM",
-            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016189/1773494443654730_gec_combo_promo_landscape_thumb.jpg"
-        },
-        {
             "contentId": 1090525225,
             "title": "Tum Ho Naa",
             "shortDescription": "Tum Ho Naa - coming soon, a reality game show with a strong emotional core, blending human stories with competitive gameplay. Stay tuned, only on Sony LIV.",
@@ -80,16 +40,16 @@
             "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090525150/thumbnail/1775577279173_./THN_Landscape_ThumB_SN.jpg"
         },
         {
-            "contentId": 1090511806,
-            "title": "Main Woh Aur Fuji",
-            "shortDescription": "In a world where love is filtered, scored and predicted, a couple in Pune collides in a fierce, consuming romance. What begins in urgency and desire slowly fractures. Seven years later, beneath the shadow of Mount Fuji, they meet again carrying different lives, different scars, confronting a past that never truly left them. Can love survive its own history or shall it merely haunt them? Witness Lalit Prabhakar and Mrinmayee Godbole in a fresh, new-age romantic movie Main Woh Aur Fuji, streaming from 10th April, on Sony LIV.",
-            "longDescription": "In a world where love is filtered, scored and predicted, a couple in Pune collides in a fierce, consuming romance. What begins in urgency and desire slowly fractures. Seven years later, beneath the shadow of Mount Fuji, they meet again carrying different lives, different scars, confronting a past that never truly left them. Can love survive its own history or shall it merely haunt them? Witness Lalit Prabhakar and Mrinmayee Godbole in a fresh, new-age romantic movie Main Woh Aur Fuji, streaming from 10th April, on Sony LIV.",
+            "contentId": 1090507840,
+            "title": "A New Story Every Friday",
+            "shortDescription": "Catch a new story every Friday and make your summers brighter. Watch exclusive shows, films and sports content only on Sony LIV.",
+            "longDescription": "Catch a new story every Friday and make your summers brighter. Watch exclusive shows, films and sports content only on Sony LIV.",
             "genres": [
-                "Romance",
-                "Drama"
+                "Entertainment",
+                "Sports"
             ],
-            "startTime": "02 Apr 2026, 10:00 AM",
-            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1590015819/thumbnail/1775273627241_./MWF_Landscape_Thumb_Dated.jpg"
+            "startTime": "14 Mar 2026, 12:00 AM",
+            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016189/1773494443654730_gec_combo_promo_landscape_thumb.jpg"
         }
     ]
 }
