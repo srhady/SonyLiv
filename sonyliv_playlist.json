@@ -2,8 +2,24 @@
     "name": "SonyLiv Matches Full Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last_update": "04:30:20 AM 12-04-2026",
-    "live": [],
+    "last_update": "04:45:16 AM 12-04-2026",
+    "live": [
+        {
+            "contentId": 1090526879,
+            "title": "UFC 327 - Prelims & Prochazka vs Ulberg - 12 Apr 2026",
+            "shortDescription": "UFC 327, headlined by a vacant light heavyweight title bout between former champion Ji\u0159\u00ed Proch\u00e1zka and red-hot contender Carlos Ulberg at the Kaseya Center in Miami. Tune in to catch all the action from UFC 326, LIVE & exclusively on Sony LIV.",
+            "longDescription": "UFC 327, headlined by a vacant light heavyweight title bout between former champion Ji\u0159\u00ed Proch\u00e1zka and red-hot contender Carlos Ulberg at the Kaseya Center in Miami. Tune in to catch all the action from UFC 326, LIVE & exclusively on Sony LIV.",
+            "genres": [
+                "Fight Sports"
+            ],
+            "broadcast_channel": "Sony Sports Ten 2",
+            "language": "ENGLISH",
+            "startTime": "12 Apr 2026, 04:00 AM",
+            "endTime": "12 Apr 2026, 01:00 PM",
+            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017086/1775768116347237_UFC_327_Prochazka_vs_Ulberg_eng_9apr_landscape_thumb.jpg",
+            "stream_url": "https://dai.google.com/ssai/event/wdO8mORMRqi8l7ztwLnBiw/master.m3u8"
+        }
+    ],
     "upcoming": [
         {
             "contentId": 1090526615,
