@@ -2,24 +2,8 @@
     "name": "SonyLiv Matches Full Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last_update": "12:45:14 AM 12-04-2026",
-    "live": [
-        {
-            "contentId": 1090525518,
-            "title": "St. Pauli vs Bayern Munich - MD 29 - 11 Apr 2026",
-            "shortDescription": "St. Pauli welcome Bayern Munich in a high\u2011profile Matchday 29 fixture that brings intensity against elite quality. St. Pauli will look to feed off home atmosphere and collective energy, while Bayern arrive intent on asserting authority and maintaining pressure at the top. With contrasting styles on show, this clash promises tempo, edge, and sustained drama. Catch all the action from Bundesliga 2025-26, LIVE on Sony LIV.",
-            "longDescription": "St. Pauli welcome Bayern Munich in a high\u2011profile Matchday 29 fixture that brings intensity against elite quality. St. Pauli will look to feed off home atmosphere and collective energy, while Bayern arrive intent on asserting authority and maintaining pressure at the top. With contrasting styles on show, this clash promises tempo, edge, and sustained drama. Catch all the action from Bundesliga 2025-26, LIVE on Sony LIV.",
-            "genres": [
-                "Football"
-            ],
-            "broadcast_channel": "Sony Sports Ten 2",
-            "language": "ENGLISH",
-            "startTime": "11 Apr 2026, 09:20 PM",
-            "endTime": "12 Apr 2026, 02:20 AM",
-            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016905/1774592255713658_BLIGA_26_MD29_St-Pauli-vs-Bayern_landscape_thumb.jpg",
-            "stream_url": "https://dai.google.com/ssai/event/d0oBqiCqSkGDp4wRsUIxqA/master.m3u8"
-        }
-    ],
+    "last_update": "01:00:24 AM 12-04-2026",
+    "live": [],
     "upcoming": [
         {
             "contentId": 1090526615,
