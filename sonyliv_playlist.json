@@ -2,8 +2,23 @@
     "name": "SonyLiv Matches Full Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last_update": "06:30:16 PM 11-04-2026",
+    "last_update": "06:45:15 PM 11-04-2026",
     "live": [
+        {
+            "contentId": 1090525510,
+            "title": "Diamond Harbour FC vs Chanmari FC - 11 Apr 2026",
+            "shortDescription": "Diamond Harbour FC face Chanmari FC in an IFL clash with both teams eager to strengthen their position. The hosts will look to press their advantage on home turf, while Chanmari FC aim to stay compact and disciplined as they push for points on the road. Expect a closely fought contest with fine margins likely to decide the outcome. Tune in to catch all the action from Indian Football League 2026, LIVE on Sony LIV.",
+            "longDescription": "Diamond Harbour FC face Chanmari FC in an IFL clash with both teams eager to strengthen their position. The hosts will look to press their advantage on home turf, while Chanmari FC aim to stay compact and disciplined as they push for points on the road. Expect a closely fought contest with fine margins likely to decide the outcome. Tune in to catch all the action from Indian Football League 2026, LIVE on Sony LIV.",
+            "genres": [
+                "Football"
+            ],
+            "broadcast_channel": "Sony Sports Ten 2",
+            "language": "ENGLISH",
+            "startTime": "11 Apr 2026, 06:00 PM",
+            "endTime": "11 Apr 2026, 11:00 PM",
+            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016586/1774442345206617_IFC_Diamond_Harbour_FC_vs_Chanmari_FC_landscape_thumb.jpg",
+            "stream_url": "https://dai.google.com/ssai/event/wdO8mORMRqi8l7ztwLnBiw/master.m3u8"
+        },
         {
             "contentId": 1090525509,
             "title": "Dempo Sports Club vs Aizawl FC - 11 Apr 2026",
