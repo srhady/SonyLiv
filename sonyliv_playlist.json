@@ -2,23 +2,8 @@
     "name": "SonyLiv Matches Full Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last_update": "11:30:21 PM 12-04-2026",
+    "last_update": "11:45:15 PM 12-04-2026",
     "live": [
-        {
-            "contentId": 1090526867,
-            "title": "VfB Stuttgart vs Hamburger SV - MD 29 - 12 Apr 2026",
-            "shortDescription": "VfB Stuttgart clash with Hamburger SV in what promises to be a fiercely contested encounter. Both teams bring quality and ambition, setting the stage for a match filled with intensity and attacking intent. Watch exclusively on Sony LIV.",
-            "longDescription": "VfB Stuttgart clash with Hamburger SV in what promises to be a fiercely contested encounter. Both teams bring quality and ambition, setting the stage for a match filled with intensity and attacking intent. Watch exclusively on Sony LIV.",
-            "genres": [
-                "Football"
-            ],
-            "broadcast_channel": "Sony Sports Ten 2",
-            "language": "ENGLISH",
-            "startTime": "12 Apr 2026, 08:20 PM",
-            "endTime": "13 Apr 2026, 01:20 AM",
-            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016905/1774593762607658_BLIGA_26_MD29_VfB-Stuttgart-vs-Hamburger_landscape_thumb.jpg",
-            "stream_url": "https://dai.google.com/ssai/event/ahLdkaRoSWavrsFLPU8THA/master.m3u8"
-        },
         {
             "contentId": 1090526868,
             "title": "Mainz vs Freiburg - MD 29 - 12 Apr 2026",
