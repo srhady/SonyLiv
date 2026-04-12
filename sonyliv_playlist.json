@@ -2,23 +2,8 @@
     "name": "SonyLiv Matches Full Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last_update": "09:30:19 PM 12-04-2026",
+    "last_update": "09:45:17 PM 12-04-2026",
     "live": [
-        {
-            "contentId": 1090526841,
-            "title": "Sreenidi Deccan FC vs Rajasthan United FC- 12 Apr 2026",
-            "shortDescription": "Sreenidi Deccan FC take on Rajasthan United FC in an I-League clash, with both sides aiming to strengthen their position in the standings. Sreenidi Deccan FC will look to make the most of their home advantage, while Rajasthan United FC aim to remain organized and resilient as they chase valuable points away from home. Expect a tightly contested encounter where fine margins could prove decisive. Tune in to catch all the action from Indian Football League 2026, LIVE on Sony LIV.",
-            "longDescription": "Sreenidi Deccan FC take on Rajasthan United FC in an I-League clash, with both sides aiming to strengthen their position in the standings. Sreenidi Deccan FC will look to make the most of their home advantage, while Rajasthan United FC aim to remain organized and resilient as they chase valuable points away from home. Expect a tightly contested encounter where fine margins could prove decisive. Tune in to catch all the action from Indian Football League 2026, LIVE on Sony LIV.",
-            "genres": [
-                "Football"
-            ],
-            "broadcast_channel": "Sony Sports Ten 2",
-            "language": "ENGLISH",
-            "startTime": "12 Apr 2026, 06:00 PM",
-            "endTime": "12 Apr 2026, 11:00 PM",
-            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016586/1774442624162617_IFC_Sreenidi_Deccan_FC_vs_Rajasthan_United_FC_landscape_thumb.jpg",
-            "stream_url": "https://dai.google.com/ssai/event/noB3YwyRQVm5K-y_47MrBA/master.m3u8"
-        },
         {
             "contentId": 1090526867,
             "title": "VfB Stuttgart vs Hamburger SV - MD 29 - 12 Apr 2026",
