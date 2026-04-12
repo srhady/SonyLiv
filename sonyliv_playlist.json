@@ -2,24 +2,8 @@
     "name": "SonyLiv Matches Full Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last_update": "01:45:18 AM 13-04-2026",
-    "live": [
-        {
-            "contentId": 1090526868,
-            "title": "Mainz vs Freiburg - MD 29 - 12 Apr 2026",
-            "shortDescription": "Mainz 05 go up against SC Freiburg in a clash that could deliver plenty of drama and attacking football. Both teams will look to capitalize on their chances in what promises to be a closely fought encounter. Watch exclusively on Sony LIV.",
-            "longDescription": "Mainz 05 go up against SC Freiburg in a clash that could deliver plenty of drama and attacking football. Both teams will look to capitalize on their chances in what promises to be a closely fought encounter. Watch exclusively on Sony LIV.",
-            "genres": [
-                "Football"
-            ],
-            "broadcast_channel": "Sony Sports Ten 2",
-            "language": "ENGLISH",
-            "startTime": "12 Apr 2026, 10:20 PM",
-            "endTime": "13 Apr 2026, 03:20 AM",
-            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016905/1774594283087658_BLIGA_26_MD29_Mainz-vs-SC-Freiburg_landscape_thumb.jpg",
-            "stream_url": "https://dai.google.com/ssai/event/KijWX2h2RoSltesOov7TBw/master.m3u8"
-        }
-    ],
+    "last_update": "02:00:22 AM 13-04-2026",
+    "live": [],
     "upcoming": [
         {
             "contentId": 1090526851,
