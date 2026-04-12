@@ -2,7 +2,7 @@
     "name": "SonyLiv Matches Full Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last_update": "06:15:14 AM 12-04-2026",
+    "last_update": "06:30:19 AM 12-04-2026",
     "live": [
         {
             "contentId": 1090526879,
@@ -21,17 +21,6 @@
         }
     ],
     "upcoming": [
-        {
-            "contentId": 1090526615,
-            "title": "Upcoming - UFC 327 - Prochazka vs Ulberg",
-            "shortDescription": "Watch all action from UFC 326 - Prochazka vs Ulberg, only on Sony LIV. ",
-            "longDescription": "Watch all action from UFC 326 - Prochazka vs Ulberg, only on Sony LIV. ",
-            "genres": [
-                "Fight Sports"
-            ],
-            "startTime": "10 Apr 2026, 01:00 AM",
-            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017067/1775738287700566_UFC327_Prochazka_vs_Ulberg_Promo_landscape_thumb_dated.jpg"
-        },
         {
             "contentId": 1090526851,
             "title": "India's Best Dancer",
