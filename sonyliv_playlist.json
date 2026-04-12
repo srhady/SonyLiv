@@ -2,7 +2,7 @@
     "name": "SonyLiv Matches Full Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last_update": "08:45:16 PM 12-04-2026",
+    "last_update": "09:00:20 PM 12-04-2026",
     "live": [
         {
             "contentId": 1090526841,
@@ -18,6 +18,21 @@
             "endTime": "12 Apr 2026, 11:00 PM",
             "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016586/1774442624162617_IFC_Sreenidi_Deccan_FC_vs_Rajasthan_United_FC_landscape_thumb.jpg",
             "stream_url": "https://dai.google.com/ssai/event/noB3YwyRQVm5K-y_47MrBA/master.m3u8"
+        },
+        {
+            "contentId": 1090526867,
+            "title": "VfB Stuttgart vs Hamburger SV - MD 29 - 12 Apr 2026",
+            "shortDescription": "VfB Stuttgart clash with Hamburger SV in what promises to be a fiercely contested encounter. Both teams bring quality and ambition, setting the stage for a match filled with intensity and attacking intent. Watch exclusively on Sony LIV.",
+            "longDescription": "VfB Stuttgart clash with Hamburger SV in what promises to be a fiercely contested encounter. Both teams bring quality and ambition, setting the stage for a match filled with intensity and attacking intent. Watch exclusively on Sony LIV.",
+            "genres": [
+                "Football"
+            ],
+            "broadcast_channel": "Sony Sports Ten 2",
+            "language": "ENGLISH",
+            "startTime": "12 Apr 2026, 08:20 PM",
+            "endTime": "13 Apr 2026, 01:20 AM",
+            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016905/1774593762607658_BLIGA_26_MD29_VfB-Stuttgart-vs-Hamburger_landscape_thumb.jpg",
+            "stream_url": "https://dai.google.com/ssai/event/ahLdkaRoSWavrsFLPU8THA/master.m3u8"
         },
         {
             "contentId": 1090526866,
