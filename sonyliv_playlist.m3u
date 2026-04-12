@@ -2,11 +2,11 @@
 #name: SonyLiv Full Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update: 06:45:18 PM 12-04-2026
-
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016586/1774442487663617_IFC_Real_Kashmir_FC_vs_Gokulam_Kerala_FC_landscape_thumb.jpg" group-title="SonyLiv Live", Real Kashmir FC vs Gokulam Kerala FC - 12 Apr 2026 [ENGLISH]
-https://dai.google.com/ssai/event/GjjJjDqkSOGs5_q3zMTG2Q/master.m3u8
+#last update: 07:00:20 PM 12-04-2026
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016586/1774442624162617_IFC_Sreenidi_Deccan_FC_vs_Rajasthan_United_FC_landscape_thumb.jpg" group-title="SonyLiv Live", Sreenidi Deccan FC vs Rajasthan United FC- 12 Apr 2026 [ENGLISH]
 https://dai.google.com/ssai/event/noB3YwyRQVm5K-y_47MrBA/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016905/1774593170855658_BLIGA_26_MD29_Koln-vs-Werder_landscape_thumb.jpg" group-title="SonyLiv Live", FC Koln vs Werder Bremen - MD 29 - 12 Apr 2026 [ENGLISH]
+https://dai.google.com/ssai/event/xq7h_HJVS7mEliIeK8sjnQ/master.m3u8
 
