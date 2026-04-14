@@ -2,7 +2,7 @@
     "name": "SonyLiv Matches Full Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last_update": "10:30:23 PM 14-04-2026",
+    "last_update": "10:45:17 PM 14-04-2026",
     "live": [
         {
             "contentId": 1090500468,
@@ -20,5 +20,107 @@
             "stream_url": "https://dai.google.com/ssai/event/ywC0TYXoSbOYu7fxpFglFA/master.m3u8"
         }
     ],
-    "upcoming": []
+    "upcoming": [
+        {
+            "contentId": 1090526851,
+            "title": "India's Best Dancer",
+            "shortDescription": "India's Best Dancer Season 5 is coming back with Karisma Kapoor. Watch India's Best Dancer, streaming from 9th May, on Sony LIV.",
+            "longDescription": "India's Best Dancer Season 5 is coming back with Karisma Kapoor. Watch India's Best Dancer, streaming from 9th May, on Sony LIV.",
+            "genres": [
+                "Reality",
+                "Dance"
+            ],
+            "startTime": "10 Apr 2026, 12:00 AM",
+            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017130/1775853400635484_IBD_S5_dated_11apr_promo_landscape_thumb.jpg"
+        },
+        {
+            "contentId": 1090513882,
+            "title": "Hastinapur Ke Veer",
+            "shortDescription": "Hastinapur Ke Veer unfolds the saga of the five Pandavas brothers, who embody courage, righteousness, and sacrifice as they confront the relentless forces of ambition and injustice. Watch Hastinapur Ke Veer streaming soon, only on Sony LIV. ",
+            "longDescription": "Hastinapur Ke Veer unfolds the saga of the five Pandavas brothers, who embody courage, righteousness, and sacrifice as they confront the relentless forces of ambition and injustice. Watch Hastinapur Ke Veer streaming soon, only on Sony LIV. ",
+            "genres": [
+                "Mythology"
+            ],
+            "startTime": "03 Apr 2026, 03:00 PM",
+            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016500/1774271039207830_Hastinapur_k_veer_23march_SS_Landscape_Thumb.jpg"
+        },
+        {
+            "contentId": 1090527769,
+            "title": "Tum Ho Naa",
+            "shortDescription": "Tum Ho Naa, a reality game show with a strong emotional core blending human stories with competitive gameplay. Watch Tum Ho Naa, streaming from 28th April, only on Sony LIV.",
+            "longDescription": "Tum Ho Naa, a reality game show with a strong emotional core blending human stories with competitive gameplay. Watch Tum Ho Naa, streaming from 28th April, only on Sony LIV.",
+            "genres": [
+                "Game show"
+            ],
+            "startTime": "13 Apr 2026, 10:00 AM",
+            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017178/1776084417375226_THN_Landscape_Thumb_Dated.jpg"
+        },
+        {
+            "contentId": 1090526858,
+            "title": "Upcoming - Liverpool vs PSG - UEFA Champions League 2025-26",
+            "shortDescription": "Watch the UEFA Champions League 2025-26 here, only on Sony LIV.",
+            "longDescription": "Watch the UEFA Champions League 2025-26 here, only on Sony LIV.",
+            "genres": [
+                "Football"
+            ],
+            "startTime": "11 Apr 2026, 01:00 AM",
+            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017020/1775646456942205_UCL_QF_Leg2_Liverpool_vs_PSG_promo_landscape_thumb_dated.jpg"
+        },
+        {
+            "contentId": 1090526859,
+            "title": "Upcoming - Atletico vs Barcelona - UEFA Champions League 2025-26",
+            "shortDescription": "Watch the UEFA Champions League 2025-26 here, only on Sony LIV.",
+            "longDescription": "Watch the UEFA Champions League 2025-26 here, only on Sony LIV.",
+            "genres": [
+                "Football"
+            ],
+            "startTime": "11 Apr 2026, 01:00 AM",
+            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017020/1775645307906205_UCL_QF_Leg2_Atletico_Madrid_vs_Barcelona_promo_landscape_thumb_dated.jpg"
+        },
+        {
+            "contentId": 1090526862,
+            "title": "Upcoming - Bayern Munich vs Real Madrid - UEFA Champions League 2025-26",
+            "shortDescription": "Watch the UEFA Champions League 2025-26 here, only on Sony LIV.",
+            "longDescription": "Watch the UEFA Champions League 2025-26 here, only on Sony LIV.",
+            "genres": [
+                "Football"
+            ],
+            "startTime": "11 Apr 2026, 01:00 AM",
+            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017020/1775644492383205_UCL_QF_Leg2_Bayern_Munich_vs_Real_Madrid_promo_landscape_thumb_dated.jpg"
+        },
+        {
+            "contentId": 1090526864,
+            "title": "Upcoming - Arsenal vs Sporting CP - UEFA Champions League 2025-26",
+            "shortDescription": "Watch the UEFA Champions League 2025-26 here, only on Sony LIV.",
+            "longDescription": "Watch the UEFA Champions League 2025-26 here, only on Sony LIV.",
+            "genres": [
+                "Football"
+            ],
+            "startTime": "11 Apr 2026, 01:00 AM",
+            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017020/1775648181763205_UCL_QF_Leg2_Arsenal_vs_Sporting_promo_landscape_thumb_dated.jpg"
+        },
+        {
+            "contentId": 1090526616,
+            "title": "Upcoming - India\u2019s Cricketing Mayhem",
+            "shortDescription": "Tune in to catch all the action from India\u2019s Cricketing Mayhem, only on Sony LIV.",
+            "longDescription": "Tune in to catch all the action from India\u2019s Cricketing Mayhem, only on Sony LIV.",
+            "genres": [
+                "Cricket"
+            ],
+            "startTime": "10 Apr 2026, 12:00 PM",
+            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016596/1774511365140541_9_India_Series_promo_landscape_thumb.jpg"
+        },
+        {
+            "contentId": 1090507840,
+            "title": "A New Story Every Friday",
+            "shortDescription": "Catch a new story every Friday and make your summers brighter. Watch exclusive shows, films and sports content only on Sony LIV.",
+            "longDescription": "Catch a new story every Friday and make your summers brighter. Watch exclusive shows, films and sports content only on Sony LIV.",
+            "genres": [
+                "Entertainment",
+                "Sports"
+            ],
+            "startTime": "14 Mar 2026, 12:00 AM",
+            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016189/1773494443654730_gec_combo_promo_landscape_thumb.jpg"
+        }
+    ]
 }
