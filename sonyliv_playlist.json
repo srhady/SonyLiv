@@ -2,22 +2,37 @@
     "name": "SonyLiv Matches Full Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last_update": "11:00:26 PM 14-04-2026",
+    "last_update": "11:15:18 PM 14-04-2026",
     "live": [
         {
-            "contentId": 1090500468,
-            "title": "Wheel Of Fortune",
-            "shortDescription": "Recognised by Guinness World Records as the world\u2019s most popular TV game show, Wheel of Fortune arrives in India in spectacular fashion, hosted by Akshay Kumar. Contestants enter a thrilling word game, decoding phrases spanning Bollywood, pop culture and everyday life. Blending entertainment with edge-of-the-seat moments, every alphabet can change the game as players compete for paisa and prizes.",
-            "longDescription": "Recognised by Guinness World Records as the world\u2019s most popular TV game show, Wheel of Fortune arrives in India in spectacular fashion, hosted by Akshay Kumar. Contestants enter a thrilling word game, decoding phrases spanning Bollywood, pop culture and everyday life. Blending entertainment with edge-of-the-seat moments, every alphabet can change the game as players compete for paisa and prizes.",
+            "contentId": 1090526897,
+            "title": "Liverpool vs PSG - Quarter-Final - Leg 2 - 14 Apr 2026",
+            "shortDescription": "Liverpool face a major test at Anfield as they look to mount a comeback, with Mohamed Salah, Virgil van Dijk and Alexis Mac Allister key to their hopes. PSG, meanwhile, aim to control the tie through Khvicha Kvaratskhelia and Ousmane Demb\u00e9l\u00e9, with Achraf Hakimi and Marquinhos marshaling the defence. Can the Reds ignite another famous Anfield night, or will PSG\u2019s calm and quality carry them into the semi-finals? Find out as we bring you all the action from UEFA Champions League 2025\u201126, LIVE & exclusively on Sony\u202fLIV.",
+            "longDescription": "Liverpool face a major test at Anfield as they look to mount a comeback, with Mohamed Salah, Virgil van Dijk and Alexis Mac Allister key to their hopes. PSG, meanwhile, aim to control the tie through Khvicha Kvaratskhelia and Ousmane Demb\u00e9l\u00e9, with Achraf Hakimi and Marquinhos marshaling the defence. Can the Reds ignite another famous Anfield night, or will PSG\u2019s calm and quality carry them into the semi-finals? Find out as we bring you all the action from UEFA Champions League 2025\u201126, LIVE & exclusively on Sony\u202fLIV.",
             "genres": [
-                "Game show"
+                "Football"
             ],
-            "broadcast_channel": "SET",
-            "language": "HINDI",
-            "startTime": "14 Apr 2026, 08:30 PM",
-            "endTime": "14 Apr 2026, 10:32 PM",
-            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016744/1774877224201375_WOF_simulcast_landscape_thumb.jpg",
-            "stream_url": "https://dai.google.com/ssai/event/ywC0TYXoSbOYu7fxpFglFA/master.m3u8"
+            "broadcast_channel": "Sony Sports Ten 2",
+            "language": "ENGLISH",
+            "startTime": "14 Apr 2026, 10:30 PM",
+            "endTime": "15 Apr 2026, 05:30 AM",
+            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016949/1775432852519802_UCL26_QF_leg2_liverpool_vs_psg_5apr_SP_landscape_thumb.jpg",
+            "stream_url": "https://dai.google.com/ssai/event/ahLdkaRoSWavrsFLPU8THA/master.m3u8"
+        },
+        {
+            "contentId": 1090526899,
+            "title": "Atletico vs Barcelona - Quarter-Final - Leg 2 - 14 Apr 2026",
+            "shortDescription": "Atl\u00e9tico Madrid step into a decisive second leg aiming to assert themselves, with Antoine Griezmann, Koke and Jan Oblak pivotal to their push. Barcelona, meanwhile, will throw everything at the tie, relying on the class of Robert Lewandowski, Pedri and Lamine Yamal. Will Bar\u00e7a overturn the deficit on the road, or will Atl\u00e9tico stroll into the semi-finals? Find out as we bring you all the action from UEFA Champions League 2025\u201126, LIVE & exclusively on Sony\u202fLIV.",
+            "longDescription": "Atl\u00e9tico Madrid step into a decisive second leg aiming to assert themselves, with Antoine Griezmann, Koke and Jan Oblak pivotal to their push. Barcelona, meanwhile, will throw everything at the tie, relying on the class of Robert Lewandowski, Pedri and Lamine Yamal. Will Bar\u00e7a overturn the deficit on the road, or will Atl\u00e9tico stroll into the semi-finals? Find out as we bring you all the action from UEFA Champions League 2025\u201126, LIVE & exclusively on Sony\u202fLIV.",
+            "genres": [
+                "Football"
+            ],
+            "broadcast_channel": "Sony Sports Ten 2",
+            "language": "ENGLISH",
+            "startTime": "14 Apr 2026, 10:30 PM",
+            "endTime": "15 Apr 2026, 05:30 AM",
+            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017209/1776171525616501_UCL_QF_Leg2_Champions_Ki_Charcha_Atletico_vs_Barcelona_landscape_thumb.jpg",
+            "stream_url": "https://dai.google.com/ssai/event/h-6GJBH2TweED39pQl26yg/master.m3u8"
         }
     ],
     "upcoming": [
@@ -54,28 +69,6 @@
             ],
             "startTime": "13 Apr 2026, 10:00 AM",
             "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017178/1776084417375226_THN_Landscape_Thumb_Dated.jpg"
-        },
-        {
-            "contentId": 1090526858,
-            "title": "Upcoming - Liverpool vs PSG - UEFA Champions League 2025-26",
-            "shortDescription": "Watch the UEFA Champions League 2025-26 here, only on Sony LIV.",
-            "longDescription": "Watch the UEFA Champions League 2025-26 here, only on Sony LIV.",
-            "genres": [
-                "Football"
-            ],
-            "startTime": "11 Apr 2026, 01:00 AM",
-            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017020/1775646456942205_UCL_QF_Leg2_Liverpool_vs_PSG_promo_landscape_thumb_dated.jpg"
-        },
-        {
-            "contentId": 1090526859,
-            "title": "Upcoming - Atletico vs Barcelona - UEFA Champions League 2025-26",
-            "shortDescription": "Watch the UEFA Champions League 2025-26 here, only on Sony LIV.",
-            "longDescription": "Watch the UEFA Champions League 2025-26 here, only on Sony LIV.",
-            "genres": [
-                "Football"
-            ],
-            "startTime": "11 Apr 2026, 01:00 AM",
-            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017020/1775645307906205_UCL_QF_Leg2_Atletico_Madrid_vs_Barcelona_promo_landscape_thumb_dated.jpg"
         },
         {
             "contentId": 1090526862,
