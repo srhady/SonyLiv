@@ -2,23 +2,8 @@
     "name": "SonyLiv Matches Full Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last_update": "03:00:24 AM 15-04-2026",
+    "last_update": "03:15:21 AM 15-04-2026",
     "live": [
-        {
-            "contentId": 1090526899,
-            "title": "Atletico vs Barcelona - Quarter-Final - Leg 2 - 14 Apr 2026",
-            "shortDescription": "Atl\u00e9tico Madrid step into a decisive second leg aiming to assert themselves, with Antoine Griezmann, Koke and Jan Oblak pivotal to their push. Barcelona, meanwhile, will throw everything at the tie, relying on the class of Robert Lewandowski, Pedri and Lamine Yamal. Will Bar\u00e7a overturn the deficit on the road, or will Atl\u00e9tico stroll into the semi-finals? Find out as we bring you all the action from UEFA Champions League 2025\u201126, LIVE & exclusively on Sony\u202fLIV.",
-            "longDescription": "Atl\u00e9tico Madrid step into a decisive second leg aiming to assert themselves, with Antoine Griezmann, Koke and Jan Oblak pivotal to their push. Barcelona, meanwhile, will throw everything at the tie, relying on the class of Robert Lewandowski, Pedri and Lamine Yamal. Will Bar\u00e7a overturn the deficit on the road, or will Atl\u00e9tico stroll into the semi-finals? Find out as we bring you all the action from UEFA Champions League 2025\u201126, LIVE & exclusively on Sony\u202fLIV.",
-            "genres": [
-                "Football"
-            ],
-            "broadcast_channel": "Sony Sports Ten 2",
-            "language": "ENGLISH",
-            "startTime": "14 Apr 2026, 10:30 PM",
-            "endTime": "15 Apr 2026, 05:30 AM",
-            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016949/1775435407474802_UCL26_QF_leg2_Atletico_vs_Barcelona_5apr_SP_landscape_thumb.jpg",
-            "stream_url": "https://dai.google.com/ssai/event/h-6GJBH2TweED39pQl26yg/master.m3u8"
-        },
         {
             "contentId": 1090526897,
             "title": "Liverpool vs PSG - Quarter-Final - Leg 2 - 14 Apr 2026",
