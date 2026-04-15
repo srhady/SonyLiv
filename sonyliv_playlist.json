@@ -2,7 +2,7 @@
     "name": "SonyLiv Matches Full Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last_update": "03:00:25 AM 16-04-2026",
+    "last_update": "03:15:17 AM 16-04-2026",
     "live": [
         {
             "contentId": 1090526907,
@@ -18,21 +18,6 @@
             "endTime": "16 Apr 2026, 05:30 AM",
             "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016949/1775435867365802_UCL26_QF_leg2_Bayern_vs_Real_Madrid_5apr_SP_landscape_thumb.jpg",
             "stream_url": "https://dai.google.com/ssai/event/Ilcn7S4GTZ2j2akMMAengg/master.m3u8"
-        },
-        {
-            "contentId": 1090527942,
-            "title": "Arsenal vs Sporting CP - Quarter-Final - Leg 2 - 15 Apr 2026",
-            "shortDescription": "Arsenal return to the Emirates looking to take control, with Bukayo Saka, Martin \u00d8degaard and Declan Rice key to their push. Sporting CP arrive ready to test the hosts, inspired by Gy\u00f6keres, Pedro Gon\u00e7alves and Morten Hjulmand. Will the Gunners get the job done at home, or can Sporting spring a surprise? Find out as we bring you all the action from UEFA Champions League 2025\u201126, LIVE & exclusively on Sony\u202fLIV.",
-            "longDescription": "Arsenal return to the Emirates looking to take control, with Bukayo Saka, Martin \u00d8degaard and Declan Rice key to their push. Sporting CP arrive ready to test the hosts, inspired by Gy\u00f6keres, Pedro Gon\u00e7alves and Morten Hjulmand. Will the Gunners get the job done at home, or can Sporting spring a surprise? Find out as we bring you all the action from UEFA Champions League 2025\u201126, LIVE & exclusively on Sony\u202fLIV.",
-            "genres": [
-                "Football"
-            ],
-            "broadcast_channel": "Sony Sports Ten 2",
-            "language": "ENGLISH",
-            "startTime": "15 Apr 2026, 10:30 PM",
-            "endTime": "16 Apr 2026, 05:30 AM",
-            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016949/1775436228347802_UCL26_QF_leg2_Arsenal_vs_Sporting_5apr_SP_landscape_thumb.jpg",
-            "stream_url": "https://dai.google.com/ssai/event/I1ap9W5OSHioB8-X3D7VWw/master.m3u8"
         }
     ],
     "upcoming": [
