@@ -2,7 +2,7 @@
     "name": "SonyLiv Matches Full Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last_update": "12:00:27 AM 16-04-2026",
+    "last_update": "12:15:29 AM 16-04-2026",
     "live": [
         {
             "contentId": 1090526907,
@@ -69,17 +69,6 @@
             ],
             "startTime": "13 Apr 2026, 10:00 AM",
             "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017178/1776084417375226_THN_Landscape_Thumb_Dated.jpg"
-        },
-        {
-            "contentId": 1090526864,
-            "title": "Upcoming - Arsenal vs Sporting CP - UEFA Champions League 2025-26",
-            "shortDescription": "Watch the UEFA Champions League 2025-26 here, only on Sony LIV.",
-            "longDescription": "Watch the UEFA Champions League 2025-26 here, only on Sony LIV.",
-            "genres": [
-                "Football"
-            ],
-            "startTime": "11 Apr 2026, 01:00 AM",
-            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017020/1775648181763205_UCL_QF_Leg2_Arsenal_vs_Sporting_promo_landscape_thumb_dated.jpg"
         },
         {
             "contentId": 1090526616,
