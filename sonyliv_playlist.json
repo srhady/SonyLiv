@@ -2,24 +2,8 @@
     "name": "SonyLiv Matches Full Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last_update": "03:45:19 AM 16-04-2026",
-    "live": [
-        {
-            "contentId": 1090526907,
-            "title": "Bayern vs Real Madrid - Quarter-Final - Leg 2 - 15 Apr 2026",
-            "shortDescription": "Bayern Munich look to seize control at home, with Harry Kane, Jamal Musiala and Joshua Kimmich central to their ambitions. Real Madrid, though, arrive with belief and pedigree, leaning on the big\u2011game presence of Jude Bellingham, Vin\u00edcius Jr. and Rodrygo, as Antonio R\u00fcdiger anchors the defence. Will Bayern power their way into the semi-finals, or can Madrid\u2019s European composure prevail once again? Find out as we bring you all the action from UEFA Champions League 2025\u201126, LIVE & exclusively on Sony\u202fLIV.",
-            "longDescription": "Bayern Munich look to seize control at home, with Harry Kane, Jamal Musiala and Joshua Kimmich central to their ambitions. Real Madrid, though, arrive with belief and pedigree, leaning on the big\u2011game presence of Jude Bellingham, Vin\u00edcius Jr. and Rodrygo, as Antonio R\u00fcdiger anchors the defence. Will Bayern power their way into the semi-finals, or can Madrid\u2019s European composure prevail once again? Find out as we bring you all the action from UEFA Champions League 2025\u201126, LIVE & exclusively on Sony\u202fLIV.",
-            "genres": [
-                "Football"
-            ],
-            "broadcast_channel": "Sony Sports Ten 2",
-            "language": "ENGLISH",
-            "startTime": "15 Apr 2026, 10:30 PM",
-            "endTime": "16 Apr 2026, 05:30 AM",
-            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016949/1775435867365802_UCL26_QF_leg2_Bayern_vs_Real_Madrid_5apr_SP_landscape_thumb.jpg",
-            "stream_url": "https://dai.google.com/ssai/event/Dgl3FMfCS6mHdHu8tjUB-w/master.m3u8"
-        }
-    ],
+    "last_update": "04:00:26 AM 16-04-2026",
+    "live": [],
     "upcoming": [
         {
             "contentId": 1090526851,
