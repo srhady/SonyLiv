@@ -2,8 +2,14 @@
 #name: SonyLiv Full Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update: 10:00:40 PM 16-04-2026
+#last update: 10:15:24 PM 16-04-2026
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016744/1774877224201375_WOF_simulcast_landscape_thumb.jpg" group-title="SonyLiv Live", Wheel Of Fortune [HINDI]
 https://dai.google.com/ssai/event/ywC0TYXoSbOYu7fxpFglFA/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016848/1775137204152765_UEL26_QuarterFinal_Leg2_Celta_vs_Freiburg_30mar_landscape_thumb.jpg" group-title="SonyLiv Live", Celta vs Freiburg - Quarter-Final - Leg 2 - 16 Apr 2026 [ENGLISH]
+https://dai.google.com/ssai/event/ahLdkaRoSWavrsFLPU8THA/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016853/1775152373632363_UECL26_QF_leg2_AZ_Alkmaar_vs_FC_Shakhtar_Donetsk_2apr_landscape_thumb.jpg" group-title="SonyLiv Live", AZ Alkmaar vs FC Shakhtar Donetsk - Quarter-Final - Leg 2 - 16 Apr 2026 [ENGLISH]
+https://dai.google.com/ssai/event/2gc_trPRQpSxZgf5I2noFQ/master.m3u8
 
