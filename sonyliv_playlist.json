@@ -2,23 +2,8 @@
     "name": "SonyLiv Matches Full Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last_update": "12:45:15 AM 17-04-2026",
+    "last_update": "01:00:45 AM 17-04-2026",
     "live": [
-        {
-            "contentId": 1090528047,
-            "title": "Aston Villa  vs Bologna  - Quarter-Final - Leg 2 - 17 Apr 2026",
-            "shortDescription": "Catch all the action from the UEFA Europa League 2025-26 match between Aston Villa vs Bologna, LIVE & exclusively on Sony LIV.",
-            "longDescription": "Catch all the action from the UEFA Europa League 2025-26 match between Aston Villa vs Bologna, LIVE & exclusively on Sony LIV.",
-            "genres": [
-                "Football"
-            ],
-            "broadcast_channel": "Sony Sports Ten 2",
-            "language": "ENGLISH",
-            "startTime": "16 Apr 2026, 11:55 PM",
-            "endTime": "17 Apr 2026, 04:55 AM",
-            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016836/1775134091370488_UEL26_QuarterFinal_Leg1_Bologna_vs_Aston_Villa_30mar_landscape_thumb.jpg",
-            "stream_url": "https://dai.google.com/ssai/event/rRLzcNhORV-XPz4zV6jVrQ/master.m3u8"
-        },
         {
             "contentId": 1090528046,
             "title": "Nottingham Forest vs Porto  - Quarter-Final - Leg 2 - 17 Apr 2026",
@@ -33,6 +18,21 @@
             "endTime": "17 Apr 2026, 04:55 AM",
             "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016848/1775141471468765_UEL26_QuarterFinal_Leg2_Nottingham_Forest_vs_Porto_30mar_landscape_thumb.jpg",
             "stream_url": "https://dai.google.com/ssai/event/x1UGIh46R2y6NXA09SUPQw/master.m3u8"
+        },
+        {
+            "contentId": 1090528047,
+            "title": "Aston Villa  vs Bologna  - Quarter-Final - Leg 2 - 17 Apr 2026",
+            "shortDescription": "Catch all the action from the UEFA Europa League 2025-26 match between Aston Villa vs Bologna, LIVE & exclusively on Sony LIV.",
+            "longDescription": "Catch all the action from the UEFA Europa League 2025-26 match between Aston Villa vs Bologna, LIVE & exclusively on Sony LIV.",
+            "genres": [
+                "Football"
+            ],
+            "broadcast_channel": "Sony Sports Ten 2",
+            "language": "ENGLISH",
+            "startTime": "16 Apr 2026, 11:55 PM",
+            "endTime": "17 Apr 2026, 04:55 AM",
+            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016836/1775134091370488_UEL26_QuarterFinal_Leg1_Bologna_vs_Aston_Villa_30mar_landscape_thumb.jpg",
+            "stream_url": "https://dai.google.com/ssai/event/rRLzcNhORV-XPz4zV6jVrQ/master.m3u8"
         },
         {
             "contentId": 1090528097,
@@ -63,36 +63,6 @@
             "endTime": "17 Apr 2026, 04:55 AM",
             "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016848/1775137553843765_UEL26_QuarterFinal_Leg2_Real_Betis_vs_Braga_30mar_landscape_thumb.jpg",
             "stream_url": "https://dai.google.com/ssai/event/9A4DX-S5TZ620VNPpLJbng/master.m3u8"
-        },
-        {
-            "contentId": 1090526842,
-            "title": "Celta vs Freiburg - Quarter-Final - Leg 2 - 16 Apr 2026",
-            "shortDescription": "Catch all the action from the UEFA Europa League 2025-26 match between Celta vs Freiburg, LIVE & exclusively on Sony LIV.",
-            "longDescription": "Catch all the action from the UEFA Europa League 2025-26 match between Celta vs Freiburg, LIVE & exclusively on Sony LIV.",
-            "genres": [
-                "Football"
-            ],
-            "broadcast_channel": "Sony Sports Ten 2",
-            "language": "ENGLISH",
-            "startTime": "16 Apr 2026, 09:40 PM",
-            "endTime": "17 Apr 2026, 02:40 AM",
-            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016848/1775137204152765_UEL26_QuarterFinal_Leg2_Celta_vs_Freiburg_30mar_landscape_thumb.jpg",
-            "stream_url": "https://dai.google.com/ssai/event/ahLdkaRoSWavrsFLPU8THA/master.m3u8"
-        },
-        {
-            "contentId": 1090528050,
-            "title": "AZ Alkmaar vs FC Shakhtar Donetsk - Quarter-Final - Leg 2 - 16 Apr 2026",
-            "shortDescription": "Tune in to catch all the action from the UEFA Conference League 2025\u201326 quarter-final Leg 2 clash between AZ Alkmaar vs FC Shakhtar Donetsk, streaming LIVE on Sony LIV.",
-            "longDescription": "Tune in to catch all the action from the UEFA Conference League 2025\u201326 quarter-final Leg 2 clash between AZ Alkmaar vs FC Shakhtar Donetsk, streaming LIVE on Sony LIV.",
-            "genres": [
-                "Football"
-            ],
-            "broadcast_channel": "Sony Sports Ten 2",
-            "language": "ENGLISH",
-            "startTime": "16 Apr 2026, 09:40 PM",
-            "endTime": "17 Apr 2026, 02:40 AM",
-            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016853/1775152373632363_UECL26_QF_leg2_AZ_Alkmaar_vs_FC_Shakhtar_Donetsk_2apr_landscape_thumb.jpg",
-            "stream_url": "https://dai.google.com/ssai/event/2gc_trPRQpSxZgf5I2noFQ/master.m3u8"
         },
         {
             "contentId": 1090528098,
