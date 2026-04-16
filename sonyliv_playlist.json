@@ -2,8 +2,68 @@
     "name": "SonyLiv Matches Full Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last_update": "12:30:21 AM 17-04-2026",
+    "last_update": "12:45:15 AM 17-04-2026",
     "live": [
+        {
+            "contentId": 1090528047,
+            "title": "Aston Villa  vs Bologna  - Quarter-Final - Leg 2 - 17 Apr 2026",
+            "shortDescription": "Catch all the action from the UEFA Europa League 2025-26 match between Aston Villa vs Bologna, LIVE & exclusively on Sony LIV.",
+            "longDescription": "Catch all the action from the UEFA Europa League 2025-26 match between Aston Villa vs Bologna, LIVE & exclusively on Sony LIV.",
+            "genres": [
+                "Football"
+            ],
+            "broadcast_channel": "Sony Sports Ten 2",
+            "language": "ENGLISH",
+            "startTime": "16 Apr 2026, 11:55 PM",
+            "endTime": "17 Apr 2026, 04:55 AM",
+            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016836/1775134091370488_UEL26_QuarterFinal_Leg1_Bologna_vs_Aston_Villa_30mar_landscape_thumb.jpg",
+            "stream_url": "https://dai.google.com/ssai/event/rRLzcNhORV-XPz4zV6jVrQ/master.m3u8"
+        },
+        {
+            "contentId": 1090528046,
+            "title": "Nottingham Forest vs Porto  - Quarter-Final - Leg 2 - 17 Apr 2026",
+            "shortDescription": "Catch all the action from the UEFA Europa League 2025-26 match between Nottingham Forest vs Porto, LIVE & exclusively on Sony LIV.",
+            "longDescription": "Catch all the action from the UEFA Europa League 2025-26 match between Nottingham Forest vs Porto, LIVE & exclusively on Sony LIV.",
+            "genres": [
+                "Football"
+            ],
+            "broadcast_channel": "Sony Sports Ten 2",
+            "language": "ENGLISH",
+            "startTime": "16 Apr 2026, 11:55 PM",
+            "endTime": "17 Apr 2026, 04:55 AM",
+            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016848/1775141471468765_UEL26_QuarterFinal_Leg2_Nottingham_Forest_vs_Porto_30mar_landscape_thumb.jpg",
+            "stream_url": "https://dai.google.com/ssai/event/x1UGIh46R2y6NXA09SUPQw/master.m3u8"
+        },
+        {
+            "contentId": 1090528097,
+            "title": "Fiorentina vs Crystal Palace FC - Quarter-Final - Leg 2 - 17 Apr 2026",
+            "shortDescription": "Tune in to catch all the action from the UEFA Conference League 2025\u201326 quarter-final Leg 2 clash between Fiorentina and Crystal Palace FC, streaming LIVE on Sony LIV.",
+            "longDescription": "Tune in to catch all the action from the UEFA Conference League 2025\u201326 quarter-final Leg 2 clash between Fiorentina and Crystal Palace FC, streaming LIVE on Sony LIV.",
+            "genres": [
+                "Football"
+            ],
+            "broadcast_channel": "Sony Sports Ten 2",
+            "language": "ENGLISH",
+            "startTime": "16 Apr 2026, 11:55 PM",
+            "endTime": "17 Apr 2026, 04:55 AM",
+            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016853/1775152567415363_UECL26_QF_leg2_Fiorentina_vs_Crystal_Palace_2apr_landscape_thumb.jpg",
+            "stream_url": "https://dai.google.com/ssai/event/FoX2wfDaR4azEMpiywe61Q/master.m3u8"
+        },
+        {
+            "contentId": 1090528021,
+            "title": "Real Betis vs Braga  - Quarter-Final - Leg 2 - 17 Apr 2026",
+            "shortDescription": "Catch all the action from the UEFA Europa League 2025-26 match between Real Betis and Braga, LIVE & exclusively on Sony LIV.",
+            "longDescription": "Catch all the action from the UEFA Europa League 2025-26 match between Real Betis and Braga, LIVE & exclusively on Sony LIV.",
+            "genres": [
+                "Football"
+            ],
+            "broadcast_channel": "Sony Sports Ten 2",
+            "language": "ENGLISH",
+            "startTime": "16 Apr 2026, 11:55 PM",
+            "endTime": "17 Apr 2026, 04:55 AM",
+            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016848/1775137553843765_UEL26_QuarterFinal_Leg2_Real_Betis_vs_Braga_30mar_landscape_thumb.jpg",
+            "stream_url": "https://dai.google.com/ssai/event/9A4DX-S5TZ620VNPpLJbng/master.m3u8"
+        },
         {
             "contentId": 1090526842,
             "title": "Celta vs Freiburg - Quarter-Final - Leg 2 - 16 Apr 2026",
@@ -33,6 +93,51 @@
             "endTime": "17 Apr 2026, 02:40 AM",
             "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016853/1775152373632363_UECL26_QF_leg2_AZ_Alkmaar_vs_FC_Shakhtar_Donetsk_2apr_landscape_thumb.jpg",
             "stream_url": "https://dai.google.com/ssai/event/2gc_trPRQpSxZgf5I2noFQ/master.m3u8"
+        },
+        {
+            "contentId": 1090528098,
+            "title": "Athens FC vs Rayo Vallecano - Quarter-Final - Leg 2 - 17 Apr 2026",
+            "shortDescription": "Tune in to catch all the action from the UEFA Conference League 2025\u201326 quarter-final Leg 2 clash between Athens FC and Rayo Vallecano, streaming LIVE on Sony LIV.",
+            "longDescription": "Tune in to catch all the action from the UEFA Conference League 2025\u201326 quarter-final Leg 2 clash between Athens FC and Rayo Vallecano, streaming LIVE on Sony LIV.",
+            "genres": [
+                "Football"
+            ],
+            "broadcast_channel": "Sony Sports Ten 2",
+            "language": "ENGLISH",
+            "startTime": "16 Apr 2026, 11:55 PM",
+            "endTime": "17 Apr 2026, 04:55 AM",
+            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016853/1775152821982363_UECL26_QF_leg2_AEK_Athens_vs_Rayo_Vallecano_2apr_landscape_thumb.jpg",
+            "stream_url": "https://dai.google.com/ssai/event/kgAhzBh9QA6uyrqfBa8APg/master.m3u8"
+        },
+        {
+            "contentId": 1090528099,
+            "title": "Strasbourg vs Mainz - Quarter-Final - Leg 2 - 17 Apr 2026",
+            "shortDescription": "Tune in to catch all the action from the UEFA Conference League 2025\u201326 quarter-final Leg 2 clash between Strasbourg and Mainz, streaming LIVE on Sony LIV.",
+            "longDescription": "Tune in to catch all the action from the UEFA Conference League 2025\u201326 quarter-final Leg 2 clash between Strasbourg and Mainz, streaming LIVE on Sony LIV.",
+            "genres": [
+                "Football"
+            ],
+            "broadcast_channel": "Sony Sports Ten 2",
+            "language": "ENGLISH",
+            "startTime": "16 Apr 2026, 11:55 PM",
+            "endTime": "17 Apr 2026, 04:55 AM",
+            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016853/1775153733910363_UECL26_QF_leg2_Strasbourg_vs_Mainz_2apr_landscape_thumb.jpg",
+            "stream_url": "https://dai.google.com/ssai/event/OmHoNcoVR064pZ1gWNFs_Q/master.m3u8"
+        },
+        {
+            "contentId": 1090528100,
+            "title": "Mexico City - Day 1 - 17 Apr 2026",
+            "shortDescription": "Catch all the Day 1 action from the LIV Golf Mexico City Tour, live on Sony LIV.\n",
+            "longDescription": "Catch all the Day 1 action from the LIV Golf Mexico City Tour, live on Sony LIV.\n",
+            "genres": [
+                "Golf"
+            ],
+            "broadcast_channel": "LIV",
+            "language": "ENGLISH",
+            "startTime": "17 Apr 2026, 12:00 AM",
+            "endTime": "17 Apr 2026, 08:00 AM",
+            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017239/177624298415552_Golf_Mexico_Day1_landscape_thumb.jpg",
+            "stream_url": "https://dai.google.com/ssai/event/EpXvVTEMTQm_Luf-GeKNpQ/master.m3u8"
         }
     ],
     "upcoming": [

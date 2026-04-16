@@ -2,11 +2,32 @@
 #name: SonyLiv Full Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update: 12:30:21 AM 17-04-2026
+#last update: 12:45:15 AM 17-04-2026
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016836/1775134091370488_UEL26_QuarterFinal_Leg1_Bologna_vs_Aston_Villa_30mar_landscape_thumb.jpg" group-title="SonyLiv Live", Aston Villa  vs Bologna  - Quarter-Final - Leg 2 - 17 Apr 2026 [ENGLISH]
+https://dai.google.com/ssai/event/rRLzcNhORV-XPz4zV6jVrQ/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016848/1775141471468765_UEL26_QuarterFinal_Leg2_Nottingham_Forest_vs_Porto_30mar_landscape_thumb.jpg" group-title="SonyLiv Live", Nottingham Forest vs Porto  - Quarter-Final - Leg 2 - 17 Apr 2026 [ENGLISH]
+https://dai.google.com/ssai/event/x1UGIh46R2y6NXA09SUPQw/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016853/1775152567415363_UECL26_QF_leg2_Fiorentina_vs_Crystal_Palace_2apr_landscape_thumb.jpg" group-title="SonyLiv Live", Fiorentina vs Crystal Palace FC - Quarter-Final - Leg 2 - 17 Apr 2026 [ENGLISH]
+https://dai.google.com/ssai/event/FoX2wfDaR4azEMpiywe61Q/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016848/1775137553843765_UEL26_QuarterFinal_Leg2_Real_Betis_vs_Braga_30mar_landscape_thumb.jpg" group-title="SonyLiv Live", Real Betis vs Braga  - Quarter-Final - Leg 2 - 17 Apr 2026 [ENGLISH]
+https://dai.google.com/ssai/event/9A4DX-S5TZ620VNPpLJbng/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016848/1775137204152765_UEL26_QuarterFinal_Leg2_Celta_vs_Freiburg_30mar_landscape_thumb.jpg" group-title="SonyLiv Live", Celta vs Freiburg - Quarter-Final - Leg 2 - 16 Apr 2026 [ENGLISH]
 https://dai.google.com/ssai/event/ahLdkaRoSWavrsFLPU8THA/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016853/1775152373632363_UECL26_QF_leg2_AZ_Alkmaar_vs_FC_Shakhtar_Donetsk_2apr_landscape_thumb.jpg" group-title="SonyLiv Live", AZ Alkmaar vs FC Shakhtar Donetsk - Quarter-Final - Leg 2 - 16 Apr 2026 [ENGLISH]
 https://dai.google.com/ssai/event/2gc_trPRQpSxZgf5I2noFQ/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016853/1775152821982363_UECL26_QF_leg2_AEK_Athens_vs_Rayo_Vallecano_2apr_landscape_thumb.jpg" group-title="SonyLiv Live", Athens FC vs Rayo Vallecano - Quarter-Final - Leg 2 - 17 Apr 2026 [ENGLISH]
+https://dai.google.com/ssai/event/kgAhzBh9QA6uyrqfBa8APg/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016853/1775153733910363_UECL26_QF_leg2_Strasbourg_vs_Mainz_2apr_landscape_thumb.jpg" group-title="SonyLiv Live", Strasbourg vs Mainz - Quarter-Final - Leg 2 - 17 Apr 2026 [ENGLISH]
+https://dai.google.com/ssai/event/OmHoNcoVR064pZ1gWNFs_Q/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017239/177624298415552_Golf_Mexico_Day1_landscape_thumb.jpg" group-title="SonyLiv Live", Mexico City - Day 1 - 17 Apr 2026 [ENGLISH]
+https://dai.google.com/ssai/event/EpXvVTEMTQm_Luf-GeKNpQ/master.m3u8
 
