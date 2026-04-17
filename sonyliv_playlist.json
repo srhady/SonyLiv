@@ -2,23 +2,8 @@
     "name": "SonyLiv Matches Full Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last_update": "02:45:15 AM 18-04-2026",
+    "last_update": "03:00:24 AM 18-04-2026",
     "live": [
-        {
-            "contentId": 1090528269,
-            "title": "St. Pauli vs FC Koln - MD 30 - 18 Apr 2026",
-            "shortDescription": "St. Pauli face FC K\u00f6ln with both teams pushing for crucial points as the season reaches its final stretch. Expect a closely fought contest, with St. Pauli\u2019s high-intensity home approach tested against K\u00f6ln\u2019s physicality and disciplined structure. Watch LIVE & exclusively on Sony LIV.",
-            "longDescription": "St. Pauli face FC K\u00f6ln with both teams pushing for crucial points as the season reaches its final stretch. Expect a closely fought contest, with St. Pauli\u2019s high-intensity home approach tested against K\u00f6ln\u2019s physicality and disciplined structure. Watch LIVE & exclusively on Sony LIV.",
-            "genres": [
-                "Football"
-            ],
-            "broadcast_channel": "Sony Sports Ten 2",
-            "language": "ENGLISH",
-            "startTime": "17 Apr 2026, 11:20 PM",
-            "endTime": "18 Apr 2026, 04:20 AM",
-            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016952/1775438170185352_bliga26_MD30_St_Pauli_vs_FC_Koln_5apr_landscape_thumb.jpg",
-            "stream_url": "https://dai.google.com/ssai/event/UwAwTkJERSOwFnMHjDzlYA/master.m3u8"
-        },
         {
             "contentId": 1090528101,
             "title": "Mexico City - Day 2 - 17 Apr 2026",
