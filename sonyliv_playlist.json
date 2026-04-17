@@ -2,24 +2,8 @@
     "name": "SonyLiv Matches Full Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last_update": "08:00:25 PM 17-04-2026",
-    "live": [
-        {
-            "contentId": 1090528108,
-            "title": "Benfica vs Club Brugge - Semi-Final - 17 Apr 2026",
-            "shortDescription": "Catch all the action from the UEFA Youth League 2025-26 match between Benfica and Club Brugge, LIVE & exclusively on Sony LIV.",
-            "longDescription": "Catch all the action from the UEFA Youth League 2025-26 match between Benfica and Club Brugge, LIVE & exclusively on Sony LIV.",
-            "genres": [
-                "Football"
-            ],
-            "broadcast_channel": "Sony Sports Ten 2",
-            "language": "ENGLISH",
-            "startTime": "17 Apr 2026, 04:55 PM",
-            "endTime": "17 Apr 2026, 09:55 PM",
-            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017315/1776429824542201_UYL26_SemiFinal_Benfica_vs_Club_Brugge_25mar_landscape_thumb.jpg",
-            "stream_url": "https://dai.google.com/ssai/event/dSaLCByHRviH63QVPouVgA/master.m3u8"
-        }
-    ],
+    "last_update": "08:15:24 PM 17-04-2026",
+    "live": [],
     "upcoming": [
         {
             "contentId": 1090528312,
