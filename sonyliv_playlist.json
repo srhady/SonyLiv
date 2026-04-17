@@ -2,7 +2,7 @@
     "name": "SonyLiv Matches Full Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last_update": "11:15:17 PM 17-04-2026",
+    "last_update": "11:30:23 PM 17-04-2026",
     "live": [
         {
             "contentId": 1090528112,
@@ -18,6 +18,21 @@
             "endTime": "18 Apr 2026, 02:40 AM",
             "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017315/1776430199518201_UYL26_SemiFinal_Real_Madrid_vs_PSG_25mar_landscape_thumb.jpg",
             "stream_url": "https://dai.google.com/ssai/event/dbpLNriASFGe1kkUv43Hxw/master.m3u8"
+        },
+        {
+            "contentId": 1090528101,
+            "title": "Mexico City - Day 2 - 17 Apr 2026",
+            "shortDescription": "Catch all the Day 2 action from the LIV Golf Mexico City Tour, live on Sony LIV.\n",
+            "longDescription": "Catch all the Day 2 action from the LIV Golf Mexico City Tour, live on Sony LIV.\n",
+            "genres": [
+                "Golf"
+            ],
+            "broadcast_channel": "LIV",
+            "language": "ENGLISH",
+            "startTime": "17 Apr 2026, 11:00 PM",
+            "endTime": "18 Apr 2026, 07:00 AM",
+            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017239/177624349331352_Golf_Mexico_Day2_landscape_thumb.jpg",
+            "stream_url": "https://dai.google.com/ssai/event/by07ZzrmTgerkPQ39CviUA/master.m3u8"
         }
     ],
     "upcoming": [
