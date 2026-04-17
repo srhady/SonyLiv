@@ -2,7 +2,7 @@
     "name": "SonyLiv Matches Full Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last_update": "10:00:24 PM 17-04-2026",
+    "last_update": "10:15:16 PM 17-04-2026",
     "live": [
         {
             "contentId": 1090500468,
@@ -18,6 +18,21 @@
             "endTime": "17 Apr 2026, 10:35 PM",
             "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016744/1774877224201375_WOF_simulcast_landscape_thumb.jpg",
             "stream_url": "https://dai.google.com/ssai/event/ywC0TYXoSbOYu7fxpFglFA/master.m3u8"
+        },
+        {
+            "contentId": 1090528112,
+            "title": "Real Madrid vs PSG - Semi-Final - 17 Apr 2026",
+            "shortDescription": "Catch all the action from the UEFA Youth League 2025-26 match between Real Madrid and PSG, LIVE & exclusively on Sony LIV.",
+            "longDescription": "Catch all the action from the UEFA Youth League 2025-26 match between Real Madrid and PSG, LIVE & exclusively on Sony LIV.",
+            "genres": [
+                "Football"
+            ],
+            "broadcast_channel": "Sony Sports Ten 2",
+            "language": "ENGLISH",
+            "startTime": "17 Apr 2026, 09:40 PM",
+            "endTime": "18 Apr 2026, 02:40 AM",
+            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017315/1776430199518201_UYL26_SemiFinal_Real_Madrid_vs_PSG_25mar_landscape_thumb.jpg",
+            "stream_url": "https://dai.google.com/ssai/event/dbpLNriASFGe1kkUv43Hxw/master.m3u8"
         }
     ],
     "upcoming": [
