@@ -2,7 +2,7 @@
     "name": "SonyLiv Matches Full Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last_update": "03:45:14 AM 18-04-2026",
+    "last_update": "04:00:21 AM 18-04-2026",
     "live": [
         {
             "contentId": 1090528101,
@@ -22,15 +22,26 @@
     ],
     "upcoming": [
         {
-            "contentId": 1090528312,
-            "title": "Upcoming - Emirates FA Cup Semifinals",
+            "contentId": 1090528425,
+            "title": "Upcoming - Emirates FA Cup - Semifinals - Manchester City vs Southampton",
             "shortDescription": "Tune in to catch all the action from the Emirates FA Cup Semifinals, exclusively on Sony LIV.",
             "longDescription": "Tune in to catch all the action from the Emirates FA Cup Semifinals, exclusively on Sony LIV.",
             "genres": [
                 "Football"
             ],
-            "startTime": "16 Apr 2026, 01:00 PM",
-            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017295/1776383756915532_FAcup26_SF_17apr_dated_rev_promo_landscape_thumb.jpg"
+            "startTime": "17 Apr 2026, 10:00 AM",
+            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017311/1776427343165560_FA-Cup-Semi-Final_Man-city-vs-Southampton_DDT_landscape_thumb.jpg"
+        },
+        {
+            "contentId": 1090528424,
+            "title": "Upcoming - Emirates FA Cup - Semifinals - Chelsea vs Leeds United",
+            "shortDescription": "Tune in to catch all the action from the Emirates FA Cup Semifinals, exclusively on Sony LIV.",
+            "longDescription": "Tune in to catch all the action from the Emirates FA Cup Semifinals, exclusively on Sony LIV.",
+            "genres": [
+                "Football"
+            ],
+            "startTime": "17 Apr 2026, 10:00 AM",
+            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017311/1776425034626560_FA-Cup-Semi-Final-Chelsea-vs-Leeds-United_DDT_landscape_thumb.jpg"
         },
         {
             "contentId": 1090528195,
