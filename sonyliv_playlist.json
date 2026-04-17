@@ -2,8 +2,24 @@
     "name": "SonyLiv Matches Full Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last_update": "04:00:23 PM 17-04-2026",
-    "live": [],
+    "last_update": "04:15:19 PM 17-04-2026",
+    "live": [
+        {
+            "contentId": 1090528208,
+            "title": "Namdhari FC vs Chanmari FC - 17 Apr 2026",
+            "shortDescription": "Namdhari FC take on Chanmari FC with both sides aiming to boost their league standing. While Namdhari will look to control the game with their organised approach, Chanmari\u2019s energy, pressing, and pace on the flanks could make the difference. Tune in to catch all the action from Indian Football League 2026, LIVE on Sony LIV.",
+            "longDescription": "Namdhari FC take on Chanmari FC with both sides aiming to boost their league standing. While Namdhari will look to control the game with their organised approach, Chanmari\u2019s energy, pressing, and pace on the flanks could make the difference. Tune in to catch all the action from Indian Football League 2026, LIVE on Sony LIV.",
+            "genres": [
+                "Football"
+            ],
+            "broadcast_channel": "Sony Sports Ten 2",
+            "language": "ENGLISH",
+            "startTime": "17 Apr 2026, 03:30 PM",
+            "endTime": "17 Apr 2026, 08:30 PM",
+            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016703/1774788152081263_IFC_Namdhari_FC_vs_Chanmari_FC_landscape_thumb.jpg",
+            "stream_url": "https://dai.google.com/ssai/event/-Z5M0tAIQSeVS0SKrUmURA/master.m3u8"
+        }
+    ],
     "upcoming": [
         {
             "contentId": 1090528195,
@@ -38,6 +54,30 @@
             ],
             "startTime": "03 Apr 2026, 03:00 PM",
             "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016500/1774271039207830_Hastinapur_k_veer_23march_SS_Landscape_Thumb.jpg"
+        },
+        {
+            "contentId": 1090528055,
+            "title": "Undekhi",
+            "shortDescription": "It's Atwal vs Atwal this time. Watch Undekhi Season 4, streaming from 1st May, on Sony LIV.",
+            "longDescription": "It's Atwal vs Atwal this time. Watch Undekhi Season 4, streaming from 1st May, on Sony LIV.",
+            "genres": [
+                "Crime",
+                "Drama",
+                "Thriller"
+            ],
+            "startTime": "17 Apr 2026, 02:00 PM",
+            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017299/1776411668344362_Undekhi_Landscape_Thumb_Dated.jpg"
+        },
+        {
+            "contentId": 1090528312,
+            "title": "Upcoming - Emirates FA Cup Semifinals",
+            "shortDescription": "Tune in to catch all the action from the Emirates FA Cup Semifinals, exclusively on Sony LIV.",
+            "longDescription": "Tune in to catch all the action from the Emirates FA Cup Semifinals, exclusively on Sony LIV.",
+            "genres": [
+                "Football"
+            ],
+            "startTime": "16 Apr 2026, 01:00 PM",
+            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017295/1776383756915532_FAcup26_SF_17apr_dated_rev_promo_landscape_thumb.jpg"
         },
         {
             "contentId": 1090526616,
