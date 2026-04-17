@@ -2,10 +2,13 @@
 #name: SonyLiv Full Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update: 11:45:17 PM 17-04-2026
+#last update: 12:00:22 AM 18-04-2026
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017315/1776430199518201_UYL26_SemiFinal_Real_Madrid_vs_PSG_25mar_landscape_thumb.jpg" group-title="SonyLiv Live", Real Madrid vs PSG - Semi-Final - 17 Apr 2026 [ENGLISH]
 https://dai.google.com/ssai/event/dbpLNriASFGe1kkUv43Hxw/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016952/1775438170185352_bliga26_MD30_St_Pauli_vs_FC_Koln_5apr_landscape_thumb.jpg" group-title="SonyLiv Live", St. Pauli vs FC Koln - MD 30 - 18 Apr 2026 [ENGLISH]
+https://dai.google.com/ssai/event/UwAwTkJERSOwFnMHjDzlYA/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017239/177624349331352_Golf_Mexico_Day2_landscape_thumb.jpg" group-title="SonyLiv Live", Mexico City - Day 2 - 17 Apr 2026 [ENGLISH]
 https://dai.google.com/ssai/event/by07ZzrmTgerkPQ39CviUA/master.m3u8
