@@ -2,23 +2,8 @@
     "name": "SonyLiv Matches Full Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last_update": "06:45:19 PM 17-04-2026",
+    "last_update": "07:00:26 PM 17-04-2026",
     "live": [
-        {
-            "contentId": 1090528208,
-            "title": "Namdhari FC vs Chanmari FC - 17 Apr 2026",
-            "shortDescription": "Namdhari FC take on Chanmari FC with both sides aiming to boost their league standing. While Namdhari will look to control the game with their organised approach, Chanmari\u2019s energy, pressing, and pace on the flanks could make the difference. Tune in to catch all the action from Indian Football League 2026, LIVE on Sony LIV.",
-            "longDescription": "Namdhari FC take on Chanmari FC with both sides aiming to boost their league standing. While Namdhari will look to control the game with their organised approach, Chanmari\u2019s energy, pressing, and pace on the flanks could make the difference. Tune in to catch all the action from Indian Football League 2026, LIVE on Sony LIV.",
-            "genres": [
-                "Football"
-            ],
-            "broadcast_channel": "Sony Sports Ten 2",
-            "language": "ENGLISH",
-            "startTime": "17 Apr 2026, 03:30 PM",
-            "endTime": "17 Apr 2026, 08:30 PM",
-            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016703/1774788152081263_IFC_Namdhari_FC_vs_Chanmari_FC_landscape_thumb.jpg",
-            "stream_url": "https://dai.google.com/ssai/event/-Z5M0tAIQSeVS0SKrUmURA/master.m3u8"
-        },
         {
             "contentId": 1090528108,
             "title": "Benfica vs Club Brugge - Semi-Final - 17 Apr 2026",
