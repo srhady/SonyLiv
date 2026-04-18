@@ -2,8 +2,11 @@
 #name: SonyLiv Full Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update: 06:30:26 PM 18-04-2026
+#last update: 06:45:17 PM 18-04-2026
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016703/1774788286763263_IFC_Diamond_Harbour_FC_vs_Gokulam_Kerala_FC_landscape_thumb.jpg" group-title="SonyLiv Live", Diamond Harbour FC vs Gokulam Kerala FC - 18 Apr 2026 [ENGLISH]
 https://dai.google.com/ssai/event/V1tapABJTSOCEfSvJXTwNQ/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016703/1774788487557263_IFC_Shillong_Lajong_FC_vs_Aizawl_FC_landscape_thumb.jpg" group-title="SonyLiv Live", Shillong Lajong FC vs Aizawl FC - 18 Apr 2026 [ENGLISH]
+https://dai.google.com/ssai/event/7JLfkzHXQgGvUimwAKPKiw/master.m3u8
 

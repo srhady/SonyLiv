@@ -2,7 +2,7 @@
     "name": "SonyLiv Matches Full Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last_update": "06:30:26 PM 18-04-2026",
+    "last_update": "06:45:17 PM 18-04-2026",
     "live": [
         {
             "contentId": 1090528268,
@@ -18,6 +18,21 @@
             "endTime": "18 Apr 2026, 08:30 PM",
             "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016703/1774788286763263_IFC_Diamond_Harbour_FC_vs_Gokulam_Kerala_FC_landscape_thumb.jpg",
             "stream_url": "https://dai.google.com/ssai/event/V1tapABJTSOCEfSvJXTwNQ/master.m3u8"
+        },
+        {
+            "contentId": 1090528267,
+            "title": "Shillong Lajong FC vs Aizawl FC - 18 Apr 2026",
+            "shortDescription": "Shillong Lajong FC take on Aizawl FC in a highly anticipated clash, with both sides looking to gain momentum. Expect a competitive encounter as Shillong Lajong aim to make home advantage count, while Aizawl FC push for a strong result on the road. Tune in to catch all the action from Indian Football League 2026, LIVE on Sony LIV.",
+            "longDescription": "Shillong Lajong FC take on Aizawl FC in a highly anticipated clash, with both sides looking to gain momentum. Expect a competitive encounter as Shillong Lajong aim to make home advantage count, while Aizawl FC push for a strong result on the road. Tune in to catch all the action from Indian Football League 2026, LIVE on Sony LIV.",
+            "genres": [
+                "Football"
+            ],
+            "broadcast_channel": "Sony Sports Ten 2",
+            "language": "ENGLISH",
+            "startTime": "18 Apr 2026, 06:00 PM",
+            "endTime": "18 Apr 2026, 11:00 PM",
+            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016703/1774788487557263_IFC_Shillong_Lajong_FC_vs_Aizawl_FC_landscape_thumb.jpg",
+            "stream_url": "https://dai.google.com/ssai/event/7JLfkzHXQgGvUimwAKPKiw/master.m3u8"
         }
     ],
     "upcoming": [
