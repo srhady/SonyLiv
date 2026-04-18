@@ -2,8 +2,24 @@
     "name": "SonyLiv Matches Full Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last_update": "05:30:18 AM 19-04-2026",
-    "live": [],
+    "last_update": "05:45:16 AM 19-04-2026",
+    "live": [
+        {
+            "contentId": 1090528495,
+            "title": "UFC Fight Night - Burns vs Malott  - 19 Apr 2026",
+            "shortDescription": "Gilbert Burns faces Mike Malott in a compelling welterweight clash, blending experience against rising talent. Expect an intense battle as Burns\u2019 elite grappling meets Malott\u2019s well-rounded skill set in a high-stakes showdown. Tune in to catch all the action from UFC Fight Night, LIVE on Sony LIV.",
+            "longDescription": "Gilbert Burns faces Mike Malott in a compelling welterweight clash, blending experience against rising talent. Expect an intense battle as Burns\u2019 elite grappling meets Malott\u2019s well-rounded skill set in a high-stakes showdown. Tune in to catch all the action from UFC Fight Night, LIVE on Sony LIV.",
+            "genres": [
+                "Fight Sports"
+            ],
+            "broadcast_channel": "Sony Sports Ten 2",
+            "language": "ENGLISH",
+            "startTime": "19 Apr 2026, 05:00 AM",
+            "endTime": "19 Apr 2026, 11:00 AM",
+            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017279/1776348174104511_UFC-Fight-Night-Burns-vs-Malott_landscape_thumb.jpg",
+            "stream_url": "https://dai.google.com/ssai/event/1h3C6TAxRsafA9aTwWJN7A/master.m3u8"
+        }
+    ],
     "upcoming": [
         {
             "contentId": 1090528312,
