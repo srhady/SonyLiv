@@ -2,16 +2,13 @@
 #name: SonyLiv Full Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update: 09:00:24 PM 18-04-2026
+#last update: 09:15:16 PM 18-04-2026
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016952/1775438696739352_bliga26_MD30_Hoffenheim_vs_Dortmund_5apr_landscape_thumb.jpg" group-title="SonyLiv Live", Hoffenheim vs Borussia Dortmund - MD 30 - 18 Apr 2026 [ENGLISH]
 https://dai.google.com/ssai/event/jOHc0xjyQUWiTpMoswilcg/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016952/1775438299222352_bliga26_MD30_Leverkusen_vs_Augsburg_5apr_landscape_thumb.jpg" group-title="SonyLiv Live", Bayer Leverkusen vs Augsburg - MD 30 - 18 Apr 2026 [ENGLISH]
 https://dai.google.com/ssai/event/lCPZumh6RS6mpyQCA0ZOyA/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016703/1774788487557263_IFC_Shillong_Lajong_FC_vs_Aizawl_FC_landscape_thumb.jpg" group-title="SonyLiv Live", Shillong Lajong FC vs Aizawl FC - 18 Apr 2026 [ENGLISH]
-https://dai.google.com/ssai/event/7JLfkzHXQgGvUimwAKPKiw/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006892/1755929846694147_Bliga26_Goal_Arena_landscape_thumb.jpg" group-title="SonyLiv Live", Goal Arena - MD 30 - 18 Apr 2026 [ENGLISH]
 https://dai.google.com/ssai/event/ga95v7YpR9uILztaMnCF5w/master.m3u8
