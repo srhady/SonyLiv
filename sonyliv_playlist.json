@@ -2,30 +2,35 @@
     "name": "SonyLiv Matches Full Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last_update": "04:00:21 PM 18-04-2026",
-    "live": [],
+    "last_update": "04:15:18 PM 18-04-2026",
+    "live": [
+        {
+            "contentId": 1090528268,
+            "title": "Diamond Harbour FC vs Gokulam Kerala FC - 18 Apr 2026",
+            "shortDescription": "Diamond Harbour FC take on Gokulam Kerala FC in an exciting clash, with both sides eager to build momentum. Expect a competitive encounter as Diamond Harbour FC look to capitalize at home, while Gokulam Kerala FC aim to secure valuable points on the road. Tune in to catch all the action from Indian Football League 2026, LIVE on Sony LIV.",
+            "longDescription": "Diamond Harbour FC take on Gokulam Kerala FC in an exciting clash, with both sides eager to build momentum. Expect a competitive encounter as Diamond Harbour FC look to capitalize at home, while Gokulam Kerala FC aim to secure valuable points on the road. Tune in to catch all the action from Indian Football League 2026, LIVE on Sony LIV.",
+            "genres": [
+                "Football"
+            ],
+            "broadcast_channel": "Sony Sports Ten 2",
+            "language": "ENGLISH",
+            "startTime": "18 Apr 2026, 03:30 PM",
+            "endTime": "18 Apr 2026, 08:30 PM",
+            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016703/1774788286763263_IFC_Diamond_Harbour_FC_vs_Gokulam_Kerala_FC_landscape_thumb.jpg",
+            "stream_url": "https://dai.google.com/ssai/event/V1tapABJTSOCEfSvJXTwNQ/master.m3u8"
+        }
+    ],
     "upcoming": [
         {
-            "contentId": 1090528425,
-            "title": "Upcoming - Emirates FA Cup - Semifinals - Manchester City vs Southampton",
+            "contentId": 1090528312,
+            "title": "Upcoming - Emirates FA Cup Semifinals",
             "shortDescription": "Tune in to catch all the action from the Emirates FA Cup Semifinals, exclusively on Sony LIV.",
             "longDescription": "Tune in to catch all the action from the Emirates FA Cup Semifinals, exclusively on Sony LIV.",
             "genres": [
                 "Football"
             ],
-            "startTime": "17 Apr 2026, 10:00 AM",
-            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017311/1776427343165560_FA-Cup-Semi-Final_Man-city-vs-Southampton_DDT_landscape_thumb.jpg"
-        },
-        {
-            "contentId": 1090528424,
-            "title": "Upcoming - Emirates FA Cup - Semifinals - Chelsea vs Leeds United",
-            "shortDescription": "Tune in to catch all the action from the Emirates FA Cup Semifinals, exclusively on Sony LIV.",
-            "longDescription": "Tune in to catch all the action from the Emirates FA Cup Semifinals, exclusively on Sony LIV.",
-            "genres": [
-                "Football"
-            ],
-            "startTime": "17 Apr 2026, 10:00 AM",
-            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017311/1776425034626560_FA-Cup-Semi-Final-Chelsea-vs-Leeds-United_DDT_landscape_thumb.jpg"
+            "startTime": "16 Apr 2026, 01:00 PM",
+            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017295/1776383756915532_FAcup26_SF_17apr_dated_rev_promo_landscape_thumb.jpg"
         },
         {
             "contentId": 1090528195,
@@ -39,15 +44,15 @@
             "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017178/1776084417375226_THN_Landscape_Thumb_Dated.jpg"
         },
         {
-            "contentId": 1090526851,
+            "contentId": 1090528328,
             "title": "India's Best Dancer",
-            "shortDescription": "India's Best Dancer Season 5 is coming back with Karisma Kapoor. Watch India's Best Dancer, streaming from 9th May, on Sony LIV.",
-            "longDescription": "India's Best Dancer Season 5 is coming back with Karisma Kapoor. Watch India's Best Dancer, streaming from 9th May, on Sony LIV.",
+            "shortDescription": "India's Best Dancer Season 5 is coming back with Jaaved Jaaferi. Watch India's Best Dancer, streaming from 9th May, on Sony LIV.",
+            "longDescription": "India's Best Dancer Season 5 is coming back with Jaaved Jaaferi. Watch India's Best Dancer, streaming from 9th May, on Sony LIV.",
             "genres": [
                 "Reality",
                 "Dance"
             ],
-            "startTime": "10 Apr 2026, 12:00 AM",
+            "startTime": "17 Apr 2026, 01:00 PM",
             "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017130/1775853400635484_IBD_S5_dated_11apr_promo_landscape_thumb.jpg"
         },
         {
