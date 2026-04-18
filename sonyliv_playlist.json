@@ -2,24 +2,8 @@
     "name": "SonyLiv Matches Full Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last_update": "04:45:16 AM 19-04-2026",
-    "live": [
-        {
-            "contentId": 1090528336,
-            "title": "Mexico City - Day 3 - 18 Apr 2026",
-            "shortDescription": "Catch all the Day 3 action from the LIV Golf Mexico City Tour, live on Sony LIV.\n",
-            "longDescription": "Catch all the Day 3 action from the LIV Golf Mexico City Tour, live on Sony LIV.\n",
-            "genres": [
-                "Golf"
-            ],
-            "broadcast_channel": "LIV",
-            "language": "ENGLISH",
-            "startTime": "18 Apr 2026, 10:30 PM",
-            "endTime": "19 Apr 2026, 06:30 AM",
-            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017239/177624350505752_Golf_Mexico_Day3_landscape_thumb.jpg",
-            "stream_url": "https://dai.google.com/ssai/event/X3j0O-G-QEaPSp8yNcP9Jg/master.m3u8"
-        }
-    ],
+    "last_update": "05:00:23 AM 19-04-2026",
+    "live": [],
     "upcoming": [
         {
             "contentId": 1090528312,
