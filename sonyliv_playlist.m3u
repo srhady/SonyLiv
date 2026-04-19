@@ -2,11 +2,11 @@
 #name: SonyLiv Full Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update: 06:45:15 PM 19-04-2026
-
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016703/1774788631646263_IFC_Dempo_Sports_Club_vs_Rajasthan_United_FC_landscape_thumb.jpg" group-title="SonyLiv Live", Dempo Sports Club vs Rajasthan United FC - 19 Apr 2026 [ENGLISH]
-https://dai.google.com/ssai/event/yUO0eUDzSTGfGCq72cD9JA/master.m3u8
+#last update: 07:00:21 PM 19-04-2026
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016703/1774788759173263_IFC_Real_Kashmir_FC_vs_Sreenidi_Deccan_FC_landscape_thumb.jpg" group-title="SonyLiv Live", Real Kashmir FC vs Sreenidi Deccan FC - 19 Apr 2026 [ENGLISH]
 https://dai.google.com/ssai/event/0eGzr9pBSju0UB8U_5nUvg/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016952/1775439762234352_bliga26_MD30_Freiburg_vs_Heidenheim_5apr_landscape_thumb.jpg" group-title="SonyLiv Live", Freiburg vs Heidenheim - MD 30 - 19 Apr 2026 [ENGLISH]
+https://dai.google.com/ssai/event/gF4fNDLFQ9SlJT1MO53MqA/master.m3u8
 
