@@ -2,8 +2,11 @@
 #name: SonyLiv Full Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update: 10:45:15 PM 19-04-2026
+#last update: 11:00:20 PM 19-04-2026
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016952/1775439950936352_bliga26_MD30_Bayern_vs_Stuttgart_5apr_landscape_thumb.jpg" group-title="SonyLiv Live", Bayern Munich vs VfB Stuttgart - MD 30 - 19 Apr 2026 [ENGLISH]
 https://dai.google.com/ssai/event/Ybug7Kl0Q82FQAHJgXlsGQ/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016952/1775440159493352_bliga26_MD30_Borussia_vs_Mainz_5apr_landscape_thumb.jpg" group-title="SonyLiv Live", Borussia Mönchengladbach vs Mainz - MD 30 - 19 Apr 2026 [ENGLISH]
+https://dai.google.com/ssai/event/jnpvw9goRV2lb3bMV8Z_Kw/master.m3u8
 
