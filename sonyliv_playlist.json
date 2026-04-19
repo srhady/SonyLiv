@@ -2,8 +2,23 @@
     "name": "SonyLiv Matches Full Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last_update": "09:00:23 PM 19-04-2026",
+    "last_update": "09:15:19 PM 19-04-2026",
     "live": [
+        {
+            "contentId": 1090528442,
+            "title": "Bayern Munich vs VfB Stuttgart - MD 30 - 19 Apr 2026",
+            "shortDescription": "FC Bayern Munich face VfB Stuttgart in a key Bundesliga clash, with both sides aiming to strengthen their position. Expect an intense contest as Bayern look to assert dominance, while Stuttgart seek to challenge and secure a valuable result. Catch all the action from Bundesliga 2025-26, LIVE on Sony LIV.",
+            "longDescription": "FC Bayern Munich face VfB Stuttgart in a key Bundesliga clash, with both sides aiming to strengthen their position. Expect an intense contest as Bayern look to assert dominance, while Stuttgart seek to challenge and secure a valuable result. Catch all the action from Bundesliga 2025-26, LIVE on Sony LIV.",
+            "genres": [
+                "Football"
+            ],
+            "broadcast_channel": "Sony Sports Ten 2",
+            "language": "ENGLISH",
+            "startTime": "19 Apr 2026, 08:20 PM",
+            "endTime": "20 Apr 2026, 01:20 AM",
+            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016952/1775439950936352_bliga26_MD30_Bayern_vs_Stuttgart_5apr_landscape_thumb.jpg",
+            "stream_url": "https://dai.google.com/ssai/event/Ybug7Kl0Q82FQAHJgXlsGQ/master.m3u8"
+        },
         {
             "contentId": 1090528440,
             "title": "Real Kashmir FC vs Sreenidi Deccan FC - 19 Apr 2026",
