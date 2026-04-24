@@ -2,7 +2,7 @@
     "name": "SonyLiv Matches Full Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last_update": "07:00:25 PM 24-04-2026",
+    "last_update": "07:15:17 PM 24-04-2026",
     "live": [
         {
             "contentId": 1090528746,
@@ -20,109 +20,5 @@
             "stream_url": "https://dai.google.com/ssai/event/KijWX2h2RoSltesOov7TBw/master.m3u8"
         }
     ],
-    "upcoming": [
-        {
-            "contentId": 1090528335,
-            "title": "Undekhi",
-            "shortDescription": "It's Atwal vs Atwal this time. Watch Undekhi Season 4, streaming from 1st May, on Sony LIV.",
-            "longDescription": "It's Atwal vs Atwal this time. Watch Undekhi Season 4, streaming from 1st May, on Sony LIV.",
-            "genres": [
-                "Crime",
-                "Drama",
-                "Thriller"
-            ],
-            "startTime": "17 Apr 2026, 02:00 PM",
-            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017299/1776411668344362_Undekhi_Landscape_Thumb_Dated.jpg"
-        },
-        {
-            "contentId": 1090528425,
-            "title": "Upcoming - Emirates FA Cup - Semifinals - Manchester City vs Southampton",
-            "shortDescription": "Tune in to catch all the action from the Emirates FA Cup Semifinals, exclusively on Sony LIV.",
-            "longDescription": "Tune in to catch all the action from the Emirates FA Cup Semifinals, exclusively on Sony LIV.",
-            "genres": [
-                "Football"
-            ],
-            "startTime": "17 Apr 2026, 10:00 AM",
-            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017311/1776427343165560_FA-Cup-Semi-Final_Man-city-vs-Southampton_DDT_landscape_thumb.jpg"
-        },
-        {
-            "contentId": 1090528424,
-            "title": "Upcoming - Emirates FA Cup - Semifinals - Chelsea vs Leeds United",
-            "shortDescription": "Tune in to catch all the action from the Emirates FA Cup Semifinals, exclusively on Sony LIV.",
-            "longDescription": "Tune in to catch all the action from the Emirates FA Cup Semifinals, exclusively on Sony LIV.",
-            "genres": [
-                "Football"
-            ],
-            "startTime": "17 Apr 2026, 10:00 AM",
-            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017311/1776425034626560_FA-Cup-Semi-Final-Chelsea-vs-Leeds-United_DDT_landscape_thumb.jpg"
-        },
-        {
-            "contentId": 1090528195,
-            "title": "Tum Ho Naa",
-            "shortDescription": "Tum Ho Na unites housewives in a thrilling game show packed with challenges, laughter, and friendly rivalry. Watch Tum Ho Naa, streaming from 28th April at 9pm, only on Sony LIV.",
-            "longDescription": "Tum Ho Na unites housewives in a thrilling game show packed with challenges, laughter, and friendly rivalry. Watch Tum Ho Naa, streaming from 28th April at 9pm, only on Sony LIV.",
-            "genres": [
-                "Game show"
-            ],
-            "startTime": "16 Apr 2026, 10:00 AM",
-            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017178/1776084417375226_THN_Landscape_Thumb_Dated.jpg"
-        },
-        {
-            "contentId": 1090528757,
-            "title": "Upcoming - PSG vs Bayern - Semi-Final - UEFA Champions League 2025-26",
-            "shortDescription": "Watch all the action from UEFA Champions League 2025-26, exclusively on Sony LIV.",
-            "longDescription": "Watch all the action from UEFA Champions League 2025-26, exclusively on Sony LIV.",
-            "genres": [
-                "Football"
-            ],
-            "startTime": "22 Apr 2026, 03:00 PM",
-            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017420/1776855200879116_UCL_Semi_Final_Leg1_PSG_vs_Bayern_promo_landscape_thumb_dated.jpg"
-        },
-        {
-            "contentId": 1090528576,
-            "title": "India's Best Dancer",
-            "shortDescription": "India's Best Dancer Season 5 is coming back with Jaaved Jaaferi. Watch India's Best Dancer, streaming from 9th May, on Sony LIV.",
-            "longDescription": "India's Best Dancer Season 5 is coming back with Jaaved Jaaferi. Watch India's Best Dancer, streaming from 9th May, on Sony LIV.",
-            "genres": [
-                "Reality",
-                "Dance"
-            ],
-            "startTime": "20 Apr 2026, 01:00 PM",
-            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017130/1775853400635484_IBD_S5_dated_11apr_promo_landscape_thumb.jpg"
-        },
-        {
-            "contentId": 1090529068,
-            "title": "Hastinapur Ke Veer",
-            "shortDescription": "Hastinapur Ke Veer unfolds the saga of the five Pandavas brothers, who embody courage, righteousness, and sacrifice as they confront the relentless forces of ambition and injustice. Watch Hastinapur Ke Veer streaming soon, only on Sony LIV. ",
-            "longDescription": "Hastinapur Ke Veer unfolds the saga of the five Pandavas brothers, who embody courage, righteousness, and sacrifice as they confront the relentless forces of ambition and injustice. Watch Hastinapur Ke Veer streaming soon, only on Sony LIV. ",
-            "genres": [
-                "Mythology"
-            ],
-            "startTime": "24 Apr 2026, 03:00 PM",
-            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016500/1774271039207830_Hastinapur_k_veer_23march_SS_Landscape_Thumb.jpg"
-        },
-        {
-            "contentId": 1090526616,
-            "title": "Upcoming - India\u2019s Cricketing Mayhem",
-            "shortDescription": "Tune in to catch all the action from India\u2019s Cricketing Mayhem, only on Sony LIV.",
-            "longDescription": "Tune in to catch all the action from India\u2019s Cricketing Mayhem, only on Sony LIV.",
-            "genres": [
-                "Cricket"
-            ],
-            "startTime": "10 Apr 2026, 12:00 PM",
-            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016596/1774511365140541_9_India_Series_promo_landscape_thumb.jpg"
-        },
-        {
-            "contentId": 1090507840,
-            "title": "A New Story Every Friday",
-            "shortDescription": "Catch a new story every Friday and make your summers brighter. Watch exclusive shows, films and sports content only on Sony LIV.",
-            "longDescription": "Catch a new story every Friday and make your summers brighter. Watch exclusive shows, films and sports content only on Sony LIV.",
-            "genres": [
-                "Entertainment",
-                "Sports"
-            ],
-            "startTime": "14 Mar 2026, 12:00 AM",
-            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016189/1773494443654730_gec_combo_promo_landscape_thumb.jpg"
-        }
-    ]
+    "upcoming": []
 }
