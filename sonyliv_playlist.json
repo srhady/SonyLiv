@@ -2,7 +2,7 @@
     "name": "SonyLiv Matches Full Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last_update": "02:30:21 PM 24-04-2026",
+    "last_update": "02:45:18 PM 24-04-2026",
     "live": [
         {
             "contentId": 1090528739,
@@ -17,7 +17,7 @@
             "startTime": "24 Apr 2026, 09:30 AM",
             "endTime": "24 Apr 2026, 07:30 PM",
             "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016950/1775436985667181_DP_World_Tour_Volvo_China_Open_Day2_landscape_thumb.jpg",
-            "stream_url": "https://dai.google.com/ssai/event/jRQlKg2DQWa70jsLHUtxGA/master.m3u8"
+            "stream_url": "https://dai.google.com/ssai/event/ahLdkaRoSWavrsFLPU8THA/master.m3u8"
         },
         {
             "contentId": 1090528741,
