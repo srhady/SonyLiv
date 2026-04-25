@@ -2,8 +2,23 @@
     "name": "SonyLiv Matches Full Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last_update": "09:00:20 PM 25-04-2026",
+    "last_update": "09:15:14 PM 25-04-2026",
     "live": [
+        {
+            "contentId": 1090528814,
+            "title": "Manchester City vs Southampton - Semi-Final - 25 Apr 2026",
+            "shortDescription": "Manchester City take on Southampton at Wembley in a high\u2011stakes FA Cup semi\u2011final, with a place in the final firmly up for grabs. City will look to impose their control and attacking depth on the big stage, while Southampton arrive determined to stay compact, disrupt the rhythm, and chase a famous upset. With silverware within reach, this clash promises intensity, pressure, and fine margins under the Wembley spotlight. Catch all action from the Emirates FA Cup 2025-26, LIVE on Sony LIV.",
+            "longDescription": "Manchester City take on Southampton at Wembley in a high\u2011stakes FA Cup semi\u2011final, with a place in the final firmly up for grabs. City will look to impose their control and attacking depth on the big stage, while Southampton arrive determined to stay compact, disrupt the rhythm, and chase a famous upset. With silverware within reach, this clash promises intensity, pressure, and fine margins under the Wembley spotlight. Catch all action from the Emirates FA Cup 2025-26, LIVE on Sony LIV.",
+            "genres": [
+                "Football"
+            ],
+            "broadcast_channel": "Sony Sports Ten 2",
+            "language": "ENGLISH",
+            "startTime": "25 Apr 2026, 08:30 PM",
+            "endTime": "26 Apr 2026, 03:30 AM",
+            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017462/1777028756433801_FA_Cup_Semi_Final_With_Players_Manchester_City_vs_Southampton_Live_landscape_thumb.jpg",
+            "stream_url": "https://dai.google.com/ssai/event/ahLdkaRoSWavrsFLPU8THA/master.m3u8"
+        },
         {
             "contentId": 1090528803,
             "title": "Mainz vs Bayern Munich - MD 31 - 25 Apr 2026",
@@ -33,21 +48,6 @@
             "endTime": "25 Apr 2026, 11:20 PM",
             "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017023/1775631280916558_BLGA_26_MD31_Koln-vs-Leverkusen_landscape_thumb.jpg",
             "stream_url": "https://dai.google.com/ssai/event/H3hmvZbOSwehV9bLSuZoMg/master.m3u8"
-        },
-        {
-            "contentId": 1090528761,
-            "title": "Chanmari FC vs Diamond Harbour FC - 25 Apr 2026",
-            "shortDescription": "Chanmari FC, aiming to build momentum at a crucial stage of the season, play host to the table-toppers with valuable points on the line. Tune in to catch all the action from Star Cement  Indian Football League 2025-26, LIVE on Sony LIV.",
-            "longDescription": "Chanmari FC, aiming to build momentum at a crucial stage of the season, play host to the table-toppers with valuable points on the line. Tune in to catch all the action from Star Cement  Indian Football League 2025-26, LIVE on Sony LIV.",
-            "genres": [
-                "Football"
-            ],
-            "broadcast_channel": "Sony Sports Ten 2",
-            "language": "ENGLISH",
-            "startTime": "25 Apr 2026, 06:00 PM",
-            "endTime": "25 Apr 2026, 11:00 PM",
-            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017409/1776795097937598_IFL26_ChanmariFC_vs_DiamondHarbourFC_21apr_landscape_thumb.jpg",
-            "stream_url": "https://dai.google.com/ssai/event/uAq6DxJrSHWYY9RB_OaOUw/master.m3u8"
         },
         {
             "contentId": 1090528801,
