@@ -2,8 +2,24 @@
     "name": "SonyLiv Matches Full Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last_update": "06:30:17 PM 25-04-2026",
-    "live": [],
+    "last_update": "06:45:13 PM 25-04-2026",
+    "live": [
+        {
+            "contentId": 1090528761,
+            "title": "Chanmari FC vs Diamond Harbour FC - 25 Apr 2026",
+            "shortDescription": "Chanmari FC, aiming to build momentum at a crucial stage of the season, play host to the table-toppers with valuable points on the line. Tune in to catch all the action from Star Cement  Indian Football League 2025-26, LIVE on Sony LIV.",
+            "longDescription": "Chanmari FC, aiming to build momentum at a crucial stage of the season, play host to the table-toppers with valuable points on the line. Tune in to catch all the action from Star Cement  Indian Football League 2025-26, LIVE on Sony LIV.",
+            "genres": [
+                "Football"
+            ],
+            "broadcast_channel": "Sony Sports Ten 2",
+            "language": "ENGLISH",
+            "startTime": "25 Apr 2026, 06:00 PM",
+            "endTime": "25 Apr 2026, 11:00 PM",
+            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017409/1776795097937598_IFL26_ChanmariFC_vs_DiamondHarbourFC_21apr_landscape_thumb.jpg",
+            "stream_url": "https://dai.google.com/ssai/event/uAq6DxJrSHWYY9RB_OaOUw/master.m3u8"
+        }
+    ],
     "upcoming": [
         {
             "contentId": 1090528425,
