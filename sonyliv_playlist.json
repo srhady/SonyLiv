@@ -2,39 +2,8 @@
     "name": "SonyLiv Matches Full Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last_update": "01:00:21 AM 26-04-2026",
-    "live": [
-        {
-            "contentId": 1090528814,
-            "title": "Manchester City vs Southampton - Semi-Final - 25 Apr 2026",
-            "shortDescription": "Manchester City take on Southampton at Wembley in a high\u2011stakes FA Cup semi\u2011final, with a place in the final firmly up for grabs. City will look to impose their control and attacking depth on the big stage, while Southampton arrive determined to stay compact, disrupt the rhythm, and chase a famous upset. With silverware within reach, this clash promises intensity, pressure, and fine margins under the Wembley spotlight. Catch all action from the Emirates FA Cup 2025-26, LIVE on Sony LIV.",
-            "longDescription": "Manchester City take on Southampton at Wembley in a high\u2011stakes FA Cup semi\u2011final, with a place in the final firmly up for grabs. City will look to impose their control and attacking depth on the big stage, while Southampton arrive determined to stay compact, disrupt the rhythm, and chase a famous upset. With silverware within reach, this clash promises intensity, pressure, and fine margins under the Wembley spotlight. Catch all action from the Emirates FA Cup 2025-26, LIVE on Sony LIV.",
-            "genres": [
-                "Football"
-            ],
-            "broadcast_channel": "Sony Sports Ten 2",
-            "language": "ENGLISH",
-            "startTime": "25 Apr 2026, 08:30 PM",
-            "endTime": "26 Apr 2026, 03:30 AM",
-            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017462/1777028756433801_FA_Cup_Semi_Final_With_Players_Manchester_City_vs_Southampton_Live_landscape_thumb.jpg",
-            "stream_url": "https://dai.google.com/ssai/event/ahLdkaRoSWavrsFLPU8THA/master.m3u8"
-        },
-        {
-            "contentId": 1090528813,
-            "title": "Hamburger SV vs Hoffenheim - MD 31 - 25 Apr 2026",
-            "shortDescription": "Hamburger SV welcome Hoffenheim in a Matchday 31 showdown featuring contrasting approaches and shared ambition. HSV will seek to harness home support and intensity, while Hoffenheim look to control phases of play and secure crucial points as the pressure builds late in the campaign. Catch all the action from Bundesliga 2025-26, LIVE on Sony LIV.",
-            "longDescription": "Hamburger SV welcome Hoffenheim in a Matchday 31 showdown featuring contrasting approaches and shared ambition. HSV will seek to harness home support and intensity, while Hoffenheim look to control phases of play and secure crucial points as the pressure builds late in the campaign. Catch all the action from Bundesliga 2025-26, LIVE on Sony LIV.",
-            "genres": [
-                "Football"
-            ],
-            "broadcast_channel": "Sony Sports Ten 2",
-            "language": "ENGLISH",
-            "startTime": "25 Apr 2026, 09:20 PM",
-            "endTime": "26 Apr 2026, 02:20 AM",
-            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017425/1776858230929256_BLIGA26_MD31_Hamburger_SV_vs_Hoffenheim_landscape_thumb.jpg",
-            "stream_url": "https://dai.google.com/ssai/event/uUCqXHDwRA6RxBD1X_3aaA/master.m3u8"
-        }
-    ],
+    "last_update": "01:15:17 AM 26-04-2026",
+    "live": [],
     "upcoming": [
         {
             "contentId": 1090528335,
