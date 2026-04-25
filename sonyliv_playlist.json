@@ -2,7 +2,7 @@
     "name": "SonyLiv Matches Full Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last_update": "11:15:17 AM 25-04-2026",
+    "last_update": "11:30:18 AM 25-04-2026",
     "live": [
         {
             "contentId": 1090528760,
@@ -37,6 +37,17 @@
     ],
     "upcoming": [
         {
+            "contentId": 1090528425,
+            "title": "Upcoming - Emirates FA Cup - Semifinals - Manchester City vs Southampton",
+            "shortDescription": "Tune in to catch all the action from the Emirates FA Cup Semifinals, exclusively on Sony LIV.",
+            "longDescription": "Tune in to catch all the action from the Emirates FA Cup Semifinals, exclusively on Sony LIV.",
+            "genres": [
+                "Football"
+            ],
+            "startTime": "17 Apr 2026, 10:00 AM",
+            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017469/177703586913893_FA_Cup_Semi_Final_Manchester_City_vs_Southampton_promo_landscape_thumbnail_dated.jpg"
+        },
+        {
             "contentId": 1090528335,
             "title": "Undekhi",
             "shortDescription": "It's Atwal vs Atwal this time. Watch Undekhi Season 4, streaming from 1st May, on Sony LIV.",
@@ -48,17 +59,6 @@
             ],
             "startTime": "17 Apr 2026, 02:00 PM",
             "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017299/1776411668344362_Undekhi_Landscape_Thumb_Dated.jpg"
-        },
-        {
-            "contentId": 1090528425,
-            "title": "Upcoming - Emirates FA Cup - Semifinals - Manchester City vs Southampton",
-            "shortDescription": "Tune in to catch all the action from the Emirates FA Cup Semifinals, exclusively on Sony LIV.",
-            "longDescription": "Tune in to catch all the action from the Emirates FA Cup Semifinals, exclusively on Sony LIV.",
-            "genres": [
-                "Football"
-            ],
-            "startTime": "17 Apr 2026, 10:00 AM",
-            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017469/177703586913893_FA_Cup_Semi_Final_Manchester_City_vs_Southampton_promo_landscape_thumbnail_dated.jpg"
         },
         {
             "contentId": 1090528424,
