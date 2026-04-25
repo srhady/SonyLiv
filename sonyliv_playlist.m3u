@@ -2,8 +2,26 @@
 #name: SonyLiv Full Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update: 06:45:13 PM 25-04-2026
+#last update: 07:00:23 PM 25-04-2026
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017023/1775629737049558_BLGA_26_MD31_Mainz-vs-Bayern_landscape_thumb.jpg" group-title="SonyLiv Live", Mainz vs Bayern Munich - MD 31 - 25 Apr 2026 [ENGLISH]
+https://dai.google.com/ssai/event/KITs6J15Ta-gCmZmIKCCYw/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017023/1775631280916558_BLGA_26_MD31_Koln-vs-Leverkusen_landscape_thumb.jpg" group-title="SonyLiv Live", FC Koln vs Bayer Leverkusen - MD 31 - 25 Apr 2026 [ENGLISH]
+https://dai.google.com/ssai/event/H3hmvZbOSwehV9bLSuZoMg/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017409/1776795097937598_IFL26_ChanmariFC_vs_DiamondHarbourFC_21apr_landscape_thumb.jpg" group-title="SonyLiv Live", Chanmari FC vs Diamond Harbour FC - 25 Apr 2026 [ENGLISH]
 https://dai.google.com/ssai/event/uAq6DxJrSHWYY9RB_OaOUw/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017023/1775549781002558_BLGA_26_MD31_Wolfsburg-vs-Borussia-Mgladbach_landscape_thumb.jpg" group-title="SonyLiv Live", Wolfsburg vs Borussia Monchengladbach - MD 31 - 25 Apr 2026 [ENGLISH]
+https://dai.google.com/ssai/event/Bw3t-0plSQGZbHOnERHj9Q/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017023/1775632666634558_BLGA_26_MD31_Augsburg-vs-Eintracht-Frankfurt_landscape_thumb.jpg" group-title="SonyLiv Live", Augsburg vs Eintracht Frankfurt - MD 31 - 25 Apr 2026 [ENGLISH]
+https://dai.google.com/ssai/event/RxOckzeJRyuaLeoNaYuPsA/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017023/1775630299728558_BLGA_26_MD31_Heidenheim-vs-St-Pauli_landscape_thumb.jpg" group-title="SonyLiv Live", Heidenheim vs St. Pauli - MD 31 - 25 Apr 2026 [ENGLISH]
+https://dai.google.com/ssai/event/qsP7wpRuRn21SQtlFwpLlg/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006892/1755929846694147_Bliga26_Goal_Arena_landscape_thumb.jpg" group-title="SonyLiv Live", Goal Arena - MD 31 - 25 Apr 2026 [ENGLISH]
+https://dai.google.com/ssai/event/x0nJ0EK_TfWG4Rr87u7eiw/master.m3u8
 
