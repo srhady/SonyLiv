@@ -2,23 +2,8 @@
     "name": "SonyLiv Matches Full Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last_update": "03:15:17 PM 26-04-2026",
+    "last_update": "03:30:26 PM 26-04-2026",
     "live": [
-        {
-            "contentId": 1090529082,
-            "title": "Volvo China Open - Day 4 - 26 Apr 2026",
-            "shortDescription": "Watch all the action from Volvo China Open Day 4, LIVE on Sony LIV.",
-            "longDescription": "Watch all the action from Volvo China Open Day 4, LIVE on Sony LIV.",
-            "genres": [
-                "Golf"
-            ],
-            "broadcast_channel": "LIV",
-            "language": "ENGLISH",
-            "startTime": "26 Apr 2026, 09:00 AM",
-            "endTime": "26 Apr 2026, 07:00 PM",
-            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016950/1775437003417181_DP_World_Tour_Volvo_China_Open_Day4_landscape_thumb.jpg",
-            "stream_url": "https://dai.google.com/ssai/event/HO3Ytbq9QKmX1Fj7BoBH4A/master.m3u8"
-        },
         {
             "contentId": 1090529081,
             "title": "Singapore Open - Day 4 - 26 Apr 2026",
