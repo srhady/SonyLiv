@@ -2,16 +2,13 @@
 #name: SonyLiv Full Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update: 09:15:15 PM 26-04-2026
+#last update: 09:30:19 PM 26-04-2026
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017462/1777028676513801_FA_Cup_Semi_Final_With_Players_Chelsea_vs_Leeds_United_Live_landscape_thumb.jpg" group-title="SonyLiv Live", Chelsea vs Leeds United - Semi-Final - 26 Apr 2026 [ENGLISH]
 https://dai.google.com/ssai/event/zdFSM3eHRpaBv6Dn5daVTg/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017023/1775632260232558_BLGA_26_MD31_Dortmund-vs-SC-Freiburg_landscape_thumb.jpg" group-title="SonyLiv Live", Borussia Dortmund vs SC Freiburg - MD 31 - 26 Apr 2026 [ENGLISH]
 https://dai.google.com/ssai/event/jRQlKg2DQWa70jsLHUtxGA/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017409/1776795491109599_IFL26_ShillongLajongFC_vs_DempoSportsClubFC_21apr_landscape_thumb.jpg" group-title="SonyLiv Live", Shillong Lajong FC vs Dempo Sports Club FC - 26 Apr 2026 [ENGLISH]
-https://dai.google.com/ssai/event/KijWX2h2RoSltesOov7TBw/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017023/1775629212397558_BLGA_26_MD31_VfB-Stuttgart-vs-Werder_landscape_thumb.jpg" group-title="SonyLiv Live", VfB Stuttgart vs Werder Bremen - MD 31 - 26 Apr 2026 [ENGLISH]
 https://dai.google.com/ssai/event/uP_7_QWgRHehSMm82S7iLg/master.m3u8
