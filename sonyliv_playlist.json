@@ -2,7 +2,7 @@
     "name": "SonyLiv Matches Full Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last_update": "12:45:16 PM 26-04-2026",
+    "last_update": "01:00:20 PM 26-04-2026",
     "live": [
         {
             "contentId": 1090529082,
@@ -32,7 +32,7 @@
             "startTime": "26 Apr 2026, 08:00 AM",
             "endTime": "26 Apr 2026, 05:00 PM",
             "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017371/1776681491077468_Asian_Tour_Singapore_Open_Day4_Live_landscape_thumb.jpg",
-            "stream_url": "https://dai.google.com/ssai/event/-pNO-1jJQgyC8D0d9nzsxw/master.m3u8"
+            "stream_url": "https://dai.google.com/ssai/event/KijWX2h2RoSltesOov7TBw/master.m3u8"
         }
     ],
     "upcoming": [
