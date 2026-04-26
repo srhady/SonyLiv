@@ -2,7 +2,7 @@
     "name": "SonyLiv Matches Full Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last_update": "08:45:18 PM 26-04-2026",
+    "last_update": "09:00:22 PM 26-04-2026",
     "live": [
         {
             "contentId": 1090529123,
@@ -18,6 +18,21 @@
             "endTime": "27 Apr 2026, 01:30 AM",
             "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017462/1777028676513801_FA_Cup_Semi_Final_With_Players_Chelsea_vs_Leeds_United_Live_landscape_thumb.jpg",
             "stream_url": "https://dai.google.com/ssai/event/zdFSM3eHRpaBv6Dn5daVTg/master.m3u8"
+        },
+        {
+            "contentId": 1090529097,
+            "title": "Borussia Dortmund vs SC Freiburg - MD 31 - 26 Apr 2026",
+            "shortDescription": "Borussia Dortmund take on SC Freiburg in an exciting Bundesliga clash, with both sides aiming to strengthen their position in the table.\nDortmund will look to capitalize on home advantage with their attacking firepower, while Freiburg aim to stay compact and threaten on the counter in what promises to be a competitive encounter. Catch all the action from Bundesliga 2025-26, LIVE on Sony LIV.",
+            "longDescription": "Borussia Dortmund take on SC Freiburg in an exciting Bundesliga clash, with both sides aiming to strengthen their position in the table.\nDortmund will look to capitalize on home advantage with their attacking firepower, while Freiburg aim to stay compact and threaten on the counter in what promises to be a competitive encounter. Catch all the action from Bundesliga 2025-26, LIVE on Sony LIV.",
+            "genres": [
+                "Football"
+            ],
+            "broadcast_channel": "Sony Sports Ten 2",
+            "language": "ENGLISH",
+            "startTime": "26 Apr 2026, 08:20 PM",
+            "endTime": "27 Apr 2026, 01:20 AM",
+            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017023/1775632260232558_BLGA_26_MD31_Dortmund-vs-SC-Freiburg_landscape_thumb.jpg",
+            "stream_url": "https://dai.google.com/ssai/event/jRQlKg2DQWa70jsLHUtxGA/master.m3u8"
         },
         {
             "contentId": 1090529095,
