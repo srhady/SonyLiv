@@ -2,23 +2,8 @@
     "name": "SonyLiv Matches Full Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last_update": "10:30:18 PM 26-04-2026",
+    "last_update": "10:45:17 PM 26-04-2026",
     "live": [
-        {
-            "contentId": 1090529123,
-            "title": "Chelsea vs Leeds United - Semi-Final - 26 Apr 2026",
-            "shortDescription": "Chelsea face Leeds United at Wembley in a high\u2011stakes FA Cup semi\u2011final, with a place in the final firmly on the line. Chelsea will look to assert control through possession and attacking quality, while Leeds arrive intent on bringing intensity, pressing high, and disrupting the rhythm in search of a famous victory. With silverware within touching distance, this showdown promises drama, pressure, and fine margins under the Wembley spotlight. Catch all action from the Emirates FA Cup 2025-26, LIVE on Sony LIV.",
-            "longDescription": "Chelsea face Leeds United at Wembley in a high\u2011stakes FA Cup semi\u2011final, with a place in the final firmly on the line. Chelsea will look to assert control through possession and attacking quality, while Leeds arrive intent on bringing intensity, pressing high, and disrupting the rhythm in search of a famous victory. With silverware within touching distance, this showdown promises drama, pressure, and fine margins under the Wembley spotlight. Catch all action from the Emirates FA Cup 2025-26, LIVE on Sony LIV.",
-            "genres": [
-                "Football"
-            ],
-            "broadcast_channel": "Sony Sports Ten 2",
-            "language": "ENGLISH",
-            "startTime": "26 Apr 2026, 06:30 PM",
-            "endTime": "27 Apr 2026, 01:30 AM",
-            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017462/1777028676513801_FA_Cup_Semi_Final_With_Players_Chelsea_vs_Leeds_United_Live_landscape_thumb.jpg",
-            "stream_url": "https://dai.google.com/ssai/event/zdFSM3eHRpaBv6Dn5daVTg/master.m3u8"
-        },
         {
             "contentId": 1090529097,
             "title": "Borussia Dortmund vs SC Freiburg - MD 31 - 26 Apr 2026",
