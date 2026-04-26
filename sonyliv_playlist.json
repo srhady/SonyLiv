@@ -2,7 +2,7 @@
     "name": "SonyLiv Matches Full Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last_update": "07:45:15 PM 26-04-2026",
+    "last_update": "08:00:20 PM 26-04-2026",
     "live": [
         {
             "contentId": 1090529123,
@@ -65,17 +65,6 @@
             "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017299/1776411668344362_Undekhi_Landscape_Thumb_Dated.jpg"
         },
         {
-            "contentId": 1090528195,
-            "title": "Tum Ho Naa",
-            "shortDescription": "Tum Ho Na unites housewives in a thrilling game show packed with challenges, laughter, and friendly rivalry. Watch Tum Ho Naa, streaming from 28th April at 9pm, only on Sony LIV.",
-            "longDescription": "Tum Ho Na unites housewives in a thrilling game show packed with challenges, laughter, and friendly rivalry. Watch Tum Ho Naa, streaming from 28th April at 9pm, only on Sony LIV.",
-            "genres": [
-                "Game show"
-            ],
-            "startTime": "16 Apr 2026, 10:00 AM",
-            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017178/1776084417375226_THN_Landscape_Thumb_Dated.jpg"
-        },
-        {
             "contentId": 1090528757,
             "title": "Upcoming - PSG vs Bayern - Semi-Final - UEFA Champions League 2025-26",
             "shortDescription": "Watch all the action from UEFA Champions League 2025-26, exclusively on Sony LIV.",
@@ -96,6 +85,17 @@
             ],
             "startTime": "25 Apr 2026, 11:00 AM",
             "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017420/1776854748312116_UCL_Semi_Final_Leg1_Atletico_vs_Arsenal_promo_landscape_thumb_dated.jpg"
+        },
+        {
+            "contentId": 1090528195,
+            "title": "Tum Ho Naa",
+            "shortDescription": "Tum Ho Na unites housewives in a thrilling game show packed with challenges, laughter, and friendly rivalry. Watch Tum Ho Naa, streaming from 28th April at 9pm, only on Sony LIV.",
+            "longDescription": "Tum Ho Na unites housewives in a thrilling game show packed with challenges, laughter, and friendly rivalry. Watch Tum Ho Naa, streaming from 28th April at 9pm, only on Sony LIV.",
+            "genres": [
+                "Game show"
+            ],
+            "startTime": "16 Apr 2026, 10:00 AM",
+            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017178/1776084417375226_THN_Landscape_Thumb_Dated.jpg"
         },
         {
             "contentId": 1090528576,
