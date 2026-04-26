@@ -2,8 +2,11 @@
 #name: SonyLiv Full Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update: 06:45:19 PM 26-04-2026
+#last update: 07:00:20 PM 26-04-2026
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017409/1776795491109599_IFL26_ShillongLajongFC_vs_DempoSportsClubFC_21apr_landscape_thumb.jpg" group-title="SonyLiv Live", Shillong Lajong FC vs Dempo Sports Club FC - 26 Apr 2026 [ENGLISH]
 https://dai.google.com/ssai/event/KijWX2h2RoSltesOov7TBw/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017023/1775629212397558_BLGA_26_MD31_VfB-Stuttgart-vs-Werder_landscape_thumb.jpg" group-title="SonyLiv Live", VfB Stuttgart vs Werder Bremen - MD 31 - 26 Apr 2026 [ENGLISH]
+https://dai.google.com/ssai/event/uP_7_QWgRHehSMm82S7iLg/master.m3u8
 

@@ -2,7 +2,7 @@
     "name": "SonyLiv Matches Full Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last_update": "06:45:19 PM 26-04-2026",
+    "last_update": "07:00:20 PM 26-04-2026",
     "live": [
         {
             "contentId": 1090529095,
@@ -18,6 +18,21 @@
             "endTime": "26 Apr 2026, 11:00 PM",
             "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017409/1776795491109599_IFL26_ShillongLajongFC_vs_DempoSportsClubFC_21apr_landscape_thumb.jpg",
             "stream_url": "https://dai.google.com/ssai/event/KijWX2h2RoSltesOov7TBw/master.m3u8"
+        },
+        {
+            "contentId": 1090529096,
+            "title": "VfB Stuttgart vs Werder Bremen - MD 31 - 26 Apr 2026",
+            "shortDescription": "VfB Stuttgart take on Werder Bremen in an exciting clash, with both sides aiming to gain crucial points. Stuttgart will look to capitalize on home advantage, while Bremen aim to stay compact and hit on the counter in what promises to be a competitive encounter. Catch all the action from Bundesliga 2025-26, LIVE on Sony LIV.",
+            "longDescription": "VfB Stuttgart take on Werder Bremen in an exciting clash, with both sides aiming to gain crucial points. Stuttgart will look to capitalize on home advantage, while Bremen aim to stay compact and hit on the counter in what promises to be a competitive encounter. Catch all the action from Bundesliga 2025-26, LIVE on Sony LIV.",
+            "genres": [
+                "Football"
+            ],
+            "broadcast_channel": "Sony Sports Ten 2",
+            "language": "ENGLISH",
+            "startTime": "26 Apr 2026, 06:20 PM",
+            "endTime": "26 Apr 2026, 11:20 PM",
+            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017023/1775629212397558_BLGA_26_MD31_VfB-Stuttgart-vs-Werder_landscape_thumb.jpg",
+            "stream_url": "https://dai.google.com/ssai/event/uP_7_QWgRHehSMm82S7iLg/master.m3u8"
         }
     ],
     "upcoming": [
