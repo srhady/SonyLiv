@@ -2,23 +2,8 @@
     "name": "SonyLiv Matches Full Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last_update": "09:45:27 AM 26-04-2026",
+    "last_update": "10:00:22 AM 26-04-2026",
     "live": [
-        {
-            "contentId": 1090529074,
-            "title": "UFC Fight Night - Sterling vs Zalal  - 26 Apr 2026",
-            "shortDescription": "Aljamain Sterling faces Youssef Zalal in a compelling clash, blending elite experience with rising talent. Expect an intense battle as Sterling\u2019s high-level grappling meets Zalal\u2019s dynamic striking and movement in a high-stakes showdown. Tune in to catch all the action from UFC Fight Night, LIVE on Sony LIV.",
-            "longDescription": "Aljamain Sterling faces Youssef Zalal in a compelling clash, blending elite experience with rising talent. Expect an intense battle as Sterling\u2019s high-level grappling meets Zalal\u2019s dynamic striking and movement in a high-stakes showdown. Tune in to catch all the action from UFC Fight Night, LIVE on Sony LIV.",
-            "genres": [
-                "Fight Sports"
-            ],
-            "broadcast_channel": "Sony Sports Ten 2",
-            "language": "ENGLISH",
-            "startTime": "26 Apr 2026, 05:00 AM",
-            "endTime": "26 Apr 2026, 11:00 AM",
-            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017414/1776846533619274_UFC_Fight_Night_Sterling_vs_Zalal_landscape_thumbnail.jpg",
-            "stream_url": "https://dai.google.com/ssai/event/1h3C6TAxRsafA9aTwWJN7A/master.m3u8"
-        },
         {
             "contentId": 1090529082,
             "title": "Volvo China Open - Day 4 - 26 Apr 2026",
