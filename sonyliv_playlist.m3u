@@ -2,10 +2,13 @@
 #name: SonyLiv Full Playlist
 #telegram: https://t.me/livesportsplay
 #owner: Md Sohanur Rahman Hady
-#last update: 09:30:18 AM 26-04-2026
+#last update: 09:45:27 AM 26-04-2026
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017414/1776846533619274_UFC_Fight_Night_Sterling_vs_Zalal_landscape_thumbnail.jpg" group-title="SonyLiv Live", UFC Fight Night - Sterling vs Zalal  - 26 Apr 2026 [ENGLISH]
 https://dai.google.com/ssai/event/1h3C6TAxRsafA9aTwWJN7A/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016950/1775437003417181_DP_World_Tour_Volvo_China_Open_Day4_landscape_thumb.jpg" group-title="SonyLiv Live", Volvo China Open - Day 4 - 26 Apr 2026 [ENGLISH]
+https://dai.google.com/ssai/event/kLLXpEquS0Wj3_WTm-URPw/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017371/1776681491077468_Asian_Tour_Singapore_Open_Day4_Live_landscape_thumb.jpg" group-title="SonyLiv Live", Singapore Open - Day 4 - 26 Apr 2026 [ENGLISH]
 https://dai.google.com/ssai/event/-pNO-1jJQgyC8D0d9nzsxw/master.m3u8
