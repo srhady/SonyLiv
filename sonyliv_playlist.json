@@ -2,7 +2,7 @@
     "name": "SonyLiv Matches Full Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last_update": "09:45:21 PM 27-04-2026",
+    "last_update": "10:00:26 PM 27-04-2026",
     "live": [
         {
             "contentId": 1090500468,
@@ -15,7 +15,7 @@
             "broadcast_channel": "SET",
             "language": "HINDI",
             "startTime": "27 Apr 2026, 08:30 PM",
-            "endTime": "27 Apr 2026, 10:40 PM",
+            "endTime": "27 Apr 2026, 10:57 PM",
             "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017534/1777298846969284_WOF_finale_simulcast_landscape_thumb.jpg",
             "stream_url": "https://dai.google.com/ssai/event/ywC0TYXoSbOYu7fxpFglFA/master.m3u8"
         }
