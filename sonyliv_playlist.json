@@ -2,7 +2,7 @@
     "name": "SonyLiv Matches Full Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last_update": "12:45:18 AM 29-04-2026",
+    "last_update": "01:00:29 AM 29-04-2026",
     "live": [
         {
             "contentId": 1090529192,
@@ -16,7 +16,7 @@
             "language": "ENGLISH",
             "startTime": "28 Apr 2026, 11:00 PM",
             "endTime": "29 Apr 2026, 06:00 AM",
-            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017522/1777277589203507_UCL_Semi_Final_Leg1_Champions_Ki_Charcha_PSG_vs_Bayern_Munich_landscape_thumb.jpg",
+            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017434/1776886520407908_UCL26_SF_leg1_PSG_vs_bayern_22apr_eng_landscape_thumb.jpg",
             "stream_url": "https://dai.google.com/ssai/event/GdXyj0gmRmGkNncprYKFBQ/master.m3u8"
         }
     ],
