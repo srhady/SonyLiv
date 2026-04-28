@@ -2,33 +2,25 @@
     "name": "SonyLiv Matches Full Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last_update": "11:30:33 PM 28-04-2026",
-    "live": [],
-    "upcoming": [
+    "last_update": "11:45:17 PM 28-04-2026",
+    "live": [
         {
-            "contentId": 1090528335,
-            "title": "Undekhi",
-            "shortDescription": "It's Atwal vs Atwal this time. Watch Undekhi Season 4, streaming from 1st May, on Sony LIV.",
-            "longDescription": "It's Atwal vs Atwal this time. Watch Undekhi Season 4, streaming from 1st May, on Sony LIV.",
-            "genres": [
-                "Crime",
-                "Drama",
-                "Thriller"
-            ],
-            "startTime": "17 Apr 2026, 02:00 PM",
-            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017299/1776411668344362_Undekhi_Landscape_Thumb_Dated.jpg"
-        },
-        {
-            "contentId": 1090528757,
-            "title": "Upcoming - PSG vs Bayern - Semi-Final - UEFA Champions League 2025-26",
-            "shortDescription": "Watch all the action from UEFA Champions League 2025-26, exclusively on Sony LIV.",
-            "longDescription": "Watch all the action from UEFA Champions League 2025-26, exclusively on Sony LIV.",
+            "contentId": 1090529192,
+            "title": "PSG vs Bayern - Semi-Final - Leg 1 - 29 Apr 2026",
+            "shortDescription": "PSG and Bayern Munich meet in a high\u2011stakes clash, with Paris\u2019 attacking flair testing Bayern\u2019s composure and big\u2011game pedigree. Stars like Ousmane Demb\u00e9l\u00e9, Vitinha, and D\u00e9sir\u00e9 Dou\u00e9 are set to feature for PSG, while Harry Kane, Jamal Musiala, Joshua Kimmich, and Manuel Neuer lead Bayern\u2019s push for a place in the final. Tune in to catch all the action from UEFA Champions League 2025\u201126, LIVE & exclusively on Sony\u202fLIV.",
+            "longDescription": "PSG and Bayern Munich meet in a high\u2011stakes clash, with Paris\u2019 attacking flair testing Bayern\u2019s composure and big\u2011game pedigree. Stars like Ousmane Demb\u00e9l\u00e9, Vitinha, and D\u00e9sir\u00e9 Dou\u00e9 are set to feature for PSG, while Harry Kane, Jamal Musiala, Joshua Kimmich, and Manuel Neuer lead Bayern\u2019s push for a place in the final. Tune in to catch all the action from UEFA Champions League 2025\u201126, LIVE & exclusively on Sony\u202fLIV.",
             "genres": [
                 "Football"
             ],
-            "startTime": "22 Apr 2026, 03:00 PM",
-            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017420/1776855200879116_UCL_Semi_Final_Leg1_PSG_vs_Bayern_promo_landscape_thumb_dated.jpg"
-        },
+            "broadcast_channel": "Sony Sports Ten 2",
+            "language": "ENGLISH",
+            "startTime": "28 Apr 2026, 11:00 PM",
+            "endTime": "29 Apr 2026, 06:00 AM",
+            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017522/1777277589203507_UCL_Semi_Final_Leg1_Champions_Ki_Charcha_PSG_vs_Bayern_Munich_landscape_thumb.jpg",
+            "stream_url": "https://dai.google.com/ssai/event/GdXyj0gmRmGkNncprYKFBQ/master.m3u8"
+        }
+    ],
+    "upcoming": [
         {
             "contentId": 1090529191,
             "title": " Upcoming - Atletico vs Arsenal - UEFA Champions League 2025-26",
@@ -41,15 +33,17 @@
             "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017420/1776854748312116_UCL_Semi_Final_Leg1_Atletico_vs_Arsenal_promo_landscape_thumb_dated.jpg"
         },
         {
-            "contentId": 1090528195,
-            "title": "Tum Ho Naa",
-            "shortDescription": "Tum Ho Na unites housewives in a thrilling game show packed with challenges, laughter, and friendly rivalry. Watch Tum Ho Naa, streaming from 28th April at 9pm, only on Sony LIV.",
-            "longDescription": "Tum Ho Na unites housewives in a thrilling game show packed with challenges, laughter, and friendly rivalry. Watch Tum Ho Naa, streaming from 28th April at 9pm, only on Sony LIV.",
+            "contentId": 1090528335,
+            "title": "Undekhi",
+            "shortDescription": "It's Atwal vs Atwal this time. Watch Undekhi Season 4, streaming from 1st May, on Sony LIV.",
+            "longDescription": "It's Atwal vs Atwal this time. Watch Undekhi Season 4, streaming from 1st May, on Sony LIV.",
             "genres": [
-                "Game show"
+                "Crime",
+                "Drama",
+                "Thriller"
             ],
-            "startTime": "16 Apr 2026, 10:00 AM",
-            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017178/1776084417375226_THN_Landscape_Thumb_Dated.jpg"
+            "startTime": "17 Apr 2026, 02:00 PM",
+            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017299/1776411668344362_Undekhi_Landscape_Thumb_Dated.jpg"
         },
         {
             "contentId": 1090528576,
