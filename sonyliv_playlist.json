@@ -2,24 +2,8 @@
     "name": "SonyLiv Matches Full Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last_update": "03:45:26 AM 29-04-2026",
-    "live": [
-        {
-            "contentId": 1090529192,
-            "title": "PSG vs Bayern - Semi-Final - Leg 1 - 29 Apr 2026",
-            "shortDescription": "PSG and Bayern Munich meet in a high\u2011stakes clash, with Paris\u2019 attacking flair testing Bayern\u2019s composure and big\u2011game pedigree. Stars like Ousmane Demb\u00e9l\u00e9, Vitinha, and D\u00e9sir\u00e9 Dou\u00e9 are set to feature for PSG, while Harry Kane, Jamal Musiala, Joshua Kimmich, and Manuel Neuer lead Bayern\u2019s push for a place in the final. Tune in to catch all the action from UEFA Champions League 2025\u201126, LIVE & exclusively on Sony\u202fLIV.",
-            "longDescription": "PSG and Bayern Munich meet in a high\u2011stakes clash, with Paris\u2019 attacking flair testing Bayern\u2019s composure and big\u2011game pedigree. Stars like Ousmane Demb\u00e9l\u00e9, Vitinha, and D\u00e9sir\u00e9 Dou\u00e9 are set to feature for PSG, while Harry Kane, Jamal Musiala, Joshua Kimmich, and Manuel Neuer lead Bayern\u2019s push for a place in the final. Tune in to catch all the action from UEFA Champions League 2025\u201126, LIVE & exclusively on Sony\u202fLIV.",
-            "genres": [
-                "Football"
-            ],
-            "broadcast_channel": "Sony Sports Ten 2",
-            "language": "ENGLISH",
-            "startTime": "28 Apr 2026, 11:00 PM",
-            "endTime": "29 Apr 2026, 06:00 AM",
-            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017434/1776886520407908_UCL26_SF_leg1_PSG_vs_bayern_22apr_eng_landscape_thumb.jpg",
-            "stream_url": "https://dai.google.com/ssai/event/GdXyj0gmRmGkNncprYKFBQ/master.m3u8"
-        }
-    ],
+    "last_update": "04:00:22 AM 29-04-2026",
+    "live": [],
     "upcoming": [
         {
             "contentId": 1090529191,
