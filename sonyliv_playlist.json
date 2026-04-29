@@ -2,24 +2,8 @@
     "name": "SonyLiv Matches Full Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last_update": "09:00:34 PM 29-04-2026",
-    "live": [
-        {
-            "contentId": 1090529306,
-            "title": "Aizawl FC vs Namdhari Sports Club FC - 29 Apr 2026",
-            "shortDescription": "Aizawl will aim to make home advantage count with intensity and organisation, while Namdhari arrive determined to stay disciplined and push for a valuable away result in what promises to be a competitive encounter. Tune in to catch all the action from Star Cement Indian Football League 2025-26, LIVE on Sony LIV.",
-            "longDescription": "Aizawl will aim to make home advantage count with intensity and organisation, while Namdhari arrive determined to stay disciplined and push for a valuable away result in what promises to be a competitive encounter. Tune in to catch all the action from Star Cement Indian Football League 2025-26, LIVE on Sony LIV.",
-            "genres": [
-                "Football"
-            ],
-            "broadcast_channel": "Sony Sports Ten 2",
-            "language": "ENGLISH",
-            "startTime": "29 Apr 2026, 06:00 PM",
-            "endTime": "29 Apr 2026, 11:00 PM",
-            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017409/1776795668415599_IFL26_AizawlFC_vs_NamdhariSportsClubFC_21apr_landscape_thumb.jpg",
-            "stream_url": "https://dai.google.com/ssai/event/SXGI53qCTm6LYdjpY6aEAw/master.m3u8"
-        }
-    ],
+    "last_update": "09:15:19 PM 29-04-2026",
+    "live": [],
     "upcoming": [
         {
             "contentId": 1090529191,
