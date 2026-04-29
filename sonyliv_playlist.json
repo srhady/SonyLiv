@@ -2,7 +2,7 @@
     "name": "SonyLiv Matches Full Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last_update": "11:45:23 PM 29-04-2026",
+    "last_update": "12:00:25 AM 30-04-2026",
     "live": [
         {
             "contentId": 1090529307,
@@ -21,17 +21,6 @@
         }
     ],
     "upcoming": [
-        {
-            "contentId": 1090529191,
-            "title": " Upcoming - Atletico vs Arsenal - UEFA Champions League 2025-26",
-            "shortDescription": "Watch the UEFA Champions League 2025-26 here, only on Sony LIV.",
-            "longDescription": "Watch the UEFA Champions League 2025-26 here, only on Sony LIV.",
-            "genres": [
-                "Football"
-            ],
-            "startTime": "25 Apr 2026, 11:00 AM",
-            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017420/1776854748312116_UCL_Semi_Final_Leg1_Atletico_vs_Arsenal_promo_landscape_thumb_dated.jpg"
-        },
         {
             "contentId": 1090528335,
             "title": "Undekhi",
