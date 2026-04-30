@@ -1,9 +1,8 @@
 #EXTM3U
-#name: SonyLiv Full Playlist
-#telegram: https://t.me/livesportsplay
-#owner: Md Sohanur Rahman Hady
-#last update: 01:30:26 PM 30-04-2026
+# Playlist Name: SonyLIV Live Sports
+# Last Update: 01:45 PM, 30-04-2026
+# Telegram: https://t.me/livesportsplay
+# Owner: Md Sohanur Rahman Hady
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017616/1777527701534362_ASIANTOUR26_The45thGSCaltexMaekyungOpen_Day1_rev_live_landscape_thumb.jpg" group-title="SonyLiv Live", GS Caltex Maekyung Open - Day 1 - 30 Apr 2026 [ENGLISH]
-https://dai.google.com/ssai/event/8EM-MlH-S-6dmV7SK2YPnA/master.m3u8
-
+#EXTINF:-1 tvg-id="sonyliv-1090529434" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000000507/1742306648095993_EuropeanQualifiers2025_GENERIC_Masthead_logo_LIVE.png" group-title="Golf", Asian Tour 2026 | GS Caltex Maekyung Open - Day 1 - 30 Apr 2026
+https://dai.google.com/ssai/event/8EM-MlH-S-6dmV7SK2YPnA/master.m3u8?ggip=1
