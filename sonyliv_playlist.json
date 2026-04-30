@@ -2,7 +2,7 @@
     "name": "SonyLiv Matches Full Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last_update": "12:00:29 PM 30-04-2026",
+    "last_update": "12:15:17 PM 30-04-2026",
     "live": [
         {
             "contentId": 1090529434,
@@ -16,7 +16,7 @@
             "language": "ENGLISH",
             "startTime": "30 Apr 2026, 09:00 AM",
             "endTime": "30 Apr 2026, 06:00 PM",
-            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017419/1776853245018533_ASIANTOUR26_The45thGSCaltexMaekyungOpen_Day1_landscape_thumb.jpg",
+            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017616/1777527701534362_ASIANTOUR26_The45thGSCaltexMaekyungOpen_Day1_rev_live_landscape_thumb.jpg",
             "stream_url": "https://dai.google.com/ssai/event/8EM-MlH-S-6dmV7SK2YPnA/master.m3u8"
         }
     ],
