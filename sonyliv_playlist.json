@@ -2,8 +2,24 @@
     "name": "SonyLiv Matches Full Data",
     "telegram": "https://t.me/livesportsplay",
     "owner": "Md Sohanur Rahman Hady",
-    "last_update": "09:15:19 AM 30-04-2026",
-    "live": [],
+    "last_update": "09:30:20 AM 30-04-2026",
+    "live": [
+        {
+            "contentId": 1090529434,
+            "title": "GS Caltex Maekyung Open - Day 1 - 30 Apr 2026",
+            "shortDescription": "Catch all the action from the Day 1 of GS Caltex Maekyung Open, LIVE on Sony LIV.",
+            "longDescription": "Catch all the action from the Day 1 of GS Caltex Maekyung Open, LIVE on Sony LIV.",
+            "genres": [
+                "Golf"
+            ],
+            "broadcast_channel": "LIV",
+            "language": "ENGLISH",
+            "startTime": "30 Apr 2026, 09:00 AM",
+            "endTime": "30 Apr 2026, 06:00 PM",
+            "poster": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017419/1776853245018533_ASIANTOUR26_The45thGSCaltexMaekyungOpen_Day1_landscape_thumb.jpg",
+            "stream_url": "https://dai.google.com/ssai/event/8EM-MlH-S-6dmV7SK2YPnA/master.m3u8"
+        }
+    ],
     "upcoming": [
         {
             "contentId": 1090528335,
