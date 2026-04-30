@@ -1,0 +1,32 @@
+name: SonyLIV Scraper Manual Run
+
+on:
+  workflow_dispatch:
+
+jobs:
+  run-scraper:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.PAT_TOKEN }}
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.10'
+
+      - name: Run Scraper Script
+        run: |
+          python sonyliv_scraper.py
+
+      - name: Commit and Push Generated Files
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add sonyliv_playlist.json sonyliv_playlist.m3u
+          git commit -m "Update SonyLIV Playlists [skip ci]" || echo "No changes to commit"
+          git push origin main
