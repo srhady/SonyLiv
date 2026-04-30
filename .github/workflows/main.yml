@@ -8,11 +8,18 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout Repository
+      - name: Checkout Public Repo
         uses: actions/checkout@v4
         with:
           token: ${{ secrets.PAT_TOKEN }}
           fetch-depth: 0
+
+      - name: Checkout Private Script Repo
+        uses: actions/checkout@v4
+        with:
+          repository: srhady/axsportspvt
+          token: ${{ secrets.PAT_TOKEN }}
+          path: script_folder
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -21,7 +28,7 @@ jobs:
 
       - name: Run Scraper Script
         run: |
-          python sonyliv_scraper.py
+          python script_folder/sonyliv_scraper.py
 
       - name: Commit and Push Generated Files
         run: |
