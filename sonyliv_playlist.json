@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "10:15:19 AM 01-05-2026"
+        "last_update": "10:30:23 AM 01-05-2026"
     },
     "live_matches": [
         {
@@ -28,8 +28,8 @@
             "description": "Catch all the action from the Day 2 of GS Caltex Maekyung Open, LIVE on Sony LIV.",
             "seo_tags": "asian tour 2026,the asian tour 2026 live streaming,asian tour 2026 online streaming,asian tour 2026 live,asian tour 2026 highlights,watch asian tour 2026 games,watch asian tour 2026 online,watch asian tour 2026 live streaming",
             "image_landscape": "N/A",
-            "image_thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017599/1777484107588675_Asian_Tour_Kolon_Korea_Open_Day2_Live_landscape_thumb.jpg",
-            "image_tv_bg": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017599/1777484215048675_Asian_Tour_Kolon_Korea_Open_Day2_Live_tv_bg.jpg",
+            "image_thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017659/1777608813866432_ASIANTOUR26_The45thGSCaltexMaekyungOpen_Day2_rev_landscape_thumb.jpg",
+            "image_tv_bg": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017659/1777608773675432_ASIANTOUR26_The45thGSCaltexMaekyungOpen_rev_tv_bg.jpg",
             "tournament_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000000507/1742306648095993_EuropeanQualifiers2025_GENERIC_Masthead_logo_LIVE.png",
             "stream_url": "https://dai.google.com/ssai/event/ahLdkaRoSWavrsFLPU8THA/master.m3u8"
         }
