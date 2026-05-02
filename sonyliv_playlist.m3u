@@ -2,7 +2,22 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 06:45:15 PM 02-05-2026
+# last_update: 07:00:27 PM 02-05-2026
+
+#EXTINF:-1 tvg-id="sonyliv-1090529611" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017551/1777366525366475_Bundesliga_2025-26_MD-32_Bayern-Munich-vs-Heidenheim__landscape_thumb.jpg" group-title="Football", Bundesliga 2025-26 | Bayern Munich vs Heidenheim - MD 32 - 2 May 2026
+https://dai.google.com/ssai/event/Myr-ILIeTBy_ZpY8gtoaRQ/master.m3u8
+
+#EXTINF:-1 tvg-id="sonyliv-1090529610" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017551/1777366724473475_Bundesliga_2025-26_MD-32_Eintracht-Frankfurt-vs-Hamburger-SV_landscape_thumb.jpg" group-title="Football", Bundesliga 2025-26 | Eintracht Frankfurt vs Hamburger SV - MD 32 - 2 May 2026
+https://dai.google.com/ssai/event/alWqozasSNeEIxePgYc3Og/master.m3u8
+
+#EXTINF:-1 tvg-id="sonyliv-1090529609" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017551/1777368856484475_Bundesliga_2025-26_MD-32_Werder-Bremen-vs-Augsburg_landscape_thumb.jpg" group-title="Football", Bundesliga 2025-26 | Werder Bremen vs FC Augsburg - MD 32 - 2 May 2026
+https://dai.google.com/ssai/event/Qj1-QMbLSuak3wfnlay8tQ/master.m3u8
+
+#EXTINF:-1 tvg-id="sonyliv-1090529608" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017551/1777369269029475_Bundesliga_2025-26_MD-32_Union-Berlin-vs-koln_landscape_thumb.jpg" group-title="Football", Bundesliga 2025-26 | Union Berlin vs FC Koln - MD 32 - 2 May 2026
+https://dai.google.com/ssai/event/VwE3AaQJTiiGLezAr_2DvQ/master.m3u8
+
+#EXTINF:-1 tvg-id="sonyliv-1090529607" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017551/1777369684561475_Bundesliga_2025-26_MD-32_Hoffenheim-vs-VfB-Stuttgart_landscape_thumb.jpg" group-title="Football", Bundesliga 2025-26 | Hoffenheim vs VfB Stuttgart - MD 32 - 2 May 2026
+https://dai.google.com/ssai/event/0rU3P9wWRxO9JMOXItU3zA/master.m3u8
 
 #EXTINF:-1 tvg-id="sonyliv-1090529626" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017563/1777398764729799_UFC_Fight_Night_Della_Maddalena_vs_Prates_landscape_thumbnail.jpg" group-title="Fight Sports", UFC Fight Night - Della Maddalena vs Prates | UFC Fight Night - Della Maddalena vs Prates - 2 May 2026
 https://dai.google.com/ssai/event/F0s2Zt8_Q2CcV-LXa_waUg/master.m3u8
