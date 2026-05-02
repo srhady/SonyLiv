@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "09:00:20 PM 02-05-2026"
+        "last_update": "09:15:15 PM 02-05-2026"
     },
     "live_matches": [
         {
@@ -140,33 +140,6 @@
             "image_tv_bg": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017551/1777369712037475_Bundesliga_2025-26_MD-32_Hoffenheim-vs-VfB-Stuttgart_tv_background.jpg",
             "tournament_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000000507/1742306648095993_EuropeanQualifiers2025_GENERIC_Masthead_logo_LIVE.png",
             "stream_url": "https://dai.google.com/ssai/event/0rU3P9wWRxO9JMOXItU3zA/master.m3u8"
-        },
-        {
-            "match_id": 1090529604,
-            "sport_type": "Football",
-            "event_name": "Star Cement Indian Football League 2025-26",
-            "match_title": "Shillong Lajong FC vs Chanmari FC - 2 May 2026",
-            "home_team": "Shillong Lajong FC",
-            "away_team": "Chanmari FC",
-            "venue": "Jawaharlal Nehru Stadium",
-            "status": "LIVE",
-            "start_time_bd": "06:30:00 PM 02-05-2026",
-            "end_time_bd": "11:30:00 PM 02-05-2026",
-            "duration": 0,
-            "broadcast_channel": "Sony Sports Ten 2",
-            "language": "ENG",
-            "resolution": "FULL_HD",
-            "audio_quality": "STEREO",
-            "is_drm_protected": false,
-            "is_geo_blocked": false,
-            "ad_status": "AD SUPPORTED",
-            "description": "Shillong Lajong FC take on Chanmari FC in an exciting Star Cement Indian Football League 2025-26 clash, with both sides aiming to strengthen their position in the standings. Shillong Lajong will look to capitalize on home advantage, while Chanmari FC aim to continue their strong run with an energetic attacking display in what promises to be a competitive encounter. Tune in to catch all the action from Star Cement Indian Football League 2025-26, LIVE on Sony LIV.",
-            "seo_tags": "Indian Football League 2026,IFL 2026,Indian Football League teams,Diamond Harbour FC,Real Kashmir FC,Gokulam Kerala FC,Dempo SC,Rajasthan United FC,Namdhari FC,Shillong Lajong FC,Sreenidi Deccan FC,Aizawl FC,Chanmari FC,Abdoulaye Diallo,Bright Enobakhare,Luka Majcen,David Castañeda,Indian Football League fixtures,Indian Football League standings,Indian Football League news,Indian Football League players,second‑tier Indian football league,I-League rebrand",
-            "image_landscape": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017589/1777462686459373_I_LEAGUE_masthead_large_v3_3200x1800_Shillong_Lajong_FC_vs_Chanmari_FC.jpg",
-            "image_thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017546/1777361933414318_IFL26_Shillong-Lajong-FC--vs-Chanmari-FC_landscape_thumb.jpg",
-            "image_tv_bg": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017546/1777362064351318_IFL26_Shillong-Lajong-FC--vs-Chanmari-FC_tv_bg.jpg",
-            "tournament_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017589/1777462686255373_I_LEAGUE_Masthead_logo_Shillong_Lajong_FC_vs_Chanmari_FC_LIVE.png",
-            "stream_url": "https://dai.google.com/ssai/event/Bplrxzp6SZSY0xB1rOkzVw/master.m3u8"
         },
         {
             "match_id": 1090529614,
