@@ -3,9 +3,36 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "02:45:18 PM 02-05-2026"
+        "last_update": "03:00:19 PM 02-05-2026"
     },
     "live_matches": [
+        {
+            "match_id": 1090529615,
+            "sport_type": "Racing",
+            "event_name": "ABB FIA Formula E World Championship",
+            "match_title": "Round 7 - Berlin E - Prix - Qualifying Race - 2 May 2026",
+            "home_team": "N/A",
+            "away_team": "N/A",
+            "venue": "Tempelhof Street Circuit",
+            "status": "LIVE",
+            "start_time_bd": "03:00:00 PM 02-05-2026",
+            "end_time_bd": "07:45:00 PM 02-05-2026",
+            "duration": 0,
+            "broadcast_channel": "Sony Sports Ten 5",
+            "language": "ENG",
+            "resolution": "FULL_HD",
+            "audio_quality": "STEREO",
+            "is_drm_protected": false,
+            "is_geo_blocked": false,
+            "ad_status": "AD SUPPORTED",
+            "description": "Catch all the action from the Berlin E-Prix qualifying race here, only on Sony LIV.",
+            "seo_tags": "Formula E,ABB FIA Formula E,Formula E Championship,Electric racing,FIA electric racing series,E-Prix,Electric street racing,ABB Formula E,Electric car racing,FIA Formula E World Championship,Formula E teams,Formula E drivers,Electric motorsport,ABB Formula E schedule,Formula E tickets,Formula E results,Formula E highlights,Electric vehicle racing,ABB Formula E news,Formula E technology",
+            "image_landscape": "N/A",
+            "image_thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017601/1777486430826406_ABB_FIA_FormulaE_WC26_RD7_Berlin_EPrix_Qualifying_Race_Live_landscape_thumb.jpg",
+            "image_tv_bg": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017601/1777486465622406_ABB_FIA_FormulaE_WC26_RD7_Berlin_EPrix_Qualifying_Race_Live_tv_bg.jpg",
+            "tournament_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000000507/1742306648095993_EuropeanQualifiers2025_GENERIC_Masthead_logo_LIVE.png",
+            "stream_url": "https://dai.google.com/ssai/event/UpH4UngGS3S6Wt3YU5PjuQ/master.m3u8"
+        },
         {
             "match_id": 1090529602,
             "sport_type": "Golf",
