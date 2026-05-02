@@ -2,7 +2,7 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 07:30:18 PM 02-05-2026
+# last_update: 07:45:16 PM 02-05-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090529611" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017551/1777366525366475_Bundesliga_2025-26_MD-32_Bayern-Munich-vs-Heidenheim__landscape_thumb.jpg" group-title="Football", Bundesliga 2025-26 | Bayern Munich vs Heidenheim - MD 32 - 2 May 2026
 https://dai.google.com/ssai/event/Myr-ILIeTBy_ZpY8gtoaRQ/master.m3u8
@@ -27,6 +27,3 @@ https://dai.google.com/ssai/event/Bplrxzp6SZSY0xB1rOkzVw/master.m3u8
 
 #EXTINF:-1 tvg-id="sonyliv-1090529614" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017601/1777486588925406_ABB_FIA_FormulaE_WC26_RD7_Berlin_EPrix_Final_Race_Live_landscape_thumb.jpg" group-title="Racing",  ABB FIA Formula E World Championship |  Round 7 - Berlin E - Prix - Final Race - 2 May 2026
 https://dai.google.com/ssai/event/k3-2rehzRommKazjfCMXcA/master.m3u8
-
-#EXTINF:-1 tvg-id="sonyliv-1090529602" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016951/1775437566269818_DP_World_Tour_Turkish_Airlines_Open_Day3_landscape.jpg" group-title="Golf", DP World Tour |  Turkish Airlines Open - Day 3 - 2 May 2026
-https://dai.google.com/ssai/event/ei4-jdpdSGiNNGFVtIaw8w/master.m3u8
