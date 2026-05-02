@@ -3,9 +3,36 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "04:15:22 PM 02-05-2026"
+        "last_update": "04:30:17 PM 02-05-2026"
     },
     "live_matches": [
+        {
+            "match_id": 1090529626,
+            "sport_type": "Fight Sports",
+            "event_name": "UFC Fight Night - Della Maddalena vs Prates",
+            "match_title": "UFC Fight Night - Della Maddalena vs Prates - 2 May 2026",
+            "home_team": "N/A",
+            "away_team": "N/A",
+            "venue": "N/A",
+            "status": "LIVE",
+            "start_time_bd": "04:30:00 PM 02-05-2026",
+            "end_time_bd": "10:30:00 PM 02-05-2026",
+            "duration": 0,
+            "broadcast_channel": "Sony Sports Ten 2",
+            "language": "ENG",
+            "resolution": "FULL_HD",
+            "audio_quality": "STEREO",
+            "is_drm_protected": false,
+            "is_geo_blocked": false,
+            "ad_status": "AD SUPPORTED",
+            "description": "Jack Della Maddalena vs Carlos Prates sets up as a thrilling welterweight showdown between Della Maddalena’s sharp boxing and composure and Prates’ explosive striking power and finishing ability. Tune in to catch all the action from UFC Fight Night, LIVE on Sony LIV.",
+            "seo_tags": "UFC Fight Night,UFC Fight,UFC Fight upcoming,upcoming UFC events,UFC Fight schedule,UFC fights dates,UFC Fight Night schedule,UFC match live,watch UFC online,upcoming UFC Fight events,UFC Fight Night 2026 schedule,UFC Fight Night replay,watch UFC Fight Night online,Adesanya vs Pyfer,UFC Fight Night Adesanya vs Pyfer,UFC Adesanya vs Pyfer,live UFC Fight Night streaming,UFC Fight Night match highlights,UFC latest match results,watch Adesanya vs Pyfer live,watch UFC Fight Night Adesanya vs Pyfer,martial arts,fight night,combat sports,UFC Fight today,action sports,UFC live stream,UFC Fight Night results,UFC tonight fighters,sports entertainment,UFC main event,watch UFC live,UFC Fight Night live,sports highlights,UFC fight live stream,UFC upcoming main events,UFC live stream now,Israel Adesanya UFC,Joe Pyfer UFC,Adesanya UFC,Pyfer MMA,UFC Fight Night 2026,UFC fight replays,UFC Fight Night highlights,UFC Fight Night matches,UFC match timings,middleweight fight,UFC co-main event,UFC prelims,MMA fight card,UFC full card,UFC fighters lineup,UFC Vegas event,mixed martial arts,UFC bout order,UFC main card,UFC prelim card,striking specialists,knockout power,UFC rising contenders,MMA showdown,UFC event coverage",
+            "image_landscape": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017555/1777380735237877_UFC_Fight_Night_Della_Maddalena_vs_Prates_masthead_large_v3_3200x1800.jpg",
+            "image_thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017563/1777398764729799_UFC_Fight_Night_Della_Maddalena_vs_Prates_landscape_thumbnail.jpg",
+            "image_tv_bg": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017563/1777399260029799_UFC_Fight_Night_Della_Maddalena_vs_Prates_tv_bg.jpg",
+            "tournament_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017555/1777380735762877_UFC_Fight_Night_Della_Maddalena_vs_Prates_Masthead_Logo_LIVE.png",
+            "stream_url": "https://dai.google.com/ssai/event/F0s2Zt8_Q2CcV-LXa_waUg/master.m3u8"
+        },
         {
             "match_id": 1090529615,
             "sport_type": "Racing",
@@ -32,33 +59,6 @@
             "image_tv_bg": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017601/1777486465622406_ABB_FIA_FormulaE_WC26_RD7_Berlin_EPrix_Qualifying_Race_Live_tv_bg.jpg",
             "tournament_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000000507/1742306648095993_EuropeanQualifiers2025_GENERIC_Masthead_logo_LIVE.png",
             "stream_url": "https://dai.google.com/ssai/event/UpH4UngGS3S6Wt3YU5PjuQ/master.m3u8"
-        },
-        {
-            "match_id": 1090529602,
-            "sport_type": "Golf",
-            "event_name": "DP World Tour",
-            "match_title": " Turkish Airlines Open - Day 3 - 2 May 2026",
-            "home_team": "N/A",
-            "away_team": "N/A",
-            "venue": "Golf Club, Antalya",
-            "status": "LIVE",
-            "start_time_bd": "11:30:00 AM 02-05-2026",
-            "end_time_bd": "09:00:00 PM 02-05-2026",
-            "duration": 0,
-            "broadcast_channel": "LIV",
-            "language": "ENG",
-            "resolution": "FULL_HD",
-            "audio_quality": "STEREO",
-            "is_drm_protected": false,
-            "is_geo_blocked": false,
-            "ad_status": "AD SUPPORTED",
-            "description": "Watch all the action from Turkish Airlines Open Day 3, LIVE on Sony LIV.",
-            "seo_tags": "DP World Tour,European Tour,Professional Golf,Golf Tournament,Golf Championship,Golf Leaderboard,Golf Highlights,Golf Results,Golf Standings,Golf Rankings,Golf Action,Live Golf,Golf Coverage,Golf Season,Golf Schedule,Golf Stars,Tour Contenders,Title Race,Final Round,Golf Playoff,Golf Course,Championship Course,International Golf,Men’s Golf,Golf Event,Golf Drama,Golf Showdown,Golf Tourney,Golf Live Stream,Golf Updates,Golf Competition,DPWT Action",
-            "image_landscape": "N/A",
-            "image_thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016951/1775437566269818_DP_World_Tour_Turkish_Airlines_Open_Day3_landscape.jpg",
-            "image_tv_bg": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016951/1775437619052818_DP_World_Tour_Turkish_Airlines_Open_Day3_tv_bg.jpg",
-            "tournament_logo": "N/A",
-            "stream_url": "https://dai.google.com/ssai/event/ei4-jdpdSGiNNGFVtIaw8w/master.m3u8"
         }
     ]
 }
