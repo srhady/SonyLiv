@@ -2,7 +2,10 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 02:45:15 PM 03-05-2026
+# last_update: 03:00:21 PM 03-05-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090529603" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000016951/1775437559586818_DP_World_Tour_Turkish_Airlines_Open_Day4_landscape.jpg" group-title="Golf", DP World Tour |  Turkish Airlines Open - Day 4 - 3 May 2026
 https://dai.google.com/ssai/event/AmQPWgDqQUWpYQBuiuFZhw/master.m3u8
+
+#EXTINF:-1 tvg-id="sonyliv-1090529613" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017601/1777487512267406_ABB_FIA_FormulaE_WC26_RD8_Berlin_EPrix_Qualifying_Race_Live_landscape_thumb.jpg" group-title="Racing", ABB FIA Formula E World Championship |  Round 8 - Berlin E - Prix - Qualifying Race - 3 May 2026
+https://dai.google.com/ssai/event/seP8U3FeRPKV5OA5RUe6aA/master.m3u8
