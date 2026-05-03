@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "10:45:20 PM 03-05-2026"
+        "last_update": "11:15:16 PM 03-05-2026"
     },
     "live_matches": [
         {
@@ -32,6 +32,33 @@
             "image_tv_bg": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017551/1777372843609475_Bundesliga_2025-26_MD-32_Borussia-Mgladbach-vs-Dortmund_tv_background.jpg",
             "tournament_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017584/1777457767080151_Bundesliga2026_Match_Masthead_logo_Borussia_Mgladbach_vs_Dortmund_LIVE.png",
             "stream_url": "https://dai.google.com/ssai/event/X3j0O-G-QEaPSp8yNcP9Jg/master.m3u8"
+        },
+        {
+            "match_id": 1090529622,
+            "sport_type": "Football",
+            "event_name": "Bundesliga 2025-26",
+            "match_title": "SC Freiburg vs VfL Wolfsburg - MD 32 - 3 May 2026",
+            "home_team": "Freiburg",
+            "away_team": "Wolfsburg",
+            "venue": "Europa-Park-Stadion",
+            "status": "LIVE",
+            "start_time_bd": "10:50:00 PM 03-05-2026",
+            "end_time_bd": "03:50:00 AM 04-05-2026",
+            "duration": 0,
+            "broadcast_channel": "Sony Sports Ten 2",
+            "language": "ENG",
+            "resolution": "FULL_HD",
+            "audio_quality": "STEREO",
+            "is_drm_protected": false,
+            "is_geo_blocked": false,
+            "ad_status": "AD SUPPORTED",
+            "description": "Freiburg take on Wolfsburg in an exciting Bundesliga fixture, with both sides looking to finish strongly and climb the standings. Freiburg will aim to use their home advantage effectively, while Wolfsburg’s balanced approach could make this a closely fought contest. Catch all the action from Bundesliga 2025-26, LIVE on Sony LIV.",
+            "seo_tags": "bundesliga 2025-26,german football league 2025,bundesliga live stream india,bundesliga sony liv,bundesliga fixtures august 2025,bundesliga matchday 1,bundesliga standings 2025,bundesliga title race,bundesliga top scorers 2025,bundesliga champions league spots,harry kane bayern,jamal musiala bayern,michael olise bayern,jonathan tah bayern,xavi simons leipzig,lois openda leipzig,benjamin sesko leipzig,florian wirtz leverkusen,robert andrich leverkusen,emre can dortmund,julian brandt dortmund,jonathan burkardt frankfurt,robin koch frankfurt,manuel neuer bayern captain,kevin trapp frankfurt,sebastian schonlau hamburg,maximilian arnold wolfsburg,patrick mainka stuttgart,jackson irvine st pauli,cedric zesiger augsburg,han-noah massengo augsburg,samuel mbangula werder bremen",
+            "image_landscape": "N/A",
+            "image_thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017551/1777373493324475_Bundesliga_2025-26_MD-32_SC-Freiburg-vs-Wolfsburg_landscape_thumb.jpg",
+            "image_tv_bg": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017551/1777373521243475_Bundesliga_2025-26_MD-32_SC-Freiburg-vs-Wolfsburg__tv_background.jpg",
+            "tournament_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000006849/1755855925877711_Bundesliga2025_26_Match_Masthead_logo_LIVE.png",
+            "stream_url": "https://dai.google.com/ssai/event/301Dh58nQGa_Ty00SFDSGA/master.m3u8"
         }
     ]
 }
