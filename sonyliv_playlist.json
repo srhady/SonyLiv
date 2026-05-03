@@ -3,36 +3,9 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "11:30:23 PM 03-05-2026"
+        "last_update": "11:45:14 PM 03-05-2026"
     },
     "live_matches": [
-        {
-            "match_id": 1090529621,
-            "sport_type": "Football",
-            "event_name": "Bundesliga 2025-26",
-            "match_title": "Borussia Monchengladbach vs Borussia Dortmund - MD 32 - 3 May 2026",
-            "home_team": "Borussia Mönchengladbach",
-            "away_team": "Borussia Dortmund",
-            "venue": "Borussia-Park",
-            "status": "LIVE",
-            "start_time_bd": "08:50:00 PM 03-05-2026",
-            "end_time_bd": "01:50:00 AM 04-05-2026",
-            "duration": 0,
-            "broadcast_channel": "Sony Sports Ten 2",
-            "language": "ENG",
-            "resolution": "FULL_HD",
-            "audio_quality": "STEREO",
-            "is_drm_protected": false,
-            "is_geo_blocked": false,
-            "ad_status": "AD SUPPORTED",
-            "description": "Borussia Mönchengladbach face Borussia Dortmund in a thrilling Bundesliga showdown, with Dortmund aiming to continue their strong run against a determined Gladbach side. The visitors will rely on their attacking firepower, while Gladbach look to rise to the occasion in front of their home fans. Catch all the action from Bundesliga 2025-26, LIVE on Sony LIV.",
-            "seo_tags": "bundesliga 2025-26,german football league 2025,bundesliga live stream india,bundesliga sony liv,bundesliga fixtures august 2025,bundesliga matchday 1,bundesliga standings 2025,bundesliga title race,bundesliga top scorers 2025,bundesliga champions league spots,harry kane bayern,jamal musiala bayern,michael olise bayern,jonathan tah bayern,xavi simons leipzig,lois openda leipzig,benjamin sesko leipzig,florian wirtz leverkusen,robert andrich leverkusen,emre can dortmund,julian brandt dortmund,jonathan burkardt frankfurt,robin koch frankfurt,manuel neuer bayern captain,kevin trapp frankfurt,sebastian schonlau hamburg,maximilian arnold wolfsburg,patrick mainka stuttgart,jackson irvine st pauli,cedric zesiger augsburg,han-noah massengo augsburg,samuel mbangula werder bremen",
-            "image_landscape": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017584/1777457767533151_Bundesliga2026_Match_masthead_large_v3_3200x1800_Borussia_Mgladbach_vs_Dortmund.jpg",
-            "image_thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017551/1777372816364475_Bundesliga_2025-26_MD-32_Borussia-Mgladbach-vs-Dortmund_landscape_thumb.jpg",
-            "image_tv_bg": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017551/1777372843609475_Bundesliga_2025-26_MD-32_Borussia-Mgladbach-vs-Dortmund_tv_background.jpg",
-            "tournament_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017584/1777457767080151_Bundesliga2026_Match_Masthead_logo_Borussia_Mgladbach_vs_Dortmund_LIVE.png",
-            "stream_url": "https://dai.google.com/ssai/event/X3j0O-G-QEaPSp8yNcP9Jg/master.m3u8"
-        },
         {
             "match_id": 1090529622,
             "sport_type": "Football",
