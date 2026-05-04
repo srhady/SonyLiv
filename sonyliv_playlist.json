@@ -3,35 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "09:00:28 PM 04-05-2026"
+        "last_update": "09:15:22 PM 04-05-2026"
     },
-    "live_matches": [
-        {
-            "match_id": 1090529667,
-            "sport_type": "Football",
-            "event_name": "Star Cement Indian Football League 2025-26",
-            "match_title": " Real Kashmir FC vs Namdhari Sports Club - 4 May 2026",
-            "home_team": " Real Kashmir FC",
-            "away_team": "Namdhari Sports Club ",
-            "venue": "TRC Football Stadium",
-            "status": "LIVE",
-            "start_time_bd": "06:30:00 PM 04-05-2026",
-            "end_time_bd": "11:30:00 PM 04-05-2026",
-            "duration": 0,
-            "broadcast_channel": "Sony Sports Ten 2",
-            "language": "ENG",
-            "resolution": "FULL_HD",
-            "audio_quality": "STEREO",
-            "is_drm_protected": false,
-            "is_geo_blocked": false,
-            "ad_status": "AD SUPPORTED",
-            "description": "Real Kashmir FC take on Namdhari Sports Club in an exciting Star Cement Indian Football League 2025-26 clash, with both sides aiming to strengthen their position in the standings. Real Kashmir will look to make the most of home conditions, while Namdhari Sports Club aim to maintain their momentum with another strong performance in what promises to be a competitive encounter. Tune in to catch all the action from Star Cement Indian Football League 2025-26, LIVE on Sony LIV.",
-            "seo_tags": "Indian Football League 2026,IFL 2026,Indian Football League teams,Diamond Harbour FC,Real Kashmir FC,Gokulam Kerala FC,Dempo SC,Rajasthan United FC,Namdhari FC,Shillong Lajong FC,Sreenidi Deccan FC,Aizawl FC,Chanmari FC,Abdoulaye Diallo,Bright Enobakhare,Luka Majcen,David Castañeda,Indian Football League fixtures,Indian Football League standings,Indian Football League news,Indian Football League players,second‑tier Indian football league,I-League rebrand",
-            "image_landscape": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017589/1777462686441373_I_LEAGUE_masthead_large_v3_3200x1800_Real_Kashmir_FC_vs_Namdhari_Sports_Club_FC.jpg",
-            "image_thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017698/1777821867533587_IFL26_Real_Kashmir_FC_vs_Namdhari_Sports_Club_landscape_thumb.jpg",
-            "image_tv_bg": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017698/1777821925591587_IFL26_Real_Kashmir_FC_vs_Namdhari_Sports_Club_tv_bg.jpg",
-            "tournament_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017589/1777462686003373_I_LEAGUE_Masthead_logo_Real_Kashmir_FC_vs_Namdhari_Sports_Club_LIVE.png",
-            "stream_url": "https://dai.google.com/ssai/event/_wNibTTjRKGbTJkQbT7_mQ/master.m3u8"
-        }
-    ]
+    "live_matches": []
 }
