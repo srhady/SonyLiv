@@ -3,35 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "03:30:20 AM 06-05-2026"
+        "last_update": "03:45:18 AM 06-05-2026"
     },
-    "live_matches": [
-        {
-            "match_id": 1090529642,
-            "sport_type": "Football",
-            "event_name": "UEFA Champions League 2025-26",
-            "match_title": "Arsenal vs Atletico - Semi-Final - Leg 2 - 5 May 2026",
-            "home_team": "Arsenal",
-            "away_team": "Atletico",
-            "venue": "Emirates Stadium",
-            "status": "LIVE",
-            "start_time_bd": "11:30:00 PM 05-05-2026",
-            "end_time_bd": "07:30:00 AM 06-05-2026",
-            "duration": 0,
-            "broadcast_channel": "Sony Sports Ten 2",
-            "language": "ENG",
-            "resolution": "FULL_HD",
-            "audio_quality": "STEREO",
-            "is_drm_protected": false,
-            "is_geo_blocked": false,
-            "ad_status": "AD SUPPORTED",
-            "description": "Arsenal host Atlético Madrid in a decisive Champions League semi‑final second leg after the first meeting in Spain ended 1–1, leaving everything to play for at the Emirates. The Gunners will look to dictate possession and tempo on home soil, while Atlético arrive primed to absorb pressure and strike on the counter, true to Simeone’s European blueprint. Which side will advance to the final? Tune in to catch all the action from UEFA Champions League 2025‑26, LIVE & exclusively on Sony LIV.",
-            "seo_tags": "uefa champions league,uefa,Rangers vs Club Brugge,Champions League,UEFA Champions League,Champions League Final,Champions League Live,Champions League Schedule,Champions League Fixtures,Champions League News,Champions League Highlights,UEFA Champions League Winners,Champions League Teams,Champions League Players,Champions League Top Scorer,Champions League Most Valuable Player,Champions League Best Team,Arsenal vs PSG,Champions League Semifinal,Emirates Stadium,Champions League 2025 Final,Allianz Arena,Munich,Germany,PSG,Arsenal,UEFA Champions League 2025-26,Inter Milan,UCL",
-            "image_landscape": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090529642/mastheadLargeV3/1777560711205942_UCL25_26_Match_masthead_large_v3_3200x1800_Arsenal_vs_Atletico_madrid.jpg",
-            "image_thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090529642/thumbnail/1777897526627962_UCL26_SF_leg2_arsenal_vs_atletico_4may_eng_clean_landscape_thumb.jpg",
-            "image_tv_bg": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090529642/tvBackgroundImage/1777896626844962_UCL26_SF_leg2_arsenal_vs_atletico_4may_clean_tv_bg.jpg",
-            "tournament_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017637/1777560711378942_UCL25_26_Match_Masthead_logo_Arsenal_vs_Atletico_LIVE.png",
-            "stream_url": "https://dai.google.com/ssai/event/jRQlKg2DQWa70jsLHUtxGA/master.m3u8"
-        }
-    ]
+    "live_matches": []
 }
