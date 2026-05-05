@@ -3,35 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "09:00:34 PM 05-05-2026"
+        "last_update": "09:16:10 PM 05-05-2026"
     },
-    "live_matches": [
-        {
-            "match_id": 1090529668,
-            "sport_type": "Football",
-            "event_name": "Star Cement Indian Football League 2025-26",
-            "match_title": "Gokulam Kerala FC vs Aizawl FC - 5 May 2026",
-            "home_team": "Gokulam Kerala FC ",
-            "away_team": "Aizawl FC",
-            "venue": "EMS Stadium",
-            "status": "LIVE",
-            "start_time_bd": "06:30:00 PM 05-05-2026",
-            "end_time_bd": "11:30:00 PM 05-05-2026",
-            "duration": 0,
-            "broadcast_channel": "Sony Sports Ten 2",
-            "language": "ENG",
-            "resolution": "FULL_HD",
-            "audio_quality": "STEREO",
-            "is_drm_protected": false,
-            "is_geo_blocked": false,
-            "ad_status": "AD SUPPORTED",
-            "description": "Gokulam Kerala FC face Aizawl FC in a crucial relegation phase encounter, with both teams determined to secure valuable points. The outcome could play a big role in shaping their survival hopes this season. Tune in to catch all the action from Star Cement Indian Football League 2025-26, LIVE on Sony LIV.",
-            "seo_tags": "Indian Football League 2026,IFL 2026,Indian Football League teams,Diamond Harbour FC,Real Kashmir FC,Gokulam Kerala FC,Dempo SC,Rajasthan United FC,Namdhari FC,Shillong Lajong FC,Sreenidi Deccan FC,Aizawl FC,Chanmari FC,Abdoulaye Diallo,Bright Enobakhare,Luka Majcen,David Castañeda,Indian Football League fixtures,Indian Football League standings,Indian Football League news,Indian Football League players,second‑tier Indian football league,I-League rebrand",
-            "image_landscape": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017589/1777462686391373_I_LEAGUE_masthead_large_v3_3200x1800_Gokulam_Kerala_FC_vs_Aizawl_FC.jpg",
-            "image_thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017736/1777958880562942_IFL26_Gokulam_Kerala_FC_vs_Aizwal_FC_landscape_thumb.jpg",
-            "image_tv_bg": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017699/1777822821417267_IFL26_Gokulam_Kerala_FC_vs_Aizwal_FC_tv_bg.jpg",
-            "tournament_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017737/1777960891180270_IFL26_Gokulam_Kerala_FC_vs_Aizawl_FC_5may_live_masthead_logo.png",
-            "stream_url": "https://dai.google.com/ssai/event/ik9hvNsSRdW1q6su6Tysyg/master.m3u8"
-        }
-    ]
+    "live_matches": []
 }
