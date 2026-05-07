@@ -2,7 +2,19 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 12:15:29 AM 08-05-2026
+# last_update: 12:30:34 AM 08-05-2026
+
+#EXTINF:-1 tvg-id="sonyliv-1090529730" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017792/1778074424767108_UEL26_SF_leg2_Aston_Villa_vs_Nottm_Forest_6may_landscape_thumb.jpg" group-title="Football", UEFA Europa League 2025-26 | Aston Villa vs Nott'm Forest  - Semi-Final - Leg 2 - 8 May 2026
+https://dai.google.com/ssai/event/9A4DX-S5TZ620VNPpLJbng/master.m3u8
+
+#EXTINF:-1 tvg-id="sonyliv-1090529860" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017796/1778078996079601_UECL_Semi_Final_Leg2_Crystal_Palace_vs_Shakhtar_live_landscape_thumb.jpg" group-title="Football", UEFA Conference League 2025-26 | Crystal Palace vs Shakhtar - Semi-Final - Leg 2 -  8 May 2026
+https://dai.google.com/ssai/event/seP8U3FeRPKV5OA5RUe6aA/master.m3u8
+
+#EXTINF:-1 tvg-id="sonyliv-1090529718" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017792/1778074990902108_UEL26_SF_leg2_Freiburg_vs_Braga_6may_landscape_thumb.jpg" group-title="Football", UEFA Europa League 2025-26 | Freiburg vs Braga - Semi-Final - Leg 2 - 8 May 2026
+https://dai.google.com/ssai/event/alWqozasSNeEIxePgYc3Og/master.m3u8
+
+#EXTINF:-1 tvg-id="sonyliv-1090529861" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017796/1778079488809601_UECL_Semi_Final_Leg2_Strasbourg_vs_Rayo_Vallecano_live_landscape_thumb.jpg" group-title="Football", UEFA Conference League 2025-26 | Strasbourg vs Rayo Vallecano - Semi-Final - Leg 2 - 8 May 2026
+https://dai.google.com/ssai/event/ga95v7YpR9uILztaMnCF5w/master.m3u8
 
 #EXTINF:-1 tvg-id="sonyliv-1090529717" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017789/1778069816154388_LIV_Golf_Virginia26_Day1_6may_rev_landscape_thumb.jpg" group-title="Golf", LIV Golf | Virginia - Day 1 - 7 May 2026
 https://dai.google.com/ssai/event/kLLXpEquS0Wj3_WTm-URPw/master.m3u8
