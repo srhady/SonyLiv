@@ -3,36 +3,9 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "11:45:19 PM 10-05-2026"
+        "last_update": "12:00:28 AM 11-05-2026"
     },
     "live_matches": [
-        {
-            "match_id": 1090530079,
-            "sport_type": "Cricket",
-            "event_name": "New Zealand Women's Tour of England 2026",
-            "match_title": "1st ODI - 10 May 2026 ",
-            "home_team": "England Women",
-            "away_team": "New Zealand Women",
-            "venue": "Riverside Ground, Chester‑le‑Street",
-            "status": "LIVE",
-            "start_time_bd": "03:30:00 PM 10-05-2026",
-            "end_time_bd": "04:30:00 AM 11-05-2026",
-            "duration": 0,
-            "broadcast_channel": "Sony Sports Ten 5",
-            "language": "ENG",
-            "resolution": "FULL_HD",
-            "audio_quality": "STEREO",
-            "is_drm_protected": false,
-            "is_geo_blocked": false,
-            "ad_status": "AD SUPPORTED",
-            "description": "The opening ODI at Chester‑le‑Street kicks off England’s home season, featuring a youthful side led by new captain Charlie Dean returning after a long post‑World Cup break, while a confident New Zealand arrive buoyed by their 2–1 series win over South Africa and Amelia Kerr’s standout form. Who will take the lead? Tune in to catch all the action from the 1st ODI of New Zealand Women's Tour of England 2026, LIVE only on Sony LIV.",
-            "seo_tags": "New Zealand Women's Tour of England 2026,NZW vs ENGW 2026,England Women vs New Zealand Women,White Ferns tour of England,New Zealand Women cricket tour 2026,NZ Women England tour,ENGW vs NZW ODI series 2026,ENGW vs NZW T20I series 2026,NZW vs ENGW schedule,NZW vs ENGW live score,NZW vs ENGW tickets,NZW vs ENGW venues,Durham ODI,Northampton ODI,Cardiff ODI,ICC Women’s Championship 2026,Women's T20 World Cup 2026 England,Amelia Kerr,Suzie Bates,Sophie Devine,Maddy Green,Brooke Halliday,Lea Tahuhu,Jess Kerr,Rosemary Mair,Georgia Plimmer,Izzy Gaze,Polly Inglis,Bree Illing,Nensi Patel,Flora Devonshire,Izzy Sharp,Molly Penfold,Eden Carson,Fran Jonas,Nat Sciver-Brunt,Heather Knight,Sophie Ecclestone,Lauren Bell,Alice Capsey,Charlie Dean,Sophia Dunkley,Amy Jones,Danni Wyatt-Hodge,Freya Kemp,Lauren Filer,Issy Wong,Dani Gibson,Linsey Smith,Tilly Corteen-Coleman,Maia Bouchier,Emily Arlott,Mahika Gaur,Emma Lamb,England Women cricket team 2026,New Zealand Women cricket team 2026,White Ferns squad 2026,England Women squad 2026",
-            "image_landscape": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017890/177833233664886_England_Women_vs_New_Zealand_Women_2026_match_masthead_large_v3_3200x1800.jpg",
-            "image_thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017872/1778244788810296_EngW_vs_NZW_1odi_8may_landscape_thumb.jpg",
-            "image_tv_bg": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017872/1778243347242296_EngW_vs_NZW_1odi_today_8may_tv_Bg.jpg",
-            "tournament_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017890/177833233667186_England_Women_vs_New_Zealand_Women_2026_match_Masthead_logo_1st_ODI_Live.png",
-            "stream_url": "https://dai.google.com/ssai/event/jRQlKg2DQWa70jsLHUtxGA/master.m3u8"
-        },
         {
             "match_id": 1090530049,
             "sport_type": "Football",
