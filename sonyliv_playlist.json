@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "07:15:16 AM 10-05-2026"
+        "last_update": "07:30:19 AM 10-05-2026"
     },
     "live_matches": [
         {
@@ -32,6 +32,33 @@
             "image_tv_bg": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017786/1778062215829496_UFC328_chimaev_vs_strickland_6may_tv_bg.jpg",
             "tournament_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017778/1778039178000559_UFC_328_chimaev_vs_strickland_Masthead_Logo_LIVE.png",
             "stream_url": "https://dai.google.com/ssai/event/seP8U3FeRPKV5OA5RUe6aA/master.m3u8"
+        },
+        {
+            "match_id": 1090530047,
+            "sport_type": "Archery",
+            "event_name": "Hyundai Archery World Cup Final 2026",
+            "match_title": "Recurve Team finals - 10 May 2026",
+            "home_team": "N/A",
+            "away_team": "N/A",
+            "venue": "N/A",
+            "status": "LIVE",
+            "start_time_bd": "07:30:00 AM 10-05-2026",
+            "end_time_bd": "12:45:00 PM 10-05-2026",
+            "duration": 0,
+            "broadcast_channel": "LIV",
+            "language": "ENG",
+            "resolution": "FULL_HD",
+            "audio_quality": "STEREO",
+            "is_drm_protected": false,
+            "is_geo_blocked": false,
+            "ad_status": "AD SUPPORTED",
+            "description": "Top archers from around the world gather in Shanghai, China for Hyundai Archery World Cup Recurve Team finals, featuring elite-level competition across recurve and compound events. Catch all the action from the Hyundai Archery World Cup 2026, LIVE on Sony LIV.",
+            "seo_tags": "archery world cup,archery,olympic sports,world archery championships,world archery,Hyundai World Archery Final Nanjing 2025,archery world cup stage,archery compound finals,Hyundai Archery World Cup 2025 match highlights,Hyundai Archery World Cup 2025 match scores,Hyundai Archery World Cup 2025 highlights,Archery highlights,Hyundai Archery World Cup 2025 Archery,Hyundai Archery World Cup 2025 champion,Hyundai Archery World Cup 2025 SonyLIV,Hyundai Archery World Cup,Hyundai Archery World Cup hls,Hyundai Archery World Cup Archery,Hyundai Archery World Cup Championship",
+            "image_landscape": "N/A",
+            "image_thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017816/1778146587770329_ArcheryWC2026_Shanghai_Recurve_Team_finals_7may_landscape_thumb.jpg",
+            "image_tv_bg": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017816/1778146461007329_ArcheryWC2026_Shanghai_7may_tv_bg.jpg",
+            "tournament_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000000507/1742306648095993_EuropeanQualifiers2025_GENERIC_Masthead_logo_LIVE.png",
+            "stream_url": "https://dai.google.com/ssai/event/M46tw8SETCua4fSgAvkQww/master.m3u8"
         }
     ]
 }
