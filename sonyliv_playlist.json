@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "11:30:19 PM 10-05-2026"
+        "last_update": "11:45:19 PM 10-05-2026"
     },
     "live_matches": [
         {
@@ -59,33 +59,6 @@
             "image_tv_bg": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017704/1777456225797341_Bundesliga_2025-26_MD-33_Mainz-vs-Union-Berlin_tv_background.jpg",
             "tournament_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000000507/1742306648095993_EuropeanQualifiers2025_GENERIC_Masthead_logo_LIVE.png",
             "stream_url": "https://dai.google.com/ssai/event/Myr-ILIeTBy_ZpY8gtoaRQ/master.m3u8"
-        },
-        {
-            "match_id": 1090530050,
-            "sport_type": "Football",
-            "event_name": "Bundesliga 2025-26",
-            "match_title": "FC Koln vs Heidenheim - MD 33 - 10 May 2026",
-            "home_team": "FC Köln",
-            "away_team": "Heidenheim",
-            "venue": "RheinEnergieStadion",
-            "status": "LIVE",
-            "start_time_bd": "08:50:00 PM 10-05-2026",
-            "end_time_bd": "01:50:00 AM 11-05-2026",
-            "duration": 0,
-            "broadcast_channel": "Sony Sports Ten 2",
-            "language": "ENG",
-            "resolution": "FULL_HD",
-            "audio_quality": "STEREO",
-            "is_drm_protected": false,
-            "is_geo_blocked": false,
-            "ad_status": "AD SUPPORTED",
-            "description": "FC Koln welcome Heidenheim in a Bundesliga encounter, with both teams aiming to finish the season strongly and climb the standings. Koln will look to control proceedings at home, while Heidenheim seek a determined performance to challenge their hosts in an important clash. Catch all the action from Bundesliga 2025-26, LIVE on Sony LIV.",
-            "seo_tags": "bundesliga 2025-26,german football league 2025,bundesliga live stream india,bundesliga sony liv,bundesliga fixtures august 2025,bundesliga matchday 1,bundesliga standings 2025,bundesliga title race,bundesliga top scorers 2025,bundesliga champions league spots,harry kane bayern,jamal musiala bayern,michael olise bayern,jonathan tah bayern,xavi simons leipzig,lois openda leipzig,benjamin sesko leipzig,florian wirtz leverkusen,robert andrich leverkusen,emre can dortmund,julian brandt dortmund,jonathan burkardt frankfurt,robin koch frankfurt,manuel neuer bayern captain,kevin trapp frankfurt,sebastian schonlau hamburg,maximilian arnold wolfsburg,patrick mainka stuttgart,jackson irvine st pauli,cedric zesiger augsburg,han-noah massengo augsburg,samuel mbangula werder bremen",
-            "image_landscape": "N/A",
-            "image_thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017704/1777452284105341_Bundesliga_2025-26_MD-33_Koln-vs-Heidenheim_landscape_thumb.jpg",
-            "image_tv_bg": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017704/1777452310517341_Bundesliga_2025-26_MD-33_Koln-vs-Heidenheim_tv_background.jpg",
-            "tournament_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000000507/1742306648095993_EuropeanQualifiers2025_GENERIC_Masthead_logo_LIVE.png",
-            "stream_url": "https://dai.google.com/ssai/event/4G_G6zLURAiPOM4qZQcSTg/master.m3u8"
         },
         {
             "match_id": 1090530052,
