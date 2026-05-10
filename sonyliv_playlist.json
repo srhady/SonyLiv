@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "08:45:17 PM 10-05-2026"
+        "last_update": "09:15:15 PM 10-05-2026"
     },
     "live_matches": [
         {
@@ -34,33 +34,6 @@
             "stream_url": "https://dai.google.com/ssai/event/jRQlKg2DQWa70jsLHUtxGA/master.m3u8"
         },
         {
-            "match_id": 1090530081,
-            "sport_type": "Football",
-            "event_name": "Star Cement Indian Football League 2025-26",
-            "match_title": "Sreenidi Deccan FC vs Shillong Lajong FC - 10 May 2026",
-            "home_team": "Sreenidi Deccan FC ",
-            "away_team": "Shillong Lajong FC",
-            "venue": "Kalyani Stadium",
-            "status": "LIVE",
-            "start_time_bd": "06:30:00 PM 10-05-2026",
-            "end_time_bd": "11:30:00 PM 10-05-2026",
-            "duration": 0,
-            "broadcast_channel": "Sony Sports Ten 2",
-            "language": "ENG",
-            "resolution": "FULL_HD",
-            "audio_quality": "STEREO",
-            "is_drm_protected": false,
-            "is_geo_blocked": false,
-            "ad_status": "AD SUPPORTED",
-            "description": "Sreenidi Deccan FC vs Shillong Lajong FC in the I‑League sets up an interesting clash between ambition and tradition, with Sreenidi Deccan typically looking to control the game through structured build‑up and midfield dominance, while Shillong Lajong aim to play with energy, quick transitions, and attacking intent. Tune in to catch all the action from Star Cement Indian Football League 2025-26, LIVE on Sony LIV.",
-            "seo_tags": "Indian Football League 2026,IFL 2026,Indian Football League teams,Diamond Harbour FC,Real Kashmir FC,Gokulam Kerala FC,Dempo SC,Rajasthan United FC,Namdhari FC,Shillong Lajong FC,Sreenidi Deccan FC,Aizawl FC,Chanmari FC,Abdoulaye Diallo,Bright Enobakhare,Luka Majcen,David Castañeda,Indian Football League fixtures,Indian Football League standings,Indian Football League news,Indian Football League players,second‑tier Indian football league,I-League rebrand",
-            "image_landscape": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017889/1778332243439309_I_LEAGUE_masthead_large_v3_3200x1800_Sreenidi_Deccan_FC_FC_vs_Shillong_Lajong.jpg",
-            "image_thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017604/1777491940397532_IFL_RD12_Sreenidi_Deccan_FC_vs_Shillong_Lajong_FC_Live_landscape_thumb.jpg",
-            "image_tv_bg": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017604/1777491967740532_IFL_RD12_Sreenidi_Deccan_FC_vs_Shillong_Lajong_FC_Live_tv_bg.jpg",
-            "tournament_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017889/1778332243944309_I_LEAGUE_Masthead_logo_Sreenidi_Deccan_FC_FC_vs_Shillong_Lajong_Live.png",
-            "stream_url": "https://dai.google.com/ssai/event/Jh7uKPjJT5ew26R51u2hLg/master.m3u8"
-        },
-        {
             "match_id": 1090530051,
             "sport_type": "Football",
             "event_name": "Bundesliga 2025-26",
@@ -86,6 +59,33 @@
             "image_tv_bg": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017704/1777447034819341_Bundesliga_2025-26_MD-33_Hamburger-vs-SC-Freiburg_tv_background.jpg",
             "tournament_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000000507/1742306648095993_EuropeanQualifiers2025_GENERIC_Masthead_logo_LIVE.png",
             "stream_url": "https://dai.google.com/ssai/event/AmQPWgDqQUWpYQBuiuFZhw/master.m3u8"
+        },
+        {
+            "match_id": 1090530050,
+            "sport_type": "Football",
+            "event_name": "Bundesliga 2025-26",
+            "match_title": "FC Koln vs Heidenheim - MD 33 - 10 May 2026",
+            "home_team": "FC Köln",
+            "away_team": "Heidenheim",
+            "venue": "RheinEnergieStadion",
+            "status": "LIVE",
+            "start_time_bd": "08:50:00 PM 10-05-2026",
+            "end_time_bd": "01:50:00 AM 11-05-2026",
+            "duration": 0,
+            "broadcast_channel": "Sony Sports Ten 2",
+            "language": "ENG",
+            "resolution": "FULL_HD",
+            "audio_quality": "STEREO",
+            "is_drm_protected": false,
+            "is_geo_blocked": false,
+            "ad_status": "AD SUPPORTED",
+            "description": "FC Koln welcome Heidenheim in a Bundesliga encounter, with both teams aiming to finish the season strongly and climb the standings. Koln will look to control proceedings at home, while Heidenheim seek a determined performance to challenge their hosts in an important clash. Catch all the action from Bundesliga 2025-26, LIVE on Sony LIV.",
+            "seo_tags": "bundesliga 2025-26,german football league 2025,bundesliga live stream india,bundesliga sony liv,bundesliga fixtures august 2025,bundesliga matchday 1,bundesliga standings 2025,bundesliga title race,bundesliga top scorers 2025,bundesliga champions league spots,harry kane bayern,jamal musiala bayern,michael olise bayern,jonathan tah bayern,xavi simons leipzig,lois openda leipzig,benjamin sesko leipzig,florian wirtz leverkusen,robert andrich leverkusen,emre can dortmund,julian brandt dortmund,jonathan burkardt frankfurt,robin koch frankfurt,manuel neuer bayern captain,kevin trapp frankfurt,sebastian schonlau hamburg,maximilian arnold wolfsburg,patrick mainka stuttgart,jackson irvine st pauli,cedric zesiger augsburg,han-noah massengo augsburg,samuel mbangula werder bremen",
+            "image_landscape": "N/A",
+            "image_thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017704/1777452284105341_Bundesliga_2025-26_MD-33_Koln-vs-Heidenheim_landscape_thumb.jpg",
+            "image_tv_bg": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017704/1777452310517341_Bundesliga_2025-26_MD-33_Koln-vs-Heidenheim_tv_background.jpg",
+            "tournament_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000000507/1742306648095993_EuropeanQualifiers2025_GENERIC_Masthead_logo_LIVE.png",
+            "stream_url": "https://dai.google.com/ssai/event/4G_G6zLURAiPOM4qZQcSTg/master.m3u8"
         },
         {
             "match_id": 1090530048,
