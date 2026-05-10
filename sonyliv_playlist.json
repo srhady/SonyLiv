@@ -3,35 +3,35 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "11:00:19 AM 10-05-2026"
+        "last_update": "11:30:20 AM 10-05-2026"
     },
     "live_matches": [
         {
-            "match_id": 1090530034,
-            "sport_type": "Fight Sports",
-            "event_name": "UFC 328 - Chimaev vs Strickland",
-            "match_title": "UFC 328 - Chimaev vs Strickland - 10 May 2026",
+            "match_id": 1090530046,
+            "sport_type": "Archery",
+            "event_name": "Hyundai Archery World Cup Final 2026",
+            "match_title": "Recurve Individual final fours - 10 May 2026",
             "home_team": "N/A",
             "away_team": "N/A",
             "venue": "N/A",
             "status": "LIVE",
-            "start_time_bd": "04:30:00 AM 10-05-2026",
-            "end_time_bd": "01:30:00 PM 10-05-2026",
+            "start_time_bd": "11:30:00 AM 10-05-2026",
+            "end_time_bd": "05:00:00 PM 10-05-2026",
             "duration": 0,
-            "broadcast_channel": "Sony Sports Ten 2",
+            "broadcast_channel": "LIV",
             "language": "ENG",
             "resolution": "FULL_HD",
             "audio_quality": "STEREO",
             "is_drm_protected": false,
             "is_geo_blocked": false,
             "ad_status": "AD SUPPORTED",
-            "description": "Khamzat Chimaev and Sean Strickland collide in one of the most heated and personal main events of the year, as Chimaev makes the first defense of his UFC middleweight title against former champion Strickland. Tune in to catch all the action from UFC 328, LIVE & exclusively on Sony LIV.",
-            "seo_tags": "UFC Fight Night,UFC Fight,UFC Fight upcoming,upcoming UFC events,UFC Fight schedule,UFC fights dates,UFC Fight Night schedule,UFC match live,watch UFC online,upcoming UFC Fight events,UFC Fight Night 2026 schedule,UFC Fight Night replay,watch UFC Fight Night online,Adesanya vs Pyfer,UFC Fight Night Adesanya vs Pyfer,UFC Adesanya vs Pyfer,live UFC Fight Night streaming,UFC Fight Night match highlights,UFC latest match results,watch Adesanya vs Pyfer live,watch UFC Fight Night Adesanya vs Pyfer,martial arts,fight night,combat sports,UFC Fight today,action sports,UFC live stream,UFC Fight Night results,UFC tonight fighters,sports entertainment,UFC main event,watch UFC live,UFC Fight Night live,sports highlights,UFC fight live stream,UFC upcoming main events,UFC live stream now,Israel Adesanya UFC,Joe Pyfer UFC,Adesanya UFC,Pyfer MMA,UFC Fight Night 2026,UFC fight replays,UFC Fight Night highlights,UFC Fight Night matches,UFC match timings,middleweight fight,UFC co-main event,UFC prelims,MMA fight card,UFC full card,UFC fighters lineup,UFC Vegas event,mixed martial arts,UFC bout order,UFC main card,UFC prelim card,striking specialists,knockout power,UFC rising contenders,MMA showdown,UFC event coverage",
-            "image_landscape": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017778/1778039178000559_UFC_328_chimaev_vs_strickland_masthead_large_v3_3200x1800.jpg",
-            "image_thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017786/1778067180922496_UFC328_chimaev_vs_strickland_eng_landscape_thumb.jpg",
-            "image_tv_bg": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017786/1778062215829496_UFC328_chimaev_vs_strickland_6may_tv_bg.jpg",
-            "tournament_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017778/1778039178000559_UFC_328_chimaev_vs_strickland_Masthead_Logo_LIVE.png",
-            "stream_url": "https://dai.google.com/ssai/event/seP8U3FeRPKV5OA5RUe6aA/master.m3u8"
+            "description": "Top archers from around the world gather in Shanghai, China for Recurve Individual final fours of the Hyundai Archery World Cup 2026, featuring elite-level competition across recurve and compound events. Catch all the action from the Hyundai Archery World Cup 2026, LIVE on Sony LIV.",
+            "seo_tags": "archery world cup,archery,olympic sports,world archery championships,world archery,Hyundai World Archery Final Nanjing 2025,archery world cup stage,archery compound finals,Hyundai Archery World Cup 2025 match highlights,Hyundai Archery World Cup 2025 match scores,Hyundai Archery World Cup 2025 highlights,Archery highlights,Hyundai Archery World Cup 2025 Archery,Hyundai Archery World Cup 2025 champion,Hyundai Archery World Cup 2025 SonyLIV,Hyundai Archery World Cup,Hyundai Archery World Cup hls,Hyundai Archery World Cup Archery,Hyundai Archery World Cup Championship",
+            "image_landscape": "N/A",
+            "image_thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017816/1778146557683329_ArcheryWC2026_Shanghai_Recurve_individuals_final_fours_7may_landscape_thumb.jpg",
+            "image_tv_bg": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017816/1778146461007329_ArcheryWC2026_Shanghai_7may_tv_bg.jpg",
+            "tournament_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000000507/1742306648095993_EuropeanQualifiers2025_GENERIC_Masthead_logo_LIVE.png",
+            "stream_url": "https://dai.google.com/ssai/event/j96j3V0VQNm-l1bH8TE1Lg/master.m3u8"
         }
     ]
 }
