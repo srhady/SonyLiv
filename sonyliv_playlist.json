@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "06:15:14 PM 10-05-2026"
+        "last_update": "06:30:20 PM 10-05-2026"
     },
     "live_matches": [
         {
@@ -32,6 +32,33 @@
             "image_tv_bg": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017872/1778243347242296_EngW_vs_NZW_1odi_today_8may_tv_Bg.jpg",
             "tournament_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017890/177833233667186_England_Women_vs_New_Zealand_Women_2026_match_Masthead_logo_1st_ODI_Live.png",
             "stream_url": "https://dai.google.com/ssai/event/jRQlKg2DQWa70jsLHUtxGA/master.m3u8"
+        },
+        {
+            "match_id": 1090530081,
+            "sport_type": "Football",
+            "event_name": "Star Cement Indian Football League 2025-26",
+            "match_title": "Sreenidi Deccan FC vs Shillong Lajong FC - 10 May 2026",
+            "home_team": "Sreenidi Deccan FC ",
+            "away_team": "Shillong Lajong FC",
+            "venue": "Kalyani Stadium",
+            "status": "LIVE",
+            "start_time_bd": "06:30:00 PM 10-05-2026",
+            "end_time_bd": "11:30:00 PM 10-05-2026",
+            "duration": 0,
+            "broadcast_channel": "Sony Sports Ten 2",
+            "language": "ENG",
+            "resolution": "FULL_HD",
+            "audio_quality": "STEREO",
+            "is_drm_protected": false,
+            "is_geo_blocked": false,
+            "ad_status": "AD SUPPORTED",
+            "description": "Sreenidi Deccan FC vs Shillong Lajong FC in the I‑League sets up an interesting clash between ambition and tradition, with Sreenidi Deccan typically looking to control the game through structured build‑up and midfield dominance, while Shillong Lajong aim to play with energy, quick transitions, and attacking intent. Tune in to catch all the action from Star Cement Indian Football League 2025-26, LIVE on Sony LIV.",
+            "seo_tags": "Indian Football League 2026,IFL 2026,Indian Football League teams,Diamond Harbour FC,Real Kashmir FC,Gokulam Kerala FC,Dempo SC,Rajasthan United FC,Namdhari FC,Shillong Lajong FC,Sreenidi Deccan FC,Aizawl FC,Chanmari FC,Abdoulaye Diallo,Bright Enobakhare,Luka Majcen,David Castañeda,Indian Football League fixtures,Indian Football League standings,Indian Football League news,Indian Football League players,second‑tier Indian football league,I-League rebrand",
+            "image_landscape": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017889/1778332243439309_I_LEAGUE_masthead_large_v3_3200x1800_Sreenidi_Deccan_FC_FC_vs_Shillong_Lajong.jpg",
+            "image_thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017604/1777491940397532_IFL_RD12_Sreenidi_Deccan_FC_vs_Shillong_Lajong_FC_Live_landscape_thumb.jpg",
+            "image_tv_bg": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017604/1777491967740532_IFL_RD12_Sreenidi_Deccan_FC_vs_Shillong_Lajong_FC_Live_tv_bg.jpg",
+            "tournament_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017889/1778332243944309_I_LEAGUE_Masthead_logo_Sreenidi_Deccan_FC_FC_vs_Shillong_Lajong_Live.png",
+            "stream_url": "https://dai.google.com/ssai/event/Jh7uKPjJT5ew26R51u2hLg/master.m3u8"
         },
         {
             "match_id": 1090530048,
