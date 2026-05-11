@@ -3,35 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "09:00:36 PM 11-05-2026"
+        "last_update": "09:15:21 PM 11-05-2026"
     },
-    "live_matches": [
-        {
-            "match_id": 1090530136,
-            "sport_type": "Football",
-            "event_name": "Star Cement Indian Football League 2025-26",
-            "match_title": "Aizawl FC vs Real Kashmir FC - Relegation Stage - 11 May 2026",
-            "home_team": "Aizawl FC",
-            "away_team": "Real Kashmir FC",
-            "venue": "Rajiv Gandhi Stadium, Aizawl",
-            "status": "LIVE",
-            "start_time_bd": "06:30:00 PM 11-05-2026",
-            "end_time_bd": "11:30:00 PM 11-05-2026",
-            "duration": 0,
-            "broadcast_channel": "Sony Sports Ten 2",
-            "language": "ENG",
-            "resolution": "FULL_HD",
-            "audio_quality": "STEREO",
-            "is_drm_protected": false,
-            "is_geo_blocked": false,
-            "ad_status": "AD SUPPORTED",
-            "description": "Aizawl FC host Real Kashmir FC in a crucial relegation‑battle clash, with both sides desperate for points to pull clear of the danger zone. With the threat of dropping further down the table looming, neither team can afford a slip‑up. Aizawl will look to make home advantage count, while the Snow Leopards arrive knowing a positive result could shift momentum in their survival fight. Tune in to catch all the action from Star Cement Indian Football League 2025-26, LIVE on Sony LIV.",
-            "seo_tags": "Indian Football League 2026,IFL 2026,Indian Football League teams,Diamond Harbour FC,Real Kashmir FC,Gokulam Kerala FC,Dempo SC,Rajasthan United FC,Namdhari FC,Shillong Lajong FC,Sreenidi Deccan FC,Aizawl FC,Chanmari FC,Abdoulaye Diallo,Bright Enobakhare,Luka Majcen,David Castañeda,Indian Football League fixtures,Indian Football League standings,Indian Football League news,Indian Football League players,second‑tier Indian football league,I-League rebrand",
-            "image_landscape": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017889/1778332243394309_I_LEAGUE_masthead_large_v3_3200x1800_Aizawl_FC_vs_Real_Kashmir_FC.jpg",
-            "image_thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017604/1777489212334532_IFL_RD12_Aizawl_FC_vs_Real_Kashmir_FC_Live_landscape_thumb.jpg",
-            "image_tv_bg": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017604/1777489237558532_IFL_RD12_Aizawl_FC_vs_Real_Kashmir_FC_Live_tv_bg.jpg",
-            "tournament_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017889/1778332243486309_I_LEAGUE_Masthead_logo_Aizawl_FC_vs_Real_Kashmir_FC_Live.png",
-            "stream_url": "https://dai.google.com/ssai/event/jRQlKg2DQWa70jsLHUtxGA/master.m3u8"
-        }
-    ]
+    "live_matches": []
 }
