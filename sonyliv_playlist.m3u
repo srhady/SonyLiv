@@ -2,10 +2,13 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 06:45:18 PM 16-05-2026
+# last_update: 07:00:22 PM 16-05-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090530244" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017964/1778589475638669_facup26_final_chelsea_vs_man_city_12may_eng_landscape_thumb.jpg" group-title="Football", The Emirates FA Cup 2025-26 | Chelsea vs Manchester City - Final - 16 May 2026
 https://dai.google.com/ssai/event/Myr-ILIeTBy_ZpY8gtoaRQ/master.m3u8
 
 #EXTINF:-1 tvg-id="sonyliv-1090530179" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017872/1778244832486296_EngW_vs_NZW_3odi_8may_landscape_thumb.jpg" group-title="Cricket", New Zealand Women's Tour of England 2026 | 3rd ODI - 16 May 2026 
 https://dai.google.com/ssai/event/seP8U3FeRPKV5OA5RUe6aA/master.m3u8
+
+#EXTINF:-1 tvg-id="sonyliv-1090530180" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017740/1777474110064296_Bundesliga_2025-26_MD-34_Bayern-Munich-vs-FC-Koln_landscape_thumb.jpg" group-title="Football", Bundesliga 2025-26 | Bayern Munich vs FC Koln - MD 34 - 16 May 2026
+https://dai.google.com/ssai/event/RyLJ_PwXTFWClUI4uHJjwA/master.m3u8
