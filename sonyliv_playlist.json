@@ -3,9 +3,36 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "12:15:21 AM 21-05-2026"
+        "last_update": "12:30:20 AM 21-05-2026"
     },
     "live_matches": [
+        {
+            "match_id": 1090530479,
+            "sport_type": "Football",
+            "event_name": "UEFA Europa League 2025-26",
+            "match_title": "Freiburg vs Aston Villa - Final - 21 May 2026",
+            "home_team": "Frieburg",
+            "away_team": "Aston Villa ",
+            "venue": "Tupras Stadium, Istanbul",
+            "status": "LIVE",
+            "start_time_bd": "12:20:00 AM 21-05-2026",
+            "end_time_bd": "05:20:00 AM 21-05-2026",
+            "duration": 0,
+            "broadcast_channel": "Sony Sports Ten 2",
+            "language": "ENG",
+            "resolution": "FULL_HD",
+            "audio_quality": "STEREO",
+            "is_drm_protected": false,
+            "is_geo_blocked": false,
+            "ad_status": "AD SUPPORTED",
+            "description": "Freiburg face Aston Villa in a high-stakes final, with both teams eager to finish their campaigns with silverware and a statement win. Freiburg have relied on disciplined defending and strong team cohesion, while Villa come in brimming with attacking firepower and confidence. Who will rise to the occasion? Catch all the action from the UEFA Europa League 2025-26 final, LIVE & exclusively on Sony LIV.",
+            "seo_tags": "florian wirtz,xhaka,Xabi Alonso,atalanta vs bayer leverkusen,uefa europa league final,football today,Zorya Luhansk,Union SG,Zrinjski,slavia praha,slovan bratislava,lask,villarreal,atalanta,Freiburg,dinamo zagreb,bayer leverkusen,football tournament,Toulouse,Aberdeen,west ham,Real Betis,sheriff,today football match live,football fixtures,football livescores,football matches,football matches today,liverpool,lugano,rennes,football live,brighton,ajax,uefa,marseille,TSC Bačka Topola,KÍ Klaksvik,Sparta Praha,Aris Limassol,Sturm Graz,football games today,Olimpija Ljubljana,football todayeuropa league,uefa europa league 2025-26 live streaming,watch uefa europa league 2025-26 games online,watch uefa europa league 2025-26 match online,uefa europa league 2025-26 games scores,live uefa europa league 2025-26 match score,watch uefa europa league 2025-26 games,uefa europa league 2025-26 matches,uefa europa league 2025-26 highlights,the uefa europa league 2025-26 online streaming,watch uefa europa league 2025-26 online",
+            "image_landscape": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018033/1778848202499336_UEL25_26_Match_masthead_large_v3_3200x1800_Freiburg_vs_Aston_Villa_1.jpg",
+            "image_thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018114/1779102313036807_UEL_Final_With_Players_Frieburg_vs_Aston_Villa_live_landscape_thumb.jpg",
+            "image_tv_bg": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018114/1779102449925807_UEL_Final_With_Players_Frieburg_vs_Aston_Villa_live_tv_bg.jpg",
+            "tournament_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018033/1778848202465336_UEL25_26_Match_Masthead_logo_Freiburg_vs_Aston_Villa_Freiburg_vs_Aston_Villa_LIVE.png",
+            "stream_url": "https://dai.google.com/ssai/event/8v64bO0BSiWeXJxzHSUt7A/master.m3u8"
+        },
         {
             "match_id": 1090530478,
             "sport_type": "Cricket",
