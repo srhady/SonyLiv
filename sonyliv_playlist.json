@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "09:00:23 PM 22-05-2026"
+        "last_update": "09:15:18 PM 22-05-2026"
     },
     "live_matches": [
         {
@@ -32,33 +32,6 @@
             "image_tv_bg": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018192/1779373927268514_VitalityBlast26_womens_Glamorgan_vs_Gloucestershire_21may_tv_bg.jpg",
             "tournament_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018178/1779359750535657_Vitality_Blast_2026_Match_Masthead_logo_Somerset_Women_v_Hampshire_Women_Live.png",
             "stream_url": "https://dai.google.com/ssai/event/D3XQZ4yfRkyIikYO7oyk1Q/master.m3u8"
-        },
-        {
-            "match_id": 1090530588,
-            "sport_type": "Football",
-            "event_name": "Star Cement Indian Football League 2025-26",
-            "match_title": "Dempo Sports Club vs Sreenidi Deccan FC - 22 May 2026",
-            "home_team": " Dempo Sports Club",
-            "away_team": "Sreenidi Deccan FC ",
-            "venue": "Dr. Y. S. Rajasekhara Reddy Stadium",
-            "status": "LIVE",
-            "start_time_bd": "06:30:00 PM 22-05-2026",
-            "end_time_bd": "11:30:00 PM 22-05-2026",
-            "duration": 0,
-            "broadcast_channel": "Sony Sports Ten 2",
-            "language": "ENG",
-            "resolution": "FULL_HD",
-            "audio_quality": "STEREO",
-            "is_drm_protected": false,
-            "is_geo_blocked": false,
-            "ad_status": "AD SUPPORTED",
-            "description": "Dempo Sports Club take on Sreenidi Deccan FC in what promises to be an engaging contest as both sides battle for crucial points in the league. With Dempo aiming to capitalize on home advantage and climb up the table, Sreenidi Deccan will be determined to deliver a strong away performance and assert their dominance. Can Dempo rise to the challenge in front of their fans, or will the visitors continue their push with a solid display on the road? Find out as we bring you all the action from Star Cement Indian Football League 2025-26, LIVE on Sony LIV.",
-            "seo_tags": "Indian Football League 2026,IFL 2026,Indian Football League teams,Diamond Harbour FC,Real Kashmir FC,Gokulam Kerala FC,Dempo SC,Rajasthan United FC,Namdhari FC,Shillong Lajong FC,Sreenidi Deccan FC,Aizawl FC,Chanmari FC,Abdoulaye Diallo,Bright Enobakhare,Luka Majcen,David Castañeda,Indian Football League fixtures,Indian Football League standings,Indian Football League news,Indian Football League players,second‑tier Indian football league,I-League rebrand",
-            "image_landscape": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018116/1779110263475570_I_LEAGUE_masthead_large_v3_3200x1800_Dempo_Sports_Club_vs_Sreenidi_Deccan_FC.jpg",
-            "image_thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017615/177749334615711_IFL_RD13_Dempo_Sports_Club_vs_Sreenidi_Deccan_FC_Live_landscape_thumb.jpg",
-            "image_tv_bg": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017615/177749336859611_IFL_RD13_Dempo_Sports_Club_vs_Sreenidi_Deccan_FC_Live_tv_bg.jpg",
-            "tournament_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018116/1779110263506570_I_LEAGUE_Masthead_logo_Dempo_Sports_Club_vs_Sreenidi_Deccan_FC_LIVE.png",
-            "stream_url": "https://dai.google.com/ssai/event/8EM-MlH-S-6dmV7SK2YPnA/master.m3u8"
         }
     ]
 }
