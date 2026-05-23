@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "08:15:13 PM 23-05-2026"
+        "last_update": "08:30:19 PM 23-05-2026"
     },
     "live_matches": [
         {
@@ -32,33 +32,6 @@
             "image_tv_bg": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018140/1779197534478297_EngW_vs_NZW_t20i_19may_tv_Bg.jpg",
             "tournament_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018139/1779176888000546_England_Women_vs_New_Zealand_Women_2026_match_Masthead_logo_2nd_t20_Live.png",
             "stream_url": "https://dai.google.com/ssai/event/YEM-gkNKSaaG0VB4X6KiMg/master.m3u8"
-        },
-        {
-            "match_id": 1090530595,
-            "sport_type": "Football",
-            "event_name": "Star Cement Indian Football League 2025-26",
-            "match_title": "Diamond Harbour FC vs Shillong Lajong FC - 23 May 2026",
-            "home_team": "Diamond Harbour FC",
-            "away_team": "Shillong Lajong FC",
-            "venue": "Kalyani Stadium",
-            "status": "LIVE",
-            "start_time_bd": "06:30:00 PM 23-05-2026",
-            "end_time_bd": "11:30:00 PM 23-05-2026",
-            "duration": 0,
-            "broadcast_channel": "Sony Sports Ten 2",
-            "language": "ENG",
-            "resolution": "FULL_HD",
-            "audio_quality": "STEREO",
-            "is_drm_protected": false,
-            "is_geo_blocked": false,
-            "ad_status": "AD SUPPORTED",
-            "description": "Diamond Harbour FC host Shillong Lajong FC, who arrive in fine form on a four-match unbeaten run. Can the visitors maintain their momentum against the league leaders, or will their impressive streak come to an end? Find out as we bring you all the action from Star Cement Indian Football League 2025-26, LIVE on Sony LIV.",
-            "seo_tags": "Indian Football League 2026,IFL 2026,Indian Football League teams,Diamond Harbour FC,Real Kashmir FC,Gokulam Kerala FC,Dempo SC,Rajasthan United FC,Namdhari FC,Shillong Lajong FC,Sreenidi Deccan FC,Aizawl FC,Chanmari FC,Abdoulaye Diallo,Bright Enobakhare,Luka Majcen,David Castañeda,Indian Football League fixtures,Indian Football League standings,Indian Football League news,Indian Football League players,second‑tier Indian football league,I-League rebrand",
-            "image_landscape": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018116/1779110263475570_I_LEAGUE_masthead_large_v3_3200x1800_Diamond_Harbour_FC_vs_Shillong_Lajong_FC.jpg",
-            "image_thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017615/177749374548611_IFL_RD13_Diamond_Harbour_FC_vs_Shillong_Lajong_FC_Live_landscape_thumb.jpg",
-            "image_tv_bg": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017615/177749403726911_IFL_RD13_Diamond_Harbour_FC_vs_Shillong_Lajong_FC_Live_tv_bg.jpg",
-            "tournament_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018116/1779110263522570_I_LEAGUE_Masthead_logo_Diamond_Harbour_FC_vs_Shillong_Lajong_FC_LIVE.png",
-            "stream_url": "https://dai.google.com/ssai/event/1bQO1x45Sn-AGEPg9lxW5w/master.m3u8"
         }
     ]
 }
