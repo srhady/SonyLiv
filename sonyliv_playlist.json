@@ -3,35 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "03:15:16 AM 24-05-2026"
+        "last_update": "03:30:17 AM 24-05-2026"
     },
-    "live_matches": [
-        {
-            "match_id": 1090531100,
-            "sport_type": "Cricket",
-            "event_name": "Vitality Blast 2026",
-            "match_title": "Glamorgan vs Gloucestershire - 23 May 2026",
-            "home_team": "Glamorgan",
-            "away_team": "Gloucestershire",
-            "venue": "Sophia Gardens,Cardiff",
-            "status": "LIVE",
-            "start_time_bd": "11:30:00 PM 23-05-2026",
-            "end_time_bd": "08:15:00 AM 24-05-2026",
-            "duration": 0,
-            "broadcast_channel": "Sony Sports Ten 5",
-            "language": "ENG",
-            "resolution": "FULL_HD",
-            "audio_quality": "STEREO",
-            "is_drm_protected": false,
-            "is_geo_blocked": false,
-            "ad_status": "AD SUPPORTED",
-            "description": "Glamorgan take on Gloucestershire in an exciting Vitality Blast Men 2026 clash, with both sides aiming to build momentum through aggressive batting, sharp bowling performances, and all-round consistency. Expect a competitive encounter as the two teams battle for crucial points in the tournament. Catch all the action only on Sony LIV",
-            "seo_tags": "Vitality Blast T20 tournament,Vitality Blast England cricket,Vitality Blast live updates,Vitality Blast match schedule,Vitality Blast fixtures,Vitality Blast streaming,Vitality Blast teams,Vitality Blast squads,Vitality Blast cricket stats,Vitality Blast points table,Vitality Blast knockout stage,Vitality Blast semi-finals,Vitality Blast final match,Vitality Blast pitch report,Vitality Blast player rankings,Vitality Blast fantasy cricket,Vitality Blast cricket predictions,Vitality Blast head-to-head,Vitality Blast match preview,Vitality Blast cricket commentary,Vitality Blast latest results,Vitality Blast cricket experts,Vitality Blast cricket insights,Keaton Jennings,Ryan Higgins,James Coles,Miles Hammond,David Payne,Benny Howell,Sam Billings,Daniel Bell-Drummond,Fred Klaassen,Liam Livingstone,Moeen Ali,Alex Hales,Shaheen Shah Afridi,Joe Root,Dawid Malan,Stuart Broad",
-            "image_landscape": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018172/1779326236000655_Vitality_Blast_2026_Match_masthead_large_v3_3200x1800_Glamorgan_vs_Gloucestershire.jpg",
-            "image_thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018189/1779371780326448_VitalityBlast26_Mens_Glamorgan_vs_Gloucestershire_21may_landscape_thumb.jpg",
-            "image_tv_bg": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018189/1779371995524448_VitalityBlast26_Mens_Glamorgan_vs_Gloucestershire_21may_tv_bg.jpg",
-            "tournament_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018172/1779326236000655_Vitality_Blast_2026_Match_Masthead_logo_Glamorgan_vs_Gloucestershire_LIVE.png",
-            "stream_url": "https://dai.google.com/ssai/event/_wNibTTjRKGbTJkQbT7_mQ/master.m3u8"
-        }
-    ]
+    "live_matches": []
 }
