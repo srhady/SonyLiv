@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "07:00:23 PM 24-05-2026"
+        "last_update": "07:15:18 PM 24-05-2026"
     },
     "live_matches": [
         {
@@ -140,33 +140,6 @@
             "image_tv_bg": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018275/1779610317384580_RG26_Round1_Simonne_Mathieu_Court_tv_bg.jpg",
             "tournament_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090529787/mastheadLogo/1779569124833_177953448961832_Roland_Garros_2026_GOB_match_Masthead_logo_LIVE.png",
             "stream_url": "https://dai.google.com/ssai/event/VnUGwhe5Sq26Vxhuk96Fkw/master.m3u8"
-        },
-        {
-            "match_id": 1090530621,
-            "sport_type": "Archery",
-            "event_name": "Hyundai Archery World Cup Final 2026",
-            "match_title": "Recurve Finals - 24 May 2026",
-            "home_team": "N/A",
-            "away_team": "N/A",
-            "venue": "N/A",
-            "status": "LIVE",
-            "start_time_bd": "04:30:00 PM 24-05-2026",
-            "end_time_bd": "09:45:00 PM 24-05-2026",
-            "duration": 0,
-            "broadcast_channel": "LIV",
-            "language": "ENG",
-            "resolution": "FULL_HD",
-            "audio_quality": "STEREO",
-            "is_drm_protected": false,
-            "is_geo_blocked": false,
-            "ad_status": "AD SUPPORTED",
-            "description": "Catch all the action from the Hyundai Archery World Cup 2026, LIVE on Sony LIV.",
-            "seo_tags": "archery world cup,archery,olympic sports,world archery championships,world archery,Hyundai World Archery Final Nanjing 2025,archery world cup stage,archery compound finals,Hyundai Archery World Cup 2025 match highlights,Hyundai Archery World Cup 2025 match scores,Hyundai Archery World Cup 2025 highlights,Archery highlights,Hyundai Archery World Cup 2025 Archery,Hyundai Archery World Cup 2025 champion,Hyundai Archery World Cup 2025 SonyLIV,Hyundai Archery World Cup,Hyundai Archery World Cup hls,Hyundai Archery World Cup Archery,Hyundai Archery World Cup Championship",
-            "image_landscape": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018211/177946168707882_Hyundai_Archery_World_Cup_2026_GOB_masthead_large_v3_3200x1800_1.jpg",
-            "image_thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018215/17794681141544_Hyundai_ArcheryWC26_Recurve_Finals_Live_landscape_thumb.jpg",
-            "image_tv_bg": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018215/17794684666094_Hyundai_ArcheryWC26_tv_bg.jpg",
-            "tournament_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018211/177946168710382_Hyundai_Archery_World_Cup_2026_GOB_Masthead_logo_LIVE.png",
-            "stream_url": "https://dai.google.com/ssai/event/UIOz_TESSFeaptBmSg8_dA/master.m3u8"
         },
         {
             "match_id": 1090530616,
