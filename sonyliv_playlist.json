@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "08:00:22 PM 24-05-2026"
+        "last_update": "08:15:18 PM 24-05-2026"
     },
     "live_matches": [
         {
@@ -32,33 +32,6 @@
             "image_tv_bg": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018285/1779601644000453_RG26_Bonzi_vs_Zverev_tv_bg_SP.jpg",
             "tournament_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018243/1779541067111935_RG26_Stream1_set4_live_masthead_logo.png",
             "stream_url": "https://dai.google.com/ssai/event/xq7h_HJVS7mEliIeK8sjnQ/master.m3u8"
-        },
-        {
-            "match_id": 1090531101,
-            "sport_type": "Cricket",
-            "event_name": "Vitality Blast 2026",
-            "match_title": "Middlesex vs Surrey - 24 May 2026",
-            "home_team": "Middlesex",
-            "away_team": "Surrey",
-            "venue": "Lord's, London",
-            "status": "LIVE",
-            "start_time_bd": "04:30:00 PM 24-05-2026",
-            "end_time_bd": "01:15:00 AM 25-05-2026",
-            "duration": 0,
-            "broadcast_channel": "Sony Sports Ten 5",
-            "language": "ENG",
-            "resolution": "FULL_HD",
-            "audio_quality": "STEREO",
-            "is_drm_protected": false,
-            "is_geo_blocked": false,
-            "ad_status": "AD SUPPORTED",
-            "description": "Middlesex face Surrey in a thrilling Vitality Blast Men 2026 encounter, with both teams aiming to strengthen their campaign through explosive batting displays, disciplined bowling, and strong all-round performances. Expect an intense battle as these rivals compete for valuable points in the tournament. Catch all the action only on Sony LIV.",
-            "seo_tags": "Vitality Blast T20 tournament,Vitality Blast England cricket,Vitality Blast live updates,Vitality Blast match schedule,Vitality Blast fixtures,Vitality Blast streaming,Vitality Blast teams,Vitality Blast squads,Vitality Blast cricket stats,Vitality Blast points table,Vitality Blast knockout stage,Vitality Blast semi-finals,Vitality Blast final match,Vitality Blast pitch report,Vitality Blast player rankings,Vitality Blast fantasy cricket,Vitality Blast cricket predictions,Vitality Blast head-to-head,Vitality Blast match preview,Vitality Blast cricket commentary,Vitality Blast latest results,Vitality Blast cricket experts,Vitality Blast cricket insights,Keaton Jennings,Ryan Higgins,James Coles,Miles Hammond,David Payne,Benny Howell,Sam Billings,Daniel Bell-Drummond,Fred Klaassen,Liam Livingstone,Moeen Ali,Alex Hales,Shaheen Shah Afridi,Joe Root,Dawid Malan,Stuart Broad",
-            "image_landscape": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018172/1779326236000655_Vitality_Blast_2026_Match_masthead_large_v3_3200x1800_Middlesex_vs_Surrey.jpg",
-            "image_thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018237/1779537026869575_VitalityBlast26_Mens_Middlesex_vs_Surrey_23may_landscape_thumb.jpg",
-            "image_tv_bg": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018237/1779536891904575_VitalityBlast26_Mens_Middlesex_vs_Surrey_23may_tv_Bg.jpg",
-            "tournament_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018172/1779326236000655_Vitality_Blast_2026_Match_Masthead_logo_Middlesex_vs_Surrey_LIVE.png",
-            "stream_url": "https://dai.google.com/ssai/event/1jne4j1lSJeB2tX-a-2TEA/master.m3u8"
         },
         {
             "match_id": 1090529786,
