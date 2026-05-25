@@ -2,16 +2,16 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 05:15:17 PM 25-05-2026
+# last_update: 05:30:22 PM 25-05-2026
 
-#EXTINF:-1 tvg-id="sonyliv-1090529780" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018314/1779615818000843_RG26_Jones_vs_Swiatek_landscape_thumb_SP.jpg" group-title="Tennis", Roland-Garros 2026 | Emerson Jones vs Iga Swiatek - Round 1 - 25 May 2026
+#EXTINF:-1 tvg-id="sonyliv-1090529780" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018345/1779667459682784_Roland_Garros_2026_round1_Wawrinka_vs_Jesper_de_Jong_landscape_thumb_SP.jpg" group-title="Tennis", Roland-Garros 2026 | Stan Wawrinka vs Jesper de Jong - Round 1 - 25 May 2026
 https://dai.google.com/ssai/event/RTTpbIJBQVGaU86ZLdcz8Q/master.m3u8
 
-#EXTINF:-1 tvg-id="sonyliv-1090529787" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018345/1779667459682784_Roland_Garros_2026_round1_Wawrinka_vs_Jesper_de_Jong_landscape_thumb_SP.jpg" group-title="Tennis", Roland-Garros 2026 | Simonne Mathieu - 25 May 2026
-https://dai.google.com/ssai/event/Bw3t-0plSQGZbHOnERHj9Q/master.m3u8
-
-#EXTINF:-1 tvg-id="sonyliv-1090529788" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018311/1779615790000312_Roland_Garros_2026_De_Minaur_vs_Samuel_landscape_thumb_SP.jpg" group-title="Tennis", Roland-Garros 2026 | Court 14 - 25 May 2026
-https://dai.google.com/ssai/event/UIOz_TESSFeaptBmSg8_dA/master.m3u8
+#EXTINF:-1 tvg-id="sonyliv-1090529785" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018314/1779615818000843_RG26_Jones_vs_Swiatek_landscape_thumb_SP.jpg" group-title="Tennis", Roland-Garros 2026 | Philippe Chatrier - 25 May 2026
+https://dai.google.com/ssai/event/nTNP47S9Smqb0l7kFi-rbw/master.m3u8
 
 #EXTINF:-1 tvg-id="sonyliv-1090529786" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018275/1779610010184580_RG26_Round1_Suzanne_Lenglen_Court_landscape_thumb.jpg" group-title="Tennis", Roland-Garros 2026 | Arthur Rinderknech vs Jurij Rodionov - Men's Singles - 25 May 2026
 https://dai.google.com/ssai/event/3GgxKoxhS-2q07Njzw0oLg/master.m3u8
+
+#EXTINF:-1 tvg-id="sonyliv-1090529788" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018275/1779611719316580_RG26_Round1_Court14_landscape_thumb.jpg" group-title="Tennis", Roland-Garros 2026 | Tatjana Maria vs Elise Mertens - Women's Singles - 25 May 2026
+https://dai.google.com/ssai/event/UIOz_TESSFeaptBmSg8_dA/master.m3u8
