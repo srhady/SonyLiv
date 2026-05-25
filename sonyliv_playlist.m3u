@@ -2,7 +2,16 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 02:15:17 PM 25-05-2026
+# last_update: 02:30:21 PM 25-05-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090529780" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018284/1779622373743240_RG26_studio_show_23may_landscape.jpg" group-title="Tennis", Roland-Garros 2026 | Day 2 - Round 1 - 25 May 2026
 https://dai.google.com/ssai/event/RTTpbIJBQVGaU86ZLdcz8Q/master.m3u8
+
+#EXTINF:-1 tvg-id="sonyliv-1090529786" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018275/1779610010184580_RG26_Round1_Suzanne_Lenglen_Court_landscape_thumb.jpg" group-title="Tennis", Roland-Garros 2026 | Court Suzanne Lenglen - 25 May 2026
+https://dai.google.com/ssai/event/3GgxKoxhS-2q07Njzw0oLg/master.m3u8
+
+#EXTINF:-1 tvg-id="sonyliv-1090529787" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018275/1779610286818580_RG26_Round1_Simonne_Mathieu_Court_landscape_thumb.jpg" group-title="Tennis", Roland-Garros 2026 | Simonne Mathieu - 25 May 2026
+https://dai.google.com/ssai/event/Bw3t-0plSQGZbHOnERHj9Q/master.m3u8
+
+#EXTINF:-1 tvg-id="sonyliv-1090529788" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018275/1779611719316580_RG26_Round1_Court14_landscape_thumb.jpg" group-title="Tennis", Roland-Garros 2026 | Court 14 - 25 May 2026
+https://dai.google.com/ssai/event/UIOz_TESSFeaptBmSg8_dA/master.m3u8
