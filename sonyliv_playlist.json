@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "03:15:17 AM 26-05-2026"
+        "last_update": "03:30:19 AM 26-05-2026"
     },
     "live_matches": [
         {
@@ -32,33 +32,6 @@
             "image_tv_bg": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018313/1779615826000777_Roland_Garros_2026_Gaston_vs_Monfils_tv_bg_SP.jpg",
             "tournament_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018233/177953448961832_Roland_Garros_2026_GOB_match_Masthead_logo_LIVE.png",
             "stream_url": "https://dai.google.com/ssai/event/RTTpbIJBQVGaU86ZLdcz8Q/master.m3u8"
-        },
-        {
-            "match_id": 1090531273,
-            "sport_type": "Football",
-            "event_name": "Bundesliga 2025-26",
-            "match_title": "SC Paderborn 07 vs VFL Wolfsburg - Relegation Playoffs - 25 May 2026",
-            "home_team": "SC Paderborn 07",
-            "away_team": "VFL Wolfsburg",
-            "venue": "Home Deluxe Arena",
-            "status": "LIVE",
-            "start_time_bd": "11:50:00 PM 25-05-2026",
-            "end_time_bd": "04:50:00 AM 26-05-2026",
-            "duration": 0,
-            "broadcast_channel": "Sony Sports Ten 2",
-            "language": "ENG",
-            "resolution": "FULL_HD",
-            "audio_quality": "STEREO",
-            "is_drm_protected": false,
-            "is_geo_blocked": false,
-            "ad_status": "AD SUPPORTED",
-            "description": "SC Paderborn 07 and VfL Wolfsburg gear up for a high-stakes second-leg relegation battle, with survival hanging in the balance. Expect a tense contest filled with aggressive pressing, tactical discipline, and decisive moments in key areas. With everything on the line, it’s set to be a gripping showdown where every chance and defensive action could prove crucial. Catch all the action from Bundesliga 2025-26, LIVE on Sony LIV.",
-            "seo_tags": "bundesliga 2025-26,german football league 2025,bundesliga live stream india,bundesliga sony liv,bundesliga fixtures august 2025,bundesliga matchday 1,bundesliga standings 2025,bundesliga title race,bundesliga top scorers 2025,bundesliga champions league spots,harry kane bayern,jamal musiala bayern,michael olise bayern,jonathan tah bayern,xavi simons leipzig,lois openda leipzig,benjamin sesko leipzig,florian wirtz leverkusen,robert andrich leverkusen,emre can dortmund,julian brandt dortmund,jonathan burkardt frankfurt,robin koch frankfurt,manuel neuer bayern captain,kevin trapp frankfurt,sebastian schonlau hamburg,maximilian arnold wolfsburg,patrick mainka stuttgart,jackson irvine st pauli,cedric zesiger augsburg,han-noah massengo augsburg,samuel mbangula werder bremen",
-            "image_landscape": "N/A",
-            "image_thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018134/1779193395912293_bliga26_Relegation_Playoffs_SC_Paderborn07_vs_VfL_Wolfsburg_19may_landscape_thumb.jpg",
-            "image_tv_bg": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018134/1779193410806293_bliga26_Relegation_Playoffs_SC_Paderborn07_vs_VfL_Wolfsburg_19may_tv_bg.jpg",
-            "tournament_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000000507/1742306648095993_EuropeanQualifiers2025_GENERIC_Masthead_logo_LIVE.png",
-            "stream_url": "https://dai.google.com/ssai/event/seP8U3FeRPKV5OA5RUe6aA/master.m3u8"
         }
     ]
 }
