@@ -2,9 +2,9 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 11:30:23 PM 26-05-2026
+# last_update: 11:45:20 PM 26-05-2026
 
-#EXTINF:-1 tvg-id="sonyliv-1090529788" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018413/177970090000088_RG26_Bublik_vs_Struff_landscape_thumb_SP.jpg" group-title="Tennis", Roland-Garros 2026 | Alexander Bublik vs Jan-Lennard Struff - Men's Singles - 26 May 2026
+#EXTINF:-1 tvg-id="sonyliv-1090529788" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018413/177970090000088_RG26_Bublik_vs_Struff_landscape_thumb_SP.jpg" group-title="Tennis", Roland-Garros 2026 | Court 14 - 26 May 2026
 https://dai.google.com/ssai/event/VnUGwhe5Sq26Vxhuk96Fkw/master.m3u8
 
 #EXTINF:-1 tvg-id="sonyliv-1090531102" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018238/1779538003103581_VitalityBlast26_Mens_Hampshire_vs_Essex_23may_landscape_thumb.jpg" group-title="Cricket", Vitality Blast 2026 | Hampshire vs Essex  - 26 May 2026
@@ -16,5 +16,5 @@ https://dai.google.com/ssai/event/7KhHqtvHRv-K5sWcICQjGw/master.m3u8
 #EXTINF:-1 tvg-id="sonyliv-1090529780" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018417/1779755288015209_RG26_Vandewinkel_vs_Keys_landscape_thumb_SP.jpg" group-title="Tennis", Roland-Garros 2026 | Hanne Vandewinkel vs Madison Keys - Round 1 - 26 May 2026
 https://dai.google.com/ssai/event/ahLdkaRoSWavrsFLPU8THA/master.m3u8
 
-#EXTINF:-1 tvg-id="sonyliv-1090529785" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018275/1779608826534580_RG26_Round1_Philippe_Chatrier_Court_landscape_thumb.jpg" group-title="Tennis", Roland-Garros 2026 | Anhelina Kalinina vs Diane Parry - Women's Singles - 26 May 2026
+#EXTINF:-1 tvg-id="sonyliv-1090529785" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018275/1779608826534580_RG26_Round1_Philippe_Chatrier_Court_landscape_thumb.jpg" group-title="Tennis", Roland-Garros 2026 | Philippe Chatrier - 26 May 2026
 https://dai.google.com/ssai/event/etuNA7mESiOw9n93IL4KNA/master.m3u8
