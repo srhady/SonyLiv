@@ -2,13 +2,13 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 07:15:31 PM 26-05-2026
+# last_update: 07:45:22 PM 26-05-2026
+
+#EXTINF:-1 tvg-id="sonyliv-1090529780" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018397/1779700906000726_RG26_Gauff_vs_Townsend_landscape_thumb_SP.jpg" group-title="Tennis", Roland-Garros 2026 | Coco Gauff vs Taylor Townsend - Round 1 - 26 May 2026
+https://dai.google.com/ssai/event/ahLdkaRoSWavrsFLPU8THA/master.m3u8
 
 #EXTINF:-1 tvg-id="sonyliv-1090529786" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018419/1779700904000628_RG26_Siegemund_vs_Osaka_landscape_thumb_SP.jpg" group-title="Tennis", Roland-Garros 2026 | Laura Siegemund vs Naomi Osaka - Women's Singles - 26 May 2026
 https://dai.google.com/ssai/event/7KhHqtvHRv-K5sWcICQjGw/master.m3u8
-
-#EXTINF:-1 tvg-id="sonyliv-1090529789" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018425/1779781587246109_RG26_round1_FRANTZEN_HAASE_vs_BALAJI_DEMOLINER_SP_landscape_thumb.jpg" group-title="Tennis", Roland-Garros 2026 | Frantzen/Haase vs Balaji/Demoliner - Round 1 - 26 May 2026
-https://dai.google.com/ssai/event/XmqwVn_hSLSfcYpIY4_oxQ/master.m3u8
 
 #EXTINF:-1 tvg-id="sonyliv-1090529787" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018275/1779610286818580_RG26_Round1_Simonne_Mathieu_Court_landscape_thumb.jpg" group-title="Tennis", Roland-Garros 2026 | Vit Kopriva vs Corentin Moutet - Men's Singles - 26 May 2026
 https://dai.google.com/ssai/event/Myr-ILIeTBy_ZpY8gtoaRQ/master.m3u8
@@ -16,8 +16,5 @@ https://dai.google.com/ssai/event/Myr-ILIeTBy_ZpY8gtoaRQ/master.m3u8
 #EXTINF:-1 tvg-id="sonyliv-1090529788" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018275/1779611719316580_RG26_Round1_Court14_landscape_thumb.jpg" group-title="Tennis", Roland-Garros 2026 | Thomas Faurel vs Valentin Vacherot - Men's Singles - 26 May 2026
 https://dai.google.com/ssai/event/VnUGwhe5Sq26Vxhuk96Fkw/master.m3u8
 
-#EXTINF:-1 tvg-id="sonyliv-1090529785" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018275/1779608826534580_RG26_Round1_Philippe_Chatrier_Court_landscape_thumb.jpg" group-title="Tennis", Roland-Garros 2026 | Philippe Chatrier - 26 May 2026
-https://dai.google.com/ssai/event/etuNA7mESiOw9n93IL4KNA/master.m3u8
-
-#EXTINF:-1 tvg-id="sonyliv-1090529780" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018275/1779615118994580_RG26_Round1_Generic_landscape_thumb.jpg" group-title="Tennis", Roland-Garros 2026 | Laura Siegemund vs Naomi Osaka - Round 1 - 26 May 2026
-https://dai.google.com/ssai/event/ahLdkaRoSWavrsFLPU8THA/master.m3u8
+#EXTINF:-1 tvg-id="sonyliv-1090531274" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018192/1779374281270514_VitalityBlast26_womens_Hampshire_vs_Essex_21may_landscape_thumb.jpg" group-title="Cricket", Vitality Blast Women 2026 | Hampshire Women vs Essex Women - 26 May 2026
+https://dai.google.com/ssai/event/xq7h_HJVS7mEliIeK8sjnQ/master.m3u8
