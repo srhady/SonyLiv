@@ -2,21 +2,24 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 12:15:26 AM 28-05-2026
+# last_update: 12:30:31 AM 28-05-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090529787" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018464/1779799868000143_RG26_Andreeva_V_Bassols_Ribera_landscape_thumb_SP.jpg" group-title="Tennis", Roland-Garros 2026 | Mirra Andreeva vs Marina Bassols Ribera - Round 2 - 27 May 2026
 https://dai.google.com/ssai/event/urJiNdAfTz-oUiy1vWzIhw/master.m3u8
 
-#EXTINF:-1 tvg-id="sonyliv-1090529786" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018500/1779844260000746_RG26_Paolini_vs_Sierra_landscape_thumb_SP.jpg" group-title="Tennis", Roland-Garros 2026 | Jasmine Paolini vs Solana Sierra - Women's Singles - 27 May 2026
+#EXTINF:-1 tvg-id="sonyliv-1090531275" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018421/1779774658648548_UECL_26_FINAL_Crystal-Palace-vs-Rayo-Vallecano_landscape_thumb.jpg" group-title="Football", UEFA Conference League 2025-26 | Crystal Palace vs Rayo Vallecano - Final - 28 May 2026
+https://dai.google.com/ssai/event/Bw3t-0plSQGZbHOnERHj9Q/master.m3u8
+
+#EXTINF:-1 tvg-id="sonyliv-1090529786" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018500/1779844260000746_RG26_Paolini_vs_Sierra_landscape_thumb_SP.jpg" group-title="Tennis", Roland-Garros 2026 | Court Suzanne Lenglen - 27 May 2026
 https://dai.google.com/ssai/event/adxneMA9QhOs2WKeGJVvPQ/master.m3u8
 
 #EXTINF:-1 tvg-id="sonyliv-1090529788" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018280/1779617000412342_RG26_Round2_Court14_landscape_thumb.jpg" group-title="Tennis", Roland-Garros 2026 | Joao Fonseca vs Dino Prizmic - Men's Singles - 27 May 2026
 https://dai.google.com/ssai/event/ei4-jdpdSGiNNGFVtIaw8w/master.m3u8
 
-#EXTINF:-1 tvg-id="sonyliv-1090529780" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018284/1779622373743240_RG26_studio_show_23may_landscape.jpg" group-title="Tennis", Roland-Garros 2026 | Day 4 - Round 2 - 27 May 2026
+#EXTINF:-1 tvg-id="sonyliv-1090529780" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018280/1779616224693342_RG26_Round2_Generic_landscape_thumb.jpg" group-title="Tennis", Roland-Garros 2026 | Day 4 - Round 2 - 27 May 2026
 https://dai.google.com/ssai/event/xq7h_HJVS7mEliIeK8sjnQ/master.m3u8
 
-#EXTINF:-1 tvg-id="sonyliv-1090529785" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018280/1779616420931342_RG26_Round2_Philippe_Chatrier_Court_landscape_thumb.jpg" group-title="Tennis", Roland-Garros 2026 | Philippe Chatrier - 27 May 2026
+#EXTINF:-1 tvg-id="sonyliv-1090529785" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018491/1779799876000741_RG26_Machac_vs_Zverev_landscape_thumb_SP.jpg" group-title="Tennis", Roland-Garros 2026 | Philippe Chatrier - 27 May 2026
 https://dai.google.com/ssai/event/ahLdkaRoSWavrsFLPU8THA/master.m3u8
 
 #EXTINF:-1 tvg-id="sonyliv-1090531304" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018241/1779540063014222_VitalityBlast26_Mens_Leicestershire_vs_Derbyshire_23may_landscape_thumb.jpg" group-title="Cricket", Vitality Blast 2026 | Leicestershire vs Derbyshire - 27 May 2026
