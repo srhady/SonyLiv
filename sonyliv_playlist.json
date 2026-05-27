@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "10:45:38 PM 27-05-2026"
+        "last_update": "11:00:31 PM 27-05-2026"
     },
     "live_matches": [
         {
@@ -113,6 +113,33 @@
             "image_tv_bg": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018280/1779617037999342_RG26_Round2_Court14_tv_bg.jpg",
             "tournament_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018233/177953448961832_Roland_Garros_2026_GOB_match_Masthead_logo_LIVE.png",
             "stream_url": "https://dai.google.com/ssai/event/ei4-jdpdSGiNNGFVtIaw8w/master.m3u8"
+        },
+        {
+            "match_id": 1090531304,
+            "sport_type": "Cricket",
+            "event_name": "Vitality Blast 2026",
+            "match_title": "Leicestershire vs Derbyshire - 27 May 2026",
+            "home_team": "Leicestershire",
+            "away_team": "Derbyshire",
+            "venue": "Grace Road",
+            "status": "LIVE",
+            "start_time_bd": "11:00:00 PM 27-05-2026",
+            "end_time_bd": "07:45:00 AM 28-05-2026",
+            "duration": 0,
+            "broadcast_channel": "Sony Sports Ten 5",
+            "language": "ENG",
+            "resolution": "FULL_HD",
+            "audio_quality": "STEREO",
+            "is_drm_protected": false,
+            "is_geo_blocked": false,
+            "ad_status": "AD SUPPORTED",
+            "description": "Leicestershire take on Derbyshire in an exciting Vitality Blast 2026 clash, as both sides aim to build momentum with aggressive batting, disciplined bowling attacks, and strong all-round performances in this important encounter. Catch all the action only on Sony LIV.",
+            "seo_tags": "Vitality Blast T20 tournament,Vitality Blast England cricket,Vitality Blast live updates,Vitality Blast match schedule,Vitality Blast fixtures,Vitality Blast streaming,Vitality Blast teams,Vitality Blast squads,Vitality Blast cricket stats,Vitality Blast points table,Vitality Blast knockout stage,Vitality Blast semi-finals,Vitality Blast final match,Vitality Blast pitch report,Vitality Blast player rankings,Vitality Blast fantasy cricket,Vitality Blast cricket predictions,Vitality Blast head-to-head,Vitality Blast match preview,Vitality Blast cricket commentary,Vitality Blast latest results,Vitality Blast cricket experts,Vitality Blast cricket insights,Keaton Jennings,Ryan Higgins,James Coles,Miles Hammond,David Payne,Benny Howell,Sam Billings,Daniel Bell-Drummond,Fred Klaassen,Liam Livingstone,Moeen Ali,Alex Hales,Shaheen Shah Afridi,Joe Root,Dawid Malan,Stuart Broad",
+            "image_landscape": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018525/1779889996717329_Vitality_Blast_2026_Match_masthead_large_v3_3200x1800_Leicestershire_vs_Derbyshire.jpg",
+            "image_thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018241/1779540063014222_VitalityBlast26_Mens_Leicestershire_vs_Derbyshire_23may_landscape_thumb.jpg",
+            "image_tv_bg": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018241/1779540136266222_VitalityBlast26_Mens_Leicestershire_vs_Derbyshire_23may_tv_Bg.jpg",
+            "tournament_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018525/1779889996884329_Vitality_Blast_2026_Match_Masthead_logo_Leicestershire_vs_Derbyshire_Live.png",
+            "stream_url": "https://dai.google.com/ssai/event/3GgxKoxhS-2q07Njzw0oLg/master.m3u8"
         }
     ]
 }
