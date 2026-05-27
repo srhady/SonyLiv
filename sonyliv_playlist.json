@@ -3,35 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "03:15:19 AM 28-05-2026"
+        "last_update": "03:30:22 AM 28-05-2026"
     },
-    "live_matches": [
-        {
-            "match_id": 1090531275,
-            "sport_type": "Football",
-            "event_name": "UEFA Conference League 2025-26",
-            "match_title": "Crystal Palace vs Rayo Vallecano - Final - 28 May 2026",
-            "home_team": "Crystal Palace",
-            "away_team": "Rayo Vallecano",
-            "venue": "Red Bull Arena, Leipzig",
-            "status": "LIVE",
-            "start_time_bd": "12:25:00 AM 28-05-2026",
-            "end_time_bd": "05:25:00 AM 28-05-2026",
-            "duration": 0,
-            "broadcast_channel": "Sony Sports Ten 2",
-            "language": "ENG",
-            "resolution": "FULL_HD",
-            "audio_quality": "STEREO",
-            "is_drm_protected": false,
-            "is_geo_blocked": false,
-            "ad_status": "AD SUPPORTED",
-            "description": "English Premier League side Crystal Palace and Spanish La Liga's Rayo Vallecano lock horns in a highly anticipated, fine-margin battle for European silverware. A high-stakes showdown awaits as both sides chase European glory in a winner-takes-all final at the Red Bull Arena. Tune in to catch all the action from the UEFA Conference League 2025–26, streaming LIVE on Sony LIV.",
-            "seo_tags": "football today,football games today,football tournament,today football match live,football fixtures,football livescores,football matches,football matches today,football live,watch uefa europa conference league 2025-26 games,uefa europa conference league 2025-26 matches,uefa europa conference league 2025-26 highlights,watch uefa europa conference league 2025-26 online",
-            "image_landscape": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018544/1779907741579920_UECL25_26_MATCH_masthead_large_v3_rev_Crystal_Palace_vs_Rayo_Vallecano.jpg",
-            "image_thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018544/1779907741241920_UECL_26_FINAL_Crystal-Palace-vs-Rayo-Vallecano_landscape_thumb_rev.jpg",
-            "image_tv_bg": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018544/1779907739825920_UECL_26_FINAL_Crystal-Palace-vs-Rayo-Vallecano_tv_bg_rev.jpg",
-            "tournament_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018202/1779434663549753_UECL25_26_MATCH_Masthead_logo_Crystal_Palace_vs_Rayo_Vallecano_Live.png",
-            "stream_url": "https://dai.google.com/ssai/event/Bw3t-0plSQGZbHOnERHj9Q/master.m3u8"
-        }
-    ]
+    "live_matches": []
 }
