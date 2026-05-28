@@ -2,10 +2,13 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 09:15:23 PM 28-05-2026
+# last_update: 09:30:27 PM 28-05-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090529786" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018583/177988315400029_RG26_Gauff_V_Sherif_landscape_thumb_SP.jpg" group-title="Tennis", Roland-Garros 2026 | Court Suzanne Lenglen - 28 May 2026
 https://dai.google.com/ssai/event/301Dh58nQGa_Ty00SFDSGA/master.m3u8
+
+#EXTINF:-1 tvg-id="sonyliv-1090529789" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018553/1779912706386712_Roland_Garros_2026_Panova_Bhambri_v_Kichenok-_Pel_live_landscape_thumb.jpg" group-title="Tennis", Roland-Garros 2026 | Panova/Bhambri vs Pel/Kichenok - Round 1 - 28 May 2026
+https://dai.google.com/ssai/event/1_qjiKIrTdWSy-l6EunrWw/master.m3u8
 
 #EXTINF:-1 tvg-id="sonyliv-1090529788" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018588/1779883180000773_RG26_Hurkacz_vs_Tiafoe_landscape_thumb_SP.jpg" group-title="Tennis", Roland-Garros 2026 | Hubert Hurkacz vs Frances Tiafoe - Men's Singles - 28 May 2026
 https://dai.google.com/ssai/event/t2rqeJPuSQuYLwlNYZPhpw/master.m3u8
