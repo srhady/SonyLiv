@@ -2,12 +2,12 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 10:00:32 PM 28-05-2026
+# last_update: 10:15:24 PM 28-05-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090529786" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018583/177988315400029_RG26_Gauff_V_Sherif_landscape_thumb_SP.jpg" group-title="Tennis", Roland-Garros 2026 | Coco Gauff vs Maiar Sherif Ahmed Abdelaziz - Women's Singles - 28 May 2026
 https://dai.google.com/ssai/event/301Dh58nQGa_Ty00SFDSGA/master.m3u8
 
-#EXTINF:-1 tvg-id="sonyliv-1090529785" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018580/1779883168000977_RG26_Sabalenka_vs_Jacquemot_landscape_thumb_SP.jpg" group-title="Tennis", Roland-Garros 2026 | Philippe Chatrier - 28 May 2026
+#EXTINF:-1 tvg-id="sonyliv-1090529785" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018580/1779883168000977_RG26_Sabalenka_vs_Jacquemot_landscape_thumb_SP.jpg" group-title="Tennis", Roland-Garros 2026 | Aryna Sabalenka vs Elsa Jacquemot - Women's Singles - 28 May 2026
 https://dai.google.com/ssai/event/seP8U3FeRPKV5OA5RUe6aA/master.m3u8
 
 #EXTINF:-1 tvg-id="sonyliv-1090529789" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018553/1779912706386712_Roland_Garros_2026_Panova_Bhambri_v_Kichenok-_Pel_live_landscape_thumb.jpg" group-title="Tennis", Roland-Garros 2026 | Panova/Bhambri vs Pel/Kichenok - Round 1 - 28 May 2026
@@ -16,11 +16,8 @@ https://dai.google.com/ssai/event/1_qjiKIrTdWSy-l6EunrWw/master.m3u8
 #EXTINF:-1 tvg-id="sonyliv-1090529780" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018583/177988315400029_RG26_Gauff_V_Sherif_landscape_thumb_SP.jpg" group-title="Tennis", Roland-Garros 2026 | Coco Gauff vs Mayar Sherif - Round 2 - 28 May 2026
 https://dai.google.com/ssai/event/ahLdkaRoSWavrsFLPU8THA/master.m3u8
 
-#EXTINF:-1 tvg-id="sonyliv-1090529788" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018589/1779883200000382_RG26_Ruzic_vs_Keys_landscape_thumb_SP.jpg" group-title="Tennis", Roland-Garros 2026 | Court 14 - 28 May 2026
+#EXTINF:-1 tvg-id="sonyliv-1090529788" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018589/1779883200000382_RG26_Ruzic_vs_Keys_landscape_thumb_SP.jpg" group-title="Tennis", Roland-Garros 2026 | Antonia Ruzic vs Madison Keys - Women's Singles - 28 May 2026
 https://dai.google.com/ssai/event/t2rqeJPuSQuYLwlNYZPhpw/master.m3u8
 
 #EXTINF:-1 tvg-id="sonyliv-1090529787" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018586/1779883176000105_RG26_Auger_Aliassime_vs_Burruchaga_landscape_thumb_SP.jpg" group-title="Tennis", Roland-Garros 2026 | Felix Auger-Aliassime vs Roman Andres Burruchaga - Men's Singles - 28 May 2026
 https://dai.google.com/ssai/event/xq7h_HJVS7mEliIeK8sjnQ/master.m3u8
-
-#EXTINF:-1 tvg-id="sonyliv-1090530932" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017689/177774839347739_DP_World_Austrian_Alpine_Open_Day1_landscape_thumb.jpg" group-title="Golf", DP World Tour | Austrian Alpine Open - Day 1 - 28 May 2026
-https://dai.google.com/ssai/event/sLHwWsgJSSyiHOcfzXhwUA/master.m3u8
