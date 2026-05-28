@@ -2,9 +2,9 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 04:00:28 PM 28-05-2026
+# last_update: 04:30:21 PM 28-05-2026
 
-#EXTINF:-1 tvg-id="sonyliv-1090529785" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018552/1779912532285886_RG26_round2_Sinner_vs_Cerundolo_27may_SP_landscape_thumb.jpg" group-title="Tennis", Roland-Garros 2026 | Philippe Chatrier - 28 May 2026
+#EXTINF:-1 tvg-id="sonyliv-1090529785" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018552/1779912532285886_RG26_round2_Sinner_vs_Cerundolo_27may_SP_landscape_thumb.jpg" group-title="Tennis", Roland-Garros 2026 | Jannik Sinner vs Juan Manuel Cerundolo - Men's Singles - 28 May 2026
 https://dai.google.com/ssai/event/seP8U3FeRPKV5OA5RUe6aA/master.m3u8
 
 #EXTINF:-1 tvg-id="sonyliv-1090529789" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018549/1779910617517187_Roland_Garros_2026_Paul_Willis_v_Chandrasekar_Yuzuki_live_landscpae_thumb.jpg" group-title="Tennis", Roland-Garros 2026 | Willis/Paul vs Chandrasekar/Yuzuki - Round 1 - 28 May 2026
@@ -21,3 +21,6 @@ https://dai.google.com/ssai/event/301Dh58nQGa_Ty00SFDSGA/master.m3u8
 
 #EXTINF:-1 tvg-id="sonyliv-1090529788" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018280/1779617000412342_RG26_Round2_Court14_landscape_thumb.jpg" group-title="Tennis", Roland-Garros 2026 | Iva Jovic vs Emma Navarro - Women's Singles - 28 May 2026
 https://dai.google.com/ssai/event/t2rqeJPuSQuYLwlNYZPhpw/master.m3u8
+
+#EXTINF:-1 tvg-id="sonyliv-1090530932" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017689/177774839347739_DP_World_Austrian_Alpine_Open_Day1_landscape_thumb.jpg" group-title="Golf", DP World Tour | Austrian Alpine Open - Day 1 - 28 May 2026
+https://dai.google.com/ssai/event/sLHwWsgJSSyiHOcfzXhwUA/master.m3u8
