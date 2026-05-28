@@ -2,19 +2,13 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 02:45:19 AM 29-05-2026
-
-#EXTINF:-1 tvg-id="sonyliv-1090531897" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018618/1779975587789534_ENGvsIND_Womens_1st_T20I_landscape_thumb.jpg" group-title="Cricket", India Women's Tour of England 2026 | 1st T20I - 28 May 2026
-https://dai.google.com/ssai/event/PNQ2pTbfQTm6PFZsIMhncQ/master.m3u8
+# last_update: 03:00:50 AM 29-05-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090529788" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018590/1779883198000488_RG26_Arnaldi_vs_Tsitsipas_landscape_thumb_SP.jpg" group-title="Tennis", Roland-Garros 2026 | Matteo Arnaldi vs Stefanos Tsitsipas - Men's Singles - 28 May 2026
 https://dai.google.com/ssai/event/t2rqeJPuSQuYLwlNYZPhpw/master.m3u8
 
-#EXTINF:-1 tvg-id="sonyliv-1090529785" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018581/1779883194000859_RG26_Rinderknech_vs_Berrettini_landscape_thumb_SP.jpg" group-title="Tennis", Roland-Garros 2026 | Arthur Rinderknech vs Matteo Berrettini - Men's Singles - 28 May 2026
+#EXTINF:-1 tvg-id="sonyliv-1090529785" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018581/1779883194000859_RG26_Rinderknech_vs_Berrettini_landscape_thumb_SP.jpg" group-title="Tennis", Roland-Garros 2026 | Philippe Chatrier - 28 May 2026
 https://dai.google.com/ssai/event/seP8U3FeRPKV5OA5RUe6aA/master.m3u8
 
-#EXTINF:-1 tvg-id="sonyliv-1090529787" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018587/1779883188000202_RG26_Mboko_vs_Siniakova_landscape_thumb_SP.jpg" group-title="Tennis", Roland-Garros 2026 | Victoria Mboko vs Katerina Siniakova - Women's Singles - 28 May 2026
+#EXTINF:-1 tvg-id="sonyliv-1090529787" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018587/1779883188000202_RG26_Mboko_vs_Siniakova_landscape_thumb_SP.jpg" group-title="Tennis", Roland-Garros 2026 | Simonne Mathieu - 28 May 2026
 https://dai.google.com/ssai/event/xq7h_HJVS7mEliIeK8sjnQ/master.m3u8
-
-#EXTINF:-1 tvg-id="sonyliv-1090531575" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017824/1778148036952950_INT_Friendlies26_Republic-of-Ireland-vs-Qatar_landscape_thumb.jpg" group-title="Football", UEFA International Friendlies | Republic of Ireland vs Qatar -  29 May 2026
-https://dai.google.com/ssai/event/Xk-CmgLpTPO9LE8jR_GDVA/master.m3u8
