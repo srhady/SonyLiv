@@ -2,13 +2,10 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 01:30:21 AM 30-05-2026
+# last_update: 01:45:18 AM 30-05-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090529780" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018710/1780018450000596_RG26_Halys_vs_Zverev_landscape_thumb_SP.jpg" group-title="Tennis", Roland-Garros 2026 | Quentin Halys vs Alexander Zverev - Round 3 - 29 May 2026
 https://dai.google.com/ssai/event/3GgxKoxhS-2q07Njzw0oLg/master.m3u8
-
-#EXTINF:-1 tvg-id="sonyliv-1090531305" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018615/1779969856147224_VitalityBlast26_Mens_Worcestershire_vs_Warwickshire_landscape_thumb.jpg" group-title="Cricket", Vitality Blast 2026 | Worcestershire vs Warwickshire - 29 May 2026
-https://dai.google.com/ssai/event/RTTpbIJBQVGaU86ZLdcz8Q/master.m3u8
 
 #EXTINF:-1 tvg-id="sonyliv-1090529786" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018650/1779972696000357_RG26_Ruud_V_Paul_landscape_thumb_SP.jpg" group-title="Tennis", Roland-Garros 2026 | Casper Ruud vs Tommy Paul - Men's Singles - 29 May 2026
 https://dai.google.com/ssai/event/Xk-CmgLpTPO9LE8jR_GDVA/master.m3u8

@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "01:30:21 AM 30-05-2026"
+        "last_update": "01:45:18 AM 30-05-2026"
     },
     "live_matches": [
         {
@@ -32,33 +32,6 @@
             "image_tv_bg": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018710/1780018446000596_RG26_Halys_vs_Zverev_tv_bg_SP.jpg",
             "tournament_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018233/177953448961832_Roland_Garros_2026_GOB_match_Masthead_logo_LIVE.png",
             "stream_url": "https://dai.google.com/ssai/event/3GgxKoxhS-2q07Njzw0oLg/master.m3u8"
-        },
-        {
-            "match_id": 1090531305,
-            "sport_type": "Cricket",
-            "event_name": "Vitality Blast 2026",
-            "match_title": "Worcestershire vs Warwickshire - 29 May 2026",
-            "home_team": "Worcestershire",
-            "away_team": "Warwickshire",
-            "venue": "Visit Worcestershire New Road",
-            "status": "LIVE",
-            "start_time_bd": "10:00:00 PM 29-05-2026",
-            "end_time_bd": "06:45:00 AM 30-05-2026",
-            "duration": 0,
-            "broadcast_channel": "Sony Sports Ten 5",
-            "language": "ENG",
-            "resolution": "FULL_HD",
-            "audio_quality": "STEREO",
-            "is_drm_protected": false,
-            "is_geo_blocked": false,
-            "ad_status": "AD SUPPORTED",
-            "description": "Worcestershire face Warwickshire in an exciting Vitality Blast 2026 encounter, with both teams looking to gain momentum through explosive batting, disciplined bowling, and impactful all-round performances in this crucial clash. Catch all the action only on Sony LIV.",
-            "seo_tags": "Vitality Blast T20 tournament,Vitality Blast England cricket,Vitality Blast live updates,Vitality Blast match schedule,Vitality Blast fixtures,Vitality Blast streaming,Vitality Blast teams,Vitality Blast squads,Vitality Blast cricket stats,Vitality Blast points table,Vitality Blast knockout stage,Vitality Blast semi-finals,Vitality Blast final match,Vitality Blast pitch report,Vitality Blast player rankings,Vitality Blast fantasy cricket,Vitality Blast cricket predictions,Vitality Blast head-to-head,Vitality Blast match preview,Vitality Blast cricket commentary,Vitality Blast latest results,Vitality Blast cricket experts,Vitality Blast cricket insights,Keaton Jennings,Ryan Higgins,James Coles,Miles Hammond,David Payne,Benny Howell,Sam Billings,Daniel Bell-Drummond,Fred Klaassen,Liam Livingstone,Moeen Ali,Alex Hales,Shaheen Shah Afridi,Joe Root,Dawid Malan,Stuart Broad",
-            "image_landscape": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018525/1779889996796329_Vitality_Blast_2026_Match_masthead_large_v3_3200x1800_Worcestershire_vs_Warwickshire.jpg",
-            "image_thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018615/1779969856147224_VitalityBlast26_Mens_Worcestershire_vs_Warwickshire_landscape_thumb.jpg",
-            "image_tv_bg": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018615/1779970262301224_VitalityBlast26_Mens_Worcestershire_vs_Warwickshire_tv_bg.jpg",
-            "tournament_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018525/1779889996685329_Vitality_Blast_2026_Match_Masthead_logo_Worcestershire_vs_Warwickshire_Live.png",
-            "stream_url": "https://dai.google.com/ssai/event/RTTpbIJBQVGaU86ZLdcz8Q/master.m3u8"
         },
         {
             "match_id": 1090529786,
