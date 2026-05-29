@@ -2,13 +2,10 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 09:30:25 PM 29-05-2026
+# last_update: 09:45:23 PM 29-05-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090529780" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018653/1779972674000141_RG26_Fonseca_vs_Djokovic_landscape_thumb_SP.jpg" group-title="Tennis", Roland-Garros 2026 | Joao Fonseca vs Novak Djokovic - Round 3 - 29 May 2026
 https://dai.google.com/ssai/event/3GgxKoxhS-2q07Njzw0oLg/master.m3u8
-
-#EXTINF:-1 tvg-id="sonyliv-1090529790" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018673/1780004988331908_RG26_RD2_Mens_Doubles_Bhambri_Venus_vs_Bolelli_Vavassori_landscape_thumb_live.jpg" group-title="Tennis", Roland-Garros 2026 | Bhambri/Venus vs Bolelli/Vavassori - Round 2 - 29 May 2026
-https://dai.google.com/ssai/event/Q7EWPu-bRBCero8cu-Z6aQ/master.m3u8
 
 #EXTINF:-1 tvg-id="sonyliv-1090529789" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018672/1780001432840662_RG26_RD2_Mens_Doubles_Balaji_Demoliner_vs_Schnaitter_Wallner_landscape_thumb_live.jpg" group-title="Tennis", Roland-Garros 2026 | Balaji/Demoliner vs Schnaitter/Wallner - Round 2 - 29 May 2026
 https://dai.google.com/ssai/event/seP8U3FeRPKV5OA5RUe6aA/master.m3u8
@@ -19,7 +16,7 @@ https://dai.google.com/ssai/event/Xk-CmgLpTPO9LE8jR_GDVA/master.m3u8
 #EXTINF:-1 tvg-id="sonyliv-1090529788" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018654/1779972680000395_RG26_Khachanov_V_De_Jong_landscape_thumb_SP.jpg" group-title="Tennis", Roland-Garros 2026 | Karen Khachanov vs Jesper De Jong - Men's Singles - 29 May 2026
 https://dai.google.com/ssai/event/ahLdkaRoSWavrsFLPU8THA/master.m3u8
 
-#EXTINF:-1 tvg-id="sonyliv-1090529787" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018638/1779989085608265_RG26_Round3_Simonne_Mathieu_Court_landscape_thumb.jpg" group-title="Tennis", Roland-Garros 2026 | Simonne Mathieu - 29 May 2026
+#EXTINF:-1 tvg-id="sonyliv-1090529787" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018652/1779972686000503_RG26_De_Minaur_V_Mensik_landscape_thumb_SP.jpg" group-title="Tennis", Roland-Garros 2026 | Alex De Minaur vs Jakub Mensik - Round 3 - 29 May 2026
 https://dai.google.com/ssai/event/x35XkXi3SdGBXAhPlAwyUA/master.m3u8
 
 #EXTINF:-1 tvg-id="sonyliv-1090531488" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017689/177774840500439_DP_World_Austrian_Alpine_Open_Day2_landscape_thumb.jpg" group-title="Golf", DP World Tour | Austrian Alpine Open - Day 2 - 29 May 2026
