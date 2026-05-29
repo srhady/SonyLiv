@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "02:30:37 AM 30-05-2026"
+        "last_update": "02:45:18 AM 30-05-2026"
     },
     "live_matches": [
         {
@@ -59,33 +59,6 @@
             "image_tv_bg": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018650/1779972698000357_RG26_Ruud_V_Paul_tv_bg_SP.jpg",
             "tournament_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018233/177953448961832_Roland_Garros_2026_GOB_match_Masthead_logo_LIVE.png",
             "stream_url": "https://dai.google.com/ssai/event/Xk-CmgLpTPO9LE8jR_GDVA/master.m3u8"
-        },
-        {
-            "match_id": 1090531576,
-            "sport_type": "Football",
-            "event_name": "UEFA International Friendlies",
-            "match_title": "Bosnia-Herzegovina vs North Macedonia - 29 May 2026",
-            "home_team": "Bosnia-Herzegovina",
-            "away_team": "North Macedonia",
-            "venue": "Olimpijski Stadion Asim Ferhatović Hase",
-            "status": "LIVE",
-            "start_time_bd": "11:50:00 PM 29-05-2026",
-            "end_time_bd": "04:50:00 AM 30-05-2026",
-            "duration": 0,
-            "broadcast_channel": "Sony Sports Ten 2",
-            "language": "ENG",
-            "resolution": "FULL_HD",
-            "audio_quality": "STEREO",
-            "is_drm_protected": false,
-            "is_geo_blocked": false,
-            "ad_status": "AD SUPPORTED",
-            "description": "Bosnia and Herzegovina take on North Macedonia in an intriguing international friendly as both teams continue to fine-tune their squads and build rhythm ahead of crucial upcoming competitions. Bosnia and Herzegovina will aim to make the most of home conditions with a composed and attacking display, while North Macedonia look to test their tactical discipline and counterattacking threat in what promises to be a competitive encounter. Catch all the action from the International Friendlies, LIVE on Sony LIV.",
-            "seo_tags": "European Qualifiers,2026 FIFA World Cup,FIFA World Cup Qualifiers,UEFA Qualifiers,Football World Cup Qualifiers,European Football Qualifiers,World Cup 2026 Qualifiers,FIFA World Cup 2026,UEFA World Cup Qualifiers,European World Cup Qualifiers,Harry Kane,Kylian Mbappé,Cristiano Ronaldo,Robert Lewandowski,Erling Haaland,2026 FIFA World Cup European Qualifiers Schedule,European Qualifiers for FIFA World Cup 2026,UEFA World Cup Qualifiers 2026 Results,FIFA World Cup 2026 Qualifying Groups,European Football World Cup Qualifiers 2026,2026 World Cup Qualifiers European Teams,FIFA World Cup Qualifiers 2026 European Standings,UEFA World Cup Qualifiers 2026 Fixtures,European Football,UEFA Football,World Cup Qualifiers Europe,European World Cup Qualifying,Football Europe World Cup Qualifiers,England National Team,France National Team,Portugal National Team,Germany National Team,Poland National Team",
-            "image_landscape": "N/A",
-            "image_thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018693/1780023175528370_INT_Friendlies26_Bosnia_vs_North_Macedonia_live_landscape_thumb.jpg",
-            "image_tv_bg": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018693/1780023220841370_INT_Friendlies26_Bosnia_vs_North_Macedonia_tv_bg.jpg",
-            "tournament_logo": "N/A",
-            "stream_url": "https://dai.google.com/ssai/event/TciBRxSYRBCqEX-pWbqvdg/master.m3u8"
         }
     ]
 }
