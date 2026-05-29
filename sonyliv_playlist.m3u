@@ -2,7 +2,7 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 12:45:17 AM 30-05-2026
+# last_update: 01:00:24 AM 30-05-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090529780" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018653/1779972674000141_RG26_Fonseca_vs_Djokovic_landscape_thumb_SP.jpg" group-title="Tennis", Roland-Garros 2026 | Joao Fonseca vs Novak Djokovic - Round 3 - 29 May 2026
 https://dai.google.com/ssai/event/3GgxKoxhS-2q07Njzw0oLg/master.m3u8
@@ -15,9 +15,6 @@ https://dai.google.com/ssai/event/Xk-CmgLpTPO9LE8jR_GDVA/master.m3u8
 
 #EXTINF:-1 tvg-id="sonyliv-1090529787" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018660/1779972668000437_RG26_Stearns_V_Bencic_landscape_thumb_SP.jpg" group-title="Tennis", Roland-Garros 2026 | Peyton Stearns vs Belinda Bencic - Women's Singles - 30 May 2026
 https://dai.google.com/ssai/event/x35XkXi3SdGBXAhPlAwyUA/master.m3u8
-
-#EXTINF:-1 tvg-id="sonyliv-1090529788" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018654/1779972680000395_RG26_Khachanov_V_De_Jong_landscape_thumb_SP.jpg" group-title="Tennis", Roland-Garros 2026 | Court 14 - 29 May 2026
-https://dai.google.com/ssai/event/ahLdkaRoSWavrsFLPU8THA/master.m3u8
 
 #EXTINF:-1 tvg-id="sonyliv-1090531576" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018693/1780023175528370_INT_Friendlies26_Bosnia_vs_North_Macedonia_live_landscape_thumb.jpg" group-title="Football", UEFA International Friendlies | Bosnia-Herzegovina vs North Macedonia - 29 May 2026
 https://dai.google.com/ssai/event/TciBRxSYRBCqEX-pWbqvdg/master.m3u8
