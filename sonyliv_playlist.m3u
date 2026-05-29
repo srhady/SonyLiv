@@ -2,7 +2,10 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 01:15:20 PM 29-05-2026
+# last_update: 01:30:49 PM 29-05-2026
+
+#EXTINF:-1 tvg-id="sonyliv-1090529780" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018698/178003487902035_RG26_studio_show_29may_landscpae_thumb.jpg" group-title="Tennis", Roland-Garros 2026 | Day 6 - Round 3 - 29 May 2026
+https://dai.google.com/ssai/event/3GgxKoxhS-2q07Njzw0oLg/master.m3u8
 
 #EXTINF:-1 tvg-id="sonyliv-1090531334" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017794/1778071187046681_LIV_Golf_South_Korea_2026_DAY-2_landscape_thumb.jpg" group-title="Golf", LIV Golf | South Korea - Day 2 - 29 May 2026
 https://dai.google.com/ssai/event/u8rgGDjFSiik2rAYGQ-KzA/master.m3u8
