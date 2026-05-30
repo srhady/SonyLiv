@@ -2,16 +2,16 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 07:45:17 PM 30-05-2026
+# last_update: 08:00:25 PM 30-05-2026
+
+#EXTINF:-1 tvg-id="sonyliv-1090532721" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018781/1780100174697448_UCL26_final_Champions_Ki_Charcha_30may_landscape_thumb.jpg" group-title="Football", UEFA Champions League 2025-26 | PSG vs Arsenal - Final - 30 May 2026
+https://dai.google.com/ssai/event/GM2o9EimTAuZCQoFKDv08Q/master.m3u8
 
 #EXTINF:-1 tvg-id="sonyliv-1090532710" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018622/1779977867196184_ENGvsIND_Womens_2nd_T20I_landscape_thumb.jpg" group-title="Cricket", India Women's Tour of England 2026 | 2nd T20I - 30 May 2026
 https://dai.google.com/ssai/event/seP8U3FeRPKV5OA5RUe6aA/master.m3u8
 
-#EXTINF:-1 tvg-id="sonyliv-1090529786" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018800/1780121868037750_RG26_round3_Sabalenka_vs_Kasatkina_live_30may_landscape_thumb.jpg" group-title="Tennis", Roland-Garros 2026 | Aryna Sabalenka vs Daria Kasatkina - Women's Singles - 30 May 2026
+#EXTINF:-1 tvg-id="sonyliv-1090529786" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018800/1780121868037750_RG26_round3_Sabalenka_vs_Kasatkina_live_30may_landscape_thumb.jpg" group-title="Tennis", Roland-Garros 2026 | Court Suzanne Lenglen - 30 May 2026
 https://dai.google.com/ssai/event/jRQlKg2DQWa70jsLHUtxGA/master.m3u8
-
-#EXTINF:-1 tvg-id="sonyliv-1090532398" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018748/178007606214841_UFC_Fight_Night_Song_vs_Figueiredo_landscape_thumbnail.jpg" group-title="Fight Sports", UFC Fight Night - Song vs Figueiredo | UFC Fight Night - Song vs Figueiredo - 30 May 2026
-https://dai.google.com/ssai/event/T__GnDnZQFiUiFM3JqgnYg/master.m3u8
 
 #EXTINF:-1 tvg-id="sonyliv-1090529785" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018783/1780059414000342_RG26_Parry_vs_Anisimova_landscape_thumb_SP.jpg" group-title="Tennis", Roland-Garros 2026 | Diane Parry vs Amanda Anisimova - Women's Singles - 30 May 2026
 https://dai.google.com/ssai/event/CPyLkEq0R6yyIwnP91j6mg/master.m3u8
