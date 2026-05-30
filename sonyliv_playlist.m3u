@@ -2,7 +2,10 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 06:45:16 PM 30-05-2026
+# last_update: 07:00:25 PM 30-05-2026
+
+#EXTINF:-1 tvg-id="sonyliv-1090532710" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018622/1779977867196184_ENGvsIND_Womens_2nd_T20I_landscape_thumb.jpg" group-title="Cricket", India Women's Tour of England 2026 | 2nd T20I - 30 May 2026
+https://dai.google.com/ssai/event/seP8U3FeRPKV5OA5RUe6aA/master.m3u8
 
 #EXTINF:-1 tvg-id="sonyliv-1090529786" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018800/1780121868037750_RG26_round3_Sabalenka_vs_Kasatkina_live_30may_landscape_thumb.jpg" group-title="Tennis", Roland-Garros 2026 | Aryna Sabalenka vs Daria Kasatkina - Women's Singles - 30 May 2026
 https://dai.google.com/ssai/event/jRQlKg2DQWa70jsLHUtxGA/master.m3u8
