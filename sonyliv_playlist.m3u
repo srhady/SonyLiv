@@ -2,7 +2,7 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 05:15:18 PM 30-05-2026
+# last_update: 05:30:20 PM 30-05-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090529786" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018787/178005940600050_RG26_Jovic_vs_Osaka_landscape_thumb_SP.jpg" group-title="Tennis", Roland-Garros 2026 | Iva Jovic vs Naomi Osaka - Women's Singles - 30 May 2026
 https://dai.google.com/ssai/event/jRQlKg2DQWa70jsLHUtxGA/master.m3u8
@@ -13,11 +13,14 @@ https://dai.google.com/ssai/event/T__GnDnZQFiUiFM3JqgnYg/master.m3u8
 #EXTINF:-1 tvg-id="sonyliv-1090529785" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018801/1780125036273394_RG26_Cobolli_vs_Tien_landscape_thumb_SP.jpg" group-title="Tennis", Roland-Garros 2026 | Flavio Cobolli vs Learner Tien - Men's Singles - 30 May 2026
 https://dai.google.com/ssai/event/CPyLkEq0R6yyIwnP91j6mg/master.m3u8
 
-#EXTINF:-1 tvg-id="sonyliv-1090529787" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018792/17800594380002_RG26_Sakkari_V_Chwalinska_landscape_thumb_SP.jpg" group-title="Tennis", Roland-Garros 2026 | Maria Sakkari vs Maja Chwalinska - Women's Singles - 30 May 2026
+#EXTINF:-1 tvg-id="sonyliv-1090529787" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018792/17800594380002_RG26_Sakkari_V_Chwalinska_landscape_thumb_SP.jpg" group-title="Tennis", Roland-Garros 2026 | Simonne Mathieu - 30 May 2026
 https://dai.google.com/ssai/event/uwvnE4CTT2aM0oy0EF-jsw/master.m3u8
 
 #EXTINF:-1 tvg-id="sonyliv-1090529788" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018639/1779989234805690_RG26_Round3_Court14_landscape_thumb.jpg" group-title="Tennis", Roland-Garros 2026 | Francisco Cerundolo vs Zachary Svajda - Men's Singles - 30 May 2026
 https://dai.google.com/ssai/event/7KhHqtvHRv-K5sWcICQjGw/master.m3u8
+
+#EXTINF:-1 tvg-id="sonyliv-1090531577" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017824/1778150032356950_INT_Friendlies26_Scotland-vs-Curaco_landscape_thumb.jpg" group-title="Football", European Qualifiers For 2026 FIFA World Cup | Scotland vs Curaco - 30 May 2026
+https://dai.google.com/ssai/event/baS0o0i_QLiYmhye6b6_FQ/master.m3u8
 
 #EXTINF:-1 tvg-id="sonyliv-1090531489" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017689/177774841837239_DP_World_Austrian_Alpine_Open_Day3_landscape_thumb.jpg" group-title="Golf", DP World Tour | Austrian Alpine Open - Day 3 - 30 May 2026
 https://dai.google.com/ssai/event/Ty728LbuSBaDCHpYmkpitg/master.m3u8
