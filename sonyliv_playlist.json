@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "10:45:17 PM 30-05-2026"
+        "last_update": "11:00:24 PM 30-05-2026"
     },
     "live_matches": [
         {
@@ -32,33 +32,6 @@
             "image_tv_bg": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018724/1780062086538358_UCL_Final_PSG_vs_Arsenal_live_tv_bg_SP.jpg",
             "tournament_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018363/1779710094476398_UCL25_26_Match_Masthead_logo_PSG_vs_Arsenal_Live.png",
             "stream_url": "https://dai.google.com/ssai/event/GM2o9EimTAuZCQoFKDv08Q/master.m3u8"
-        },
-        {
-            "match_id": 1090532710,
-            "sport_type": "Cricket",
-            "event_name": "India Women's Tour of England 2026",
-            "match_title": "2nd T20I - 30 May 2026",
-            "home_team": "England",
-            "away_team": "India",
-            "venue": "Gloucestershire Cricket, Bristol",
-            "status": "LIVE",
-            "start_time_bd": "07:00:00 PM 30-05-2026",
-            "end_time_bd": "03:45:00 AM 31-05-2026",
-            "duration": 0,
-            "broadcast_channel": "Sony Sports Ten 5",
-            "language": "ENG",
-            "resolution": "FULL_HD",
-            "audio_quality": "STEREO",
-            "is_drm_protected": false,
-            "is_geo_blocked": false,
-            "ad_status": "AD SUPPORTED",
-            "description": "India Women's Cricket Team head into the 2nd T20I with momentum after a commanding 38-run victory in the series opener against England Women's Cricket Team at Chelmsford. India recovered brilliantly from early setbacks to post a strong total before producing a disciplined bowling performance to take a 1-0 lead and will look to seal the series, while England will look to bounce back and level on home soil. Find out as we bring you all the action from the 2nd T20I of the India Women’s Tour of England 2026, LIVE on Sony LIV.",
-            "seo_tags": "India Women vs England Women,India Women Cricket Schedule,England Women Cricket Fixtures,India Women at Lord’s,India Women at The Oval,India Women at Old Trafford,Smriti Mandhana,Harmanpreet Kaur,Shafali Verma,Deepti Sharma,Renuka Singh,Richa Ghosh,Heather Knight,Nat Sciver-Brunt,Sophie Ecclestone,Alice Capsey,Women’s Cricket England 2025,India Women Cricket Live Stream,Women’s Cricket Highlights,India Women Cricket Tickets,ECB Women’s Cricket,BCCI Women’s Team,India Women's Tour of England 2026,India Women Tour of England 2026,Women’s T20I Series 2026,Women’s ODI Series 2026,Renuka Singh Thakur,Women’s Cricket England 2026,India vs England Women 2026,Women’s Cricket Series June July 2026",
-            "image_landscape": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018612/177997116182827_Indian_Women_tour_of_England_2026_match_masthead_large_v3_3200x1800_1st_t20i.jpg",
-            "image_thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018622/1779977867196184_ENGvsIND_Womens_2nd_T20I_landscape_thumb.jpg",
-            "image_tv_bg": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018622/1779974106871184_ENGvsIND_Womens_T20I_tv_bg.jpg",
-            "tournament_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018384/177971083800024_Indian_Women_tour_of_England_2026_match_Masthead_logo_2nd_t20i_Live.png",
-            "stream_url": "https://dai.google.com/ssai/event/seP8U3FeRPKV5OA5RUe6aA/master.m3u8"
         },
         {
             "match_id": 1090529785,
@@ -91,7 +64,7 @@
             "match_id": 1090529787,
             "sport_type": "Tennis",
             "event_name": "Roland-Garros 2026",
-            "match_title": "Matteo Berrettini vs Francisco Comesana - Men's Singles - 30 May 2026",
+            "match_title": "Simonne Mathieu - 30 May 2026",
             "home_team": "N/A",
             "away_team": "N/A",
             "venue": "Simonne Mathieu",
@@ -106,7 +79,7 @@
             "is_drm_protected": false,
             "is_geo_blocked": false,
             "ad_status": "AD SUPPORTED",
-            "description": "Watch all the exclusive action from the Roland-Garros as Matteo Berrettini takes on Francisco Comesana in the Round of 32, LIVE on SonyLIV.",
+            "description": "Catch all the exciting tennis action from the Roland-Garros 2026 live on Sony LIV.",
             "seo_tags": "Watch Roland Garros 2026 online,The Roland Garros 2026 online streaming,Roland Garros 2026 highlights,Roland Garros 2026 matches,watch Roland Garros 2026 games,live Roland Garros 2026 match score,Roland Garros 2026 games scores,watch Roland Garros 2026 match online,watch Roland Garros 2026 games online,Roland Garros 2026 match highlights,Roland Garros 2026 Live Streaming,Roland Garros,Roland Garros 2026,French Open,French Open 2026",
             "image_landscape": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018793/1780059426000972_Roland_Garros_2026_Berrettini_V_Comesana_masthead_large_v3_3200x1800_SP.jpg",
             "image_thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018793/1780059426000972_RG26_Berrettini_V_Comesana_landscape_thumb_SP.jpg",
