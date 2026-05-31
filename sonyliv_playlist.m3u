@@ -2,10 +2,13 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 06:45:16 PM 31-05-2026
+# last_update: 07:00:25 PM 31-05-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090529785" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018872/1780127832000498_RG26_Svitolina_vs_Bencic_landscape_thumb_SP.jpg" group-title="Tennis", Roland-Garros 2026 | Elina Svitolina vs Belinda Bencic - Women's Singles - 31 May 2026
 https://dai.google.com/ssai/event/VnUGwhe5Sq26Vxhuk96Fkw/master.m3u8
+
+#EXTINF:-1 tvg-id="sonyliv-1090531805" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018842/1780153854379172_VitalityBlast26_Mens_Warwickshire_vs_Northampton_landscape_thumb.jpg" group-title="Cricket", Vitality Blast 2026 | Warwickshire vs Northampton - 31 May 2026
+https://dai.google.com/ssai/event/CjGf4gVXQGOCvGlY8z3I_Q/master.m3u8
 
 #EXTINF:-1 tvg-id="sonyliv-1090529780" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018872/1780127832000498_RG26_Svitolina_vs_Bencic_landscape_thumb_SP.jpg" group-title="Tennis", Roland-Garros 2026 | Elina Svitolina vs Belinda Bencic - Round 4 - 31 May 2026
 https://dai.google.com/ssai/event/jRQlKg2DQWa70jsLHUtxGA/master.m3u8
