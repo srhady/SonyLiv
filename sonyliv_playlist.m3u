@@ -2,9 +2,9 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 07:15:18 PM 31-05-2026
+# last_update: 07:30:23 PM 31-05-2026
 
-#EXTINF:-1 tvg-id="sonyliv-1090529785" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018872/1780127832000498_RG26_Svitolina_vs_Bencic_landscape_thumb_SP.jpg" group-title="Tennis", Roland-Garros 2026 | Elina Svitolina vs Belinda Bencic - Women's Singles - 31 May 2026
+#EXTINF:-1 tvg-id="sonyliv-1090529785" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018867/1780127848000364_RG26_De_Jong_vs_Zverev_landscape_thumb_SP.jpg" group-title="Tennis", Roland-Garros 2026 | Philippe Chatrier - 31 May 2026
 https://dai.google.com/ssai/event/VnUGwhe5Sq26Vxhuk96Fkw/master.m3u8
 
 #EXTINF:-1 tvg-id="sonyliv-1090531805" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018842/1780153854379172_VitalityBlast26_Mens_Warwickshire_vs_Northampton_landscape_thumb.jpg" group-title="Cricket", Vitality Blast 2026 | Warwickshire vs Northampton - 31 May 2026
@@ -16,7 +16,7 @@ https://dai.google.com/ssai/event/jRQlKg2DQWa70jsLHUtxGA/master.m3u8
 #EXTINF:-1 tvg-id="sonyliv-1090529786" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018870/1780127844000872_RG26_Jodar_V_Carreno_Busta_landscape_thumb_SP.jpg" group-title="Tennis", Roland-Garros 2026 | Rafael Jodar vs Pablo Carreno Busta - Men's Singles - 31 May 2026
 https://dai.google.com/ssai/event/f9S-XIPoTna2JgKFX5SnoA/master.m3u8
 
-#EXTINF:-1 tvg-id="sonyliv-1090529787" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018754/1780078579355296_RG26_Round4_Simonne_Mathieu_Court_landscape_thumb.jpg" group-title="Tennis", Roland-Garros 2026 | Simonne Mathieu - 31 May 2026
+#EXTINF:-1 tvg-id="sonyliv-1090529787" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018754/1780078579355296_RG26_Round4_Simonne_Mathieu_Court_landscape_thumb.jpg" group-title="Tennis", Roland-Garros 2026 | Granollers/Zeballos vs Erler/Miedler - Men's Doubles - 31 May 2026
 https://dai.google.com/ssai/event/GM2o9EimTAuZCQoFKDv08Q/master.m3u8
 
 #EXTINF:-1 tvg-id="sonyliv-1090529788" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018754/1780078623990296_RG26_Round4_Court14_landscape_thumb.jpg" group-title="Tennis", Roland-Garros 2026 | Angel/Tabilo vs Reymond/Sanchez - Men's Doubles - 31 May 2026
@@ -24,3 +24,6 @@ https://dai.google.com/ssai/event/uwvnE4CTT2aM0oy0EF-jsw/master.m3u8
 
 #EXTINF:-1 tvg-id="sonyliv-1090531578" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017824/1778149084981950_INT_Friendlies26_Switzerland-vs-Jordan_landscape_thumb.jpg" group-title="Football", UEFA International Friendlies | Switzerland vs Jordan - 31 May 2026
 https://dai.google.com/ssai/event/XmqwVn_hSLSfcYpIY4_oxQ/master.m3u8
+
+#EXTINF:-1 tvg-id="sonyliv-1090531579" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018881/1780172642976390_INT_Friendlies26_Czechia_vs_Kosovo_31may_landscape_thumb.jpg" group-title="Football", UEFA International Friendlies | Czechia vs Kosovo - 31 May 2026
+https://dai.google.com/ssai/event/I5SFBeq7THGsIIwTbR6bcQ/master.m3u8
