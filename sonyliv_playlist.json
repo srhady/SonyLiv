@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "09:45:19 PM 31-05-2026"
+        "last_update": "10:00:23 PM 31-05-2026"
     },
     "live_matches": [
         {
@@ -167,33 +167,6 @@
             "image_tv_bg": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018881/1780172847047390_INT_Friendlies26_Poland_vs_Ukraine_31may_tv_bg.jpg",
             "tournament_logo": "N/A",
             "stream_url": "https://dai.google.com/ssai/event/sLHwWsgJSSyiHOcfzXhwUA/master.m3u8"
-        },
-        {
-            "match_id": 1090531579,
-            "sport_type": "Football",
-            "event_name": "UEFA International Friendlies",
-            "match_title": "Czechia vs Kosovo - 31 May 2026",
-            "home_team": "Czechia",
-            "away_team": "Kosovo",
-            "venue": "EPET ARENA",
-            "status": "LIVE",
-            "start_time_bd": "07:20:00 PM 31-05-2026",
-            "end_time_bd": "12:20:00 AM 01-06-2026",
-            "duration": 0,
-            "broadcast_channel": "Sony Sports Ten 2",
-            "language": "ENG",
-            "resolution": "FULL_HD",
-            "audio_quality": "STEREO",
-            "is_drm_protected": false,
-            "is_geo_blocked": false,
-            "ad_status": "AD SUPPORTED",
-            "description": "Czechia take on Kosovo in an exciting international friendly as both sides continue to build momentum and fine-tune their preparations ahead of upcoming competitions. Czechia will look to capitalize on home conditions with an organized and attacking approach, while Kosovo aim to showcase their resilience and counterattacking threat in what promises to be a competitive contest. Catch all the action from the International Friendlies, LIVE on Sony LIV.",
-            "seo_tags": "European Qualifiers,2026 FIFA World Cup,FIFA World Cup Qualifiers,UEFA Qualifiers,Football World Cup Qualifiers,European Football Qualifiers,World Cup 2026 Qualifiers,FIFA World Cup 2026,UEFA World Cup Qualifiers,European World Cup Qualifiers,Harry Kane,Kylian Mbappé,Cristiano Ronaldo,Robert Lewandowski,Erling Haaland,2026 FIFA World Cup European Qualifiers Schedule,European Qualifiers for FIFA World Cup 2026,UEFA World Cup Qualifiers 2026 Results,FIFA World Cup 2026 Qualifying Groups,European Football World Cup Qualifiers 2026,2026 World Cup Qualifiers European Teams,FIFA World Cup Qualifiers 2026 European Standings,UEFA World Cup Qualifiers 2026 Fixtures,European Football,UEFA Football,World Cup Qualifiers Europe,European World Cup Qualifying,Football Europe World Cup Qualifiers,England National Team,France National Team,Portugal National Team,Germany National Team,Poland National Team",
-            "image_landscape": "N/A",
-            "image_thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018881/1780172642976390_INT_Friendlies26_Czechia_vs_Kosovo_31may_landscape_thumb.jpg",
-            "image_tv_bg": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018881/1780172695368390_INT_Friendlies26_Czechia_vs_Kosovo_31may_tv_bg.jpg",
-            "tournament_logo": "N/A",
-            "stream_url": "https://dai.google.com/ssai/event/I5SFBeq7THGsIIwTbR6bcQ/master.m3u8"
         }
     ]
 }
