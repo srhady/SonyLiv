@@ -2,7 +2,7 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 03:45:18 PM 31-05-2026
+# last_update: 04:00:23 PM 31-05-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090529780" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018871/1780127830000390_RG26_Kostyuk_vs_Swiatek_landscape_thumb_SP.jpg" group-title="Tennis", Roland-Garros 2026 | Marta Kostyuk vs Iga Swiatek - Round 4 - 31 May 2026
 https://dai.google.com/ssai/event/jRQlKg2DQWa70jsLHUtxGA/master.m3u8
@@ -15,9 +15,6 @@ https://dai.google.com/ssai/event/GM2o9EimTAuZCQoFKDv08Q/master.m3u8
 
 #EXTINF:-1 tvg-id="sonyliv-1090529788" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018754/1780078623990296_RG26_Round4_Court14_landscape_thumb.jpg" group-title="Tennis", Roland-Garros 2026 | Krawietz/Puetz vs Andres/Agustin - Men's Doubles - 31 May 2026
 https://dai.google.com/ssai/event/uwvnE4CTT2aM0oy0EF-jsw/master.m3u8
-
-#EXTINF:-1 tvg-id="sonyliv-1090531802" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017794/1778072097682681_LIV_Golf_South_Korea_2026_DAY-4_landscape_thumb.jpg" group-title="Golf", LIV Golf | South Korea - Day 4 - 31 May 2026
-https://dai.google.com/ssai/event/yeDoxYs3Q9uN1D6JCpyKAg/master.m3u8
 
 #EXTINF:-1 tvg-id="sonyliv-1090531792" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017689/177774843370739_DP_World_Austrian_Alpine_Open_Day4_landscape_thumb.jpg" group-title="Golf", DP World Tour | Austrian Alpine Open - Day 4 - 31 May 2026
 https://dai.google.com/ssai/event/TciBRxSYRBCqEX-pWbqvdg/master.m3u8
