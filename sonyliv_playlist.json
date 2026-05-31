@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "02:30:20 AM 01-06-2026"
+        "last_update": "02:45:18 AM 01-06-2026"
     },
     "live_matches": [
         {
@@ -32,33 +32,6 @@
             "image_tv_bg": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018860/1780127856000572_RG26_Ruud_vs_Fonseca_tv_bg_SP.jpg",
             "tournament_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018233/177953448961832_Roland_Garros_2026_GOB_match_Masthead_logo_LIVE.png",
             "stream_url": "https://dai.google.com/ssai/event/jRQlKg2DQWa70jsLHUtxGA/master.m3u8"
-        },
-        {
-            "match_id": 1090531581,
-            "sport_type": "Football",
-            "event_name": " UEFA International Friendlies",
-            "match_title": "Germany vs Finland - 1 Apr 2026",
-            "home_team": "Germany",
-            "away_team": "Finland",
-            "venue": "MEWA Arena, Mainz",
-            "status": "LIVE",
-            "start_time_bd": "12:05:00 AM 01-06-2026",
-            "end_time_bd": "05:05:00 AM 01-06-2026",
-            "duration": 0,
-            "broadcast_channel": "Sony Sports Ten 2",
-            "language": "ENG",
-            "resolution": "FULL_HD",
-            "audio_quality": "STEREO",
-            "is_drm_protected": false,
-            "is_geo_blocked": false,
-            "ad_status": "AD SUPPORTED",
-            "description": "Germany and Finland meet in a high-stakes Play-Off final where composure, ambition, and World Cup dreams take center stage. Germany will aim to dictate the tempo with their attacking quality and tactical precision, while Finland look to challenge the favorites through resilience, organization, and decisive moments. With a place at the World Cup hanging in the balance, expect a fiercely contested encounter filled with intensity, pressure, and drama from start to finish.",
-            "seo_tags": "European Qualifiers,2026 FIFA World Cup,FIFA World Cup Qualifiers,UEFA Qualifiers,Football World Cup Qualifiers,European Football Qualifiers,World Cup 2026 Qualifiers,FIFA World Cup 2026,UEFA World Cup Qualifiers,European World Cup Qualifiers,Harry Kane,Kylian Mbappé,Cristiano Ronaldo,Robert Lewandowski,Erling Haaland,2026 FIFA World Cup European Qualifiers Schedule,European Qualifiers for FIFA World Cup 2026,UEFA World Cup Qualifiers 2026 Results,FIFA World Cup 2026 Qualifying Groups,European Football World Cup Qualifiers 2026,2026 World Cup Qualifiers European Teams,FIFA World Cup Qualifiers 2026 European Standings,UEFA World Cup Qualifiers 2026 Fixtures,European Football,UEFA Football,World Cup Qualifiers Europe,European World Cup Qualifying,Football Europe World Cup Qualifiers,England National Team,France National Team,Portugal National Team,Germany National Team,Poland National Team",
-            "image_landscape": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018832/1780151452208691_InternationalFriendlies_26_Match_masthead_large_v3_3200x1800_Germany-vs-Finland.jpg",
-            "image_thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017824/1778149741375950_INT_Friendlies26_Germany-vs-Finland_landscape_thumb.jpg",
-            "image_tv_bg": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000017824/1778149762758950_INT_Friendlies26_Germany-vs-Finland_tv_bg.jpg",
-            "tournament_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018832/1780151452233691_InternationalFriendlies_26_Match_Masthead_logo_Germany_vs_Finland_Live.png",
-            "stream_url": "https://dai.google.com/ssai/event/CPyLkEq0R6yyIwnP91j6mg/master.m3u8"
         },
         {
             "match_id": 1090529786,
