@@ -2,16 +2,16 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 12:30:38 AM 02-06-2026
+# last_update: 12:45:23 AM 02-06-2026
+
+#EXTINF:-1 tvg-id="sonyliv-1090529780" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018963/1780302935549274_RG26_Sabalenka-vs-Osaka_live_landscape_thumb_SP.jpg" group-title="Tennis", Roland-Garros 2026 | Aryna Sabalenka vs Naomi Osaka - Round 4 - 1 Jun 2026
+https://dai.google.com/ssai/event/nnQKrEF4RnCKYMR3Keilsw/master.m3u8
 
 #EXTINF:-1 tvg-id="sonyliv-1090529786" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018956/1780295177433684_RG26_Tiafoe_vs_Arnaldi_landscape_thumb_SP.jpg" group-title="Tennis", Roland-Garros 2026 | Frances Tiafoe vs Matteo Arnaldi - Men's Singles - 01 Jun 2026
 https://dai.google.com/ssai/event/sLHwWsgJSSyiHOcfzXhwUA/master.m3u8
 
-#EXTINF:-1 tvg-id="sonyliv-1090529780" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018956/1780295177433684_RG26_Tiafoe_vs_Arnaldi_landscape_thumb_SP.jpg" group-title="Tennis", Roland-Garros 2026 | Frances Tiafoe vs Matteo Arnaldi - Round 4 - 1 Jun 2026
-https://dai.google.com/ssai/event/nnQKrEF4RnCKYMR3Keilsw/master.m3u8
-
-#EXTINF:-1 tvg-id="sonyliv-1090529785" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018963/1780302935549274_RG26_Sabalenka-vs-Osaka_live_landscape_thumb_SP.jpg" group-title="Tennis", Roland-Garros 2026 | Philippe Chatrier - 01 Jun 2026
-https://dai.google.com/ssai/event/TciBRxSYRBCqEX-pWbqvdg/master.m3u8
+#EXTINF:-1 tvg-id="sonyliv-1090529788" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018754/1780078623990296_RG26_Round4_Court14_landscape_thumb.jpg" group-title="Tennis", Roland-Garros 2026 | Court 14 - 01 Jun 2026
+https://dai.google.com/ssai/event/jRQlKg2DQWa70jsLHUtxGA/master.m3u8
 
 #EXTINF:-1 tvg-id="sonyliv-1090532932" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018899/1780188242964918_INT_Friendlies26_Norway_vs_Sweden_31may_landscape_thumb.jpg" group-title="Football",  UEFA International Friendlies | Norway vs Sweden - 1 Jun 2026
 https://dai.google.com/ssai/event/VnUGwhe5Sq26Vxhuk96Fkw/master.m3u8
