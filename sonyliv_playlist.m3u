@@ -2,19 +2,16 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 02:45:21 PM 01-06-2026
+# last_update: 03:15:27 PM 01-06-2026
 
-#EXTINF:-1 tvg-id="sonyliv-1090529780" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018698/178003487902035_RG26_studio_show_29may_landscpae_thumb.jpg" group-title="Tennis", Roland-Garros 2026 | Day 9 - Round 4 - 1 Jun 2026
+#EXTINF:-1 tvg-id="sonyliv-1090529780" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018914/1780230479361179_Roland_Garros_2026_Potapova_v_Kalinskaya_sp_landscpae_thumb.jpg" group-title="Tennis", Roland-Garros 2026 | Anastasia Potapova vs Anna Kalinskaya - Round 4 - 1 Jun 2026
 https://dai.google.com/ssai/event/nnQKrEF4RnCKYMR3Keilsw/master.m3u8
 
-#EXTINF:-1 tvg-id="sonyliv-1090529786" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018754/1780078775758296_RG26_Round4_Suzanne_Lenglen_Court_landscape_thumb.jpg" group-title="Tennis", Roland-Garros 2026 | Court Suzanne Lenglen - 1 Jun 2026
-https://dai.google.com/ssai/event/sLHwWsgJSSyiHOcfzXhwUA/master.m3u8
-
-#EXTINF:-1 tvg-id="sonyliv-1090529785" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018754/1780078545355296_RG26_Round4_Philippe_Chatrier_Court_landscape_thumb.jpg" group-title="Tennis", Roland-Garros 2026 | Philippe Chatrier - 1 Jun 2026
+#EXTINF:-1 tvg-id="sonyliv-1090529785" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018913/1780231405505935_Roland_Garros_2026_Cobolli_v_Svajda_SP_landsacpe_thumb.jpg" group-title="Tennis", Roland-Garros 2026 | Flavio Cobolli vs Zachary Svajda - Men's Singles - 01 Jun 2026
 https://dai.google.com/ssai/event/TciBRxSYRBCqEX-pWbqvdg/master.m3u8
 
-#EXTINF:-1 tvg-id="sonyliv-1090529787" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018754/1780078579355296_RG26_Round4_Simonne_Mathieu_Court_landscape_thumb.jpg" group-title="Tennis", Roland-Garros 2026 | Simonne Mathieu - 1 Jun 2026
+#EXTINF:-1 tvg-id="sonyliv-1090529787" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018754/1780078579355296_RG26_Round4_Simonne_Mathieu_Court_landscape_thumb.jpg" group-title="Tennis", Roland-Garros 2026 | Goransson/King vs Heliovaara/Patten - Men's Doubles - 01 Jun 2026
 https://dai.google.com/ssai/event/XmqwVn_hSLSfcYpIY4_oxQ/master.m3u8
 
-#EXTINF:-1 tvg-id="sonyliv-1090529788" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018754/1780078623990296_RG26_Round4_Court14_landscape_thumb.jpg" group-title="Tennis", Roland-Garros 2026 | Court 14 - 1 Jun 2026
+#EXTINF:-1 tvg-id="sonyliv-1090529788" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018754/1780078623990296_RG26_Round4_Court14_landscape_thumb.jpg" group-title="Tennis", Roland-Garros 2026 | Aoyama/Shuo vs Wong/Erjavec - Women's Doubles - 01 Jun 2026
 https://dai.google.com/ssai/event/jRQlKg2DQWa70jsLHUtxGA/master.m3u8
