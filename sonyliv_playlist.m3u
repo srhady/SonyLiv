@@ -2,10 +2,7 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 02:15:21 AM 02-06-2026
-
-#EXTINF:-1 tvg-id="sonyliv-1090529780" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018963/1780302935549274_RG26_Sabalenka-vs-Osaka_live_landscape_thumb_SP.jpg" group-title="Tennis", Roland-Garros 2026 | Aryna Sabalenka vs Naomi Osaka - Round 4 - 1 Jun 2026
-https://dai.google.com/ssai/event/nnQKrEF4RnCKYMR3Keilsw/master.m3u8
+# last_update: 02:30:30 AM 02-06-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090529786" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018956/1780295177433684_RG26_Tiafoe_vs_Arnaldi_landscape_thumb_SP.jpg" group-title="Tennis", Roland-Garros 2026 | Frances Tiafoe vs Matteo Arnaldi - Men's Singles - 01 Jun 2026
 https://dai.google.com/ssai/event/sLHwWsgJSSyiHOcfzXhwUA/master.m3u8
@@ -15,6 +12,3 @@ https://dai.google.com/ssai/event/jRQlKg2DQWa70jsLHUtxGA/master.m3u8
 
 #EXTINF:-1 tvg-id="sonyliv-1090532933" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018899/1780193968835918_INT_Friendlies26_Austria_vs_Tunisia_31may_landscape_thumb.jpg" group-title="Football",  UEFA International Friendlies | Austria vs Tunisia - 1 Jun 2026
 https://dai.google.com/ssai/event/f9S-XIPoTna2JgKFX5SnoA/master.m3u8
-
-#EXTINF:-1 tvg-id="sonyliv-1090533129" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018899/1780190489458918_INT_Friendlies26_Bulgaria_vs_Montenegro_31may_landscape_thumb.jpg" group-title="Football", UEFA International Friendlies | Bulgaria vs Montenegro - 1 Jun 2026
-https://dai.google.com/ssai/event/ePIgSYDiQ1mrJnvwAVYJ1A/master.m3u8
