@@ -2,13 +2,16 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 10:15:25 PM 01-06-2026
+# last_update: 10:30:26 PM 01-06-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090529785" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018956/1780295178972684_RG26_Auger_Aliassime_vs_Tabilo_landscape_thumb_SP.jpg" group-title="Tennis", Roland-Garros 2026 | Felix Auger-Aliassime vs Alejandro Tabilo - Men's Singles - 01 Jun 2026
 https://dai.google.com/ssai/event/TciBRxSYRBCqEX-pWbqvdg/master.m3u8
 
 #EXTINF:-1 tvg-id="sonyliv-1090529780" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018994/1780328387397150_RG26_J_Cerundolo_vs_Berrettini_landscape_thumb_SP.jpg" group-title="Tennis", Roland-Garros 2026 | Juan Manuel Cerundolo vs Matteo Berrettini - Round 4 - 1 Jun 2026
 https://dai.google.com/ssai/event/nnQKrEF4RnCKYMR3Keilsw/master.m3u8
+
+#EXTINF:-1 tvg-id="sonyliv-1090532932" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018899/1780188242964918_INT_Friendlies26_Norway_vs_Sweden_31may_landscape_thumb.jpg" group-title="Football",  UEFA International Friendlies | Norway vs Sweden - 1 Jun 2026
+https://dai.google.com/ssai/event/VnUGwhe5Sq26Vxhuk96Fkw/master.m3u8
 
 #EXTINF:-1 tvg-id="sonyliv-1090533129" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018899/1780190489458918_INT_Friendlies26_Bulgaria_vs_Montenegro_31may_landscape_thumb.jpg" group-title="Football", UEFA International Friendlies | Bulgaria vs Montenegro - 1 Jun 2026
 https://dai.google.com/ssai/event/ePIgSYDiQ1mrJnvwAVYJ1A/master.m3u8
