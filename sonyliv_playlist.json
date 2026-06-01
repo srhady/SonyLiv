@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "10:45:27 PM 01-06-2026"
+        "last_update": "11:18:43 PM 01-06-2026"
     },
     "live_matches": [
         {
@@ -86,6 +86,33 @@
             "image_tv_bg": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018899/1780188299131918_INT_Friendlies26_Norway_vs_Sweden_31may_tv_bg.jpg",
             "tournament_logo": "N/A",
             "stream_url": "https://dai.google.com/ssai/event/VnUGwhe5Sq26Vxhuk96Fkw/master.m3u8"
+        },
+        {
+            "match_id": 1090533130,
+            "sport_type": "Football",
+            "event_name": "UEFA International Friendlies",
+            "match_title": "Türkiye vs North Macedonia - 1 Jun 2026",
+            "home_team": "Türkiye",
+            "away_team": "North Macedonia",
+            "venue": "Chobani Stadyumu / Şükrü Saracoğlu Stadium",
+            "status": "LIVE",
+            "start_time_bd": "10:50:00 PM 01-06-2026",
+            "end_time_bd": "03:50:00 AM 02-06-2026",
+            "duration": 0,
+            "broadcast_channel": "Sony Sports Ten 2",
+            "language": "ENG",
+            "resolution": "FULL_HD",
+            "audio_quality": "STEREO",
+            "is_drm_protected": false,
+            "is_geo_blocked": false,
+            "ad_status": "AD SUPPORTED",
+            "description": "Türkiye will aim to seize control through attacking quality and tactical discipline, while North Macedonia look to draw on their resilience and ability to rise to the occasion in crucial matches. Catch all the action from the International Friendlies, LIVE on Sony LIV.",
+            "seo_tags": "European Qualifiers,2026 FIFA World Cup,FIFA World Cup Qualifiers,UEFA Qualifiers,Football World Cup Qualifiers,European Football Qualifiers,World Cup 2026 Qualifiers,FIFA World Cup 2026,UEFA World Cup Qualifiers,European World Cup Qualifiers,Harry Kane,Kylian Mbappé,Cristiano Ronaldo,Robert Lewandowski,Erling Haaland,2026 FIFA World Cup European Qualifiers Schedule,European Qualifiers for FIFA World Cup 2026,UEFA World Cup Qualifiers 2026 Results,FIFA World Cup 2026 Qualifying Groups,European Football World Cup Qualifiers 2026,2026 World Cup Qualifiers European Teams,FIFA World Cup Qualifiers 2026 European Standings,UEFA World Cup Qualifiers 2026 Fixtures,European Football,UEFA Football,World Cup Qualifiers Europe,European World Cup Qualifying,Football Europe World Cup Qualifiers,England National Team,France National Team,Portugal National Team,Germany National Team,Poland National Team",
+            "image_landscape": "N/A",
+            "image_thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018899/1780190837863918_INT_Friendlies26_Turkiye_vs_North_Macedonia_31may_landscape_thumb.jpg",
+            "image_tv_bg": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018899/1780190859970918_INT_Friendlies26_Turkiye_vs_North_Macedonia_31may_tv_bg.jpg",
+            "tournament_logo": "N/A",
+            "stream_url": "https://dai.google.com/ssai/event/uwvnE4CTT2aM0oy0EF-jsw/master.m3u8"
         },
         {
             "match_id": 1090533129,
