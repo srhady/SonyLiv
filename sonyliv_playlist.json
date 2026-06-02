@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "12:00:35 AM 03-06-2026"
+        "last_update": "12:15:24 AM 03-06-2026"
     },
     "live_matches": [
         {
@@ -61,16 +61,16 @@
             "stream_url": "https://dai.google.com/ssai/event/I5SFBeq7THGsIIwTbR6bcQ/master.m3u8"
         },
         {
-            "match_id": 1090533246,
+            "match_id": 1090533248,
             "sport_type": "Football",
             "event_name": "UEFA International Friendlies",
-            "match_title": "Croatia vs Belgium - 2 Jun 2026",
-            "home_team": " Croatia",
-            "away_team": "Belgium",
-            "venue": "Rijeka city, Croatia",
+            "match_title": "Wales vs Ghana - 3 Jun 2026",
+            "home_team": "Wales",
+            "away_team": "Ghana",
+            "venue": "Cardiff City Stadium, Cardiff",
             "status": "LIVE",
-            "start_time_bd": "09:20:00 PM 02-06-2026",
-            "end_time_bd": "02:20:00 AM 03-06-2026",
+            "start_time_bd": "12:05:00 AM 03-06-2026",
+            "end_time_bd": "05:05:00 AM 03-06-2026",
             "duration": 0,
             "broadcast_channel": "Sony Sports Ten 2",
             "language": "ENG",
@@ -81,11 +81,11 @@
             "ad_status": "AD SUPPORTED",
             "description": "Catch all the action from the International Friendlies, LIVE on Sony LIV.",
             "seo_tags": "European Qualifiers,2026 FIFA World Cup,FIFA World Cup Qualifiers,UEFA Qualifiers,Football World Cup Qualifiers,European Football Qualifiers,World Cup 2026 Qualifiers,FIFA World Cup 2026,UEFA World Cup Qualifiers,European World Cup Qualifiers,Harry Kane,Kylian Mbappé,Cristiano Ronaldo,Robert Lewandowski,Erling Haaland,2026 FIFA World Cup European Qualifiers Schedule,European Qualifiers for FIFA World Cup 2026,UEFA World Cup Qualifiers 2026 Results,FIFA World Cup 2026 Qualifying Groups,European Football World Cup Qualifiers 2026,2026 World Cup Qualifiers European Teams,FIFA World Cup Qualifiers 2026 European Standings,UEFA World Cup Qualifiers 2026 Fixtures,European Football,UEFA Football,World Cup Qualifiers Europe,European World Cup Qualifying,Football Europe World Cup Qualifiers,England National Team,France National Team,Portugal National Team,Germany National Team,Poland National Team",
-            "image_landscape": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019049/1780398196881685_InternationalFriendlies_26_Match_masthead_large_v3_3200x1800_Croatia_vs_Belgium.jpg",
-            "image_thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018899/1780194139245918_INT_Friendlies26_Croatia_vs_Belgium_31may_landscape_thumb.jpg",
-            "image_tv_bg": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018899/1780194167189918_INT_Friendlies26_Croatia_vs_Belgium_31may_tv_bg.jpg",
-            "tournament_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019049/1780398196965685_InternationalFriendlies_26_Match_Masthead_logo_Croatia_vs_Belgium_Live.png",
-            "stream_url": "https://dai.google.com/ssai/event/GM2o9EimTAuZCQoFKDv08Q/master.m3u8"
+            "image_landscape": "N/A",
+            "image_thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018899/1780194389499918_INT_Friendlies26_Wales_vs_Ghana_31may_landscape_thumb.jpg",
+            "image_tv_bg": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018899/1780194403210918_INT_Friendlies26_Wales_vs_Ghana_31may_tv_bg.jpg",
+            "tournament_logo": "N/A",
+            "stream_url": "https://dai.google.com/ssai/event/-6L_H7pxSSqKEWLnC4U5ng/master.m3u8"
         },
         {
             "match_id": 1090533247,
