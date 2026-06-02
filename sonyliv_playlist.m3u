@@ -2,10 +2,16 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 11:15:22 PM 02-06-2026
+# last_update: 11:45:25 PM 02-06-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090533245" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018974/1780316291693502_ENGvsIND_Womens_3rd_T20I_landscape_thumb.jpg" group-title="Cricket", India Women's Tour of England 2026 | 3rd T20I - 2 Jun 2026
 https://dai.google.com/ssai/event/KqsXcdR0Ta2-bgmQzgV55A/master.m3u8
 
 #EXTINF:-1 tvg-id="sonyliv-1090529780" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018980/1780319819061428_RG26_Quarter_Final_Generic_landscape_thumb.jpg" group-title="Tennis", Roland-Garros 2026 | Krawczyk/Skupski vs Roger-Vasselin/Siegemund - QF - 2 Jun 2026
 https://dai.google.com/ssai/event/I5SFBeq7THGsIIwTbR6bcQ/master.m3u8
+
+#EXTINF:-1 tvg-id="sonyliv-1090533246" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018899/1780194139245918_INT_Friendlies26_Croatia_vs_Belgium_31may_landscape_thumb.jpg" group-title="Football", UEFA International Friendlies | Croatia vs Belgium - 2 Jun 2026
+https://dai.google.com/ssai/event/GM2o9EimTAuZCQoFKDv08Q/master.m3u8
+
+#EXTINF:-1 tvg-id="sonyliv-1090533247" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018899/1780194293772918_INT_Friendlies26_Georgia_Vs_Romania_31may_landscape_thumb.jpg" group-title="Football", UEFA International Friendlies | Georgia vs Romania - 2 Jun 2026
+https://dai.google.com/ssai/event/ei4-jdpdSGiNNGFVtIaw8w/master.m3u8
