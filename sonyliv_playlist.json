@@ -3,36 +3,9 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "02:30:31 AM 03-06-2026"
+        "last_update": "03:00:31 AM 03-06-2026"
     },
     "live_matches": [
-        {
-            "match_id": 1090533245,
-            "sport_type": "Cricket",
-            "event_name": "India Women's Tour of England 2026",
-            "match_title": "3rd T20I - 2 Jun 2026",
-            "home_team": "England Women",
-            "away_team": "India Women",
-            "venue": "County Ground, Taunton",
-            "status": "LIVE",
-            "start_time_bd": "11:00:00 PM 02-06-2026",
-            "end_time_bd": "07:45:00 AM 03-06-2026",
-            "duration": 0,
-            "broadcast_channel": "Sony Sports Ten 5",
-            "language": "ENG",
-            "resolution": "FULL_HD",
-            "audio_quality": "STEREO",
-            "is_drm_protected": false,
-            "is_geo_blocked": false,
-            "ad_status": "AD SUPPORTED",
-            "description": "With the series locked at 1-1, the 3rd T20I stands as a winner-takes-all decider between England Women and India Women, where pressure, precision, and big-match temperament are put to the ultimate test. Find out who comes on top as we bring you all the action from the 3rd T20I of the India Women’s Tour of England 2026, LIVE on Sony LIV.",
-            "seo_tags": "India Women vs England Women,India Women Cricket Schedule,England Women Cricket Fixtures,India Women at Lord’s,India Women at The Oval,India Women at Old Trafford,Smriti Mandhana,Harmanpreet Kaur,Shafali Verma,Deepti Sharma,Renuka Singh,Richa Ghosh,Heather Knight,Nat Sciver-Brunt,Sophie Ecclestone,Alice Capsey,Women’s Cricket England 2025,India Women Cricket Live Stream,Women’s Cricket Highlights,India Women Cricket Tickets,ECB Women’s Cricket,BCCI Women’s Team,India Women's Tour of England 2026,India Women Tour of England 2026,Women’s T20I Series 2026,Women’s ODI Series 2026,Renuka Singh Thakur,Women’s Cricket England 2026,India vs England Women 2026,Women’s Cricket Series June July 2026",
-            "image_landscape": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018612/177997116182827_Indian_Women_tour_of_England_2026_match_masthead_large_v3_3200x1800_1st_t20i.jpg",
-            "image_thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018974/1780316291693502_ENGvsIND_Womens_3rd_T20I_landscape_thumb.jpg",
-            "image_tv_bg": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018622/1779974106871184_ENGvsIND_Womens_T20I_tv_bg.jpg",
-            "tournament_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018384/177971083800024_Indian_Women_tour_of_England_2026_match_Masthead_logo_3rd_t20iI_Live.png",
-            "stream_url": "https://dai.google.com/ssai/event/KqsXcdR0Ta2-bgmQzgV55A/master.m3u8"
-        },
         {
             "match_id": 1090529780,
             "sport_type": "Tennis",
@@ -59,33 +32,6 @@
             "image_tv_bg": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018989/1780324991062226_RG26_Mensik-v-Fonseca_tv_bg_SP.jpg",
             "tournament_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018233/177953448961832_Roland_Garros_2026_GOB_match_Masthead_logo_LIVE.png",
             "stream_url": "https://dai.google.com/ssai/event/I5SFBeq7THGsIIwTbR6bcQ/master.m3u8"
-        },
-        {
-            "match_id": 1090533248,
-            "sport_type": "Football",
-            "event_name": "UEFA International Friendlies",
-            "match_title": "Wales vs Ghana - 3 Jun 2026",
-            "home_team": "Wales",
-            "away_team": "Ghana",
-            "venue": "Cardiff City Stadium, Cardiff",
-            "status": "LIVE",
-            "start_time_bd": "12:05:00 AM 03-06-2026",
-            "end_time_bd": "05:05:00 AM 03-06-2026",
-            "duration": 0,
-            "broadcast_channel": "Sony Sports Ten 2",
-            "language": "ENG",
-            "resolution": "FULL_HD",
-            "audio_quality": "STEREO",
-            "is_drm_protected": false,
-            "is_geo_blocked": false,
-            "ad_status": "AD SUPPORTED",
-            "description": "Catch all the action from the International Friendlies, LIVE on Sony LIV.",
-            "seo_tags": "European Qualifiers,2026 FIFA World Cup,FIFA World Cup Qualifiers,UEFA Qualifiers,Football World Cup Qualifiers,European Football Qualifiers,World Cup 2026 Qualifiers,FIFA World Cup 2026,UEFA World Cup Qualifiers,European World Cup Qualifiers,Harry Kane,Kylian Mbappé,Cristiano Ronaldo,Robert Lewandowski,Erling Haaland,2026 FIFA World Cup European Qualifiers Schedule,European Qualifiers for FIFA World Cup 2026,UEFA World Cup Qualifiers 2026 Results,FIFA World Cup 2026 Qualifying Groups,European Football World Cup Qualifiers 2026,2026 World Cup Qualifiers European Teams,FIFA World Cup Qualifiers 2026 European Standings,UEFA World Cup Qualifiers 2026 Fixtures,European Football,UEFA Football,World Cup Qualifiers Europe,European World Cup Qualifying,Football Europe World Cup Qualifiers,England National Team,France National Team,Portugal National Team,Germany National Team,Poland National Team",
-            "image_landscape": "N/A",
-            "image_thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018899/1780194389499918_INT_Friendlies26_Wales_vs_Ghana_31may_landscape_thumb.jpg",
-            "image_tv_bg": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018899/1780194403210918_INT_Friendlies26_Wales_vs_Ghana_31may_tv_bg.jpg",
-            "tournament_logo": "N/A",
-            "stream_url": "https://dai.google.com/ssai/event/-6L_H7pxSSqKEWLnC4U5ng/master.m3u8"
         }
     ]
 }
