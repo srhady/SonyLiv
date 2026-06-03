@@ -2,7 +2,13 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 02:15:21 PM 03-06-2026
+# last_update: 02:30:24 PM 03-06-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090529780" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018698/178003487902035_RG26_studio_show_29may_landscpae_thumb.jpg" group-title="Tennis", Roland-Garros 2026 | Day 11 - QF - 3 Jun 2026
 https://dai.google.com/ssai/event/etuNA7mESiOw9n93IL4KNA/master.m3u8
+
+#EXTINF:-1 tvg-id="sonyliv-1090529785" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018982/1780320618920200_RG26_Quarter_Final_Philippe_Chatrier_Court_landscape_thumb.jpg" group-title="Tennis", Roland-Garros 2026 | Philippe Chatrier - 3 Jun 2026
+https://dai.google.com/ssai/event/ahLdkaRoSWavrsFLPU8THA/master.m3u8
+
+#EXTINF:-1 tvg-id="sonyliv-1090529786" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018982/1780320739928200_RG26_Quarter_Final_Suzanne_Lenglen_Court_landscape_thumb.jpg" group-title="Tennis", Roland-Garros 2026 | Court Suzanne Lenglen - 3 Jun 2026
+https://dai.google.com/ssai/event/ik9hvNsSRdW1q6su6Tysyg/master.m3u8
