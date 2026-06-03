@@ -2,13 +2,16 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 05:45:21 PM 03-06-2026
+# last_update: 06:00:31 PM 03-06-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090529785" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019104/1780468327443732_RG26_QF_Sabalenka_vs_Shnaider_2jun_SP_landscape_thumb.jpg" group-title="Tennis", Roland-Garros 2026 | Aryna Sabalenka vs Diana Shnaider - Women's Singles - 03 Jun 2026
 https://dai.google.com/ssai/event/ahLdkaRoSWavrsFLPU8THA/master.m3u8
 
-#EXTINF:-1 tvg-id="sonyliv-1090529780" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019105/1780468326328796_RG26_QF_Mens_Doubles_Balaji_Demoliner_SP_landscape_thumb.jpg" group-title="Tennis", Roland-Garros 2026 | Balaji/Demoliner vs Patten/Heliovaara - QF - 3 Jun 2026
+#EXTINF:-1 tvg-id="sonyliv-1090529780" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019104/1780468327443732_RG26_QF_Sabalenka_vs_Shnaider_2jun_SP_landscape_thumb.jpg" group-title="Tennis", Roland-Garros 2026 | Aryna Sabalenka vs Diana Shnaider - QF - 3 Jun 2026
 https://dai.google.com/ssai/event/etuNA7mESiOw9n93IL4KNA/master.m3u8
 
 #EXTINF:-1 tvg-id="sonyliv-1090529786" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018982/1780320739928200_RG26_Quarter_Final_Suzanne_Lenglen_Court_landscape_thumb.jpg" group-title="Tennis", Roland-Garros 2026 | Granollers/Zeballos vs Nys/Roger-Vasselin - Men's Doubles - 03 Jun 2026
 https://dai.google.com/ssai/event/ik9hvNsSRdW1q6su6Tysyg/master.m3u8
+
+#EXTINF:-1 tvg-id="sonyliv-1090529787" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018982/1780320685120200_RG26_Quarter_Final_Simonne_Mathieu_Court_landscape_thumb.jpg" group-title="Tennis", Roland-Garros 2026 | Simonne Mathieu - 03 Jun 2026
+https://dai.google.com/ssai/event/k3-2rehzRommKazjfCMXcA/master.m3u8
