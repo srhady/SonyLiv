@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "01:45:28 AM 04-06-2026"
+        "last_update": "02:00:37 AM 04-06-2026"
     },
     "live_matches": [
         {
@@ -115,33 +115,6 @@
             "stream_url": "https://dai.google.com/ssai/event/Dgl3FMfCS6mHdHu8tjUB-w/master.m3u8"
         },
         {
-            "match_id": 1090533631,
-            "sport_type": "Cricket",
-            "event_name": "Chhattisgarh Cricket Premier League 2026",
-            "match_title": "Raipur Rhinos vs Rajnandgaon Panthers - 3 Jun 2026",
-            "home_team": "Raipur Rhinos",
-            "away_team": "Rajnandgaon Panthers",
-            "venue": "Shaheed Veer Narayan Singh International Stadium",
-            "status": "LIVE",
-            "start_time_bd": "08:45:00 PM 03-06-2026",
-            "end_time_bd": "05:30:00 AM 04-06-2026",
-            "duration": 0,
-            "broadcast_channel": "Sony Sports Ten 3",
-            "language": "ENG",
-            "resolution": "FULL_HD",
-            "audio_quality": "STEREO",
-            "is_drm_protected": false,
-            "is_geo_blocked": false,
-            "ad_status": "AD SUPPORTED",
-            "description": "Watch all the live cricketing action from the Chhattisgarh Cricket Premier League 2026 as Raipur Rhinos takes on Rajnandgaon Panthers, LIVE on Sony LIV.",
-            "seo_tags": "Chhattisgarh Cricket Premier League,Premier League,cricket,CCPL cricket tournament,Chhattisgarh Premier League T20,CCPL 2026,Chhattisgarh Cricket League 2026,CCPL schedule 2026,CCPL fixtures,CCPL results,CCPL points table,CCPL standings,Chhattisgarh cricket tournament live scores,CCPL live streaming,CCPL live telecast,CCPL highlights,Chhattisgarh Premier League teams,CCPL squad 2026,Chhattisgarh cricket players,CCPL top scorers,CCPL top wicket takers,CCPL best players,CCPL match today,CCPL upcoming matches,Chhattisgarh cricket news,CCPL latest updates,CCPL tournament format,CCPL venue Raipur,CCPL cricket stadium,Chhattisgarh domestic cricket league,Indian regional cricket leagues,state T20 leagues India,Cricket live,live Cricket",
-            "image_landscape": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019123/1780493911739283_CCPL_2026_Raipur_Rhinos_vs_Rajnandgaon_Panthers_match_masthead_large_v3_3200x1800.jpg",
-            "image_thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019122/1780494015232339_CCPL_2026_Raipur_Rhinos_vs_Rajnandgaon_Panthers_Match_landscape_thumb.jpg",
-            "image_tv_bg": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019122/1780494104451339_CCPL_2026_Raipur_Rhinos_vs_Rajnandgaon_Panthers_match_tv_bg.jpg",
-            "tournament_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019123/1780493911639283_CCPL_2026_Raipur_Rhinos_vs_Rajnandgaon_Panthers_match_Masthead_logo_Live.png",
-            "stream_url": "https://dai.google.com/ssai/event/ei4-jdpdSGiNNGFVtIaw8w/master.m3u8"
-        },
-        {
             "match_id": 1090533474,
             "sport_type": "Football",
             "event_name": "UEFA International Friendlies",
@@ -194,33 +167,6 @@
             "image_tv_bg": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018955/1780274499587461_INT_Friendlies26_Albania_vs_Israel_1jun_tv_bg.jpg",
             "tournament_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000000507/1742306648095993_EuropeanQualifiers2025_GENERIC_Masthead_logo_LIVE.png",
             "stream_url": "https://dai.google.com/ssai/event/sLHwWsgJSSyiHOcfzXhwUA/master.m3u8"
-        },
-        {
-            "match_id": 1090533473,
-            "sport_type": "Football",
-            "event_name": "UEFA International Friendlies",
-            "match_title": "Denmark vs Congo DR - 3 Jun 2026",
-            "home_team": "Denmark",
-            "away_team": "DR Congo",
-            "venue": "Stade Maurice Dufrasne",
-            "status": "LIVE",
-            "start_time_bd": "11:20:00 PM 03-06-2026",
-            "end_time_bd": "04:20:00 AM 04-06-2026",
-            "duration": 0,
-            "broadcast_channel": "Sony Sports Ten 2",
-            "language": "ENG",
-            "resolution": "FULL_HD",
-            "audio_quality": "STEREO",
-            "is_drm_protected": false,
-            "is_geo_blocked": false,
-            "ad_status": "AD SUPPORTED",
-            "description": "Catch all the action from the International Friendlies, LIVE on Sony LIV.",
-            "seo_tags": "European Qualifiers,2026 FIFA World Cup,FIFA World Cup Qualifiers,UEFA Qualifiers,Football World Cup Qualifiers,European Football Qualifiers,World Cup 2026 Qualifiers,FIFA World Cup 2026,UEFA World Cup Qualifiers,European World Cup Qualifiers,Harry Kane,Kylian Mbappé,Cristiano Ronaldo,Robert Lewandowski,Erling Haaland,2026 FIFA World Cup European Qualifiers Schedule,European Qualifiers for FIFA World Cup 2026,UEFA World Cup Qualifiers 2026 Results,FIFA World Cup 2026 Qualifying Groups,European Football World Cup Qualifiers 2026,2026 World Cup Qualifiers European Teams,FIFA World Cup Qualifiers 2026 European Standings,UEFA World Cup Qualifiers 2026 Fixtures,European Football,UEFA Football,World Cup Qualifiers Europe,European World Cup Qualifying,Football Europe World Cup Qualifiers,England National Team,France National Team,Portugal National Team,Germany National Team,Poland National Team",
-            "image_landscape": "N/A",
-            "image_thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018955/1780274692787461_INT_Friendlies26_Denmark_vs_Congo_DR_1jun_landscape_thumb.jpg",
-            "image_tv_bg": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018955/1780274723050461_INT_Friendlies26_Denmark_vs_Congo_DR_1jun_tv_bg.jpg",
-            "tournament_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000000507/1742306648095993_EuropeanQualifiers2025_GENERIC_Masthead_logo_LIVE.png",
-            "stream_url": "https://dai.google.com/ssai/event/pDPKygd_RaSSQPzp4X14vA/master.m3u8"
         }
     ]
 }

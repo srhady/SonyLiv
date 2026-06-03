@@ -2,7 +2,7 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 01:45:28 AM 04-06-2026
+# last_update: 02:00:37 AM 04-06-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090529780" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019103/1780468328722971_RG26_QF_Berrettini_Vs_Arnaldi_2jun_SP_landscape_thumb.jpg" group-title="Tennis", Roland-Garros 2026 | Matteo Berrettini vs Matteo Arnaldi - QF - 3 Jun 2026
 https://dai.google.com/ssai/event/etuNA7mESiOw9n93IL4KNA/master.m3u8
@@ -16,14 +16,8 @@ https://dai.google.com/ssai/event/by07ZzrmTgerkPQ39CviUA/master.m3u8
 #EXTINF:-1 tvg-id="sonyliv-1090533475" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018955/1780275073413461_INT_Friendlies26_Netherlands_vs_Algeria_1jun_landscape_thumb.jpg" group-title="Football", UEFA International Friendlies | Netherlands vs Algeria - 4 Jun 2026
 https://dai.google.com/ssai/event/Dgl3FMfCS6mHdHu8tjUB-w/master.m3u8
 
-#EXTINF:-1 tvg-id="sonyliv-1090533631" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019122/1780494015232339_CCPL_2026_Raipur_Rhinos_vs_Rajnandgaon_Panthers_Match_landscape_thumb.jpg" group-title="Cricket", Chhattisgarh Cricket Premier League 2026 | Raipur Rhinos vs Rajnandgaon Panthers - 3 Jun 2026
-https://dai.google.com/ssai/event/ei4-jdpdSGiNNGFVtIaw8w/master.m3u8
-
 #EXTINF:-1 tvg-id="sonyliv-1090533474" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018955/1780274947634461_INT_Friendlies26_Luxembourg_vs_Italy_1jun_landscape_thumb.jpg" group-title="Football", UEFA International Friendlies | Luxembourg vs Italy - 4 Jun 2026
 https://dai.google.com/ssai/event/301Dh58nQGa_Ty00SFDSGA/master.m3u8
 
 #EXTINF:-1 tvg-id="sonyliv-1090533472" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018955/1780274473413461_INT_Friendlies26_Albania_vs_Israel_1jun_landscape_thumb.jpg" group-title="Football", UEFA International Friendlies | Albania vs Israel - 3 Jun 2026
 https://dai.google.com/ssai/event/sLHwWsgJSSyiHOcfzXhwUA/master.m3u8
-
-#EXTINF:-1 tvg-id="sonyliv-1090533473" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018955/1780274692787461_INT_Friendlies26_Denmark_vs_Congo_DR_1jun_landscape_thumb.jpg" group-title="Football", UEFA International Friendlies | Denmark vs Congo DR - 3 Jun 2026
-https://dai.google.com/ssai/event/pDPKygd_RaSSQPzp4X14vA/master.m3u8
