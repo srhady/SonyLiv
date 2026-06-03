@@ -2,7 +2,7 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 12:00:29 AM 04-06-2026
+# last_update: 12:15:35 AM 04-06-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090529780" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019103/1780468328122971_RG26_QF_Auger_Aliassime_Vs_Cobolli_2jun_SP_landscape_thumb.jpg" group-title="Tennis", Roland-Garros 2026 | Felix Auger Aliassime vs Flavio Cobolli - QF - 3 Jun 2026
 https://dai.google.com/ssai/event/etuNA7mESiOw9n93IL4KNA/master.m3u8
@@ -10,14 +10,17 @@ https://dai.google.com/ssai/event/etuNA7mESiOw9n93IL4KNA/master.m3u8
 #EXTINF:-1 tvg-id="sonyliv-1090533541" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018784/1780102138346124_VitalityBlast26_Mens_Sussex_vs_Middlesex_29may_landscape_thumb.jpg" group-title="Cricket", Vitality Blast 2026 | Surrey vs Middlesex - 3 Jun 2026
 https://dai.google.com/ssai/event/uwvnE4CTT2aM0oy0EF-jsw/master.m3u8
 
+#EXTINF:-1 tvg-id="sonyliv-1090533537" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018955/1780276346620461_INT_Friendlies26_Poland_vs_Nigeria_1jun_landscape_thumb.jpg" group-title="Football", UEFA International Friendlies | Poland vs Nigeria - 4 Jun 2026
+https://dai.google.com/ssai/event/by07ZzrmTgerkPQ39CviUA/master.m3u8
+
+#EXTINF:-1 tvg-id="sonyliv-1090533475" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018955/1780275073413461_INT_Friendlies26_Netherlands_vs_Algeria_1jun_landscape_thumb.jpg" group-title="Football", UEFA International Friendlies | Netherlands vs Algeria - 4 Jun 2026
+https://dai.google.com/ssai/event/Dgl3FMfCS6mHdHu8tjUB-w/master.m3u8
+
 #EXTINF:-1 tvg-id="sonyliv-1090533631" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019122/1780494015232339_CCPL_2026_Raipur_Rhinos_vs_Rajnandgaon_Panthers_Match_landscape_thumb.jpg" group-title="Cricket", Chhattisgarh Cricket Premier League 2026 | Raipur Rhinos vs Rajnandgaon Panthers - 3 Jun 2026
 https://dai.google.com/ssai/event/ei4-jdpdSGiNNGFVtIaw8w/master.m3u8
 
-#EXTINF:-1 tvg-id="sonyliv-1090529786" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018982/1780320739928200_RG26_Quarter_Final_Suzanne_Lenglen_Court_landscape_thumb.jpg" group-title="Tennis", Roland-Garros 2026 | Court Suzanne Lenglen - 03 Jun 2026
-https://dai.google.com/ssai/event/ik9hvNsSRdW1q6su6Tysyg/master.m3u8
-
-#EXTINF:-1 tvg-id="sonyliv-1090529787" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018982/1780320685120200_RG26_Quarter_Final_Simonne_Mathieu_Court_landscape_thumb.jpg" group-title="Tennis", Roland-Garros 2026 | Simonne Mathieu - 03 Jun 2026
-https://dai.google.com/ssai/event/k3-2rehzRommKazjfCMXcA/master.m3u8
+#EXTINF:-1 tvg-id="sonyliv-1090533474" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018955/1780274947634461_INT_Friendlies26_Luxembourg_vs_Italy_1jun_landscape_thumb.jpg" group-title="Football", UEFA International Friendlies | Luxembourg vs Italy - 4 Jun 2026
+https://dai.google.com/ssai/event/301Dh58nQGa_Ty00SFDSGA/master.m3u8
 
 #EXTINF:-1 tvg-id="sonyliv-1090533471" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018955/1780274355795461_INT_Friendlies26_Gibraltar_vs_British_Virgin_Islands_1jun_landscape_thumb.jpg" group-title="Football", UEFA International Friendlies | Gibraltar vs British Virgin Islands - 3 Jun 2026
 https://dai.google.com/ssai/event/adxneMA9QhOs2WKeGJVvPQ/master.m3u8
