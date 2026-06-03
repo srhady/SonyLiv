@@ -2,7 +2,7 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 11:15:22 PM 03-06-2026
+# last_update: 11:30:25 PM 03-06-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090529780" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019103/1780468328122971_RG26_QF_Auger_Aliassime_Vs_Cobolli_2jun_SP_landscape_thumb.jpg" group-title="Tennis", Roland-Garros 2026 | Felix Auger Aliassime vs Flavio Cobolli - QF - 3 Jun 2026
 https://dai.google.com/ssai/event/etuNA7mESiOw9n93IL4KNA/master.m3u8
@@ -21,3 +21,9 @@ https://dai.google.com/ssai/event/k3-2rehzRommKazjfCMXcA/master.m3u8
 
 #EXTINF:-1 tvg-id="sonyliv-1090533471" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018955/1780274355795461_INT_Friendlies26_Gibraltar_vs_British_Virgin_Islands_1jun_landscape_thumb.jpg" group-title="Football", UEFA International Friendlies | Gibraltar vs British Virgin Islands - 3 Jun 2026
 https://dai.google.com/ssai/event/adxneMA9QhOs2WKeGJVvPQ/master.m3u8
+
+#EXTINF:-1 tvg-id="sonyliv-1090533472" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018955/1780274473413461_INT_Friendlies26_Albania_vs_Israel_1jun_landscape_thumb.jpg" group-title="Football", UEFA International Friendlies | Albania vs Israel - 3 Jun 2026
+https://dai.google.com/ssai/event/sLHwWsgJSSyiHOcfzXhwUA/master.m3u8
+
+#EXTINF:-1 tvg-id="sonyliv-1090533473" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018955/1780274692787461_INT_Friendlies26_Denmark_vs_Congo_DR_1jun_landscape_thumb.jpg" group-title="Football", UEFA International Friendlies | Denmark vs Congo DR - 3 Jun 2026
+https://dai.google.com/ssai/event/pDPKygd_RaSSQPzp4X14vA/master.m3u8
