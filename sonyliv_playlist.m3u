@@ -2,7 +2,7 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 10:00:30 PM 04-06-2026
+# last_update: 10:15:27 PM 04-06-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090529780" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019177/1780573821559331_RG26_semi_final_Shnaider_vs_Chwalinska1_SP_landscape_thumb.jpg" group-title="Tennis", Roland-Garros 2026 | Diana Shnaider vs Maja Chwalinska - SF - 4 Jun 2026
 https://dai.google.com/ssai/event/jRQlKg2DQWa70jsLHUtxGA/master.m3u8
@@ -21,6 +21,3 @@ https://dai.google.com/ssai/event/Bplrxzp6SZSY0xB1rOkzVw/master.m3u8
 
 #EXTINF:-1 tvg-id="sonyliv-1090533712" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019128/1780505644922454_LIV_Golf_Andalucia_Day1_landscape_thumb.jpg" group-title="Golf", LIV Golf | Andalucia - Day 1 - 4 Jun 2026
 https://dai.google.com/ssai/event/0rU3P9wWRxO9JMOXItU3zA/master.m3u8
-
-#EXTINF:-1 tvg-id="sonyliv-1090533717" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018951/1780271739392861_DP_World_Tour_KLM_Open_day1_landscape_thumb.jpg" group-title="Golf", DP World Tour | KLM Open - Day 1 - 4 Jun 2026
-https://dai.google.com/ssai/event/hQjoPq5iQkKZf8yDXUMOeg/master.m3u8
