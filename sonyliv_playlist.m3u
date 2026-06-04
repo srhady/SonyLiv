@@ -2,7 +2,7 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 11:15:21 PM 04-06-2026
+# last_update: 11:30:31 PM 04-06-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090529780" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019177/1780573821559331_RG26_semi_final_Shnaider_vs_Chwalinska1_SP_landscape_thumb.jpg" group-title="Tennis", Roland-Garros 2026 | Diana Shnaider vs Maja Chwalinska - SF - 4 Jun 2026
 https://dai.google.com/ssai/event/jRQlKg2DQWa70jsLHUtxGA/master.m3u8
@@ -12,6 +12,9 @@ https://dai.google.com/ssai/event/RP1mckhwQQChze2hZfnZlA/master.m3u8
 
 #EXTINF:-1 tvg-id="sonyliv-1090533787" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019173/1780566891535962_CCPL26_Bastar-Bisons-vs-Bilaspur-Bulls_landscape_thumb.jpg" group-title="Cricket", Chhattisgarh Cricket Premier League 2026 | Bastar Bisons vs Bilaspur Bulls - 4 Jun 2026
 https://dai.google.com/ssai/event/pDPKygd_RaSSQPzp4X14vA/master.m3u8
+
+#EXTINF:-1 tvg-id="sonyliv-1090533649" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019101/1780454020742287_VitalityBlast26_Mens_Somerset_vs_Glamorgan_3jun_landscape_thumb.jpg" group-title="Cricket", Vitality Blast 2026 | Somerset vs Glamorgan - 4 Jun 2026
+https://dai.google.com/ssai/event/rQKSTlwXTlyPVx05Yvs1BQ/master.m3u8
 
 #EXTINF:-1 tvg-id="sonyliv-1090533671" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018955/1780278521797461_INT_Friendlies26_Sweden_vs_Greece_1jun_landscape_thumb.jpg" group-title="Football", UEFA International Friendlies | Sweden vs Greece - 4 Jun 2026
 https://dai.google.com/ssai/event/LMM9ogBmSR-25zv7f0X6Jw/master.m3u8

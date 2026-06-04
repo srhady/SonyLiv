@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "11:15:21 PM 04-06-2026"
+        "last_update": "11:30:31 PM 04-06-2026"
     },
     "live_matches": [
         {
@@ -86,6 +86,33 @@
             "image_tv_bg": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019173/1780566911162962_CCPL26_Bastar-Bisons-vs-Bilaspur-Bulls_tv_bg.jpg",
             "tournament_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009146/1758606495748941_UEL25_26_GENERIC_Masthead_logo_LIVE1.png",
             "stream_url": "https://dai.google.com/ssai/event/pDPKygd_RaSSQPzp4X14vA/master.m3u8"
+        },
+        {
+            "match_id": 1090533649,
+            "sport_type": "Cricket",
+            "event_name": "Vitality Blast 2026",
+            "match_title": "Somerset vs Glamorgan - 4 Jun 2026",
+            "home_team": "Somerset",
+            "away_team": "Glamorgan",
+            "venue": "County Ground, Taunton",
+            "status": "LIVE",
+            "start_time_bd": "11:30:00 PM 04-06-2026",
+            "end_time_bd": "06:15:00 AM 05-06-2026",
+            "duration": 0,
+            "broadcast_channel": "Sony Sports Ten 5",
+            "language": "ENG",
+            "resolution": "FULL_HD",
+            "audio_quality": "STEREO",
+            "is_drm_protected": false,
+            "is_geo_blocked": false,
+            "ad_status": "AD SUPPORTED",
+            "description": "Somerset take on Glamorgan in an exciting Vitality Blast 2026 clash, with both sides eager to build momentum through powerful batting displays, disciplined bowling spells, and impactful all-round performances. Expect a fiercely contested encounter as the teams battle for crucial points in their quest for qualification. Catch all the action only on Sony LIV.",
+            "seo_tags": "Vitality Blast T20 tournament,Vitality Blast England cricket,Vitality Blast live updates,Vitality Blast match schedule,Vitality Blast fixtures,Vitality Blast streaming,Vitality Blast teams,Vitality Blast squads,Vitality Blast cricket stats,Vitality Blast points table,Vitality Blast knockout stage,Vitality Blast semi-finals,Vitality Blast final match,Vitality Blast pitch report,Vitality Blast player rankings,Vitality Blast fantasy cricket,Vitality Blast cricket predictions,Vitality Blast head-to-head,Vitality Blast match preview,Vitality Blast cricket commentary,Vitality Blast latest results,Vitality Blast cricket experts,Vitality Blast cricket insights,Keaton Jennings,Ryan Higgins,James Coles,Miles Hammond,David Payne,Benny Howell,Sam Billings,Daniel Bell-Drummond,Fred Klaassen,Liam Livingstone,Moeen Ali,Alex Hales,Shaheen Shah Afridi,Joe Root,Dawid Malan,Stuart Broad",
+            "image_landscape": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019110/1780482347043817_Vitality_Blast_2026_Match_masthead_large_v3_3200x1800_Somerset_vs_Glamorgan.jpg",
+            "image_thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019101/1780454020742287_VitalityBlast26_Mens_Somerset_vs_Glamorgan_3jun_landscape_thumb.jpg",
+            "image_tv_bg": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019101/1780454092090287_VitalityBlast26_Mens_Somerset_vs_Glamorgan_3jun_tv_Bg.jpg",
+            "tournament_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019110/1780482347425817_Vitality_Blast_2026_Match_Masthead_logo_Somerset_vs_Glamorgan_Live.png",
+            "stream_url": "https://dai.google.com/ssai/event/rQKSTlwXTlyPVx05Yvs1BQ/master.m3u8"
         },
         {
             "match_id": 1090533671,
