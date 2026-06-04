@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "12:45:20 AM 05-06-2026"
+        "last_update": "01:15:21 AM 05-06-2026"
     },
     "live_matches": [
         {
@@ -86,60 +86,6 @@
             "image_tv_bg": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019101/1780454092090287_VitalityBlast26_Mens_Somerset_vs_Glamorgan_3jun_tv_Bg.jpg",
             "tournament_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019110/1780482347425817_Vitality_Blast_2026_Match_Masthead_logo_Somerset_vs_Glamorgan_Live.png",
             "stream_url": "https://dai.google.com/ssai/event/rQKSTlwXTlyPVx05Yvs1BQ/master.m3u8"
-        },
-        {
-            "match_id": 1090533671,
-            "sport_type": "Football",
-            "event_name": "UEFA International Friendlies",
-            "match_title": "Sweden vs Greece - 4 Jun 2026",
-            "home_team": "Sweden",
-            "away_team": "Greece",
-            "venue": "Strawberry Arena",
-            "status": "LIVE",
-            "start_time_bd": "10:20:00 PM 04-06-2026",
-            "end_time_bd": "03:20:00 AM 05-06-2026",
-            "duration": 0,
-            "broadcast_channel": "Sony Sports Ten 2",
-            "language": "ENG",
-            "resolution": "FULL_HD",
-            "audio_quality": "STEREO",
-            "is_drm_protected": false,
-            "is_geo_blocked": false,
-            "ad_status": "AD SUPPORTED",
-            "description": "Sweden take on Greece in an international friendly as two well-organized sides look to sharpen their preparations through a competitive test. Expect a tactical battle, with Sweden aiming to impose their attacking quality while Greece rely on defensive discipline and structured play to challenge their opponents. Catch all the action from the International Friendlies, LIVE on Sony LIV.",
-            "seo_tags": "European Qualifiers,2026 FIFA World Cup,FIFA World Cup Qualifiers,UEFA Qualifiers,Football World Cup Qualifiers,European Football Qualifiers,World Cup 2026 Qualifiers,FIFA World Cup 2026,UEFA World Cup Qualifiers,European World Cup Qualifiers,Harry Kane,Kylian Mbappé,Cristiano Ronaldo,Robert Lewandowski,Erling Haaland,2026 FIFA World Cup European Qualifiers Schedule,European Qualifiers for FIFA World Cup 2026,UEFA World Cup Qualifiers 2026 Results,FIFA World Cup 2026 Qualifying Groups,European Football World Cup Qualifiers 2026,2026 World Cup Qualifiers European Teams,FIFA World Cup Qualifiers 2026 European Standings,UEFA World Cup Qualifiers 2026 Fixtures,European Football,UEFA Football,World Cup Qualifiers Europe,European World Cup Qualifying,Football Europe World Cup Qualifiers,England National Team,France National Team,Portugal National Team,Germany National Team,Poland National Team",
-            "image_landscape": "N/A",
-            "image_thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018955/1780278521797461_INT_Friendlies26_Sweden_vs_Greece_1jun_landscape_thumb.jpg",
-            "image_tv_bg": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018955/1780278540228461_INT_Friendlies26_Sweden_vs_Greece_1jun_tv_bg.jpg",
-            "tournament_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000000507/1742306648095993_EuropeanQualifiers2025_GENERIC_Masthead_logo_LIVE.png",
-            "stream_url": "https://dai.google.com/ssai/event/LMM9ogBmSR-25zv7f0X6Jw/master.m3u8"
-        },
-        {
-            "match_id": 1090533670,
-            "sport_type": "Football",
-            "event_name": "UEFA International Friendlies",
-            "match_title": "Andorra vs Liechtenstein - 4 Jun 2026",
-            "home_team": "Andorra",
-            "away_team": "Liechtenstein",
-            "venue": "Estadi FAF",
-            "status": "LIVE",
-            "start_time_bd": "10:20:00 PM 04-06-2026",
-            "end_time_bd": "03:20:00 AM 05-06-2026",
-            "duration": 0,
-            "broadcast_channel": "Sony Sports Ten 2",
-            "language": "ENG",
-            "resolution": "FULL_HD",
-            "audio_quality": "STEREO",
-            "is_drm_protected": false,
-            "is_geo_blocked": false,
-            "ad_status": "AD SUPPORTED",
-            "description": "Andorra take on Liechtenstein in an international friendly as both sides look to gain confidence and momentum through disciplined performances and tactical organization. Expect a closely fought encounter, with both teams eager to make the most of their opportunities and build positive form. Catch all the action from the International Friendlies, LIVE on Sony LIV.",
-            "seo_tags": "European Qualifiers,2026 FIFA World Cup,FIFA World Cup Qualifiers,UEFA Qualifiers,Football World Cup Qualifiers,European Football Qualifiers,World Cup 2026 Qualifiers,FIFA World Cup 2026,UEFA World Cup Qualifiers,European World Cup Qualifiers,Harry Kane,Kylian Mbappé,Cristiano Ronaldo,Robert Lewandowski,Erling Haaland,2026 FIFA World Cup European Qualifiers Schedule,European Qualifiers for FIFA World Cup 2026,UEFA World Cup Qualifiers 2026 Results,FIFA World Cup 2026 Qualifying Groups,European Football World Cup Qualifiers 2026,2026 World Cup Qualifiers European Teams,FIFA World Cup Qualifiers 2026 European Standings,UEFA World Cup Qualifiers 2026 Fixtures,European Football,UEFA Football,World Cup Qualifiers Europe,European World Cup Qualifying,Football Europe World Cup Qualifiers,England National Team,France National Team,Portugal National Team,Germany National Team,Poland National Team",
-            "image_landscape": "N/A",
-            "image_thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018955/1780277886899461_INT_Friendlies26_Andorra_vs_Liechtenstein_1jun_landscape_thumb.jpg",
-            "image_tv_bg": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018955/1780277912020461_INT_Friendlies26_Andorra_vs_Liechtenstein_1jun_tv_bg.jpg",
-            "tournament_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000000507/1742306648095993_EuropeanQualifiers2025_GENERIC_Masthead_logo_LIVE.png",
-            "stream_url": "https://dai.google.com/ssai/event/pLM8TT6jThqxc1AI5T7UIA/master.m3u8"
         }
     ]
 }
