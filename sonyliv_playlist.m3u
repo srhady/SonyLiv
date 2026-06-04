@@ -2,7 +2,7 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 12:00:28 AM 05-06-2026
+# last_update: 12:15:33 AM 05-06-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090529780" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018698/178003487902035_RG26_studio_show_29may_landscpae_thumb.jpg" group-title="Tennis", Roland-Garros 2026 | Diana Shnaider vs Maja Chwalinska - SF - 4 Jun 2026
 https://dai.google.com/ssai/event/jRQlKg2DQWa70jsLHUtxGA/master.m3u8
@@ -21,9 +21,6 @@ https://dai.google.com/ssai/event/LMM9ogBmSR-25zv7f0X6Jw/master.m3u8
 
 #EXTINF:-1 tvg-id="sonyliv-1090533669" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018899/1780191126063918_INT_Friendlies26_Northern_Ireland_vs_Guinea_31may_landscape_thumb.jpg" group-title="Football", UEFA International Friendlies | Northern Ireland vs Guinea - 4 Jun 2026
 https://dai.google.com/ssai/event/RyHp_zJIS62YupQ3gUIbSQ/master.m3u8
-
-#EXTINF:-1 tvg-id="sonyliv-1090533668" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018955/1780277523401461_INT_Friendlies26_Slovenia_vs_Cyprus_1jun_landscape_thumb.jpg" group-title="Football", UEFA International Friendlies | Slovenia vs Cyprus - 4 Jun 2026
-https://dai.google.com/ssai/event/Bplrxzp6SZSY0xB1rOkzVw/master.m3u8
 
 #EXTINF:-1 tvg-id="sonyliv-1090533670" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018955/1780277886899461_INT_Friendlies26_Andorra_vs_Liechtenstein_1jun_landscape_thumb.jpg" group-title="Football", UEFA International Friendlies | Andorra vs Liechtenstein - 4 Jun 2026
 https://dai.google.com/ssai/event/pLM8TT6jThqxc1AI5T7UIA/master.m3u8
