@@ -2,13 +2,7 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 03:00:25 AM 05-06-2026
-
-#EXTINF:-1 tvg-id="sonyliv-1090533667" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018899/1780191604262918_INT_Friendlies26_Spain_vs_Iraq_31may_landscape_thumb.jpg" group-title="Football", UEFA International Friendlies | Spain vs Iraq - 4 Jun 2026
-https://dai.google.com/ssai/event/f33XsXydSbagpJMXV4HenQ/master.m3u8
-
-#EXTINF:-1 tvg-id="sonyliv-1090533835" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018955/1780278755832461_INT_Friendlies26_France_vs_Cote_dIvoire_1jun_landscape_thumb.jpg" group-title="Football", UEFA International Friendlies | France vs Côte d'Ivoire - 5 Jun 2026
-https://dai.google.com/ssai/event/uP_7_QWgRHehSMm82S7iLg/master.m3u8
+# last_update: 03:15:18 AM 05-06-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090533649" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019101/1780454020742287_VitalityBlast26_Mens_Somerset_vs_Glamorgan_3jun_landscape_thumb.jpg" group-title="Cricket", Vitality Blast 2026 | Somerset vs Glamorgan - 4 Jun 2026
 https://dai.google.com/ssai/event/rQKSTlwXTlyPVx05Yvs1BQ/master.m3u8
