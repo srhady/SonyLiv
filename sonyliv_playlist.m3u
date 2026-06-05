@@ -2,7 +2,7 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 11:45:24 PM 05-06-2026
+# last_update: 12:00:27 AM 06-06-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090533866" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019157/1780552960718512_ENGvsNZ_1Test_day2_live_4june_landscape_thumb.jpg" group-title="Cricket", New Zealand Tour of England 2026 | 1st Test - Day 2 - 5 Jun 2026 
 https://dai.google.com/ssai/event/ei4-jdpdSGiNNGFVtIaw8w/master.m3u8
@@ -21,12 +21,6 @@ https://dai.google.com/ssai/event/ePIgSYDiQ1mrJnvwAVYJ1A/master.m3u8
 
 #EXTINF:-1 tvg-id="sonyliv-1090533832" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018955/1780279338738461_INT_Friendlies26_Slovakia_vs_Montenegro_1jun_landscape_thumb.jpg" group-title="Football", UEFA International Friendlies | Slovakia vs Montenegro - 5 Jun 2026
 https://dai.google.com/ssai/event/I5SFBeq7THGsIIwTbR6bcQ/master.m3u8
-
-#EXTINF:-1 tvg-id="sonyliv-1090533833" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018899/1780193397731918_INT_Friendlies26_Belarus_vs_Syria_31may_landscape_thumb.jpg" group-title="Football", UEFA International Friendlies | Belarus vs Syria - 5 Jun 2026
-https://dai.google.com/ssai/event/GGyXVa5JTri21cj0C6tpSA/master.m3u8
-
-#EXTINF:-1 tvg-id="sonyliv-1090533834" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018955/1780279197533461_INT_Friendlies26_Georgia_vs_Bahrain_1jun_landscape_thumb.jpg" group-title="Football", UEFA International Friendlies | Georgia vs Bahrain - 5 Jun 2026
-https://dai.google.com/ssai/event/XmqwVn_hSLSfcYpIY4_oxQ/master.m3u8
 
 #EXTINF:-1 tvg-id="sonyliv-1090533828" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018955/1780280266125461_INT_Friendlies26_Azerbaijan_vs_Malta_1jun_landscape_thumb.jpg" group-title="Football", UEFA International Friendlies | Azerbaijan vs Malta - 5 Jun 2026
 https://dai.google.com/ssai/event/adxneMA9QhOs2WKeGJVvPQ/master.m3u8
