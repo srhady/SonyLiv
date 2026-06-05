@@ -2,7 +2,7 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 06:15:20 PM 05-06-2026
+# last_update: 06:30:22 PM 05-06-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090529780" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019235/1780611380459295_RG26_Extra_Serve_studio_show_5jun_landscape_thumb.jpg" group-title="Tennis", Roland-Garros 2026 | Day 13 - SF - 5 Jun 2026
 https://dai.google.com/ssai/event/k3-2rehzRommKazjfCMXcA/master.m3u8
@@ -12,9 +12,6 @@ https://dai.google.com/ssai/event/ei4-jdpdSGiNNGFVtIaw8w/master.m3u8
 
 #EXTINF:-1 tvg-id="sonyliv-1090533894" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019248/1780629496866886_CCPL26_Surguja_Tigers_vs_Raipur_Rhinos_4jun_landscape_thumb.jpg" group-title="Cricket", Chhattisgarh Cricket Premier League 2026 | Surguja Tigers vs Raipur Rhinos - 5 Jun 2026
 https://dai.google.com/ssai/event/CPyLkEq0R6yyIwnP91j6mg/master.m3u8
-
-#EXTINF:-1 tvg-id="sonyliv-1090529785" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019246/1780622178796673_RG26_SF_Philippe_Chatrier_court_landscape_thumb_SP_rev.jpg" group-title="Tennis", Roland-Garros 2026 | Philippe Chatrier - 5 Jun 2026
-https://dai.google.com/ssai/event/uP_7_QWgRHehSMm82S7iLg/master.m3u8
 
 #EXTINF:-1 tvg-id="sonyliv-1090529787" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019246/1780622234464673_RG26_SF_Simonne_Mathieu_court_landscape_thumb_SP_rev.jpg" group-title="Tennis", Roland-Garros 2026 | Simonne Mathieu - 05 Jun 2026
 https://dai.google.com/ssai/event/nnQKrEF4RnCKYMR3Keilsw/master.m3u8
