@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "11:15:24 PM 05-06-2026"
+        "last_update": "11:30:22 PM 05-06-2026"
     },
     "live_matches": [
         {
@@ -59,6 +59,33 @@
             "image_tv_bg": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019248/1780629884974886_CCPL26_Rajnandgaon_Panthers_vs_Bilaspur_Bulls_4jun_tv_bg.jpg",
             "tournament_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019238/1780592044000246_CCPL_2026_match_Masthead_logo_Live.png",
             "stream_url": "https://dai.google.com/ssai/event/CPyLkEq0R6yyIwnP91j6mg/master.m3u8"
+        },
+        {
+            "match_id": 1090533906,
+            "sport_type": "Cricket",
+            "event_name": "Vitality Blast 2026",
+            "match_title": "Yorkshire vs Lancashire - 5 Jun 2026",
+            "home_team": " Yorkshire ",
+            "away_team": "Lancashire ",
+            "venue": "Headingley, Leeds",
+            "status": "LIVE",
+            "start_time_bd": "11:30:00 PM 05-06-2026",
+            "end_time_bd": "08:15:00 AM 06-06-2026",
+            "duration": 0,
+            "broadcast_channel": "Sony Sports Ten 5",
+            "language": "ENG",
+            "resolution": "FULL_HD",
+            "audio_quality": "STEREO",
+            "is_drm_protected": false,
+            "is_geo_blocked": false,
+            "ad_status": "AD SUPPORTED",
+            "description": "Yorkshire clash with Lancashire Lightning in the Vitality Blast 2026. Fans can expect fierce batting duels and fiery bowling spells in this high-stakes encounter. Which team will prevail? Catch all the action only on Sony LIV.",
+            "seo_tags": "Vitality Blast T20 tournament,Vitality Blast England cricket,Vitality Blast live updates,Vitality Blast match schedule,Vitality Blast fixtures,Vitality Blast streaming,Vitality Blast teams,Vitality Blast squads,Vitality Blast cricket stats,Vitality Blast points table,Vitality Blast knockout stage,Vitality Blast semi-finals,Vitality Blast final match,Vitality Blast pitch report,Vitality Blast player rankings,Vitality Blast fantasy cricket,Vitality Blast cricket predictions,Vitality Blast head-to-head,Vitality Blast match preview,Vitality Blast cricket commentary,Vitality Blast latest results,Vitality Blast cricket experts,Vitality Blast cricket insights,Keaton Jennings,Ryan Higgins,James Coles,Miles Hammond,David Payne,Benny Howell,Sam Billings,Daniel Bell-Drummond,Fred Klaassen,Liam Livingstone,Moeen Ali,Alex Hales,Shaheen Shah Afridi,Joe Root,Dawid Malan,Stuart Broad",
+            "image_landscape": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019110/1780482347087817_Vitality_Blast_2026_Match_masthead_large_v3_3200x1800_Yorkshire_vs_Lancashire.jpg",
+            "image_thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019219/1780602903056488_VITALITY_BLAST_2026_Yorkshire_vs_Lancashire_5jun_landscape_thumb.jpg",
+            "image_tv_bg": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019219/1780603021767488_VITALITY_BLAST_2026_Yorkshire_vs_Lancashire_5jun_tv_Bg.jpg",
+            "tournament_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019110/1780482346965817_Vitality_Blast_2026_Match_Masthead_logo_Yorkshire_vs_Lancashire_Live.png",
+            "stream_url": "https://dai.google.com/ssai/event/-6L_H7pxSSqKEWLnC4U5ng/master.m3u8"
         },
         {
             "match_id": 1090533989,
@@ -221,6 +248,33 @@
             "image_tv_bg": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018955/1780279239404461_INT_Friendlies26_Georgia_vs_Bahrain_1jun_tv_bg.jpg",
             "tournament_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000000507/1742306648095993_EuropeanQualifiers2025_GENERIC_Masthead_logo_LIVE.png",
             "stream_url": "https://dai.google.com/ssai/event/XmqwVn_hSLSfcYpIY4_oxQ/master.m3u8"
+        },
+        {
+            "match_id": 1090533828,
+            "sport_type": "Football",
+            "event_name": "UEFA International Friendlies",
+            "match_title": "Azerbaijan vs Malta - 5 Jun 2026",
+            "home_team": "Azerbaijan",
+            "away_team": "Malta",
+            "venue": "Haladás Stadium",
+            "status": "LIVE",
+            "start_time_bd": "11:20:00 PM 05-06-2026",
+            "end_time_bd": "04:20:00 AM 06-06-2026",
+            "duration": 0,
+            "broadcast_channel": "Sony Sports Ten 2",
+            "language": "ENG",
+            "resolution": "FULL_HD",
+            "audio_quality": "STEREO",
+            "is_drm_protected": false,
+            "is_geo_blocked": false,
+            "ad_status": "AD SUPPORTED",
+            "description": "Azerbaijan take on Malta in an international friendly as both sides aim to build momentum and test their squad depth. Expect a closely contested encounter, with Azerbaijan looking to dictate play while Malta seek to frustrate their opponents through disciplined defending and swift counterattacks. Catch all the action from the International Friendlies, LIVE on Sony LIV.",
+            "seo_tags": "European Qualifiers,2026 FIFA World Cup,FIFA World Cup Qualifiers,UEFA Qualifiers,Football World Cup Qualifiers,European Football Qualifiers,World Cup 2026 Qualifiers,FIFA World Cup 2026,UEFA World Cup Qualifiers,European World Cup Qualifiers,Harry Kane,Kylian Mbappé,Cristiano Ronaldo,Robert Lewandowski,Erling Haaland,2026 FIFA World Cup European Qualifiers Schedule,European Qualifiers for FIFA World Cup 2026,UEFA World Cup Qualifiers 2026 Results,FIFA World Cup 2026 Qualifying Groups,European Football World Cup Qualifiers 2026,2026 World Cup Qualifiers European Teams,FIFA World Cup Qualifiers 2026 European Standings,UEFA World Cup Qualifiers 2026 Fixtures,European Football,UEFA Football,World Cup Qualifiers Europe,European World Cup Qualifying,Football Europe World Cup Qualifiers,England National Team,France National Team,Portugal National Team,Germany National Team,Poland National Team",
+            "image_landscape": "N/A",
+            "image_thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018955/1780280266125461_INT_Friendlies26_Azerbaijan_vs_Malta_1jun_landscape_thumb.jpg",
+            "image_tv_bg": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018955/1780280289444461_INT_Friendlies26_Azerbaijan_vs_Malta_1jun_tv_bg.jpg",
+            "tournament_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000000507/1742306648095993_EuropeanQualifiers2025_GENERIC_Masthead_logo_LIVE.png",
+            "stream_url": "https://dai.google.com/ssai/event/adxneMA9QhOs2WKeGJVvPQ/master.m3u8"
         }
     ]
 }
