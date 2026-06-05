@@ -2,7 +2,10 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 02:45:19 PM 05-06-2026
+# last_update: 03:00:28 PM 05-06-2026
+
+#EXTINF:-1 tvg-id="sonyliv-1090533894" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019248/1780629496866886_CCPL26_Surguja_Tigers_vs_Raipur_Rhinos_4jun_landscape_thumb.jpg" group-title="Cricket", Chhattisgarh Cricket Premier League 2026 | Surguja Tigers vs Raipur Rhinos - 5 Jun 2026
+https://dai.google.com/ssai/event/CPyLkEq0R6yyIwnP91j6mg/master.m3u8
 
 #EXTINF:-1 tvg-id="sonyliv-1090533989" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019232/1780609751380930_SVNS_World_Championship26_Session1_Womens_Match_4jun_landscape_thumb.jpg" group-title="Rugby", HSBC SVNS Bordeaux 2026 | Session 1 - Women's Match - 5 Jun 2026
 https://dai.google.com/ssai/event/jRQlKg2DQWa70jsLHUtxGA/master.m3u8
