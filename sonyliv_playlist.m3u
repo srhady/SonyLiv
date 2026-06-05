@@ -2,7 +2,7 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 10:15:21 PM 05-06-2026
+# last_update: 10:30:26 PM 05-06-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090529780" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019235/1780611380459295_RG26_Extra_Serve_studio_show_5jun_landscape_thumb.jpg" group-title="Tennis", Roland-Garros 2026 | Day 13 - 5 Jun 2026
 https://dai.google.com/ssai/event/k3-2rehzRommKazjfCMXcA/master.m3u8
@@ -16,6 +16,9 @@ https://dai.google.com/ssai/event/CPyLkEq0R6yyIwnP91j6mg/master.m3u8
 #EXTINF:-1 tvg-id="sonyliv-1090533989" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019232/1780609761362930_SVNS_World_Championship26_Session3_Womens_Match_4jun_landscape_thumb.jpg" group-title="Rugby", HSBC SVNS Bordeaux 2026 | Session 3 - Women's Match - 5 Jun 2026
 https://dai.google.com/ssai/event/jRQlKg2DQWa70jsLHUtxGA/master.m3u8
 
+#EXTINF:-1 tvg-id="sonyliv-1090533831" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018955/1780279537439461_INT_Friendlies26_Moldova_vs_Bulgaria_1jun_landscape_thumb.jpg" group-title="Football", UEFA International Friendlies | Moldova vs Bulgaria - 5 Jun 2026
+https://dai.google.com/ssai/event/ePIgSYDiQ1mrJnvwAVYJ1A/master.m3u8
+
 #EXTINF:-1 tvg-id="sonyliv-1090533832" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018955/1780279338738461_INT_Friendlies26_Slovakia_vs_Montenegro_1jun_landscape_thumb.jpg" group-title="Football", UEFA International Friendlies | Slovakia vs Montenegro - 5 Jun 2026
 https://dai.google.com/ssai/event/I5SFBeq7THGsIIwTbR6bcQ/master.m3u8
 
@@ -24,6 +27,3 @@ https://dai.google.com/ssai/event/GGyXVa5JTri21cj0C6tpSA/master.m3u8
 
 #EXTINF:-1 tvg-id="sonyliv-1090533834" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018955/1780279197533461_INT_Friendlies26_Georgia_vs_Bahrain_1jun_landscape_thumb.jpg" group-title="Football", UEFA International Friendlies | Georgia vs Bahrain - 5 Jun 2026
 https://dai.google.com/ssai/event/XmqwVn_hSLSfcYpIY4_oxQ/master.m3u8
-
-#EXTINF:-1 tvg-id="sonyliv-1090533873" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019175/1780573350180650_LIV_Golf_Andalucia_Day2_landscape_thumb.jpg" group-title="Golf", LIV Golf | Andalucia - Day 2 - 5 Jun 2026
-https://dai.google.com/ssai/event/VnUGwhe5Sq26Vxhuk96Fkw/master.m3u8
