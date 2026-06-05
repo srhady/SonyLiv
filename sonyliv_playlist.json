@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "08:30:24 PM 05-06-2026"
+        "last_update": "08:45:22 PM 05-06-2026"
     },
     "live_matches": [
         {
@@ -91,7 +91,7 @@
             "match_id": 1090533989,
             "sport_type": "Rugby",
             "event_name": "HSBC SVNS Bordeaux 2026",
-            "match_title": "Session 2 - Men's Match - 5 Jun 2026",
+            "match_title": "Session 3 - Women's Match - 5 Jun 2026",
             "home_team": "N/A",
             "away_team": "N/A",
             "venue": "Stade Atlantique",
@@ -109,7 +109,7 @@
             "description": "The HSBC SVNS Bordeaux 2026 brings world-class rugby sevens action to France, showcasing speed, skill, and thrilling competition. Teams from across the globe battle for crucial series points in this electrifying leg of the circuit. Tune in to catch all the action from HSBC SVNS Bordeaux 2026, LIVE on Sony LIV.",
             "seo_tags": "HSBC SVNS Bordeaux 2026,HSBC SVNS Bordeaux,SVNS Bordeaux 2026,Bordeaux Sevens 2026,World Rugby SVNS Bordeaux,World Rugby Sevens Bordeaux,Rugby SVNS World Championship Final,HSBC SVNS Grand Final 2026,2026 HSBC SVNS Series finale,World Rugby SVNS Final Bordeaux,Stade Atlantique Bordeaux,Bordeaux Métropole Stadium rugby,rugby sevens in France 2026,Stade Atlantique rugby events,Bordeaux rugby tournament 2026,HSBC SVNS Bordeaux tickets,Bordeaux Sevens 2026 schedule,how to watch SVNS Bordeaux live,Rugby Pass TV SVNS live stream,SVNS Bordeaux match schedules,Bordeaux rugby sevens practical guide,accommodations near Stade Atlantique Bordeaux,Men's SVNS World Champions 2026,Women's SVNS World Champions 2026,France Rugby Sevens Bordeaux,Australia vs New Zealand Sevens 2026,SVNS Player of the Year nominees 2026,Paulin Riva Bordeaux,Maddison Levi SVNS,Henry Hutchinson rugby sevens",
             "image_landscape": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019237/178059191000029_SVNS_World_Championship_2026_GOB_masthead_large_v3_3200x1800_1.jpg",
-            "image_thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019232/1780609727261930_SVNS_World_Championship26_Session2_mens_Match_4jun_landscape_thumb.jpg",
+            "image_thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019232/1780609761362930_SVNS_World_Championship26_Session3_Womens_Match_4jun_landscape_thumb.jpg",
             "image_tv_bg": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019232/1780609889313930_SVNS_World_Championship26_4jun_tv_bg.jpg",
             "tournament_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019237/178059191000029_SVNS_World_Championship_2026_GOB_Masthead_logo_LIVE.png",
             "stream_url": "https://dai.google.com/ssai/event/jRQlKg2DQWa70jsLHUtxGA/master.m3u8"
