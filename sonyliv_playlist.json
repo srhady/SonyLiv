@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "09:00:27 PM 06-06-2026"
+        "last_update": "09:15:19 PM 06-06-2026"
     },
     "live_matches": [
         {
@@ -59,33 +59,6 @@
             "image_tv_bg": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019157/1780552982539512_ENGvsNZ_1Test_4june_tv_bg.jpg",
             "tournament_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019193/1780585654146304_England_Women_vs_New_Zealand_Women_2026_match_Masthead_logo_1st_test_live_Day_3.png",
             "stream_url": "https://dai.google.com/ssai/event/uwvnE4CTT2aM0oy0EF-jsw/master.m3u8"
-        },
-        {
-            "match_id": 1090534041,
-            "sport_type": "Football",
-            "event_name": "UEFA International Friendlies",
-            "match_title": "Belgium vs Tunisia - 6 Jun 2026",
-            "home_team": "Belgium",
-            "away_team": "Tunisia",
-            "venue": "King Baudouin Stadium ",
-            "status": "LIVE",
-            "start_time_bd": "06:20:00 PM 06-06-2026",
-            "end_time_bd": "11:20:00 PM 06-06-2026",
-            "duration": 0,
-            "broadcast_channel": "Sony Sports Ten 2",
-            "language": "ENG",
-            "resolution": "FULL_HD",
-            "audio_quality": "STEREO",
-            "is_drm_protected": false,
-            "is_geo_blocked": false,
-            "ad_status": "AD SUPPORTED",
-            "description": "Belgium take on Tunisia in a friendly clash as both sides look to sharpen form with contrasting styles of technical quality and tactical discipline. Expect an engaging contest, with Belgium’s attacking creativity up against Tunisia’s organization and resilience. Catch all the action from the International Friendlies, LIVE on Sony LIV.",
-            "seo_tags": "European Qualifiers,2026 FIFA World Cup,FIFA World Cup Qualifiers,UEFA Qualifiers,Football World Cup Qualifiers,European Football Qualifiers,World Cup 2026 Qualifiers,FIFA World Cup 2026,UEFA World Cup Qualifiers,European World Cup Qualifiers,Harry Kane,Kylian Mbappé,Cristiano Ronaldo,Robert Lewandowski,Erling Haaland,2026 FIFA World Cup European Qualifiers Schedule,European Qualifiers for FIFA World Cup 2026,UEFA World Cup Qualifiers 2026 Results,FIFA World Cup 2026 Qualifying Groups,European Football World Cup Qualifiers 2026,2026 World Cup Qualifiers European Teams,FIFA World Cup Qualifiers 2026 European Standings,UEFA World Cup Qualifiers 2026 Fixtures,European Football,UEFA Football,World Cup Qualifiers Europe,European World Cup Qualifying,Football Europe World Cup Qualifiers,England National Team,France National Team,Portugal National Team,Germany National Team,Poland National Team",
-            "image_landscape": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019348/1780747269999170_InternationalFriendlies_26_Match_masthead_large_v3_3200x1800_Belgium_vs_Tunisia.jpg",
-            "image_thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018955/1780281054137461_INT_Friendlies26_Belgium_vs_Tunisia_1jun_landscape_thumb.jpg",
-            "image_tv_bg": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018955/1780281069826461_INT_Friendlies26_Belgium_vs_Tunisia_1jun_tv_bg.jpg",
-            "tournament_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019348/1780747270266170_InternationalFriendlies_26_Match_Masthead_logo_Belgium_vs_Tunisia_Live.png",
-            "stream_url": "https://dai.google.com/ssai/event/f33XsXydSbagpJMXV4HenQ/master.m3u8"
         },
         {
             "match_id": 1090534018,
@@ -221,33 +194,6 @@
             "image_tv_bg": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019247/1780622711632941_INT_Friendlies26_Armenia_vs_Kazakhstan_4jun_tv_bg.jpg",
             "tournament_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000000507/1742306648095993_EuropeanQualifiers2025_GENERIC_Masthead_logo_LIVE.png",
             "stream_url": "https://dai.google.com/ssai/event/j96j3V0VQNm-l1bH8TE1Lg/master.m3u8"
-        },
-        {
-            "match_id": 1090534040,
-            "sport_type": "Football",
-            "event_name": "UEFA International Friendlies",
-            "match_title": "Lithuania vs Latvia - 6 Jun 2026",
-            "home_team": "Lithuania",
-            "away_team": "Latvia",
-            "venue": "Darius and Girėnas Stadium",
-            "status": "LIVE",
-            "start_time_bd": "06:20:00 PM 06-06-2026",
-            "end_time_bd": "11:20:00 PM 06-06-2026",
-            "duration": 0,
-            "broadcast_channel": "Sony Sports Ten 2",
-            "language": "ENG",
-            "resolution": "FULL_HD",
-            "audio_quality": "STEREO",
-            "is_drm_protected": false,
-            "is_geo_blocked": false,
-            "ad_status": "AD SUPPORTED",
-            "description": "Lithuania take on Latvia in a friendly clash as both sides look to build momentum and fine-tune their approach ahead of upcoming challenges. Expect a competitive encounter, with Lithuania’s structured play up against Latvia’s determination and attacking intent. Catch all the action from the International Friendlies, LIVE on Sony LIV.",
-            "seo_tags": "European Qualifiers,2026 FIFA World Cup,FIFA World Cup Qualifiers,UEFA Qualifiers,Football World Cup Qualifiers,European Football Qualifiers,World Cup 2026 Qualifiers,FIFA World Cup 2026,UEFA World Cup Qualifiers,European World Cup Qualifiers,Harry Kane,Kylian Mbappé,Cristiano Ronaldo,Robert Lewandowski,Erling Haaland,2026 FIFA World Cup European Qualifiers Schedule,European Qualifiers for FIFA World Cup 2026,UEFA World Cup Qualifiers 2026 Results,FIFA World Cup 2026 Qualifying Groups,European Football World Cup Qualifiers 2026,2026 World Cup Qualifiers European Teams,FIFA World Cup Qualifiers 2026 European Standings,UEFA World Cup Qualifiers 2026 Fixtures,European Football,UEFA Football,World Cup Qualifiers Europe,European World Cup Qualifying,Football Europe World Cup Qualifiers,England National Team,France National Team,Portugal National Team,Germany National Team,Poland National Team",
-            "image_landscape": "N/A",
-            "image_thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018955/1780281271335461_INT_Friendlies26_Lithuania_vs_Latvia_1jun_landscape_thumb.jpg",
-            "image_tv_bg": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018955/1780281297828461_INT_Friendlies26_Lithuania_vs_Latvia_1jun_tv_bg.jpg",
-            "tournament_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000000507/1742306648095993_EuropeanQualifiers2025_GENERIC_Masthead_logo_LIVE.png",
-            "stream_url": "https://dai.google.com/ssai/event/YGCXa94DRQG1U-7QJtR2SQ/master.m3u8"
         },
         {
             "match_id": 1090534039,
