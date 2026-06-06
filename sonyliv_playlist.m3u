@@ -2,7 +2,7 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 09:30:23 PM 06-06-2026
+# last_update: 10:00:25 PM 06-06-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090529780" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019235/1780611380459295_RG26_Extra_Serve_studio_show_5jun_landscape_thumb.jpg" group-title="Tennis", Roland-Garros 2026 | Day 14 - 6 Jun 2026
 https://dai.google.com/ssai/event/adxneMA9QhOs2WKeGJVvPQ/master.m3u8
@@ -18,12 +18,6 @@ https://dai.google.com/ssai/event/f9S-XIPoTna2JgKFX5SnoA/master.m3u8
 
 #EXTINF:-1 tvg-id="sonyliv-1090534042" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019325/1780699428231373_LIV_Golf_Andalucia_Day3_landscape_thumb.jpg" group-title="Golf", LIV Golf | Andalucia - Day 3 - 6 Jun 2026
 https://dai.google.com/ssai/event/sLHwWsgJSSyiHOcfzXhwUA/master.m3u8
-
-#EXTINF:-1 tvg-id="sonyliv-1090534043" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018951/1780271752774861_DP_World_Tour_KLM_Open_day3_landscape_thumb.jpg" group-title="Golf", DP World Tour | KLM Open - Day 3 - 6 Jun 2026
-https://dai.google.com/ssai/event/pDPKygd_RaSSQPzp4X14vA/master.m3u8
-
-#EXTINF:-1 tvg-id="sonyliv-1090534038" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019247/1780622691600941_INT_Friendlies26_Armenia_vs_Kazakhstan_4jun_landscape_thumb.jpg" group-title="Football", UEFA International Friendlies | Armenia vs Kazakhstan - 6 Jun 2026
-https://dai.google.com/ssai/event/j96j3V0VQNm-l1bH8TE1Lg/master.m3u8
 
 #EXTINF:-1 tvg-id="sonyliv-1090534039" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018955/1780281429197461_INT_Friendlies26_Estonia_vs_Faroe_Islands_1jun_landscape_thumb.jpg" group-title="Football", UEFA International Friendlies | Estonia vs Faroe Islands - 6 Jun 2026
 https://dai.google.com/ssai/event/dlwUN2mSRLCTP3-WcV6rGA/master.m3u8
