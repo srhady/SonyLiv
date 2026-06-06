@@ -2,10 +2,13 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 01:15:18 AM 07-06-2026
+# last_update: 01:30:22 AM 07-06-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090534036" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019247/1780623306451941_INT_Friendlies26_Portugal_vs_Chile_4jun_landscape_thumb.jpg" group-title="Football", UEFA International Friendlies | Portugal vs Chile - 6 Jun 2026
 https://dai.google.com/ssai/event/CPyLkEq0R6yyIwnP91j6mg/master.m3u8
+
+#EXTINF:-1 tvg-id="sonyliv-1090534119" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019247/1780626457324941_INT_Friendlies26_England_VS_New_Zealand_4jun_landscape_thumb.jpg" group-title="Football", UEFA International Friendlies | England vs New Zealand - 7 Jun 2026
+https://dai.google.com/ssai/event/ZnD-wfL1TqCSkRAd9rcttA/master.m3u8
 
 #EXTINF:-1 tvg-id="sonyliv-1090534066" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019230/1780607275257719_VITALITY_BLAST_2026_Durham_vs_Northampton_5jun_landscape_thumb.jpg" group-title="Cricket", Vitality Blast 2026 | Durham vs Northampton - 6 Jun 2026
 https://dai.google.com/ssai/event/k3-2rehzRommKazjfCMXcA/master.m3u8
