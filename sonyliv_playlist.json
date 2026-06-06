@@ -3,7 +3,35 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "12:45:20 PM 06-06-2026"
+        "last_update": "01:00:23 PM 06-06-2026"
     },
-    "live_matches": []
+    "live_matches": [
+        {
+            "match_id": 1090534128,
+            "sport_type": "Cricket",
+            "event_name": "India Tour Of Ireland 2026",
+            "match_title": "Press Conference - 6 Jun 2026",
+            "home_team": "N/A",
+            "away_team": "N/A",
+            "venue": "N/A",
+            "status": "LIVE",
+            "start_time_bd": "01:00:00 PM 06-06-2026",
+            "end_time_bd": "07:00:00 PM 06-06-2026",
+            "duration": 0,
+            "broadcast_channel": "Sony Sports Ten 5",
+            "language": "ENG",
+            "resolution": "FULL_HD",
+            "audio_quality": "STEREO",
+            "is_drm_protected": false,
+            "is_geo_blocked": false,
+            "ad_status": "AD SUPPORTED",
+            "description": "Watch all the action from the press conference of India Tour of Ireland 2026, only on Sony LIV.",
+            "seo_tags": "India tour of Ireland 2026,India vs Ireland 2026,Ind vs Ire 2026,India vs Ireland T20 series 2026,India vs Ireland cricket schedule 2026,India vs Ireland match dates,India tour of Ireland squads 2026,India vs Ireland live streaming,where to watch Ind vs Ire 2026,India vs Ireland Belfast,Stormont Cricket Ground T20,India vs Ireland tickets 2026,BCCI squad announcement 2026,India vs Ireland match prediction,Suryakumar Yadav,Shreyas Iyer,Vaibhav Sooryavanshi,Shubman Gill,Rishabh Pant,Hardik Pandya,Jasprit Bumrah,Arshdeep Singh,Rinku Singh,Yashasvi Jaiswal,Mohammed Siraj,Axar Patel,Sanju Samson,Paul Stirling,Joshua Little,Harry Tector,Lorcan Tucker,Mark Adair,Curtis Campher",
+            "image_landscape": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019288/1780656906000296_Team_India_Selection_Press_Conference_Match_masthead_large_v3_3200x1800.jpg",
+            "image_thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019301/1780681940850934_Team_India_Selection_Press_Conference_landscape_thumb.jpg",
+            "image_tv_bg": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019304/1780682019915469_Team_India_Selection_Press_Conference_tv_Bg.jpg",
+            "tournament_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019288/1780656906000296_Team_India_Selection_Press_Conference_Match_Masthead_logo_LIVE.png",
+            "stream_url": "https://dai.google.com/ssai/event/nnQKrEF4RnCKYMR3Keilsw/master.m3u8"
+        }
+    ]
 }
