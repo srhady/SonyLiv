@@ -3,36 +3,9 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "04:00:23 AM 07-06-2026"
+        "last_update": "04:15:19 AM 07-06-2026"
     },
     "live_matches": [
-        {
-            "match_id": 1090534119,
-            "sport_type": "Football",
-            "event_name": "UEFA International Friendlies",
-            "match_title": "England vs New Zealand - 7 Jun 2026",
-            "home_team": "England",
-            "away_team": "New Zealand ",
-            "venue": "Raymond James Stadium, Tampa",
-            "status": "LIVE",
-            "start_time_bd": "01:20:00 AM 07-06-2026",
-            "end_time_bd": "06:20:00 AM 07-06-2026",
-            "duration": 0,
-            "broadcast_channel": "Sony Sports Ten 2",
-            "language": "ENG",
-            "resolution": "FULL_HD",
-            "audio_quality": "STEREO",
-            "is_drm_protected": false,
-            "is_geo_blocked": false,
-            "ad_status": "AD SUPPORTED",
-            "description": "Catch all the action from the International Friendlies, LIVE on Sony LIV.",
-            "seo_tags": "European Qualifiers,2026 FIFA World Cup,FIFA World Cup Qualifiers,UEFA Qualifiers,Football World Cup Qualifiers,European Football Qualifiers,World Cup 2026 Qualifiers,FIFA World Cup 2026,UEFA World Cup Qualifiers,European World Cup Qualifiers,Harry Kane,Kylian Mbappé,Cristiano Ronaldo,Robert Lewandowski,Erling Haaland,2026 FIFA World Cup European Qualifiers Schedule,European Qualifiers for FIFA World Cup 2026,UEFA World Cup Qualifiers 2026 Results,FIFA World Cup 2026 Qualifying Groups,European Football World Cup Qualifiers 2026,2026 World Cup Qualifiers European Teams,FIFA World Cup Qualifiers 2026 European Standings,UEFA World Cup Qualifiers 2026 Fixtures,European Football,UEFA Football,World Cup Qualifiers Europe,European World Cup Qualifying,Football Europe World Cup Qualifiers,England National Team,France National Team,Portugal National Team,Germany National Team,Poland National Team",
-            "image_landscape": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019350/1780747307974609_InternationalFriendlies_26_Match_masthead_large_v3_3200x1800_England_vs_New_Zealand.jpg",
-            "image_thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019247/1780626457324941_INT_Friendlies26_England_VS_New_Zealand_4jun_landscape_thumb.jpg",
-            "image_tv_bg": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019247/1780626475307941_INT_Friendlies26_England_VS_New_Zealand_4jun_tv_bg.jpg",
-            "tournament_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019350/1780747292900609_InternationalFriendlies_26_Match_Masthead_logo_England_vs_New_Zealand_Live.png",
-            "stream_url": "https://dai.google.com/ssai/event/ZnD-wfL1TqCSkRAd9rcttA/master.m3u8"
-        },
         {
             "match_id": 1090534235,
             "sport_type": "Football",
