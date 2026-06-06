@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "08:00:26 PM 06-06-2026"
+        "last_update": "08:15:21 PM 06-06-2026"
     },
     "live_matches": [
         {
@@ -91,7 +91,7 @@
             "match_id": 1090534018,
             "sport_type": "Cricket",
             "event_name": "Chhattisgarh Cricket Premier League 2026",
-            "match_title": "Raigarh Lions vs Rajnandgaon Panthers - 6 Jun 2026",
+            "match_title": "Bastor Bisons vs Raipur Rhinos - 6 Jun 2026",
             "home_team": "Raigarh Lions ",
             "away_team": "Rajnandgaon Panthers",
             "venue": "Shaheed Veer Narayan Singh International Stadium",
@@ -109,10 +109,10 @@
             "description": "Watch all the live cricketing action from the Chhattisgarh Cricket Premier League 2026 as Raigarh Lions takes on Rajnandgaon Panthers, LIVE on Sony LIV.",
             "seo_tags": "Chhattisgarh Cricket Premier League,Premier League,cricket,CCPL cricket tournament,Chhattisgarh Premier League T20,CCPL 2026,Chhattisgarh Cricket League 2026,CCPL schedule 2026,CCPL fixtures,CCPL results,CCPL points table,CCPL standings,Chhattisgarh cricket tournament live scores,CCPL live streaming,CCPL live telecast,CCPL highlights,Chhattisgarh Premier League teams,CCPL squad 2026,Chhattisgarh cricket players,CCPL top scorers,CCPL top wicket takers,CCPL best players,CCPL match today,CCPL upcoming matches,Chhattisgarh cricket news,CCPL latest updates,CCPL tournament format,CCPL venue Raipur,CCPL cricket stadium,Chhattisgarh domestic cricket league,Indian regional cricket leagues,state T20 leagues India,Cricket live,live Cricket",
             "image_landscape": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019238/1780592044000246_CCPL_2026_match_match_masthead_large_v3_3200x1800_Raigarh_Lions_vs_Rajnandgaon_Panthers.jpg",
-            "image_thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019248/1780630034354886_CCPL26_Raigarh_Lions_vs_Rajnandgaon_Panthers_4jun_landscape_thumb.jpg",
-            "image_tv_bg": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019248/1780630099968886_CCPL26_Raigarh_Lions_vs_Rajnandgaon_Panthers_4jun_tv_bg.jpg",
+            "image_thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019356/1780754570823558_CCPL26_Bastor-Bisons-vs-Raipur-Rhinos_landscape_thumb.jpg",
+            "image_tv_bg": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019356/1780754633735558_CCPL26_Bastor-Bisons-vs-Raipur-Rhinos_tv_bg.jpg",
             "tournament_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019238/1780592044000246_CCPL_2026_match_Masthead_logo_Live.png",
-            "stream_url": "https://dai.google.com/ssai/event/jRQlKg2DQWa70jsLHUtxGA/master.m3u8"
+            "stream_url": "https://dai.google.com/ssai/event/813DDHcDSWWib_FAwAwM0A/master.m3u8"
         },
         {
             "match_id": 1090534017,
