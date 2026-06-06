@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "03:15:19 AM 07-06-2026"
+        "last_update": "03:30:23 AM 07-06-2026"
     },
     "live_matches": [
         {
@@ -34,31 +34,31 @@
             "stream_url": "https://dai.google.com/ssai/event/ZnD-wfL1TqCSkRAd9rcttA/master.m3u8"
         },
         {
-            "match_id": 1090534066,
-            "sport_type": "Cricket",
-            "event_name": "Vitality Blast 2026",
-            "match_title": "Durham vs Northampton - 6 Jun 2026",
-            "home_team": "Durham",
-            "away_team": "Northampton",
-            "venue": "Riverside Ground",
+            "match_id": 1090534235,
+            "sport_type": "Football",
+            "event_name": "UEFA International Friendlies",
+            "match_title": "Turkiye vs Venezuela - 7 Jun 2026",
+            "home_team": "Türkiye",
+            "away_team": "Venezuela",
+            "venue": "Inter Miami CF Stadium ",
             "status": "LIVE",
-            "start_time_bd": "11:30:00 PM 06-06-2026",
-            "end_time_bd": "08:15:00 AM 07-06-2026",
+            "start_time_bd": "03:20:00 AM 07-06-2026",
+            "end_time_bd": "08:20:00 AM 07-06-2026",
             "duration": 0,
-            "broadcast_channel": "Sony Sports Ten 5",
+            "broadcast_channel": "Sony Sports Ten 2",
             "language": "ENG",
             "resolution": "FULL_HD",
             "audio_quality": "STEREO",
             "is_drm_protected": false,
             "is_geo_blocked": false,
             "ad_status": "AD SUPPORTED",
-            "description": "Expect a fierce battle as both powerhouses look to dominate the pitch, promising explosive batting and high-octane T20 action. Catch all the action only on Sony LIV.",
-            "seo_tags": "Vitality Blast T20 tournament,Vitality Blast England cricket,Vitality Blast live updates,Vitality Blast match schedule,Vitality Blast fixtures,Vitality Blast streaming,Vitality Blast teams,Vitality Blast squads,Vitality Blast cricket stats,Vitality Blast points table,Vitality Blast knockout stage,Vitality Blast semi-finals,Vitality Blast final match,Vitality Blast pitch report,Vitality Blast player rankings,Vitality Blast fantasy cricket,Vitality Blast cricket predictions,Vitality Blast head-to-head,Vitality Blast match preview,Vitality Blast cricket commentary,Vitality Blast latest results,Vitality Blast cricket experts,Vitality Blast cricket insights,Keaton Jennings,Ryan Higgins,James Coles,Miles Hammond,David Payne,Benny Howell,Sam Billings,Daniel Bell-Drummond,Fred Klaassen,Liam Livingstone,Moeen Ali,Alex Hales,Shaheen Shah Afridi,Joe Root,Dawid Malan,Stuart Broad",
-            "image_landscape": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019110/1780482346990817_Vitality_Blast_2026_Match_masthead_large_v3_3200x1800_Durham_vs_Northampton.jpg",
-            "image_thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019230/1780607275257719_VITALITY_BLAST_2026_Durham_vs_Northampton_5jun_landscape_thumb.jpg",
-            "image_tv_bg": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019230/1780607528171719_VITALITY_BLAST_2026_Durham_vs_Northampton_5jun_tv_Bg.jpg",
-            "tournament_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019110/1780482347178817_Vitality_Blast_2026_Match_Masthead_logo_Durham_vs_Northampton_Live.png",
-            "stream_url": "https://dai.google.com/ssai/event/k3-2rehzRommKazjfCMXcA/master.m3u8"
+            "description": "Catch all the action from the International Friendlies, LIVE on Sony LIV.",
+            "seo_tags": "European Qualifiers,2026 FIFA World Cup,FIFA World Cup Qualifiers,UEFA Qualifiers,Football World Cup Qualifiers,European Football Qualifiers,World Cup 2026 Qualifiers,FIFA World Cup 2026,UEFA World Cup Qualifiers,European World Cup Qualifiers,Harry Kane,Kylian Mbappé,Cristiano Ronaldo,Robert Lewandowski,Erling Haaland,2026 FIFA World Cup European Qualifiers Schedule,European Qualifiers for FIFA World Cup 2026,UEFA World Cup Qualifiers 2026 Results,FIFA World Cup 2026 Qualifying Groups,European Football World Cup Qualifiers 2026,2026 World Cup Qualifiers European Teams,FIFA World Cup Qualifiers 2026 European Standings,UEFA World Cup Qualifiers 2026 Fixtures,European Football,UEFA Football,World Cup Qualifiers Europe,European World Cup Qualifying,Football Europe World Cup Qualifiers,England National Team,France National Team,Portugal National Team,Germany National Team,Poland National Team",
+            "image_landscape": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019350/1780747309732609_InternationalFriendlies_26_Match_masthead_large_v3_3200x1800_Turkiye_vs_Venezuela.jpg",
+            "image_thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019247/1780627099108940_INT_Friendlies26_Turkiye_vs_Venezuela_4jun_landscape_thumb.jpg",
+            "image_tv_bg": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019247/1780627125274940_INT_Friendlies26_Turkiye_vs_Venezuela_4jun_tv_bg.jpg",
+            "tournament_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019351/1780747293146278_InternationalFriendlies_26_Match_Masthead_logo_Turkiye_vs_Venezuela_Live.png",
+            "stream_url": "https://dai.google.com/ssai/event/xq7h_HJVS7mEliIeK8sjnQ/master.m3u8"
         }
     ]
 }
