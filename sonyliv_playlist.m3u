@@ -2,13 +2,10 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 02:30:30 PM 06-06-2026
+# last_update: 02:45:21 PM 06-06-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090529780" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019235/1780611380459295_RG26_Extra_Serve_studio_show_5jun_landscape_thumb.jpg" group-title="Tennis", Roland-Garros 2026 | Day 14 - 6 Jun 2026
 https://dai.google.com/ssai/event/adxneMA9QhOs2WKeGJVvPQ/master.m3u8
-
-#EXTINF:-1 tvg-id="sonyliv-1090534128" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019301/1780681940850934_Team_India_Selection_Press_Conference_landscape_thumb.jpg" group-title="Cricket", India Tour Of Ireland 2026 | Press Conference - 6 Jun 2026
-https://dai.google.com/ssai/event/nnQKrEF4RnCKYMR3Keilsw/master.m3u8
 
 #EXTINF:-1 tvg-id="sonyliv-1090534017" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019322/1780694539781309_SVNS_World_Championship26_Session1_mens_Match_4jun_landscape_thumb.jpg" group-title="Rugby", HSBC SVNS Bordeaux 2026 | Session 1 - Men's Match - 6 Jun 2026
 https://dai.google.com/ssai/event/f9S-XIPoTna2JgKFX5SnoA/master.m3u8
