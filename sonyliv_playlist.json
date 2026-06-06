@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "08:30:22 PM 06-06-2026"
+        "last_update": "08:45:18 PM 06-06-2026"
     },
     "live_matches": [
         {
@@ -97,7 +97,7 @@
             "venue": "Shaheed Veer Narayan Singh International Stadium",
             "status": "LIVE",
             "start_time_bd": "02:50:00 PM 06-06-2026",
-            "end_time_bd": "11:35:00 PM 06-06-2026",
+            "end_time_bd": "04:05:00 AM 07-06-2026",
             "duration": 0,
             "broadcast_channel": "Sony Sports Ten 3",
             "language": "HIN",
