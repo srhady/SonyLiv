@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "03:00:25 AM 07-06-2026"
+        "last_update": "03:15:19 AM 07-06-2026"
     },
     "live_matches": [
         {
@@ -59,33 +59,6 @@
             "image_tv_bg": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019230/1780607528171719_VITALITY_BLAST_2026_Durham_vs_Northampton_5jun_tv_Bg.jpg",
             "tournament_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019110/1780482347178817_Vitality_Blast_2026_Match_Masthead_logo_Durham_vs_Northampton_Live.png",
             "stream_url": "https://dai.google.com/ssai/event/k3-2rehzRommKazjfCMXcA/master.m3u8"
-        },
-        {
-            "match_id": 1090534118,
-            "sport_type": "Football",
-            "event_name": "UEFA International Friendlies",
-            "match_title": "Switzerland vs Australia - 7 Jun 2026",
-            "home_team": "Switzerland ",
-            "away_team": "Australia ",
-            "venue": "Snapdragon Stadium, San Dieg",
-            "status": "LIVE",
-            "start_time_bd": "12:20:00 AM 07-06-2026",
-            "end_time_bd": "05:20:00 AM 07-06-2026",
-            "duration": 0,
-            "broadcast_channel": "Sony Sports Ten 2",
-            "language": "ENG",
-            "resolution": "FULL_HD",
-            "audio_quality": "STEREO",
-            "is_drm_protected": false,
-            "is_geo_blocked": false,
-            "ad_status": "AD SUPPORTED",
-            "description": "Catch all the action from the International Friendlies, LIVE on Sony LIV.",
-            "seo_tags": "European Qualifiers,2026 FIFA World Cup,FIFA World Cup Qualifiers,UEFA Qualifiers,Football World Cup Qualifiers,European Football Qualifiers,World Cup 2026 Qualifiers,FIFA World Cup 2026,UEFA World Cup Qualifiers,European World Cup Qualifiers,Harry Kane,Kylian Mbappé,Cristiano Ronaldo,Robert Lewandowski,Erling Haaland,2026 FIFA World Cup European Qualifiers Schedule,European Qualifiers for FIFA World Cup 2026,UEFA World Cup Qualifiers 2026 Results,FIFA World Cup 2026 Qualifying Groups,European Football World Cup Qualifiers 2026,2026 World Cup Qualifiers European Teams,FIFA World Cup Qualifiers 2026 European Standings,UEFA World Cup Qualifiers 2026 Fixtures,European Football,UEFA Football,World Cup Qualifiers Europe,European World Cup Qualifying,Football Europe World Cup Qualifiers,England National Team,France National Team,Portugal National Team,Germany National Team,Poland National Team",
-            "image_landscape": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019350/1780747309153609_InternationalFriendlies_26_Match_masthead_large_v3_3200x1800_Switzerland_vs_Australia.jpg",
-            "image_thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019247/1780625947353940_INT_Friendlies26_Switzerland_vs_Australia_4jun_landscape_thumb.jpg",
-            "image_tv_bg": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019247/1780625967686940_INT_Friendlies26_Switzerland_vs_Australia_4jun_tv_bg.jpg",
-            "tournament_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019351/1780747293137278_InternationalFriendlies_26_Match_Masthead_logo_Switzerland_vs_Australia_Live.png",
-            "stream_url": "https://dai.google.com/ssai/event/pBx_vqLkQuS62_X9rlAWrw/master.m3u8"
         }
     ]
 }

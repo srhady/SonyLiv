@@ -2,13 +2,10 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 03:00:25 AM 07-06-2026
+# last_update: 03:15:19 AM 07-06-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090534119" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019247/1780626457324941_INT_Friendlies26_England_VS_New_Zealand_4jun_landscape_thumb.jpg" group-title="Football", UEFA International Friendlies | England vs New Zealand - 7 Jun 2026
 https://dai.google.com/ssai/event/ZnD-wfL1TqCSkRAd9rcttA/master.m3u8
 
 #EXTINF:-1 tvg-id="sonyliv-1090534066" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019230/1780607275257719_VITALITY_BLAST_2026_Durham_vs_Northampton_5jun_landscape_thumb.jpg" group-title="Cricket", Vitality Blast 2026 | Durham vs Northampton - 6 Jun 2026
 https://dai.google.com/ssai/event/k3-2rehzRommKazjfCMXcA/master.m3u8
-
-#EXTINF:-1 tvg-id="sonyliv-1090534118" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019247/1780625947353940_INT_Friendlies26_Switzerland_vs_Australia_4jun_landscape_thumb.jpg" group-title="Football", UEFA International Friendlies | Switzerland vs Australia - 7 Jun 2026
-https://dai.google.com/ssai/event/pBx_vqLkQuS62_X9rlAWrw/master.m3u8
