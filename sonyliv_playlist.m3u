@@ -2,7 +2,7 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 12:45:17 AM 07-06-2026
+# last_update: 01:00:26 AM 07-06-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090534036" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019247/1780623306451941_INT_Friendlies26_Portugal_vs_Chile_4jun_landscape_thumb.jpg" group-title="Football", UEFA International Friendlies | Portugal vs Chile - 6 Jun 2026
 https://dai.google.com/ssai/event/CPyLkEq0R6yyIwnP91j6mg/master.m3u8
@@ -16,11 +16,5 @@ https://dai.google.com/ssai/event/pBx_vqLkQuS62_X9rlAWrw/master.m3u8
 #EXTINF:-1 tvg-id="sonyliv-1090534035" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019247/1780623396404940_INT_Friendlies26_Romania_vs_Wales_4jun_landscape_thumb.jpg" group-title="Football", UEFA International Friendlies | Romania vs Wales - 6 Jun 2026
 https://dai.google.com/ssai/event/ePIgSYDiQ1mrJnvwAVYJ1A/master.m3u8
 
-#EXTINF:-1 tvg-id="sonyliv-1090534017" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019322/1780694634028309_SVNS_World_Championship26_Session4_mens_and_womens_Match_4jun_landscape_thumb.jpg" group-title="Rugby", HSBC SVNS Bordeaux 2026 | Session 4 - Men's & Women's  Match - 6 Jun 2026
-https://dai.google.com/ssai/event/f9S-XIPoTna2JgKFX5SnoA/master.m3u8
-
 #EXTINF:-1 tvg-id="sonyliv-1090534034" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019247/1780623504833940_INT_Friendlies26_Albania_vs_Luxembourg_4jun_landscape_thumb.jpg" group-title="Football", UEFA International Friendlies | Albania vs Luxembourg - 6 Jun 2026
 https://dai.google.com/ssai/event/I5SFBeq7THGsIIwTbR6bcQ/master.m3u8
-
-#EXTINF:-1 tvg-id="sonyliv-1090534037" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019247/1780623035225941_INT_Friendlies26_Gibraltar_vs_Cayman_Islands_4jun_landscape_thumb.jpg" group-title="Football", UEFA International Friendlies | Gibraltar vs Cayman Islands - 6 Jun 2026
-https://dai.google.com/ssai/event/KqsXcdR0Ta2-bgmQzgV55A/master.m3u8
