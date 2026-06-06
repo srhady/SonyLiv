@@ -2,10 +2,13 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 02:45:21 PM 06-06-2026
+# last_update: 03:00:24 PM 06-06-2026
 
-#EXTINF:-1 tvg-id="sonyliv-1090529780" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019235/1780611380459295_RG26_Extra_Serve_studio_show_5jun_landscape_thumb.jpg" group-title="Tennis", Roland-Garros 2026 | Day 14 - 6 Jun 2026
+#EXTINF:-1 tvg-id="sonyliv-1090529780" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019328/178070748226448_RG26_final_mens_doubles_Granollers_Zeballos_vs_Heliovaara_Patten_6jun_SP_landscape_thumb.jpg" group-title="Tennis", Roland-Garros 2026 | Granollers/Zeballos vs Heliovaara/Patten - Final - 6 Jun 2026
 https://dai.google.com/ssai/event/adxneMA9QhOs2WKeGJVvPQ/master.m3u8
+
+#EXTINF:-1 tvg-id="sonyliv-1090534018" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019248/1780630034354886_CCPL26_Raigarh_Lions_vs_Rajnandgaon_Panthers_4jun_landscape_thumb.jpg" group-title="Cricket", Chhattisgarh Cricket Premier League 2026 | Raigarh Lions vs Rajnandgaon Panthers - 6 Jun 2026
+https://dai.google.com/ssai/event/jRQlKg2DQWa70jsLHUtxGA/master.m3u8
 
 #EXTINF:-1 tvg-id="sonyliv-1090534017" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019322/1780694539781309_SVNS_World_Championship26_Session1_mens_Match_4jun_landscape_thumb.jpg" group-title="Rugby", HSBC SVNS Bordeaux 2026 | Session 1 - Men's Match - 6 Jun 2026
 https://dai.google.com/ssai/event/f9S-XIPoTna2JgKFX5SnoA/master.m3u8
