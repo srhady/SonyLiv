@@ -2,7 +2,7 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 08:45:20 PM 07-06-2026
+# last_update: 09:00:25 PM 07-06-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090529780" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019367/1780762274148840_RG26_final_mens_cobolli_vs_zverev_6jun_SP_landscape_thumb.jpg" group-title="Tennis", Roland-Garros 2026 | Flavio Cobolli vs Alexander Zverev - Final - 7 Jun 2026
 https://dai.google.com/ssai/event/H51kS5XGQ5qSSs2hPgRGgA/master.m3u8
@@ -12,9 +12,6 @@ https://dai.google.com/ssai/event/7KhHqtvHRv-K5sWcICQjGw/master.m3u8
 
 #EXTINF:-1 tvg-id="sonyliv-1090534226" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019323/1780695609338705_SVNS_World_Championship26_Session4_3rd_Position_and_final_4jun_landscape_thumb.jpg" group-title="Rugby", HSBC SVNS Bordeaux 2026 | Session 4 - 3rd Position & Final - 7 Jun 2026
 https://dai.google.com/ssai/event/h-6GJBH2TweED39pQl26yg/master.m3u8
-
-#EXTINF:-1 tvg-id="sonyliv-1090534120" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019247/1780623632094941_INT_Friendlies26_Liechtenstein_vs_Cyprus_4jun_landscape_thumb.jpg" group-title="Football", UEFA International Friendlies | Liechtenstein vs Cyprus - 7 Jun 2026
-https://dai.google.com/ssai/event/F3RalrquRASqVxe8L1b24w/master.m3u8
 
 #EXTINF:-1 tvg-id="sonyliv-1090534215" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018951/1780271759861861_DP_World_Tour_KLM_Open_day4_landscape_thumb.jpg" group-title="Golf", DP World Tour | KLM Open - Day 4 - 7 Jun 2026
 https://dai.google.com/ssai/event/d0oBqiCqSkGDp4wRsUIxqA/master.m3u8
