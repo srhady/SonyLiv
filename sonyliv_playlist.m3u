@@ -2,7 +2,7 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 10:30:23 PM 07-06-2026
+# last_update: 10:45:20 PM 07-06-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090529780" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019367/1780762274148840_RG26_final_mens_cobolli_vs_zverev_6jun_SP_landscape_thumb.jpg" group-title="Tennis", Roland-Garros 2026 | Flavio Cobolli vs Alexander Zverev - Final - 7 Jun 2026
 https://dai.google.com/ssai/event/H51kS5XGQ5qSSs2hPgRGgA/master.m3u8
@@ -12,9 +12,6 @@ https://dai.google.com/ssai/event/X3j0O-G-QEaPSp8yNcP9Jg/master.m3u8
 
 #EXTINF:-1 tvg-id="sonyliv-1090534263" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019397/1780834316817980_CCPL26_Raigarh_Lions_vs_Bilaspur_Bulls_landscape_thumb.jpg" group-title="Cricket", Chhattisgarh Cricket Premier League 2026 | Raigarh Lions vs Bilaspur Bulls - 7 Jun 2026
 https://dai.google.com/ssai/event/7KhHqtvHRv-K5sWcICQjGw/master.m3u8
-
-#EXTINF:-1 tvg-id="sonyliv-1090534226" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019323/1780695609338705_SVNS_World_Championship26_Session4_3rd_Position_and_final_4jun_landscape_thumb.jpg" group-title="Rugby", HSBC SVNS Bordeaux 2026 | Session 4 - 3rd Position & Final - 7 Jun 2026
-https://dai.google.com/ssai/event/h-6GJBH2TweED39pQl26yg/master.m3u8
 
 #EXTINF:-1 tvg-id="sonyliv-1090534214" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019325/1780699436460373_LIV_Golf_Andalucia_Day4_landscape_thumb.jpg" group-title="Golf", LIV Golf | Andalucia - Day 4 - 7 Jun 2026
 https://dai.google.com/ssai/event/Myr-ILIeTBy_ZpY8gtoaRQ/master.m3u8
