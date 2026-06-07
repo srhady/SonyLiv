@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "03:15:19 PM 07-06-2026"
+        "last_update": "03:30:23 PM 07-06-2026"
     },
     "live_matches": [
         {
@@ -32,6 +32,33 @@
             "image_tv_bg": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019327/1780704786784921_RG26_final_womens_doubles_Siniakova_Townsend_vs_Krunic_Danilina_6jun_SP_tv_bg.jpg",
             "tournament_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018233/177953448961832_Roland_Garros_2026_GOB_match_Masthead_logo_LIVE.png",
             "stream_url": "https://dai.google.com/ssai/event/H51kS5XGQ5qSSs2hPgRGgA/master.m3u8"
+        },
+        {
+            "match_id": 1090534282,
+            "sport_type": "Cricket",
+            "event_name": "New Zealand Tour of England 2026",
+            "match_title": "1st Test - Day 4 - 7 Jun 2026 ",
+            "home_team": "England ",
+            "away_team": "New Zealand ",
+            "venue": "Lord's Cricket Stadium",
+            "status": "LIVE",
+            "start_time_bd": "03:30:00 PM 07-06-2026",
+            "end_time_bd": "03:30:00 AM 08-06-2026",
+            "duration": 0,
+            "broadcast_channel": "Sony Sports Ten 5",
+            "language": "ENG",
+            "resolution": "FULL_HD",
+            "audio_quality": "STEREO",
+            "is_drm_protected": false,
+            "is_geo_blocked": false,
+            "ad_status": "AD SUPPORTED",
+            "description": "England face New Zealand in the opening Test at Lord’s, a landmark occasion as the venue hosts its 150th Test. The hosts are eager to recover from their Ashes setback, while the visitors arrive brimming with confidence after dismantling Ireland. Which team will prevail? Catch all the action from the New Zealand Tour of England 2026, LIVE on Sony LIV.",
+            "seo_tags": "new zealand tour of england,new zealand test series,england vs new zealand,eng vs nz test,eng vs nz,New Zealand Tour of England,ENG vs NZ live score,England vs New Zealand highlights,ENG vs NZ Test match updates,England vs New Zealand cricket news,ENG vs NZ day 1 scorecard,England vs New Zealand Test series,ENG vs NZ match result,England vs New Zealand playing XI,ENG vs NZ toss result,England vs New Zealand live streaming,ENG vs NZ Test match stats,England vs New Zealand head to head,ENG vs NZ match schedule,England vs New Zealand scorecard,ENG vs NZ Test match venue,Joe Root,Devon Conway,Kyle Jamieson,Daryl Mitchell,Ollie Robinson,Tom Latham",
+            "image_landscape": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019162/1780560250737546_England_vs_New_Zealand_2026_match_masthead_large_v3_3200x1800_1st_test.jpg",
+            "image_thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019157/1780552937299512_ENGvsNZ_1Test_day4_live_4june_landscape_thumb.jpg",
+            "image_tv_bg": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019157/1780552982539512_ENGvsNZ_1Test_4june_tv_bg.jpg",
+            "tournament_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019193/1780585654141304_England_Women_vs_New_Zealand_Women_2026_match_Masthead_logo_1st_test_live_Day_4.png",
+            "stream_url": "https://dai.google.com/ssai/event/ahLdkaRoSWavrsFLPU8THA/master.m3u8"
         },
         {
             "match_id": 1090534263,
