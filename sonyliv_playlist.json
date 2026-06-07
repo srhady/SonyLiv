@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "11:15:18 PM 07-06-2026"
+        "last_update": "11:30:22 PM 07-06-2026"
     },
     "live_matches": [
         {
@@ -88,31 +88,31 @@
             "stream_url": "https://dai.google.com/ssai/event/7KhHqtvHRv-K5sWcICQjGw/master.m3u8"
         },
         {
-            "match_id": 1090534214,
-            "sport_type": "Golf",
-            "event_name": "LIV Golf",
-            "match_title": "Andalucia - Day 4 - 7 Jun 2026",
-            "home_team": "N/A",
-            "away_team": "N/A",
-            "venue": "Real Club Valderrama",
+            "match_id": 1090534249,
+            "sport_type": "Football",
+            "event_name": "UEFA International Friendlies",
+            "match_title": "Kosovo vs  Andorra - 7 Jun 2026",
+            "home_team": "Kosovo",
+            "away_team": "Andorra",
+            "venue": "Stadiumi Fadil Vokrri",
             "status": "LIVE",
-            "start_time_bd": "04:30:00 PM 07-06-2026",
-            "end_time_bd": "02:30:00 AM 08-06-2026",
+            "start_time_bd": "11:20:00 PM 07-06-2026",
+            "end_time_bd": "04:20:00 AM 08-06-2026",
             "duration": 0,
-            "broadcast_channel": "LIV",
+            "broadcast_channel": "Sony Sports Ten 2",
             "language": "ENG",
             "resolution": "FULL_HD",
             "audio_quality": "STEREO",
             "is_drm_protected": false,
             "is_geo_blocked": false,
             "ad_status": "AD SUPPORTED",
-            "description": "Catch all Day 4 action from the LIV Golf Andalucia, live on Sony LIV.",
-            "seo_tags": "LIV Golf,LIV Golf League,LIV Golf schedule,LIV Golf players,LIV Golf teams,LIV Golf leaderboard,LIV Golf standings,LIV Golf news,LIV Golf results,LIV Golf highlights,LIV Golf tournament,LIV Golf events,LIV Golf rankings,LIV Golf prize money,LIV Golf vs PGA Tour,LIV Golf format,LIV Golf venues,LIV Golf contracts,LIV Golf live stream,LIV Golf updates,LIV Golf 2026,LIV Golf season,LIV Golf tickets,LIV Golf broadcast",
+            "description": "Catch all the action from the International Friendlies, LIVE on Sony LIV.",
+            "seo_tags": "European Qualifiers,2026 FIFA World Cup,FIFA World Cup Qualifiers,UEFA Qualifiers,Football World Cup Qualifiers,European Football Qualifiers,World Cup 2026 Qualifiers,FIFA World Cup 2026,UEFA World Cup Qualifiers,European World Cup Qualifiers,Harry Kane,Kylian Mbappé,Cristiano Ronaldo,Robert Lewandowski,Erling Haaland,2026 FIFA World Cup European Qualifiers Schedule,European Qualifiers for FIFA World Cup 2026,UEFA World Cup Qualifiers 2026 Results,FIFA World Cup 2026 Qualifying Groups,European Football World Cup Qualifiers 2026,2026 World Cup Qualifiers European Teams,FIFA World Cup Qualifiers 2026 European Standings,UEFA World Cup Qualifiers 2026 Fixtures,European Football,UEFA Football,World Cup Qualifiers Europe,European World Cup Qualifying,Football Europe World Cup Qualifiers,England National Team,France National Team,Portugal National Team,Germany National Team,Poland National Team",
             "image_landscape": "N/A",
-            "image_thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019325/1780699436460373_LIV_Golf_Andalucia_Day4_landscape_thumb.jpg",
-            "image_tv_bg": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019128/1780505924119454_LIV_Golf_Andalucia_tv_Bg.jpg",
+            "image_thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019368/1780763060638103_INT_Friendlies26_Kosovo_vs_Andora_6jun_landscape_thumb.jpg",
+            "image_tv_bg": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019368/1780763144419103_INT_Friendlies26_Kosovo_vs_Andora_6jun_tv_bg.jpg",
             "tournament_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000000507/1742306648095993_EuropeanQualifiers2025_GENERIC_Masthead_logo_LIVE.png",
-            "stream_url": "https://dai.google.com/ssai/event/Myr-ILIeTBy_ZpY8gtoaRQ/master.m3u8"
+            "stream_url": "https://dai.google.com/ssai/event/UIOz_TESSFeaptBmSg8_dA/master.m3u8"
         }
     ]
 }
