@@ -2,13 +2,10 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 01:45:20 AM 08-06-2026
+# last_update: 02:00:24 AM 08-06-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090534251" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019247/1780623998568941_INT_Friendlies26_Greece_vs_Italy_4jun_landscape_thumb.jpg" group-title="Football", UEFA International Friendlies | Greece vs Italy - 8 Jun 2026
 https://dai.google.com/ssai/event/x0hhXslBTViNCWktNoZg5A/master.m3u8
 
 #EXTINF:-1 tvg-id="sonyliv-1090534250" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019247/1780623891420941_INT_Friendlies26_Croatia_vs_Slovenia_4jun_landscape_thumb.jpg" group-title="Football", UEFA International Friendlies | Croatia vs Slovenia - 8 Jun 2026
 https://dai.google.com/ssai/event/xq7h_HJVS7mEliIeK8sjnQ/master.m3u8
-
-#EXTINF:-1 tvg-id="sonyliv-1090534249" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019409/1780853572297759_INT_Friendlies26_Kosovo_vs_Andorra_6jun_landscape_thumb.jpg" group-title="Football", UEFA International Friendlies | Kosovo vs  Andorra - 7 Jun 2026
-https://dai.google.com/ssai/event/UIOz_TESSFeaptBmSg8_dA/master.m3u8
