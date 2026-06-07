@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "09:45:19 PM 07-06-2026"
+        "last_update": "10:00:27 PM 07-06-2026"
     },
     "live_matches": [
         {
@@ -32,6 +32,33 @@
             "image_tv_bg": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019367/1780762605179840_RG26_final_mens_cobolli_vs_zverev_6jun_SP_tv_bg.jpg",
             "tournament_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018233/177953448961832_Roland_Garros_2026_GOB_match_Masthead_logo_LIVE.png",
             "stream_url": "https://dai.google.com/ssai/event/H51kS5XGQ5qSSs2hPgRGgA/master.m3u8"
+        },
+        {
+            "match_id": 1090534121,
+            "sport_type": "Football",
+            "event_name": "UEFA International Friendlies",
+            "match_title": "Denmark vs Ukraine - 7 Jun 2026",
+            "home_team": "Denmark",
+            "away_team": " Ukrain",
+            "venue": " Odense",
+            "status": "LIVE",
+            "start_time_bd": "09:50:00 PM 07-06-2026",
+            "end_time_bd": "02:50:00 AM 08-06-2026",
+            "duration": 0,
+            "broadcast_channel": "Sony Sports Ten 2",
+            "language": "ENG",
+            "resolution": "FULL_HD",
+            "audio_quality": "STEREO",
+            "is_drm_protected": false,
+            "is_geo_blocked": false,
+            "ad_status": "AD SUPPORTED",
+            "description": "Denmark take on Ukraine in a friendly clash as both sides look to fine-tune preparations with a blend of tactical discipline, technical quality, and attacking ambition. Expect an engaging contest, with Denmark’s structured approach matched against Ukraine’s creativity and direct attacking threat. Catch all the action from the International Friendlies, LIVE on Sony LIV.",
+            "seo_tags": "European Qualifiers,2026 FIFA World Cup,FIFA World Cup Qualifiers,UEFA Qualifiers,Football World Cup Qualifiers,European Football Qualifiers,World Cup 2026 Qualifiers,FIFA World Cup 2026,UEFA World Cup Qualifiers,European World Cup Qualifiers,Harry Kane,Kylian Mbappé,Cristiano Ronaldo,Robert Lewandowski,Erling Haaland,2026 FIFA World Cup European Qualifiers Schedule,European Qualifiers for FIFA World Cup 2026,UEFA World Cup Qualifiers 2026 Results,FIFA World Cup 2026 Qualifying Groups,European Football World Cup Qualifiers 2026,2026 World Cup Qualifiers European Teams,FIFA World Cup Qualifiers 2026 European Standings,UEFA World Cup Qualifiers 2026 Fixtures,European Football,UEFA Football,World Cup Qualifiers Europe,European World Cup Qualifying,Football Europe World Cup Qualifiers,England National Team,France National Team,Portugal National Team,Germany National Team,Poland National Team",
+            "image_landscape": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019350/1780747307689609_InternationalFriendlies_26_Match_masthead_large_v3_3200x1800_Denmark_vs_Ukraine.jpg",
+            "image_thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019247/1780623779723941_INT_Friendlies26_Denmark_vs_Ukraine_4jun_landscape_thumb.jpg",
+            "image_tv_bg": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019247/1780623799139941_INT_Friendlies26_Denmark_vs_Ukraine_4jun_tv_bg.jpg",
+            "tournament_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019350/1780747292880609_InternationalFriendlies_26_Match_Masthead_logo_Denmark_vs_Ukraine_Live.png",
+            "stream_url": "https://dai.google.com/ssai/event/X3j0O-G-QEaPSp8yNcP9Jg/master.m3u8"
         },
         {
             "match_id": 1090534263,
@@ -86,33 +113,6 @@
             "image_tv_bg": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019232/1780609889313930_SVNS_World_Championship26_4jun_tv_bg.jpg",
             "tournament_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019237/178059191000029_SVNS_World_Championship_2026_GOB_Masthead_logo_LIVE.png",
             "stream_url": "https://dai.google.com/ssai/event/h-6GJBH2TweED39pQl26yg/master.m3u8"
-        },
-        {
-            "match_id": 1090534215,
-            "sport_type": "Golf",
-            "event_name": "DP World Tour",
-            "match_title": "KLM Open - Day 4 - 7 Jun 2026",
-            "home_team": "N/A",
-            "away_team": "N/A",
-            "venue": "The International",
-            "status": "LIVE",
-            "start_time_bd": "04:00:00 PM 07-06-2026",
-            "end_time_bd": "02:00:00 AM 08-06-2026",
-            "duration": 0,
-            "broadcast_channel": "LIV",
-            "language": "ENG",
-            "resolution": "FULL_HD",
-            "audio_quality": "STEREO",
-            "is_drm_protected": false,
-            "is_geo_blocked": false,
-            "ad_status": "AD SUPPORTED",
-            "description": "Watch all the action from KLM Open Day 4, LIVE on Sony LIV.",
-            "seo_tags": "N/A",
-            "image_landscape": "N/A",
-            "image_thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018951/1780271759861861_DP_World_Tour_KLM_Open_day4_landscape_thumb.jpg",
-            "image_tv_bg": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018951/1780271714609861_DP_World_Tour_KLM_Open_day4_tv_bg.jpg",
-            "tournament_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000000507/1742306648095993_EuropeanQualifiers2025_GENERIC_Masthead_logo_LIVE.png",
-            "stream_url": "https://dai.google.com/ssai/event/d0oBqiCqSkGDp4wRsUIxqA/master.m3u8"
         },
         {
             "match_id": 1090534214,
