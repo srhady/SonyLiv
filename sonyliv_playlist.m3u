@@ -2,10 +2,7 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 12:45:17 AM 08-06-2026
-
-#EXTINF:-1 tvg-id="sonyliv-1090529780" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019235/1780611380459295_RG26_Extra_Serve_studio_show_5jun_landscape_thumb.jpg" group-title="Tennis", Roland-Garros 2026 | Final - 7 Jun 2026
-https://dai.google.com/ssai/event/H51kS5XGQ5qSSs2hPgRGgA/master.m3u8
+# last_update: 01:00:26 AM 08-06-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090534251" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019247/1780623998568941_INT_Friendlies26_Greece_vs_Italy_4jun_landscape_thumb.jpg" group-title="Football", UEFA International Friendlies | Greece vs Italy - 8 Jun 2026
 https://dai.google.com/ssai/event/x0hhXslBTViNCWktNoZg5A/master.m3u8
