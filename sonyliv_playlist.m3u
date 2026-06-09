@@ -2,16 +2,19 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 11:15:24 PM 09-06-2026
+# last_update: 11:30:25 PM 09-06-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090534434" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019418/178086321650285_CCPL26_Raipur_Rhinos_vs_Raigarh_Lions_landscape_thumb.jpg" group-title="Cricket", Chhattisgarh Cricket Premier League 2026 | Raipur Rhinos vs Raigarh Lions - 9 Jun 2026
 https://dai.google.com/ssai/event/5uT8FTtEQ8CSr75Rnh7fVQ/master.m3u8
 
+#EXTINF:-1 tvg-id="sonyliv-1090534474" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019230/1780608006324719_VITALITY_BLAST_2026_Essex_vs_Kent_5jun_landscape_thumb.jpg" group-title="Cricket", Vitality Blast 2026 | Essex vs Kent - 9 Jun 2026
+https://dai.google.com/ssai/event/Jh7uKPjJT5ew26R51u2hLg/master.m3u8
+
 #EXTINF:-1 tvg-id="sonyliv-1090534458" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019247/1780624461373941_INT_Friendlies26_Hungary_vs_Kazakhstan_4jun_landscape_thumb.jpg" group-title="Football", UEFA International Friendlies | Hungary vs Kazakhstan  - 9 Jun 2026
 https://dai.google.com/ssai/event/ahLdkaRoSWavrsFLPU8THA/master.m3u8
 
-#EXTINF:-1 tvg-id="sonyliv-1090534456" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019247/1780624346659941_INT_Friendlies26_Armenia_vs_Moldova_4jun_landscape_thumb.jpg" group-title="Football", UEFA International Friendlies | Armenia vs Moldova  - 9 Jun 2026
-https://dai.google.com/ssai/event/5pjeNU0iTZWl6XQMSLJ_GA/master.m3u8
-
 #EXTINF:-1 tvg-id="sonyliv-1090534457" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019247/1780627874146941_INT_Friendlies26_Belarus_vs_Burkina_Faso_4jun_landscape_thumb.jpg" group-title="Football", UEFA International Friendlies | Belarus vs Burkina Faso  - 9 Jun 2026
 https://dai.google.com/ssai/event/q8r8RIRsRpS9P1T4Wq1dBA/master.m3u8
+
+#EXTINF:-1 tvg-id="sonyliv-1090534459" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019247/1780625329802941_INT_Friendlies26_Azerbaijan_vs_San_Marino_4jun_landscape_thumb.jpg" group-title="Football", UEFA International Friendlies | Azerbaijan vs San Marino - 9 Jun 2026
+https://dai.google.com/ssai/event/h-6GJBH2TweED39pQl26yg/master.m3u8
