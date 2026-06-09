@@ -3,9 +3,36 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "09:30:23 AM 09-06-2026"
+        "last_update": "09:45:19 AM 09-06-2026"
     },
     "live_matches": [
+        {
+            "match_id": 1090534410,
+            "sport_type": "Cricket",
+            "event_name": "Talent TV Cup",
+            "match_title": "Sri Lanka A vs India A - 9 Jun 2026",
+            "home_team": "Sri Lanka A",
+            "away_team": "India A",
+            "venue": "Rangiri Dambulla International Stadium",
+            "status": "LIVE",
+            "start_time_bd": "09:40:00 AM 09-06-2026",
+            "end_time_bd": "10:40:00 PM 09-06-2026",
+            "duration": 0,
+            "broadcast_channel": "Sony Sports Ten 1",
+            "language": "ENG",
+            "resolution": "FULL_HD",
+            "audio_quality": "STEREO",
+            "is_drm_protected": false,
+            "is_geo_blocked": false,
+            "ad_status": "AD SUPPORTED",
+            "description": "The Talent TV Cup kicks off with an exciting clash between India A and Sri Lanka A, setting the tone for the tri-series. Both sides bring a mix of promising youngsters and emerging match-winners, eager to make their mark on the big stage. Will Vaibhav Sooryavanshi steal the limelight and set the tone for the opening fixture? Find out as we bring you all the action from this Sri Lanka A vs India A fixture, LIVE on Sony LIV.",
+            "seo_tags": "Tilak Varma,Vaibhav Sooryavanshi,Ruturaj Gaikwad,Priyansh Arya,Prabhsimran Singh,Anshul Kamboj,Ayush Badoni,Arshad Khan,Anukul Roy,Kumar Kushagra,Vipraj Nigam,Suryansh Shedge,Yudhvir Singh,Yash Thakur,Nishant Sindhu,Tilak Varma Captain,Ruturaj Gaikwad India A,Vaibhav Sooryavanshi India A,Tilak Varma India A,Vaibhav Sooryavanshi Live,Ruturaj Gaikwad Live",
+            "image_landscape": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019450/1780945368367523_Talent_TV_Cup_Tri_series_Sri_Lanka_A_vs_India_A_masthead_large_v3_3200x1800.jpg",
+            "image_thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019451/1780945977230567_Talent_TV_Cup_Tri_series_Sri_Lanka_A_vs_India_A_landscape_Thumb.jpg",
+            "image_tv_bg": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019451/1780946138264567_Talent_TV_Cup_Tri_series_Sri_Lanka_A_vs_India_A_tv_bg.jpg",
+            "tournament_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019450/1780934463934523_Talent_TV_Cup_Tri_series_Sri_Lanka_A_vs_India_A_live_masthead_logo.png",
+            "stream_url": "https://dai.google.com/ssai/event/610T6zw_RZizGMCL-IDSDQ/master.m3u8"
+        },
         {
             "match_id": 1090534254,
             "sport_type": "Football",
