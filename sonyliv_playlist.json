@@ -3,7 +3,35 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "07:15:20 AM 09-06-2026"
+        "last_update": "07:30:23 AM 09-06-2026"
     },
-    "live_matches": []
+    "live_matches": [
+        {
+            "match_id": 1090534254,
+            "sport_type": "Football",
+            "event_name": "UEFA International Friendlies",
+            "match_title": "Spain vs Peru  - 9 Jun 2026",
+            "home_team": "Spain",
+            "away_team": " Peru",
+            "venue": "Estadio Cuauhtémoc, Puebla",
+            "status": "LIVE",
+            "start_time_bd": "07:30:00 AM 09-06-2026",
+            "end_time_bd": "12:30:00 PM 09-06-2026",
+            "duration": 0,
+            "broadcast_channel": "Sony Sports Ten 2",
+            "language": "ENG",
+            "resolution": "FULL_HD",
+            "audio_quality": "STEREO",
+            "is_drm_protected": false,
+            "is_geo_blocked": false,
+            "ad_status": "AD SUPPORTED",
+            "description": "Catch all the action from the UEFA International Friendlies as Spain takes on Peru, LIVE on Sony LIV.",
+            "seo_tags": "European Qualifiers,2026 FIFA World Cup,FIFA World Cup Qualifiers,UEFA Qualifiers,Football World Cup Qualifiers,European Football Qualifiers,World Cup 2026 Qualifiers,FIFA World Cup 2026,UEFA World Cup Qualifiers,European World Cup Qualifiers,Harry Kane,Kylian Mbappé,Cristiano Ronaldo,Robert Lewandowski,Erling Haaland,2026 FIFA World Cup European Qualifiers Schedule,European Qualifiers for FIFA World Cup 2026,UEFA World Cup Qualifiers 2026 Results,FIFA World Cup 2026 Qualifying Groups,European Football World Cup Qualifiers 2026,2026 World Cup Qualifiers European Teams,FIFA World Cup Qualifiers 2026 European Standings,UEFA World Cup Qualifiers 2026 Fixtures,European Football,UEFA Football,World Cup Qualifiers Europe,European World Cup Qualifying,Football Europe World Cup Qualifiers,England National Team,France National Team,Portugal National Team,Germany National Team,Poland National Team",
+            "image_landscape": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019433/1780917434111657_InternationalFriendlies_26_Match_masthead_large_v3_3200x1800_Spain_vs_Peru.jpg",
+            "image_thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019247/1780627721610940_INT_Friendlies26_Spain_vs_Peru_4jun_landscape_thumb.jpg",
+            "image_tv_bg": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019247/1780627743926940_INT_Friendlies26_Spain_vs_Peru_4jun_tv_bg.jpg",
+            "tournament_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019433/1780917434459657_InternationalFriendlies_26_Match_Masthead_logo_Spain_vs_Peru_Live.png",
+            "stream_url": "https://dai.google.com/ssai/event/xq7h_HJVS7mEliIeK8sjnQ/master.m3u8"
+        }
+    ]
 }
