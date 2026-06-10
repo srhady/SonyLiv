@@ -3,16 +3,16 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "07:15:24 PM 10-06-2026"
+        "last_update": "07:45:26 PM 10-06-2026"
     },
     "live_matches": [
         {
             "match_id": 1090534521,
             "sport_type": "Cricket",
             "event_name": "Chhattisgarh Cricket Premier League 2026",
-            "match_title": "Raigarh Lions vs Bastar Bisons - 10 Jun 2026",
-            "home_team": "Raigarh Lions",
-            "away_team": "Bastar Bisons",
+            "match_title": "Bilaspur Bulls vs Surguja Tigers - 10 Jun 2026",
+            "home_team": " Bilaspur Bulls ",
+            "away_team": "Surguja Tigers",
             "venue": "Shaheed Veer Narayan Singh International Stadium",
             "status": "LIVE",
             "start_time_bd": "02:50:00 PM 10-06-2026",
@@ -25,11 +25,11 @@
             "is_drm_protected": false,
             "is_geo_blocked": false,
             "ad_status": "AD SUPPORTED",
-            "description": "Watch all the live cricketing action from the Chhattisgarh Cricket Premier League 2026 as Raigarh Lions takes on Bastar Bisons, LIVE on Sony LIV.",
+            "description": "Watch all the live cricketing action from the Chhattisgarh Cricket Premier League 2026 as Bilaspur Bulls takes on Surguja Tigers, LIVE on Sony LIV.",
             "seo_tags": "Chhattisgarh Cricket Premier League,Premier League,cricket,CCPL cricket tournament,Chhattisgarh Premier League T20,CCPL 2026,Chhattisgarh Cricket League 2026,CCPL schedule 2026,CCPL fixtures,CCPL results,CCPL points table,CCPL standings,Chhattisgarh cricket tournament live scores,CCPL live streaming,CCPL live telecast,CCPL highlights,Chhattisgarh Premier League teams,CCPL squad 2026,Chhattisgarh cricket players,CCPL top scorers,CCPL top wicket takers,CCPL best players,CCPL match today,CCPL upcoming matches,Chhattisgarh cricket news,CCPL latest updates,CCPL tournament format,CCPL venue Raipur,CCPL cricket stadium,Chhattisgarh domestic cricket league,Indian regional cricket leagues,state T20 leagues India,Cricket live,live Cricket",
-            "image_landscape": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019487/1781073491725984_CCPL_2026_match_masthead_large_v3_3200x1800_Raigarh_Lions_vs_Bastar_Bisons.jpg",
-            "image_thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019418/178086335846385_CCPL26_Raigarh_Lions_vs_Bastar_Bisons_landscape_thumb.jpg",
-            "image_tv_bg": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019418/178086338612985_CCPL26_Raigarh_Lions_vs_Bastar_Bisons_tv_bg.jpg",
+            "image_landscape": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019487/1781073491452984_CCPL_2026_match_masthead_large_v3_3200x1800_-Bilaspur_Bulls_vs_Surguja_Tigers.jpg",
+            "image_thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019418/178086358805885_CCPL26_Bilaspur_Bulls_vs_Surguja_Tigers_landscape_thumb.jpg",
+            "image_tv_bg": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019418/178086362697485_CCPL26_Bilaspur_Bulls_vs_Surguja_Tigers_tv_bg.jpg",
             "tournament_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019238/1780592044000246_CCPL_2026_match_Masthead_logo_Live.png",
             "stream_url": "https://dai.google.com/ssai/event/seP8U3FeRPKV5OA5RUe6aA/master.m3u8"
         }
