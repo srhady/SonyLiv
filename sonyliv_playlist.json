@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "06:15:21 PM 12-06-2026"
+        "last_update": "06:30:27 PM 12-06-2026"
     },
     "live_matches": [
         {
@@ -32,6 +32,33 @@
             "image_tv_bg": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019541/178118046721799_CCPL26_SF_Bilaspur_Bulls_vs_Bastar_Bisons_tv_bg.jpg",
             "tournament_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019487/1781073472347984_CCPL_2026_match_Masthead_logo_Live.png",
             "stream_url": "https://dai.google.com/ssai/event/7JLfkzHXQgGvUimwAKPKiw/master.m3u8"
+        },
+        {
+            "match_id": 1090534596,
+            "sport_type": "Golf",
+            "event_name": "Asian Tour 2026",
+            "match_title": "International Series Morocco - Day 2 - 12 Jun 2026",
+            "home_team": "N/A",
+            "away_team": "N/A",
+            "venue": "Royal Golf Dar Es Salam, Morocco",
+            "status": "LIVE",
+            "start_time_bd": "06:30:00 PM 12-06-2026",
+            "end_time_bd": "03:30:00 AM 13-06-2026",
+            "duration": 0,
+            "broadcast_channel": "LIV",
+            "language": "ENG",
+            "resolution": "FULL_HD",
+            "audio_quality": "STEREO",
+            "is_drm_protected": false,
+            "is_geo_blocked": false,
+            "ad_status": "AD SUPPORTED",
+            "description": "Catch all the action from the Day 2 of International Series Morocco Open, LIVE on Sony LIV.",
+            "seo_tags": "asian tour 2026,the asian tour 2026 live streaming,asian tour 2026 online streaming,asian tour 2026 live,asian tour 2026 highlights,watch asian tour 2026 games,watch asian tour 2026 online,watch asian tour 2026 live streaming",
+            "image_landscape": "N/A",
+            "image_thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019332/178071040616362_ASIAN_TOUR_GOLF_2026_International_Series_Morocco_day2_6jun_landscape_thumb.jpg",
+            "image_tv_bg": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019332/178071135695362_ASIAN_TOUR_GOLF_2026_International_Series_Morocco_tv_background.jpg",
+            "tournament_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000000507/1742306648095993_EuropeanQualifiers2025_GENERIC_Masthead_logo_LIVE.png",
+            "stream_url": "https://dai.google.com/ssai/event/jnpvw9goRV2lb3bMV8Z_Kw/master.m3u8"
         }
     ]
 }
