@@ -2,7 +2,13 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 04:15:25 PM 13-06-2026
+# last_update: 04:30:23 PM 13-06-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090534675" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019557/1781248936715615_Tri_Series26_SL_A_vs_AFG_A_landscape_thumb.jpg" group-title="Cricket", Talent TV Cup | Sri Lanka A vs Afghanistan A - 13 Jun 2026
 https://dai.google.com/ssai/event/ZFnJ3ngdQD-2g-Y8iVXtaA/master.m3u8
+
+#EXTINF:-1 tvg-id="sonyliv-1090534687" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019550/1781198966873129_ArcheryWC26_Antalya_Turkiye_Compound_mixed_Team_landscape_thumb.jpg" group-title="Archery", Hyundai Archery World Cup Stage 3 - Antalya, Turkiye | Compound Mixed Team And Individual Finals- 13 Jun 2026
+https://dai.google.com/ssai/event/sOwA5A2UQJuw2u-eli66dg/master.m3u8
+
+#EXTINF:-1 tvg-id="sonyliv-1090534689" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019332/178071039727662_ASIAN_TOUR_GOLF_2026_International_Series_Morocco_day3_6jun_landscape_thumb.jpg" group-title="Golf", Asian Tour 2026 | International Series Morocco - Day 3 - 13 Jun 2026
+https://dai.google.com/ssai/event/jRQlKg2DQWa70jsLHUtxGA/master.m3u8
