@@ -3,7 +3,35 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "09:15:19 AM 13-06-2026"
+        "last_update": "09:45:21 AM 13-06-2026"
     },
-    "live_matches": []
+    "live_matches": [
+        {
+            "match_id": 1090534675,
+            "sport_type": "Cricket",
+            "event_name": "Talent TV Cup",
+            "match_title": "Sri Lanka A vs Afghanistan A - 13 Jun 2026",
+            "home_team": "Sri Lanka A",
+            "away_team": "Afghanistan A",
+            "venue": "Rangiri Dambulla International Stadium",
+            "status": "LIVE",
+            "start_time_bd": "09:40:00 AM 13-06-2026",
+            "end_time_bd": "10:40:00 PM 13-06-2026",
+            "duration": 0,
+            "broadcast_channel": "Sony Sports Ten 1",
+            "language": "ENG",
+            "resolution": "FULL_HD",
+            "audio_quality": "STEREO",
+            "is_drm_protected": false,
+            "is_geo_blocked": false,
+            "ad_status": "AD SUPPORTED",
+            "description": "Sri Lanka A faces Afghanistan A in a nail-biting contest. This third match determines the final standings, with Afghanistan A hoping to capitalize on their morale-boosting DLS win against India A, while Sri Lanka A aims to bounce back from their opener loss and challenge for the trophy. Find out as we bring you all the action from this Sri Lanka A vs Afghanistan A fixture, LIVE on Sony LIV.",
+            "seo_tags": "Tilak Varma,Vaibhav Sooryavanshi,Ruturaj Gaikwad,Priyansh Arya,Prabhsimran Singh,Anshul Kamboj,Ayush Badoni,Arshad Khan,Anukul Roy,Kumar Kushagra,Vipraj Nigam,Suryansh Shedge,Yudhvir Singh,Yash Thakur,Nishant Sindhu,Tilak Varma Captain,Ruturaj Gaikwad India A,Vaibhav Sooryavanshi India A,Tilak Varma India A,Vaibhav Sooryavanshi Live,Ruturaj Gaikwad Live",
+            "image_landscape": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019567/1781259983306957_Tri_Series_Match_masthead_large_v3_3200x1800_SL_A_VS_AFG_A.jpg",
+            "image_thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019557/1781248936715615_Tri_Series26_SL_A_vs_AFG_A_landscape_thumb.jpg",
+            "image_tv_bg": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019557/1781249010932615_Tri_Series26_SL_A_vs_AFG_A_tv_bg.jpg",
+            "tournament_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019567/1781259983227957_Tri_Series_Match_Masthead_logo_SL_A_VS_AFG_A_Live.png",
+            "stream_url": "https://dai.google.com/ssai/event/ZFnJ3ngdQD-2g-Y8iVXtaA/master.m3u8"
+        }
+    ]
 }
