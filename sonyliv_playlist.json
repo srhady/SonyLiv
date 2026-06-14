@@ -3,9 +3,36 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "07:15:26 PM 14-06-2026"
+        "last_update": "07:30:41 PM 14-06-2026"
     },
     "live_matches": [
+        {
+            "match_id": 1090534739,
+            "sport_type": "Cricket",
+            "event_name": "Chhattisgarh Cricket Premier League 2026",
+            "match_title": "Bilaspur Bulls vs Raigarh Lions - Final - 14 Jun 2026",
+            "home_team": " Bilaspur Bulls ",
+            "away_team": "Raigarh Lions",
+            "venue": "Shaheed Veer Narayan Singh International Stadium",
+            "status": "LIVE",
+            "start_time_bd": "07:20:00 PM 14-06-2026",
+            "end_time_bd": "04:05:00 AM 15-06-2026",
+            "duration": 0,
+            "broadcast_channel": "Sony Sports Ten 3",
+            "language": "HIN",
+            "resolution": "FULL_HD",
+            "audio_quality": "STEREO",
+            "is_drm_protected": false,
+            "is_geo_blocked": false,
+            "ad_status": "AD SUPPORTED",
+            "description": "Watch all the live cricketing action from the Chhattisgarh Cricket Premier League 2026 final as Raigarh Lions takes on Raipur Rhinos, LIVE on Sony LIV.",
+            "seo_tags": "Chhattisgarh Cricket Premier League,Premier League,cricket,CCPL cricket tournament,Chhattisgarh Premier League T20,CCPL 2026,Chhattisgarh Cricket League 2026,CCPL schedule 2026,CCPL fixtures,CCPL results,CCPL points table,CCPL standings,Chhattisgarh cricket tournament live scores,CCPL live streaming,CCPL live telecast,CCPL highlights,Chhattisgarh Premier League teams,CCPL squad 2026,Chhattisgarh cricket players,CCPL top scorers,CCPL top wicket takers,CCPL best players,CCPL match today,CCPL upcoming matches,Chhattisgarh cricket news,CCPL latest updates,CCPL tournament format,CCPL venue Raipur,CCPL cricket stadium,Chhattisgarh domestic cricket league,Indian regional cricket leagues,state T20 leagues India,Cricket live,live Cricket",
+            "image_landscape": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019580/1781344065944945_CCPL26_Final_Bilaspur_Bulls_vs_Raigarh_Lions_12jun_masthead_large_v3_3200x1800.jpg",
+            "image_thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019576/1781286858303853_CCPL26_Final_Bilaspur_Bulls_vs_Raigarh_Lions_12jun_landscape_thumb.jpg",
+            "image_tv_bg": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019576/1781287099194853_CCPL26_Final_Bilaspur_Bulls_vs_Raigarh_Lions_12jun_tv_bg.jpg",
+            "tournament_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019487/1781073472347984_CCPL_2026_match_Masthead_logo_Live.png",
+            "stream_url": "https://dai.google.com/ssai/event/xq7h_HJVS7mEliIeK8sjnQ/master.m3u8"
+        },
         {
             "match_id": 1090534746,
             "sport_type": "Archery",
