@@ -3,35 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "07:30:35 PM 15-06-2026"
+        "last_update": "07:45:28 PM 15-06-2026"
     },
-    "live_matches": [
-        {
-            "match_id": 1090534767,
-            "sport_type": "Cricket",
-            "event_name": "Talent TV Cup",
-            "match_title": "Sri Lanka A vs India A - 15 Jun 2026",
-            "home_team": "India A ",
-            "away_team": "Sri Lanka A",
-            "venue": "Rangiri Dambulla International Stadium",
-            "status": "LIVE",
-            "start_time_bd": "09:40:00 AM 15-06-2026",
-            "end_time_bd": "10:40:00 PM 15-06-2026",
-            "duration": 0,
-            "broadcast_channel": "Sony Sports Ten 1",
-            "language": "ENG",
-            "resolution": "FULL_HD",
-            "audio_quality": "STEREO",
-            "is_drm_protected": false,
-            "is_geo_blocked": false,
-            "ad_status": "AD SUPPORTED",
-            "description": "India A face Sri Lanka A in the Talent TV Cup at the Rangiri Dambulla International Stadium, Sri Lanka. Riding high after a win, the hosts will look to keep the momentum going, while India’s young brigade aim to bounce back from their previous loss. With pride and crucial points on the line, expect a gripping contest between two sides brimming with emerging talent. Find out as we bring you all the action from this Sri Lanka A vs India A fixture, LIVE on Sony LIV.",
-            "seo_tags": "Tilak Varma,Vaibhav Sooryavanshi,Ruturaj Gaikwad,Priyansh Arya,Prabhsimran Singh,Anshul Kamboj,Ayush Badoni,Arshad Khan,Anukul Roy,Kumar Kushagra,Vipraj Nigam,Suryansh Shedge,Yudhvir Singh,Yash Thakur,Nishant Sindhu,Tilak Varma Captain,Ruturaj Gaikwad India A,Vaibhav Sooryavanshi India A,Tilak Varma India A,Vaibhav Sooryavanshi Live,Ruturaj Gaikwad Live",
-            "image_landscape": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019593/1781421963494491_Tri_Series26_SL_A_vs_IND_A_masthead_large_v3.jpg",
-            "image_thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019542/1781183311802152_Tri_Series26_SL_A_vs_IND_A_landscape_thumb.jpg",
-            "image_tv_bg": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019542/1781183934490152_Tri_Series26_SL_A_vs_IND_A_tv_bg.jpg",
-            "tournament_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019545/178118573060626_Tri_Series_Match_Masthead_logo_SL_A_VS_IND_A_Live.png",
-            "stream_url": "https://dai.google.com/ssai/event/LdAF3qixR7m1e_v000QMHA/master.m3u8"
-        }
-    ]
+    "live_matches": []
 }
