@@ -3,7 +3,35 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "09:30:25 AM 17-06-2026"
+        "last_update": "09:45:22 AM 17-06-2026"
     },
-    "live_matches": []
+    "live_matches": [
+        {
+            "match_id": 1090534875,
+            "sport_type": "Cricket",
+            "event_name": "Talent TV Cup",
+            "match_title": "India A vs Afghanistan A - 17 Jun 2026",
+            "home_team": "India A ",
+            "away_team": "Afghanistan A",
+            "venue": "Rangiri Dambulla International Stadium",
+            "status": "LIVE",
+            "start_time_bd": "09:40:00 AM 17-06-2026",
+            "end_time_bd": "10:40:00 PM 17-06-2026",
+            "duration": 0,
+            "broadcast_channel": "Sony Sports Ten 1",
+            "language": "ENG",
+            "resolution": "FULL_HD",
+            "audio_quality": "STEREO",
+            "is_drm_protected": false,
+            "is_geo_blocked": false,
+            "ad_status": "AD SUPPORTED",
+            "description": "India A take on Afghanistan A in their next Talent TV Cup clash in Sri Lanka. With India determined to bounce back from their earlier defeat and Afghanistan equally focused on securing a crucial win, this contest could play a decisive role in shaping the path to the finals. Find out as we bring you all the action from this India A vs Afghanistan A fixture, LIVE on Sony LIV.",
+            "seo_tags": "Tilak Varma,Vaibhav Sooryavanshi,Ruturaj Gaikwad,Priyansh Arya,Prabhsimran Singh,Anshul Kamboj,Ayush Badoni,Arshad Khan,Anukul Roy,Kumar Kushagra,Vipraj Nigam,Suryansh Shedge,Yudhvir Singh,Yash Thakur,Nishant Sindhu,Tilak Varma Captain,Ruturaj Gaikwad India A,Vaibhav Sooryavanshi India A,Tilak Varma India A,Vaibhav Sooryavanshi Live,Ruturaj Gaikwad Live",
+            "image_landscape": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019513/1781101655873222_Tri_Series_INDvsAFG_masthead_large_v3.jpg",
+            "image_thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019494/1781082943073523_Tri_Series26_IND_A_vs_AFG_A_landscape_thumb.jpg",
+            "image_tv_bg": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019494/1781083348666523_Tri_Series26_IND_A_vs_AFG_A_tv_bg.jpg",
+            "tournament_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019623/1781528709368771_Tri_Series_Match_Masthead_logo_IND_VS_AFG_Live.png",
+            "stream_url": "https://dai.google.com/ssai/event/LdAF3qixR7m1e_v000QMHA/master.m3u8"
+        }
+    ]
 }
