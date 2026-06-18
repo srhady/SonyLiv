@@ -3,7 +3,35 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "03:15:25 PM 18-06-2026"
+        "last_update": "03:30:33 PM 18-06-2026"
     },
-    "live_matches": []
+    "live_matches": [
+        {
+            "match_id": 1090534887,
+            "sport_type": "Cricket",
+            "event_name": "New Zealand Tour of England 2026",
+            "match_title": "2nd Test - Day 2 - 18 Jun 2026 ",
+            "home_team": "England ",
+            "away_team": "New Zealand ",
+            "venue": "Kennington Oval, London",
+            "status": "LIVE",
+            "start_time_bd": "03:30:00 PM 18-06-2026",
+            "end_time_bd": "03:30:00 AM 19-06-2026",
+            "duration": 0,
+            "broadcast_channel": "Sony Sports Ten 5",
+            "language": "ENG",
+            "resolution": "FULL_HD",
+            "audio_quality": "STEREO",
+            "is_drm_protected": false,
+            "is_geo_blocked": false,
+            "ad_status": "AD SUPPORTED",
+            "description": "After the visitors were put to bat, England failed to bundle them out on Day 1 as crucial runs from Daryl Mitchell, Tom Blundell and Glenn Phillips ensured the Kiwis suvived at stumps with 291 on the board. Tune in as we bring all the action from Day 2 of the 2nd Test from New Zealand Tour of England 2026, LIVE on Sony LIV.",
+            "seo_tags": "new zealand tour of england,new zealand test series,england vs new zealand,eng vs nz test,eng vs nz,New Zealand Tour of England,ENG vs NZ live score,England vs New Zealand highlights,ENG vs NZ Test match updates,England vs New Zealand cricket news,ENG vs NZ day 1 scorecard,England vs New Zealand Test series,ENG vs NZ match result,England vs New Zealand playing XI,ENG vs NZ toss result,England vs New Zealand live streaming,ENG vs NZ Test match stats,England vs New Zealand head to head,ENG vs NZ match schedule,England vs New Zealand scorecard,ENG vs NZ Test match venue,Joe Root,Devon Conway,Kyle Jamieson,Daryl Mitchell,Ollie Robinson,Tom Latham",
+            "image_landscape": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019626/1781529105865622_England_vs_New_Zealand_2026_match_masthead_large_v3_3200x1800_2nd_Test.jpg",
+            "image_thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019569/1781260915712832_ENGvsNZ_2nd_test_day2_landscape_thumb.jpg",
+            "image_tv_bg": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019564/1781259153839422_ENGvsNZ_2nd_test_day1_tv_bg.jpg",
+            "tournament_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019626/1781529105619622_England_vs_New_Zealand_2026_match_Masthead_logo_2ND_test_live_Day_2.png",
+            "stream_url": "https://dai.google.com/ssai/event/mcRw3aKwRNOCgMah1cjM1w/master.m3u8"
+        }
+    ]
 }
