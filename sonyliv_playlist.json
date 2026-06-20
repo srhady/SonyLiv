@@ -3,35 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "11:30:29 PM 20-06-2026"
+        "last_update": "11:45:25 PM 20-06-2026"
     },
-    "live_matches": [
-        {
-            "match_id": 1090535050,
-            "sport_type": "Cricket",
-            "event_name": "New Zealand Tour of England 2026",
-            "match_title": "2nd Test - Day 4 - 20 Jun 2026 ",
-            "home_team": "England ",
-            "away_team": "New Zealand ",
-            "venue": "Kennington Oval, London",
-            "status": "LIVE",
-            "start_time_bd": "03:30:00 PM 20-06-2026",
-            "end_time_bd": "03:30:00 AM 21-06-2026",
-            "duration": 0,
-            "broadcast_channel": "Sony Sports Ten 5",
-            "language": "ENG",
-            "resolution": "FULL_HD",
-            "audio_quality": "STEREO",
-            "is_drm_protected": false,
-            "is_geo_blocked": false,
-            "ad_status": "AD SUPPORTED",
-            "description": "The second Test between England and New Zealand at The Oval marks a major transition for both sides, with Joe Root returning as England's captain due to Ben Stokes' absence, and New Zealand entering a new era following Kane Williamson's retirement. Catch all the action from the New Zealand Tour of England 2026, LIVE on Sony LIV.",
-            "seo_tags": "new zealand tour of england,new zealand test series,england vs new zealand,eng vs nz test,eng vs nz,New Zealand Tour of England,ENG vs NZ live score,England vs New Zealand highlights,ENG vs NZ Test match updates,England vs New Zealand cricket news,ENG vs NZ day 1 scorecard,England vs New Zealand Test series,ENG vs NZ match result,England vs New Zealand playing XI,ENG vs NZ toss result,England vs New Zealand live streaming,ENG vs NZ Test match stats,England vs New Zealand head to head,ENG vs NZ match schedule,England vs New Zealand scorecard,ENG vs NZ Test match venue,Joe Root,Devon Conway,Kyle Jamieson,Daryl Mitchell,Ollie Robinson,Tom Latham",
-            "image_landscape": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019732/1781861661678389_England_vs_New_Zealand_2026_Match_masthead_larege_v3.jpg",
-            "image_thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019769/1781933880852681_ENGvsNZ_2nd_test_day4_watch_free_live_landscape_thumb.jpg",
-            "image_tv_bg": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019564/1781259153839422_ENGvsNZ_2nd_test_day1_tv_bg.jpg",
-            "tournament_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019768/1781932781353204_ENG_vs_NZ_2nd_test_day4_live_masthead_logo.png",
-            "stream_url": "https://dai.google.com/ssai/event/ghJ5GB4BQ5OqDvM0i1-BfA/master.m3u8"
-        }
-    ]
+    "live_matches": []
 }
