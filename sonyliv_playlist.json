@@ -3,7 +3,35 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "03:15:23 PM 25-06-2026"
+        "last_update": "03:30:29 PM 25-06-2026"
     },
-    "live_matches": []
+    "live_matches": [
+        {
+            "match_id": 1090535439,
+            "sport_type": "Cricket",
+            "event_name": "New Zealand Tour of England 2026",
+            "match_title": "3rd Test - Day 1 - 25 Jun 2026",
+            "home_team": "England ",
+            "away_team": "New Zealand ",
+            "venue": "Nottingham",
+            "status": "LIVE",
+            "start_time_bd": "03:30:00 PM 25-06-2026",
+            "end_time_bd": "03:30:00 AM 26-06-2026",
+            "duration": 0,
+            "broadcast_channel": "Sony Sports Ten 5",
+            "language": "ENG",
+            "resolution": "FULL_HD",
+            "audio_quality": "STEREO",
+            "is_drm_protected": false,
+            "is_geo_blocked": false,
+            "ad_status": "AD SUPPORTED",
+            "description": "The series will be decided at Nottingham as both England and New Zealand will look to dominate from Day 1. Can the hosts comeback strong after a formidable defeat at the Oval or will the Kiwis carry their momentum through to the 3rd Test? Catch all the action from New Zealand Tour of England 2026, LIVE on Sony LIV.",
+            "seo_tags": "new zealand tour of england,new zealand test series,england vs new zealand,eng vs nz test,eng vs nz,New Zealand Tour of England,ENG vs NZ live score,England vs New Zealand highlights,ENG vs NZ Test match updates,England vs New Zealand cricket news,ENG vs NZ day 1 scorecard,England vs New Zealand Test series,ENG vs NZ match result,England vs New Zealand playing XI,ENG vs NZ toss result,England vs New Zealand live streaming,ENG vs NZ Test match stats,England vs New Zealand head to head,ENG vs NZ match schedule,England vs New Zealand scorecard,ENG vs NZ Test match venue,Joe Root,Devon Conway,Kyle Jamieson,Daryl Mitchell,Ollie Robinson,Tom Latham",
+            "image_landscape": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019938/1782303296000558_England_vs_New_Zealand_2026_match_masthead_large_v3_3200x1800_3rd_Test_1.jpg",
+            "image_thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019939/1782323720155153_ENGvsNZ_3rd_test_day1_watch_free_landscape_thumb.jpg",
+            "image_tv_bg": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019936/1782322331466420_ENGvsNZ_3rd_test_day1_tv_bg.jpg",
+            "tournament_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019832/1782117307837384_England_vs_New_Zealand_2026_match_Masthead_logo_3RD_test_live.png",
+            "stream_url": "https://dai.google.com/ssai/event/XpIbI0pTQX-9mvR458k9aw/master.m3u8"
+        }
+    ]
 }
