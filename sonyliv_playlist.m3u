@@ -2,13 +2,10 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 10:00:33 PM 26-06-2026
+# last_update: 10:15:31 PM 26-06-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090535487" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020033/1782478110170939_IRE_vs_IND_1st_T20i_landscape_thumb.jpg" group-title="Cricket", India Tour Of Ireland 2026 | 1st T20I - 26 Jun 2026
 https://dai.google.com/ssai/event/ZFnJ3ngdQD-2g-Y8iVXtaA/master.m3u8
 
 #EXTINF:-1 tvg-id="sonyliv-1090535522" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019939/1782323534216153_ENGvsNZ_3rd_test_day2_landscape_thumb.jpg" group-title="Cricket", New Zealand Tour of England 2026 | 3rd Test - Day 2 - 26 Jun 2026
 https://dai.google.com/ssai/event/jRQlKg2DQWa70jsLHUtxGA/master.m3u8
-
-#EXTINF:-1 tvg-id="sonyliv-1090535523" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000018953/1780272168408972_DP_World_Tour_Open_dItalia_day2_landscape_thumb.jpg" group-title="Golf", DP World Tour | Open d'Italia - Day 2 - 26 Jun 2026
-https://dai.google.com/ssai/event/4G_G6zLURAiPOM4qZQcSTg/master.m3u8
