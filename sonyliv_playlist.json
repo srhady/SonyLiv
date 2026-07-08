@@ -3,35 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "09:45:22 PM 08-07-2026"
+        "last_update": "10:00:55 PM 08-07-2026"
     },
-    "live_matches": [
-        {
-            "match_id": 1090535926,
-            "sport_type": "Cricket",
-            "event_name": "Vitality Blast Women 2026",
-            "match_title": "Surrey Women vs Warwickshire Women - 8 Jul 2026",
-            "home_team": "Surrey Women",
-            "away_team": "Warwickshire Women",
-            "venue": "Kennington Oval",
-            "status": "LIVE",
-            "start_time_bd": "06:30:00 PM 08-07-2026",
-            "end_time_bd": "03:15:00 AM 09-07-2026",
-            "duration": 0,
-            "broadcast_channel": "Sony Sports Ten 5",
-            "language": "ENG",
-            "resolution": "FULL_HD",
-            "audio_quality": "STEREO",
-            "is_drm_protected": false,
-            "is_geo_blocked": false,
-            "ad_status": "AD SUPPORTED",
-            "description": "Surrey Women take on Warwickshire Women in an exciting Vitality Blast encounter, with both teams eager to gain valuable points. Featuring strong batting line-ups and disciplined bowling attacks, this promises to be a thrilling contest. Catch all the action from Vitality Blast Women 2026, only on Sony LIV.",
-            "seo_tags": "Vitality Blast T20 tournament,Vitality Blast England cricket,Vitality Blast live updates,Vitality Blast match schedule,Vitality Blast fixtures,Vitality Blast streaming,Vitality Blast teams,Vitality Blast squads,Vitality Blast cricket stats,Vitality Blast points table,Vitality Blast knockout stage,Vitality Blast semi-finals,Vitality Blast final match,Vitality Blast pitch report,Vitality Blast player rankings,Vitality Blast fantasy cricket,Vitality Blast cricket predictions,Vitality Blast head-to-head,Vitality Blast match preview,Vitality Blast cricket commentary,Vitality Blast latest results,Vitality Blast cricket experts,Vitality Blast cricket insights,Keaton Jennings,Ryan Higgins,James Coles,Miles Hammond,David Payne,Benny Howell,Sam Billings,Daniel Bell-Drummond,Fred Klaassen,Liam Livingstone,Moeen Ali,Alex Hales,Shaheen Shah Afridi,Joe Root,Dawid Malan,Stuart Broad",
-            "image_landscape": "N/A",
-            "image_thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020254/1782915398413720_VitalityBlast26_Womens_Surrey_vs_Warwickshire_landscape_thumb.jpg",
-            "image_tv_bg": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020254/1782915403412720_VitalityBlast26_Womens_Surrey_vs_Warwickshire_tv_bg.jpg",
-            "tournament_logo": "N/A",
-            "stream_url": "https://dai.google.com/ssai/event/ahLdkaRoSWavrsFLPU8THA/master.m3u8"
-        }
-    ]
+    "live_matches": []
 }
