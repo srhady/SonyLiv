@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "12:15:25 AM 11-07-2026"
+        "last_update": "12:30:42 AM 11-07-2026"
     },
     "live_matches": [
         {
@@ -32,33 +32,6 @@
             "image_tv_bg": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020113/1782572007051277_VB26_mens_Lancashire_vs_Yorkshire_tv_Bg.jpg",
             "tournament_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020391/1783415824000231_Vitality_Blast_2026_Match_Masthead_logo_Lancashire_vs_Yorkshire_LIVE.png",
             "stream_url": "https://dai.google.com/ssai/event/jrKIOZsGTju4MxXaWpgU3w/master.m3u8"
-        },
-        {
-            "match_id": 1090535931,
-            "sport_type": "Golf",
-            "event_name": "DP World Tour",
-            "match_title": "Genesis Scottish Open - Day 2 - 10 Jul 2026",
-            "home_team": "N/A",
-            "away_team": "N/A",
-            "venue": "The Renaissance Club",
-            "status": "LIVE",
-            "start_time_bd": "05:30:00 PM 10-07-2026",
-            "end_time_bd": "04:30:00 AM 11-07-2026",
-            "duration": 0,
-            "broadcast_channel": "LIV",
-            "language": "ENG",
-            "resolution": "FULL_HD",
-            "audio_quality": "STEREO",
-            "is_drm_protected": false,
-            "is_geo_blocked": false,
-            "ad_status": "AD SUPPORTED",
-            "description": "Watch all the action from Genesis Scottish Open Day 2, LIVE on Sony LIV.",
-            "seo_tags": "N/A",
-            "image_landscape": "N/A",
-            "image_thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019906/1782290177365701_DP_World_Tour_GENESIS_SCOTTISH_Open_day2_24jun_landscape_thumb.jpg",
-            "image_tv_bg": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000019906/1782290221543701_DP_World_Tour_GENESIS_SCOTTISH_Open_day2_24jun_tv_bg.jpg",
-            "tournament_logo": "N/A",
-            "stream_url": "https://dai.google.com/ssai/event/ahLdkaRoSWavrsFLPU8THA/master.m3u8"
         }
     ]
 }
