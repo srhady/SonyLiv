@@ -3,36 +3,9 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "11:30:42 PM 10-07-2026"
+        "last_update": "11:45:25 PM 10-07-2026"
     },
     "live_matches": [
-        {
-            "match_id": 1090536368,
-            "sport_type": "Cricket",
-            "event_name": "India Women's Tour of England 2026",
-            "match_title": "Day 1 - One-Off Test - 10 Jul 2026",
-            "home_team": "England Women",
-            "away_team": "India Women",
-            "venue": "Lord's",
-            "status": "LIVE",
-            "start_time_bd": "03:30:00 PM 10-07-2026",
-            "end_time_bd": "03:30:00 AM 11-07-2026",
-            "duration": 0,
-            "broadcast_channel": "Sony Sports Ten 5",
-            "language": "ENG",
-            "resolution": "FULL_HD",
-            "audio_quality": "STEREO",
-            "is_drm_protected": false,
-            "is_geo_blocked": false,
-            "ad_status": "AD SUPPORTED",
-            "description": "Team India makes history as the first-ever women's Test match at the iconic Lord's Cricket Ground begins today against hosts, England. Captains Nat Sciver-Brunt and Harmanpreet Kaur lead their sides, marking a massive milestone 142 years after men first played a Test at the venue. Tune in to catch all the action from Day 1 of this one-off test from India Women's Tour of England 2026, LIVE & exclusively on Sony LIV.",
-            "seo_tags": "India Women vs England Women,India Women Cricket Schedule,England Women Cricket Fixtures,India Women at Lord’s,India Women at The Oval,India Women at Old Trafford,Smriti Mandhana,Harmanpreet Kaur,Shafali Verma,Deepti Sharma,Renuka Singh,Richa Ghosh,Heather Knight,Nat Sciver-Brunt,Sophie Ecclestone,Alice Capsey,Women’s Cricket England 2025,India Women Cricket Live Stream,Women’s Cricket Highlights,India Women Cricket Tickets,ECB Women’s Cricket,BCCI Women’s Team,India Women's Tour of England 2026,India Women Tour of England 2026,Women’s T20I Series 2026,Women’s ODI Series 2026,Renuka Singh Thakur,Women’s Cricket England 2026,India vs England Women 2026,Women’s Cricket Series June July 2026",
-            "image_landscape": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020442/1783669252967930_Eng_W_vs_Ind_W_2026_Match_masthead_large_v3_3200x1800_1.jpg",
-            "image_thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020438/1783630181321637_Eng_W_vs_Ind_W_2026_one_off_test_day1_landscape_thumb.jpg",
-            "image_tv_bg": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020438/1783630151626637_Eng_W_vs_Ind_W_2026_one_off_test_day1_tv_bg.jpg",
-            "tournament_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020442/1783669253015930_Eng_W_vs_Ind_W_2026_Match_Masthead_logo_Day_1_LIVE.png",
-            "stream_url": "https://dai.google.com/ssai/event/GdXyj0gmRmGkNncprYKFBQ/master.m3u8"
-        },
         {
             "match_id": 1090535832,
             "sport_type": "Cricket",
