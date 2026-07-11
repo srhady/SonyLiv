@@ -2,7 +2,10 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 03:15:22 PM 11-07-2026
+# last_update: 03:30:42 PM 11-07-2026
+
+#EXTINF:-1 tvg-id="sonyliv-1090536424" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020438/1783630262250637_Eng_W_vs_Ind_W_2026_one_off_test_day2_landscape_thumb.jpg" group-title="Cricket", India Women's Tour of England 2026 | Day 2 - One-Off Test - 11 Jul 2026
+https://dai.google.com/ssai/event/AmQPWgDqQUWpYQBuiuFZhw/master.m3u8
 
 #EXTINF:-1 tvg-id="sonyliv-1090536420" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020459/1783688436687820_ArcheryWC26_MADRID_OPEN_stage4_Compound_Team_finals_landscape_thumb.jpg" group-title="Archery", Hyundai Archery World Cup Stage 4 | Compound Team Finals - 11 Jul 2026
 https://dai.google.com/ssai/event/_wNibTTjRKGbTJkQbT7_mQ/master.m3u8
