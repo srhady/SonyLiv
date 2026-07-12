@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "08:15:22 PM 12-07-2026"
+        "last_update": "08:30:43 PM 12-07-2026"
     },
     "live_matches": [
         {
@@ -32,33 +32,6 @@
             "image_tv_bg": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020438/1783630151626637_Eng_W_vs_Ind_W_2026_one_off_test_day1_tv_bg.jpg",
             "tournament_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020442/1783669253122930_Eng_W_vs_Ind_W_2026_Match_Masthead_logo_Day_3_LIVE.png",
             "stream_url": "https://dai.google.com/ssai/event/v0de0itRSnC4wdu5gx817Q/master.m3u8"
-        },
-        {
-            "match_id": 1090536442,
-            "sport_type": "Archery",
-            "event_name": "Hyundai Archery World Cup Stage 4",
-            "match_title": "Recurve Mixed Team And Individual Finals - 12 Jul 2026",
-            "home_team": "N/A",
-            "away_team": "N/A",
-            "venue": "Madrid, Spain",
-            "status": "LIVE",
-            "start_time_bd": "01:30:00 PM 12-07-2026",
-            "end_time_bd": "10:45:00 PM 12-07-2026",
-            "duration": 0,
-            "broadcast_channel": "LIV",
-            "language": "ENG",
-            "resolution": "FULL_HD",
-            "audio_quality": "STEREO",
-            "is_drm_protected": false,
-            "is_geo_blocked": false,
-            "ad_status": "AD SUPPORTED",
-            "description": "Catch all the action from the Hyundai Archery World Cup 2026, LIVE on Sony LIV.",
-            "seo_tags": "archery world cup,archery,olympic sports,world archery championships,world archery,archery world cup stage,archery compound finals,Hyundai Archery World Cup 2025 match highlights,Archery highlights,Hyundai Archery World Cup,Hyundai Archery World Cup hls,Hyundai Archery World Cup Archery,Hyundai Archery World Cup Championship,Watch Hyundai Archery World Cup 2026 online,Hyundai Archery World Cup 2026 online streaming,Hyundai Archery World Cup 2026 highlights,Hyundai Archery World Cup 2026,Hyundai Archery World Cup live,Hyundai Archery World Cup 2026 clips,nopreroll_livectv,Compound Women Elite Eight,Nanjing 2026 Hyundai Archery World Cup Final,Hyundai World Archery Final Nanjing 2026,Hyundai Archery World Cup 2026 match highlights,Hyundai Archery World Cup 2026 match scores,Hyundai Archery World Cup 2026 Archery,Hyundai Archery World Cup 2026 champion.",
-            "image_landscape": "N/A",
-            "image_thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020459/1783688373789820_ArcheryWC26_MADRID_OPEN_stage4_Recurve_mixed_Team_landscape_thumb.jpg",
-            "image_tv_bg": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020459/1783688542501820_ArcheryWC26_MADRID_OPEN_stage4_tv_bg.jpg",
-            "tournament_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009146/1758606495748941_UEL25_26_GENERIC_Masthead_logo_LIVE1.png",
-            "stream_url": "https://dai.google.com/ssai/event/ny2x3upqT0C3ZqW7UEQLsQ/master.m3u8"
         },
         {
             "match_id": 1090536448,
