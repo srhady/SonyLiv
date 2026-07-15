@@ -3,35 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "12:45:27 AM 16-07-2026"
+        "last_update": "01:00:56 AM 16-07-2026"
     },
-    "live_matches": [
-        {
-            "match_id": 1090536626,
-            "sport_type": "Cricket",
-            "event_name": "Vitality Blast 2026",
-            "match_title": "Yorkshire vs Somerset - Quarter-final - 15 Jul 2026",
-            "home_team": "Yorkshire",
-            "away_team": "Somerset",
-            "venue": "Headingley Cricket Ground",
-            "status": "LIVE",
-            "start_time_bd": "09:00:00 PM 15-07-2026",
-            "end_time_bd": "05:45:00 AM 16-07-2026",
-            "duration": 0,
-            "broadcast_channel": "Sony Sports Ten 5",
-            "language": "ENG",
-            "resolution": "FULL_HD",
-            "audio_quality": "STEREO",
-            "is_drm_protected": false,
-            "is_geo_blocked": false,
-            "ad_status": "AD SUPPORTED",
-            "description": "Expect fireworks as Yorkshire face Somerset in a winner-takes-all quarter-final battle. With momentum, pride, and progression on the line, every ball could be a game-changer. Catch all the action LIVE on Sony LIV.",
-            "seo_tags": "Vitality Blast T20 tournament,Vitality Blast England cricket,Vitality Blast live updates,Vitality Blast match schedule,Vitality Blast fixtures,Vitality Blast streaming,Vitality Blast teams,Vitality Blast squads,Vitality Blast cricket stats,Vitality Blast points table,Vitality Blast knockout stage,Vitality Blast semi-finals,Vitality Blast final match,Vitality Blast pitch report,Vitality Blast player rankings,Vitality Blast fantasy cricket,Vitality Blast cricket predictions,Vitality Blast head-to-head,Vitality Blast match preview,Vitality Blast cricket commentary,Vitality Blast latest results,Vitality Blast cricket experts,Vitality Blast cricket insights,Keaton Jennings,Ryan Higgins,James Coles,Miles Hammond,David Payne,Benny Howell,Sam Billings,Daniel Bell-Drummond,Fred Klaassen,Liam Livingstone,Moeen Ali,Alex Hales,Shaheen Shah Afridi,Joe Root,Dawid Malan,Stuart Broad",
-            "image_landscape": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020581/1784015526000490_Vitality_Blast_2026_Match_masthead_large_v3_3200x1800_Yorkshire_vs_Somerset.jpg",
-            "image_thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020590/1784040929501778_Vitality_Blast_2026_QF_Yorkshire_vs_Somerset_landscape_thumb.jpg",
-            "image_tv_bg": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020590/1784041350510778_Vitality_Blast_2026_QF_Yorkshire_vs_Somerset_tv_Bg.jpg",
-            "tournament_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020581/1784015526000490_Vitality_Blast_2026_Match_Masthead_logo_Yorkshire_vs_Somerset_LIVE.png",
-            "stream_url": "https://dai.google.com/ssai/event/jRQlKg2DQWa70jsLHUtxGA/master.m3u8"
-        }
-    ]
+    "live_matches": []
 }
