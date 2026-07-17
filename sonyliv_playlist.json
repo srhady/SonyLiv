@@ -3,35 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "02:10:28 AM 18-07-2026"
+        "last_update": "02:50:30 AM 18-07-2026"
     },
-    "live_matches": [
-        {
-            "match_id": 1090536715,
-            "sport_type": "Cricket",
-            "event_name": "Vitality Blast Women 2026",
-            "match_title": "The Blaze Women vs Durham Women - Final - 17 Jul 2026",
-            "home_team": " Women",
-            "away_team": " Women",
-            "venue": "Kennington Oval",
-            "status": "LIVE",
-            "start_time_bd": "11:15:00 PM 17-07-2026",
-            "end_time_bd": "08:00:00 AM 18-07-2026",
-            "duration": 0,
-            "broadcast_channel": "Sony Sports Ten 5",
-            "language": "ENG",
-            "resolution": "FULL_HD",
-            "audio_quality": "STEREO",
-            "is_drm_protected": false,
-            "is_geo_blocked": false,
-            "ad_status": "AD SUPPORTED",
-            "description": "The Blaze Women and Durham Women battle it out in the Vitality Women's T20 Blast Final, with both teams aiming to finish a strong campaign by lifting the trophy. Can Durham Women upset the favorites, or will The Blaze Women cap off their dominant season with the title? Catch all the action from Vitality Blast Women 2026, only on Sony LIV.",
-            "seo_tags": "Vitality Blast T20 tournament,Vitality Blast England cricket,Vitality Blast live updates,Vitality Blast match schedule,Vitality Blast fixtures,Vitality Blast streaming,Vitality Blast teams,Vitality Blast squads,Vitality Blast cricket stats,Vitality Blast points table,Vitality Blast knockout stage,Vitality Blast semi-finals,Vitality Blast final match,Vitality Blast pitch report,Vitality Blast player rankings,Vitality Blast fantasy cricket,Vitality Blast cricket predictions,Vitality Blast head-to-head,Vitality Blast match preview,Vitality Blast cricket commentary,Vitality Blast latest results,Vitality Blast cricket experts,Vitality Blast cricket insights,Keaton Jennings,Ryan Higgins,James Coles,Miles Hammond,David Payne,Benny Howell,Sam Billings,Daniel Bell-Drummond,Fred Klaassen,Liam Livingstone,Moeen Ali,Alex Hales,Shaheen Shah Afridi,Joe Root,Dawid Malan,Stuart Broad",
-            "image_landscape": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020683/1784308746159211_VB26_final_The_Blaze_Women_vs_Durham_Women_17jul_masthead_large_v3_3200x1800.jpg",
-            "image_thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020681/1784305461475214_VB26_final_The_Blaze_Women_vs_Durham_Women_17jul_landscape.jpg",
-            "image_tv_bg": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020681/1784305535482214_VB26_final_The_Blaze_Women_vs_Durham_Women_17jul_tv_Bg.jpg",
-            "tournament_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020684/1784309645404856_VB26_final_The_Blaze_Women_vs_Durham_Women_17jul_masthead_logo.png",
-            "stream_url": "https://dai.google.com/ssai/event/O1T1FsBGRG-E3tKfjU-jnw/master.m3u8"
-        }
-    ]
+    "live_matches": []
 }
