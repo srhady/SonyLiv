@@ -3,20 +3,20 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "06:45:24 PM 17-07-2026"
+        "last_update": "07:00:37 PM 17-07-2026"
     },
     "live_matches": [
         {
-            "match_id": 1090536655,
+            "match_id": 1090536656,
             "sport_type": "Cricket",
             "event_name": "Vitality Blast Women 2026",
-            "match_title": "Surrey Women vs The Blaze Women - 17 Jul 2026",
-            "home_team": "Surrey Women",
-            "away_team": "The Blaze Women",
+            "match_title": "Hampshire Women vs Durham Women - 17 Jul 2026",
+            "home_team": "Hampshire Women",
+            "away_team": "Durham Women",
             "venue": "Kennington Oval",
             "status": "LIVE",
-            "start_time_bd": "03:30:00 PM 17-07-2026",
-            "end_time_bd": "12:15:00 AM 18-07-2026",
+            "start_time_bd": "07:00:00 PM 17-07-2026",
+            "end_time_bd": "03:45:00 AM 18-07-2026",
             "duration": 0,
             "broadcast_channel": "Sony Sports Ten 5",
             "language": "ENG",
@@ -25,13 +25,13 @@
             "is_drm_protected": false,
             "is_geo_blocked": false,
             "ad_status": "AD SUPPORTED",
-            "description": "Surrey Women face The Blaze Women in a thrilling Semi-Final showdown as both teams battle for a spot in the title decider. Expect high-quality cricket and intense competition throughout. Catch all the action from Vitality Blast Women 2026, only on Sony LIV.",
+            "description": "Hampshire Women and Durham Women go head-to-head in a high-stakes Semi-Final clash. With both teams just one win away from the title decider, fans can expect an exciting battle. Catch all the action from Vitality Blast Women 2026, only on Sony LIV.",
             "seo_tags": "Vitality Blast T20 tournament,Vitality Blast England cricket,Vitality Blast live updates,Vitality Blast match schedule,Vitality Blast fixtures,Vitality Blast streaming,Vitality Blast teams,Vitality Blast squads,Vitality Blast cricket stats,Vitality Blast points table,Vitality Blast knockout stage,Vitality Blast semi-finals,Vitality Blast final match,Vitality Blast pitch report,Vitality Blast player rankings,Vitality Blast fantasy cricket,Vitality Blast cricket predictions,Vitality Blast head-to-head,Vitality Blast match preview,Vitality Blast cricket commentary,Vitality Blast latest results,Vitality Blast cricket experts,Vitality Blast cricket insights,Keaton Jennings,Ryan Higgins,James Coles,Miles Hammond,David Payne,Benny Howell,Sam Billings,Daniel Bell-Drummond,Fred Klaassen,Liam Livingstone,Moeen Ali,Alex Hales,Shaheen Shah Afridi,Joe Root,Dawid Malan,Stuart Broad",
-            "image_landscape": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020602/1784104949956102_Vitality_Blast_2026_Match_masthead_large_v3_3200x1800_Surrey_Women_v_The_Blaze_Women.jpg",
-            "image_thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020610/1784111308675411_VitalityBlast26_Womens_Surrey_vs_The_Blaze_landscape_thumb.jpg",
-            "image_tv_bg": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020610/1784111403668411_VitalityBlast26_Womens_Surrey_vs_The_Blaze_tv_bg.jpg",
-            "tournament_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020602/1784104950105102_Vitality_Blast_2026_Match_Masthead_logo_Surrey_Women_v_The_Blaze_Women_Live.png",
-            "stream_url": "https://dai.google.com/ssai/event/jRQlKg2DQWa70jsLHUtxGA/master.m3u8"
+            "image_landscape": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020602/1784104949937102_Vitality_Blast_2026_Match_masthead_large_v3_3200x1800_Hampshire_Women_v_Durham_Women.jpg",
+            "image_thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020610/1784111825021411_VitalityBlast26_Womens_Hampshire_vs_Durham_landscape_thumb.jpg",
+            "image_tv_bg": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020610/1784111830046411_VitalityBlast26_Womens_Hampshire_vs_Durham_tv_bg.jpg",
+            "tournament_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020602/1784104949988102_Vitality_Blast_2026_Match_Masthead_logo_Hampshire_Women_v_Durham_Women_Live.png",
+            "stream_url": "https://dai.google.com/ssai/event/8EM-MlH-S-6dmV7SK2YPnA/master.m3u8"
         }
     ]
 }
