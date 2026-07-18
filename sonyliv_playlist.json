@@ -3,35 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "03:10:25 AM 19-07-2026"
+        "last_update": "03:50:24 AM 19-07-2026"
     },
-    "live_matches": [
-        {
-            "match_id": 1090536700,
-            "sport_type": "Cricket",
-            "event_name": "Vitality Blast 2026",
-            "match_title": "Northamptonshire vs Hampshire - Final - 18 Jul 2026",
-            "home_team": "Northamptonshire",
-            "away_team": "Hampshire",
-            "venue": "Headingley Cricket Ground",
-            "status": "LIVE",
-            "start_time_bd": "03:30:00 PM 18-07-2026",
-            "end_time_bd": "08:00:00 AM 19-07-2026",
-            "duration": 0,
-            "broadcast_channel": "Sony Sports Ten 5",
-            "language": "ENG",
-            "resolution": "FULL_HD",
-            "audio_quality": "STEREO",
-            "is_drm_protected": false,
-            "is_geo_blocked": false,
-            "ad_status": "AD SUPPORTED",
-            "description": "Expect high-intensity cricket, match-defining moments, and relentless competition as both sides battle for the title. Catch all the action LIVE on Sony LIV.",
-            "seo_tags": "Vitality Blast T20 tournament,Vitality Blast England cricket,Vitality Blast live updates,Vitality Blast match schedule,Vitality Blast fixtures,Vitality Blast streaming,Vitality Blast teams,Vitality Blast squads,Vitality Blast cricket stats,Vitality Blast points table,Vitality Blast knockout stage,Vitality Blast semi-finals,Vitality Blast final match,Vitality Blast pitch report,Vitality Blast player rankings,Vitality Blast fantasy cricket,Vitality Blast cricket predictions,Vitality Blast head-to-head,Vitality Blast match preview,Vitality Blast cricket commentary,Vitality Blast latest results,Vitality Blast cricket experts,Vitality Blast cricket insights,Keaton Jennings,Ryan Higgins,James Coles,Miles Hammond,David Payne,Benny Howell,Sam Billings,Daniel Bell-Drummond,Fred Klaassen,Liam Livingstone,Moeen Ali,Alex Hales,Shaheen Shah Afridi,Joe Root,Dawid Malan,Stuart Broad",
-            "image_landscape": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020696/1784386196731862_VB26_final_Northamptonshire_vs_Hampshire_18jul_masthead_large_v3_3200x1800.jpg",
-            "image_thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020696/1784384900070862_VB26_final_Northamptonshire_vs_Hampshire_18jul_landscape_thumb.jpg",
-            "image_tv_bg": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020696/1784385376325862_VB26_final_Northamptonshire_vs_Hampshire_18jul_tv_Bg.jpg",
-            "tournament_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020696/1784386940831862_VB26_final_Northamptonshire_vs_Hampshire_18jul_live_masthead_logo.png",
-            "stream_url": "https://dai.google.com/ssai/event/ZGqpKljKQFau0vp8fmia4A/master.m3u8"
-        }
-    ]
+    "live_matches": []
 }
