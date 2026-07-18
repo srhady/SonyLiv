@@ -2,4 +2,10 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 05:10:27 AM 19-07-2026
+# last_update: 05:50:24 AM 19-07-2026
+
+#EXTINF:-1 tvg-id="sonyliv-1090536704" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020649/1784214327006715_WWE_Saturday_Night_Main_Event_2026_landscape_thumb.jpg" group-title="Sport", WWE | Saturday Night's Main Event - 19 Jul 2026
+https://dai.google.com/ssai/event/FRfpSr3uSzaIu94qoYoyaQ/master.m3u8
+
+#EXTINF:-1 tvg-id="sonyliv-1090536790" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020604/1784108624084321_UFC_Fight_Night_Du_Plessis_vs_Usman_landscape_thumbnail.jpg" group-title="Fight Sports", UFC Fight Night - Du Plessis vs Usman | UFC Fight Night - Du Plessis vs Usman - 19 Jul 2026
+https://dai.google.com/ssai/event/_wNibTTjRKGbTJkQbT7_mQ/master.m3u8
