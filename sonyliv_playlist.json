@@ -3,16 +3,16 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "07:10:22 PM 18-07-2026"
+        "last_update": "07:50:24 PM 18-07-2026"
     },
     "live_matches": [
         {
             "match_id": 1090536700,
             "sport_type": "Cricket",
             "event_name": "Vitality Blast 2026",
-            "match_title": "Northamptonshire vs Somerset - Semi-final - 18 Jul 2026",
-            "home_team": "Northamptonshire",
-            "away_team": "Somerset",
+            "match_title": "Hampshire vs Nottinghamshire - Semi-final - 18 Jul 2026",
+            "home_team": "Hampshire",
+            "away_team": "Nottinghamshire",
             "venue": "Headingley Cricket Ground",
             "status": "LIVE",
             "start_time_bd": "03:30:00 PM 18-07-2026",
@@ -25,12 +25,12 @@
             "is_drm_protected": false,
             "is_geo_blocked": false,
             "ad_status": "AD SUPPORTED",
-            "description": "Northamptonshire and Somerset face off in a crucial semi-final clash, with a place in the final up for grabs. Expect high-intensity cricket, match-defining moments, and relentless competition as both sides battle for a shot at the title. Catch all the action LIVE on Sony LIV.",
+            "description": "Hampshire and Nottinghamshire face off in a crucial semi-final clash, with a place in the final up for grabs. Expect high-intensity cricket, match-defining moments, and relentless competition as both sides battle for a shot at the title. Catch all the action LIVE on Sony LIV.",
             "seo_tags": "Vitality Blast T20 tournament,Vitality Blast England cricket,Vitality Blast live updates,Vitality Blast match schedule,Vitality Blast fixtures,Vitality Blast streaming,Vitality Blast teams,Vitality Blast squads,Vitality Blast cricket stats,Vitality Blast points table,Vitality Blast knockout stage,Vitality Blast semi-finals,Vitality Blast final match,Vitality Blast pitch report,Vitality Blast player rankings,Vitality Blast fantasy cricket,Vitality Blast cricket predictions,Vitality Blast head-to-head,Vitality Blast match preview,Vitality Blast cricket commentary,Vitality Blast latest results,Vitality Blast cricket experts,Vitality Blast cricket insights,Keaton Jennings,Ryan Higgins,James Coles,Miles Hammond,David Payne,Benny Howell,Sam Billings,Daniel Bell-Drummond,Fred Klaassen,Liam Livingstone,Moeen Ali,Alex Hales,Shaheen Shah Afridi,Joe Root,Dawid Malan,Stuart Broad",
-            "image_landscape": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020645/1784208463279451_Vitality_Blast_2026_Match_masthead_large_v3_3200x1800_Northampton_vs_Somerset.jpg",
-            "image_thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020654/1784224983801454_VB26_SF_mens_Northampton_vs_Somerset_landscape_thumb.jpg",
-            "image_tv_bg": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020654/1784225480648454_VB26_SF_mens_Northampton_vs_Somerset_tv_Bg.jpg",
-            "tournament_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020645/1784208463329451_Vitality_Blast_2026_Match_Masthead_logo_Northampton_vs_Somerset_Live.png",
+            "image_landscape": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020645/1784208463460451_Vitality_Blast_2026_Match_masthead_large_v3_3200x1800_Hampshire_vs_Nottinghamshire.jpg",
+            "image_thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020653/1784221900280186_VB26_SF_mens_Hampshire_vs_Nottinghamshire_landscape_thumb.jpg",
+            "image_tv_bg": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020653/1784221657062186_VB26_SF_mens_Hampshire_vs_Nottinghamshire_tv_Bg.jpg",
+            "tournament_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020645/1784208463323451_Vitality_Blast_2026_Match_Masthead_logo_Hampshire_vs_Nottinghamshire_Live.png",
             "stream_url": "https://dai.google.com/ssai/event/ZGqpKljKQFau0vp8fmia4A/master.m3u8"
         }
     ]
