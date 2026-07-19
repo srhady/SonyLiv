@@ -3,36 +3,9 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "08:10:23 AM 19-07-2026"
+        "last_update": "08:50:26 AM 19-07-2026"
     },
     "live_matches": [
-        {
-            "match_id": 1090536704,
-            "sport_type": "Sport",
-            "event_name": "WWE",
-            "match_title": "Saturday Night's Main Event - 19 Jul 2026",
-            "home_team": "N/A",
-            "away_team": "N/A",
-            "venue": "N/A",
-            "status": "LIVE",
-            "start_time_bd": "05:30:00 AM 19-07-2026",
-            "end_time_bd": "10:30:00 AM 19-07-2026",
-            "duration": 0,
-            "broadcast_channel": "Sony Sports Ten 1",
-            "language": "ENG",
-            "resolution": "FULL_HD",
-            "audio_quality": "STEREO",
-            "is_drm_protected": false,
-            "is_geo_blocked": false,
-            "ad_status": "AD SUPPORTED",
-            "description": "WWE Saturday Night’s Main Event blends nostalgia with modern storytelling, featuring stars from Raw and SmackDown. Tune in to catch all the action, LIVE on Sony LIV.",
-            "seo_tags": "WWE Raw results,WWE SmackDown recap,WWE pay-per-view,WWE live stream,Roman Reigns news,Cody Rhodes update,Seth Rollins match,Rhea Ripley fight,WWE title match,WWE superstar returns,WWE backstage news,WWE breaking news,WWE match card,WWE live event,WWE top 10,WWE moments,WWE promos,WWE rivalries,WWE championship history,WWE tag team action,WWE women's division,WWE NXT update,WWE Hall of Fame,WWE draft news,WWE storyline twist,WWE match predictions,WWE press conference,WWE fan reactions",
-            "image_landscape": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020644/1784186870000740_WWE_Saturday_Night_Main_Event_2026_GOB_masthead_large_v3_3200x1800.jpg",
-            "image_thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020649/1784214327006715_WWE_Saturday_Night_Main_Event_2026_landscape_thumb.jpg",
-            "image_tv_bg": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020649/1784213604094715_WWE_Saturday_Night_Main_Event_2026_tv_background.jpg",
-            "tournament_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020644/1784186870000740_WWE_Saturday_Night_Main_Event_2026_GOB_Masthead_logo_LIVE.png",
-            "stream_url": "https://dai.google.com/ssai/event/FRfpSr3uSzaIu94qoYoyaQ/master.m3u8"
-        },
         {
             "match_id": 1090536790,
             "sport_type": "Fight Sports",
