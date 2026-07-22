@@ -3,35 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "01:50:25 AM 23-07-2026"
+        "last_update": "02:50:31 AM 23-07-2026"
     },
-    "live_matches": [
-        {
-            "match_id": 1090536938,
-            "sport_type": "Cricket",
-            "event_name": "The Hundred 2026",
-            "match_title": "Southern Brave vs Welsh Fire - 22 Jul 2026",
-            "home_team": "Southern Brave",
-            "away_team": "Welsh Fire",
-            "venue": "The Rose Bowl, Southampton ",
-            "status": "LIVE",
-            "start_time_bd": "11:00:00 PM 22-07-2026",
-            "end_time_bd": "07:00:00 AM 23-07-2026",
-            "duration": 0,
-            "broadcast_channel": "Sony Sports Ten 5",
-            "language": "ENG",
-            "resolution": "FULL_HD",
-            "audio_quality": "STEREO",
-            "is_drm_protected": false,
-            "is_geo_blocked": false,
-            "ad_status": "AD SUPPORTED",
-            "description": "Southern Brave and Welsh Fire clash in the second match of The Hundred Men's Competition 2026, setting the stage for an exciting battle between two dynamic sides packed with international talent. Catch all the action live, only on Sony LIV.",
-            "seo_tags": "cricket scoreboard,cricket scores,live cricket score,live score,cricket live,today match,cricket match,live cricket match,points table,upcoming cricket matches,cricket highlights,match schedules,match highlights,match updates,cricket fixtures,100 ball cricket,live match updates,match fixtures,live cricket highlights,cricket knockout,cricket group stage,rachin ravindra,joe root,noor ahmad,harry brook,will jacks,david warner,marcus stoinis,sam curran,max holden,oval invincibles men,london spirit men,southern brave men,birmingham phoenix men,manchester originals men,northern superchargers men,trent rockets men,welsh fire men,the hundred league 2026,the hundred league 2026 schedule,the hundred 2026 start date,the hundred teams 2026,the hundred 2026 players list,the hundred mens competition 2026,stream the hundred mens 2026,stream the hundred mens 2026 live,stream the hundred mens 2026 live online,stream the hundred mens 2026 online,the hundred 2026 online live,the hundred 2026 timetable,the hundred league 2026 live,the hundred league 2026 online,the hundred league 2026 online live,the hundred mens 2026,the hundred mens 2026 live,the hundred mens 2026 online,the hundred mens 2026 schedule,the hundred mens 2026 squad,watch the hundred league 2026,watch the hundred mens 2026,the hundred live score,the hundred 2026 schedule,the hundred score,the hundred scorecard,the hundred today match,the hundred points table,the hundred cricket 2026,the hundred highlights,the hundred match today,the hundred squads 2026,live cricket,today cricket match,cricket upcoming matches,cricket scorecard,cricket schedule,cricket points table,today live cricket,live cricket streaming,cricket players,cricket results,cricket teams,cricket latest news,cricket tournament,cricket streaming,cricket live updates,cricket leaderboard,english cricket league,watch cricket online,cricket standings,match replay,cricket latest results,full cricket match,cricket replay,professional cricket league,100 ball cricket league,Sunrisers Leeds,Manchester Super Giants,MI London,London Spirit,Birmingham Phoenix,Southern Brave,Welsh Fire,MI London Squad,Sunrisers Leeds Squad,Manchester Super Giants Squad,London Spirit Squad,Jacob Bethell,Joe Root,Finn Allen,Tim David,Harry Brook,Jamie Overton,Jofra Archer,Marco Jansen,Mitchell Marsh,Ryan Rickelton,Aiden Markram,Phil Salt,Rachin Ravindra,Rashid Khan,David Miller,Heinrich Klaasen,Jamie Smith,Jos Buttler,Will Jacks,Ben Duckett,Mitchell Santner,Nicholas Pooran,Marcus Stoinis,Noor Ahmad,Trent Boult,Chris Woakes,Sam Curran",
-            "image_landscape": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020749/1784610910000782_The-Hundred_2026_GOB_masthead_large_v3_3200x1800_Southern_Brave_vs_Welsh_Fire.jpg",
-            "image_thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020742/1784623923715774_The_Hundred2026_Mens_Southern_Brave_vs_Welsh_Fire_landscape_thumb.jpg",
-            "image_tv_bg": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020742/1784624127512774_The_Hundred2026_Mens_Southern_Brave_vs_Welsh_Fire_tv_Bg.jpg",
-            "tournament_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020749/1784610910000782_The_Hundred_2026_Match_Masthead_logo_Southern_Brave_vs_Welsh_Fire_Live.png",
-            "stream_url": "https://sonyeventsglobal.akamaized.net/hls/live/2022322/DAI18ME-V3/master.m3u8?hdnea=exp=1784771429~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=4359d802da4945cb99b8a161e8bd2a0804dc0eaefec5bf1236803cc0e65063ad"
-        }
-    ]
+    "live_matches": []
 }
