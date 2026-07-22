@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "12:50:27 AM 23-07-2026"
+        "last_update": "01:10:29 AM 23-07-2026"
     },
     "live_matches": [
         {
@@ -31,7 +31,7 @@
             "image_thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020742/1784623923715774_The_Hundred2026_Mens_Southern_Brave_vs_Welsh_Fire_landscape_thumb.jpg",
             "image_tv_bg": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020742/1784624127512774_The_Hundred2026_Mens_Southern_Brave_vs_Welsh_Fire_tv_Bg.jpg",
             "tournament_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020749/1784610910000782_The_Hundred_2026_Match_Masthead_logo_Southern_Brave_vs_Welsh_Fire_Live.png",
-            "stream_url": "https://sonyeventsglobal.akamaized.net/hls/live/2022322/DAI18ME-V3/master.m3u8?hdnea=exp=1784767830~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=8cfa32c5eba514b2df97afe42619d1b3ffa7219caf812ebc65d366a776606397"
+            "stream_url": "https://sonyeventsglobal.akamaized.net/hls/live/2022322/DAI18ME-V3/master.m3u8?hdnea=exp=1784769033~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=fbe9bedda64f6706fe7796bf5a2ea42cfa952dd24b45fb9e3fe52b4d4e0ba481"
         }
     ]
 }
