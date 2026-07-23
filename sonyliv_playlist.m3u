@@ -2,13 +2,16 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 06:50:25 PM 23-07-2026
+# last_update: 07:20:31 PM 23-07-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090536385" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/thumbnail/1784810491721_1784647162182819_CWG26_Bowls_and_Para_Bowls_pictogram_thumbnail.jpg" group-title="Bowls and Para Bowls", Glasgow 2026 Commonwealth Games | South Africa vs Tonga - Women's Pairs - Bowls and Para Bowls - 23 Jul 2026
-https://sonydaimenew.akamaized.net/hls/live/20000298/CWG_Stre2307/ENG/master.m3u8?hdnea=exp=1784832629~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=73bb45d59d19a7326ada728cd9f9936f1046ad989ebff2c234a4d6030584b410
+https://sonydaimenew.akamaized.net/hls/live/20000298/CWG_Stre2307/ENG/master.m3u8?hdnea=exp=1784834436~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=2e37c2a963b1472fd91a467ecca03fc58aa95768c7f58239251a003df98f89e5
 
 #EXTINF:-1 tvg-id="sonyliv-1090536268" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/thumbnail/1784810665969_1784647162182819_CWG26_Bowls_and_Para_Bowls_pictogram_thumbnail.jpg" group-title="Bowls and Para Bowls", Glasgow 2026 Commonwealth Games | Jason Banks vs Robert Simpson - Men's Singles - Bowls and Para Bowls - 23 Jul 2026
-https://sonydaimenew.akamaized.net/hls/live/20000299/CWG_Pre_2307/ENG/master.m3u8?hdnea=exp=1784832637~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=6b2b099af0b769f397041906916fd26d4d883c40b40f2689dbb7a99f9a6a58ae
+https://sonydaimenew.akamaized.net/hls/live/20000299/CWG_Pre_2307/ENG/master.m3u8?hdnea=exp=1784834444~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=eabbbb2482db3f56da2082fb317f2d4ce46444c0b58356d5a9fb4fea87be5d7b
+
+#EXTINF:-1 tvg-id="sonyliv-1090536973" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020768/1784657180817339_The_Hundred2026_womens_London_Spirit_vs_Manchester_Super_Giants_21jul_landscape_thumb.jpg" group-title="Cricket", The Hundred 2026 (Women's) | London Spirit vs Manchester Super Giants - 23 Jul 2026
+https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-HWOM/master.m3u8?hdnea=exp=1784834456~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=5d283d6107a241e5753792f88c9078bbedac7d4ac9697a3ee9316ca715733ba2
 
 #EXTINF:-1 tvg-id="sonyliv-1090536961" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020822/178474079699996_LIV_Golf_UK_Day1_landscape_thumb.jpg" group-title="Golf", LIV Golf | UK - Day 1 - 23 Jul 2026
-https://sonydaimenew.akamaized.net/hls/live/20000291/Golf_UK_2307/ENG/master.m3u8?hdnea=exp=1784832646~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=0d0ac390cba724abf2dec58a231831d7488189d045377875165bd06f1424e8fc
+https://sonydaimenew.akamaized.net/hls/live/20000291/Golf_UK_2307/ENG/master.m3u8?hdnea=exp=1784834466~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=d4c65a129a8abeaf075a1fdaf49b80a77baf6605de3a9e8c92d70354447b01d2

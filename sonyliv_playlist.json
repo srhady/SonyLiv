@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "06:50:25 PM 23-07-2026"
+        "last_update": "07:20:31 PM 23-07-2026"
     },
     "live_matches": [
         {
@@ -63,6 +63,7 @@
                     "venue_id": "69",
                     "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/thumbnail/1784810491721_1784647162182819_CWG26_Bowls_and_Para_Bowls_pictogram_thumbnail.jpg",
                     "variant_asset_languages": [],
+                    "broadcast_channel_hin": "लिव",
                     "ad_cluster_id": "ad_cluster_1",
                     "live_label_display": true,
                     "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/portraitThumb/1784810491497_1784635752092819_CWG26_Bowls_and_Para_Bowls_pictogram_portrait_thumb.jpg",
@@ -83,6 +84,7 @@
                         }
                     ],
                     "Maximum_Audio_Quality": "STEREO",
+                    "team_hin": "साउथ अफ्रीका टोंगा",
                     "sub_license": "No",
                     "is_auto_play_trailer": true,
                     "integrated_splash_available": "Yes",
@@ -114,7 +116,7 @@
                 "resultObj": {
                     "showPlayerStats": false,
                     "is_preview_enabled": false,
-                    "videoURL": "https://sonydaimenew.akamaized.net/hls/live/20000298/CWG_Stre2307/ENG/master.m3u8?hdnea=exp=1784832629~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=73bb45d59d19a7326ada728cd9f9936f1046ad989ebff2c234a4d6030584b410",
+                    "videoURL": "https://sonydaimenew.akamaized.net/hls/live/20000298/CWG_Stre2307/ENG/master.m3u8?hdnea=exp=1784834436~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=2e37c2a963b1472fd91a467ecca03fc58aa95768c7f58239251a003df98f89e5",
                     "multiLanguageVideoURL": [],
                     "audioLanguages": [
                         {
@@ -211,7 +213,7 @@
                     "multiAudioTrack": true,
                     "packId": "liv_premium_GP_1m"
                 },
-                "systemTime": 1784811029432
+                "systemTime": 1784812836191
             }
         },
         {
@@ -271,6 +273,7 @@
                     "venue_id": "66",
                     "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/thumbnail/1784810665969_1784647162182819_CWG26_Bowls_and_Para_Bowls_pictogram_thumbnail.jpg",
                     "variant_asset_languages": [],
+                    "broadcast_channel_hin": "लिव",
                     "ad_cluster_id": "ad_cluster_1",
                     "live_label_display": true,
                     "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/portraitThumb/1784810665617_1784635752092819_CWG26_Bowls_and_Para_Bowls_pictogram_portrait_thumb.jpg",
@@ -321,7 +324,7 @@
                 "resultObj": {
                     "showPlayerStats": false,
                     "is_preview_enabled": false,
-                    "videoURL": "https://sonydaimenew.akamaized.net/hls/live/20000299/CWG_Pre_2307/ENG/master.m3u8?hdnea=exp=1784832637~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=6b2b099af0b769f397041906916fd26d4d883c40b40f2689dbb7a99f9a6a58ae",
+                    "videoURL": "https://sonydaimenew.akamaized.net/hls/live/20000299/CWG_Pre_2307/ENG/master.m3u8?hdnea=exp=1784834444~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=eabbbb2482db3f56da2082fb317f2d4ce46444c0b58356d5a9fb4fea87be5d7b",
                     "multiLanguageVideoURL": [],
                     "audioLanguages": [
                         {
@@ -418,7 +421,205 @@
                     "multiAudioTrack": true,
                     "packId": "liv_premium_GP_1m"
                 },
-                "systemTime": 1784811037464
+                "systemTime": 1784812844950
+            }
+        },
+        {
+            "match_info": {
+                "contentId": 1090536973,
+                "externalId": "1090536973",
+                "objectType": "VOD",
+                "isLive": true,
+                "objectSubtype": "LIVE_SPORT",
+                "contentType": "VOD",
+                "contentSubtype": "LIVE_SPORT",
+                "title": "The Hundred 2026 (Women's)",
+                "longDescription": "London Spirit face Manchester Super Giants in the 3rd match of The Hundred Women's Competition 2026. Both teams will be looking to make a strong start to their campaign and gain early momentum in the tournament. Catch all the action LIVE, only on Sony LIV.",
+                "shortDescription": "London Spirit face Manchester Super Giants in the 3rd match of The Hundred Women's Competition 2026. Both teams will be looking to make a strong start to their campaign and gain early momentum in the tournament. Catch all the action LIVE, only on Sony LIV.",
+                "isCopyProtected": false,
+                "contractStartDate": 1784812500000,
+                "contractEndDate": 1784841300000,
+                "episodeTitle": "London Spirit vs Manchester Super Giants - 23 Jul 2026",
+                "genres": [
+                    "Cricket"
+                ],
+                "originalAirDate": 1784814300000,
+                "pcExtendedRatings": [],
+                "isOnAir": true,
+                "isEncrypted": false,
+                "pcVodLabel": "3+",
+                "duration": 0,
+                "language": "ENG",
+                "isGeoBlocked": false,
+                "advertisingInfoList": [],
+                "emfAttributes": {
+                    "venue_name": "Lord's, London, England. ",
+                    "region_of_origin": "English",
+                    "svod_advertising": "true",
+                    "audio_languages": "ENG",
+                    "sub_category": "Sport",
+                    "snp_tags": "Suitable for all",
+                    "is_multi_track_per_language_available": false,
+                    "packageid": "12m_mobile_saarc,Liv_Pre_Yupp,12m_saarc,1m_saarc,liv_premium_GP_1m,liv_premium_GP_1m_mobile,LIV_Pre_Mob_1M,liv_binge_1m",
+                    "broadcast_channel": "Sony Sports Ten 5",
+                    "Maximum_Video_Quality": "SDR",
+                    "Maximum_Resolution": "FULL_HD",
+                    "advertising": "AD SUPPORTED",
+                    "isdvr": "No",
+                    "emaAttributes": {},
+                    "kids_safe": true,
+                    "away_team": "Manchester Super Giants",
+                    "tv_background_image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020768/1784657356575339_The_Hundred2026_womens_London_Spirit_vs_Manchester_Super_Giants_21jul_tv_Bg.jpg",
+                    "content_marquee_status": "false",
+                    "country_rating": {
+                        "3+": "BD,NP,MV,BT,LK,AF,PK,MM"
+                    },
+                    "3+": "BD,NP,MV,BT,LK,AF,PK,MM",
+                    "marquee_target_state": [],
+                    "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009146/1758606495748941_UEL25_26_GENERIC_Masthead_logo_LIVE1.png",
+                    "projected_max_concurrency": 100000,
+                    "value": "SVOD",
+                    "is_audio_desc_available": false,
+                    "target_impressions_per_week": 2000000,
+                    "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020768/1784657180817339_The_Hundred2026_womens_London_Spirit_vs_Manchester_Super_Giants_21jul_landscape_thumb.jpg",
+                    "variant_asset_languages": [],
+                    "broadcast_channel_hin": "सोनी स्पोर्ट्स तेन ५",
+                    "live_label_display": true,
+                    "ad_cluster_id": "ad_cluster_1",
+                    "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020768/1784657080649339_The_Hundred2026_womens_London_Spirit_vs_Manchester_Super_Giants_21jul_live_portrait_thumb.jpg",
+                    "seo_tags": "watch women’s cricket live,SonyLIV The Hundred stream,match highlights,women’s cricket schedule,Smriti Mandhana live,Nat Sciver-Brunt Hundred,Harmanpreet Kaur match,Sophie Ecclestone bowling,Tammy Beaumont batting,Oval Invincibles women,Manchester Originals women,Birmingham Phoenix women,Trent Rockets women,London Spirit women,Welsh Fire women,cricket on mobile,Smart TV cricket stream,HD women’s cricket,free cricket stream,SonyLIV app cricket,women’s match today,The Hundred teams,watch cricket online,women’s cricket stars,tournament 2025,SonyLIV live coverage,cricket streaming app,match timings,SonyLIV cricket content,The Hundred Women's live,women's cricket live streaming,watch The Hundred online,SonyLIV cricket,The Hundred Women 2026,the hundred league 2026,the hundred women live score,the hundred women's live,the hundred women 2026 schedule,the hundred league 2026 schedule,the hundred women 2026,the hundred women score,the hundred women scorecard,the hundred women's schedule,live cricket score,live score,cricket live,cricket scoreboard,cricket scores,today match,cricket match,live cricket match,women cricket,points table,women's cricket live,women cricket live,women cricket live score,upcoming cricket matches,today women's cricket match,women cricket score,match schedules,women cricket teams,cricket highlights,women cricket match today,women cricket today,english women's cricket,match updates,cricket fixtures,women cricket schedule,women cricket points table,live women cricket match,live match updates,women cricket players,match fixtures,100 ball cricket,women cricket scorecard,women cricket league,women's cricket highlights,women cricket highlights,cricket knockout,women cricket results,women cricket tournament,live women's cricket streaming,women cricket fixtures,women cricket standings,women cricket latest news,Smriti Mandhana,Jemimah Rodrigues,Harmanpreet Kaur,Ellyse Perry,Richa Ghosh,Lauren Bell,Laura Wolvaardt,Amelia Kerr,Sophie Devine,Phoebe Litchfield,Marizanne Kapp,Beth Mooney,Georgia Voll,Grace Harris,Meg Lanning,Charlie Dean,Sophie Ecclestone,Annabel Sutherland,Hayley Matthews,Amy Jones,Georgia Wareham,Danni Wyatt Hodge,Alice Capsey,Shabnim Ismail,Deandra Dottin,Kathryn Bryce,Sarah Glenn,Mahika Gaur,Tammy Beaumont,Danielle Gibson",
+                    "Free_countries": "",
+                    "overlay_visibility": "0",
+                    "target_frequency_per_week": 3,
+                    "SVOD_countries": "_bd,_np,_mv,_bt,_lk,_af,_pk,_mm",
+                    "is_subtitle_cc_available": false,
+                    "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020768/1784657180817339_The_Hundred2026_womens_London_Spirit_vs_Manchester_Super_Giants_21jul_landscape_thumb.jpg",
+                    "audio_language_list": [
+                        {
+                            "lang_code": "ENG",
+                            "lang_label": "English"
+                        }
+                    ],
+                    "Maximum_Audio_Quality": "STEREO",
+                    "home_team": "London Women",
+                    "sub_license": "No",
+                    "is_auto_play_trailer": true,
+                    "integrated_splash_available": "Yes",
+                    "isDVR": false,
+                    "isTimeLineMarker": false,
+                    "isDownloadable": false,
+                    "is_preview_enabled": false,
+                    "sprite_image_url": "",
+                    "tv_sprite_image_url": "",
+                    "tl_marker": "",
+                    "icon_on_asset": {
+                        "play_focus_icon": "https://origin-staticv2.sonyliv.com/UI_icons/spotlight/focus_play_icon.png",
+                        "play_normal_icon": "https://origin-staticv2.sonyliv.com/UI_icons/spotlight/non_focused_play_icon.png"
+                    }
+                },
+                "isADVAllowed": false,
+                "ratingEligibility": true,
+                "ratingDisplay": false,
+                "titleBrief": "",
+                "baseContentId": 1090536973,
+                "isBaseAsset": true
+            },
+            "playback_info": {
+                "resultCode": "OK",
+                "message": "",
+                "errorDescription": "200-10000",
+                "resultObj": {
+                    "showPlayerStats": false,
+                    "is_preview_enabled": false,
+                    "videoURL": "https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-HWOM/master.m3u8?hdnea=exp=1784834456~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=5d283d6107a241e5753792f88c9078bbedac7d4ac9697a3ee9316ca715733ba2",
+                    "multiLanguageVideoURL": [],
+                    "audioLanguages": [
+                        {
+                            "audioLanguageName": "ENG",
+                            "audioLanguageLabel": "English"
+                        }
+                    ],
+                    "trailer_url": "",
+                    "subtitle": [],
+                    "isEncrypted": false,
+                    "isDVR": false,
+                    "isDownloadable": false,
+                    "posterURL": "",
+                    "sprite_image_url": "",
+                    "tv_sprite_image_url": "",
+                    "dai_asset_key": "",
+                    "contextual_cue_point": {},
+                    "cuepoints": [],
+                    "isLive": true,
+                    "country_rating": {
+                        "3+": "BD,NP,MV,BT,LK,AF,PK,MM"
+                    },
+                    "dai_asset_key_hlsfp": "",
+                    "dai_asset_key_wm": "",
+                    "Maximum_Video_Quality": "SDR",
+                    "Maximum_Audio_Quality": "STEREO",
+                    "Maximum_Resolution": "FULL_HD",
+                    "isWatermarked": "false",
+                    "watermark_partner": "",
+                    "upfrontAudio": true,
+                    "pcVodLabel": "3+",
+                    "promotionUrl": "",
+                    "hasPromotion": false,
+                    "contentProvider": "ENGLAND AND WALES CRICKET",
+                    "sony_match_id": "",
+                    "tl_marker": "",
+                    "checksum": "",
+                    "kid_mss": "",
+                    "parentId": "1700001268",
+                    "selectedLanguage": {
+                        "lang_label": "English",
+                        "lang_code": "ENG",
+                        "lang_type": "main",
+                        "lang_identifier": ""
+                    },
+                    "originalLanguage": {
+                        "lang_label": "English",
+                        "lang_code": "eng",
+                        "lang_type": "main",
+                        "lang_identifier": ""
+                    },
+                    "stateLanguage": {},
+                    "isFirstVideoPlayedInDevice": false,
+                    "adstack": "DAI-IMA",
+                    "targetedDelivery": {
+                        "td_server_hints": {
+                            "pip_bw_initial": 800000,
+                            "pip_bw_max": 7000000,
+                            "pip_vod_prefetch": 30,
+                            "pip_vod_initial_buffer_mb": 11,
+                            "pip_vod_initial_buffer_sec": 12,
+                            "pip_vod_max_buffer_mb": 79,
+                            "pip_vod_max_buffer_sec": 90,
+                            "pip_live_initial_buffer": 8,
+                            "pip_live_target_latency": 10,
+                            "analytics_expt_id": "middleware"
+                        }
+                    },
+                    "parents": [
+                        {
+                            "parentId": 1590016400,
+                            "parentType": "BUNDLE",
+                            "parentSubType": "MATCH_TYPE"
+                        },
+                        {
+                            "parentId": 1700001268,
+                            "parentType": "GROUP_OF_BUNDLES",
+                            "parentSubType": "TOURNAMENT"
+                        }
+                    ],
+                    "additionalDataJson": {},
+                    "LA_Details": {},
+                    "is_audio_desc_available": false,
+                    "is_multi_track_per_language_available": false,
+                    "multiAudioTrack": true,
+                    "packId": "liv_premium_GP_1m"
+                },
+                "systemTime": 1784812856869
             }
         },
         {
@@ -525,7 +726,7 @@
                 "resultObj": {
                     "showPlayerStats": false,
                     "is_preview_enabled": false,
-                    "videoURL": "https://sonydaimenew.akamaized.net/hls/live/20000291/Golf_UK_2307/ENG/master.m3u8?hdnea=exp=1784832646~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=0d0ac390cba724abf2dec58a231831d7488189d045377875165bd06f1424e8fc",
+                    "videoURL": "https://sonydaimenew.akamaized.net/hls/live/20000291/Golf_UK_2307/ENG/master.m3u8?hdnea=exp=1784834466~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=d4c65a129a8abeaf075a1fdaf49b80a77baf6605de3a9e8c92d70354447b01d2",
                     "multiLanguageVideoURL": [],
                     "audioLanguages": [
                         {
@@ -622,7 +823,7 @@
                     "multiAudioTrack": true,
                     "packId": "liv_premium_GP_1m"
                 },
-                "systemTime": 1784811046277
+                "systemTime": 1784812866443
             }
         }
     ]
