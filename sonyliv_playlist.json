@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "12:33:03 AM 24-07-2026"
+        "last_update": "12:50:26 AM 24-07-2026"
     },
     "live_matches": [
         {
@@ -127,7 +127,7 @@
                 "resultObj": {
                     "showPlayerStats": false,
                     "is_preview_enabled": false,
-                    "videoURL": "https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-CMG/master.m3u8?hdnea=exp=1784853187~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=6fc89a285392d41edbbe3fe45d0ce9eb83a8abd49b3a19438343832bc5050ed7",
+                    "videoURL": "https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-CMG/master.m3u8?hdnea=exp=1784854230~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=aa0d5f5703d68b9fd17d3ecc6fa6db6a0a76c2224b18f1d73bacc41a96b757dc",
                     "multiLanguageVideoURL": [],
                     "audioLanguages": [
                         {
@@ -215,7 +215,7 @@
                     "multiAudioTrack": true,
                     "packId": "liv_premium_GP_1m"
                 },
-                "systemTime": 1784831587372
+                "systemTime": 1784832630490
             }
         },
         {
@@ -325,7 +325,7 @@
                 "resultObj": {
                     "showPlayerStats": false,
                     "is_preview_enabled": false,
-                    "videoURL": "https://sonyeventsglobal.akamaized.net/hls/live/2022322/DAI18-HMEN/master.m3u8?hdnea=exp=1784853196~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=5e665bce3e390e6109403f34b4b69450d847773afacba1f155b9de435c0ab0ec",
+                    "videoURL": "https://sonyeventsglobal.akamaized.net/hls/live/2022322/DAI18-HMEN/master.m3u8?hdnea=exp=1784854238~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=9236d7a6b7648df094ce86e759e68425dd97a53d43f84c2c654bb5b7568bb96e",
                     "multiLanguageVideoURL": [],
                     "audioLanguages": [
                         {
@@ -413,7 +413,7 @@
                     "multiAudioTrack": true,
                     "packId": "liv_premium_GP_1m"
                 },
-                "systemTime": 1784831596391
+                "systemTime": 1784832638373
             }
         }
     ]
