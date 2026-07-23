@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "03:10:26 PM 23-07-2026"
+        "last_update": "03:50:27 PM 23-07-2026"
     },
     "live_matches": [
         {
@@ -16,12 +16,12 @@
                 "contentType": "VOD",
                 "contentSubtype": "LIVE_SPORT",
                 "title": "Glasgow 2026 Commonwealth Games",
-                "longDescription": "The 2026 Commonwealth Games in Glasgow is a scaled-down event featuring 10 sports across four venues, with a focus on sustainability and cost-efficiency, while hosting around 3,000 athletes from 74 Commonwealth nations and territories. Tune in to catch all the action, LIVE on Sony LIV.",
-                "shortDescription": "The 2026 Commonwealth Games in Glasgow is a scaled-down event featuring 10 sports across four venues, with a focus on sustainability and cost-efficiency, while hosting around 3,000 athletes from 74 Commonwealth nations and territories. Tune in to catch all the action, LIVE on Sony LIV.",
+                "longDescription": "Catch all the exciting bowls and para bowls action from the SEC Hall 3 2026 live on Sony LIV.",
+                "shortDescription": "Catch all the exciting bowls and para bowls action from the SEC Hall 3 2026 live on Sony LIV.",
                 "isCopyProtected": false,
                 "contractStartDate": 1784793600000,
                 "contractEndDate": 1784829600000,
-                "episodeTitle": "Australia vs Zambia - Women's Pairs - Bowls and Para Bowls - 23 Jul 2026",
+                "episodeTitle": "Bowls and Para Bowls-Women's Pairs-23 Jul 2026",
                 "genres": [
                     "Bowls and Para Bowls"
                 ],
@@ -50,7 +50,7 @@
                     "advertising": "AD SUPPORTED",
                     "isdvr": "No",
                     "emaAttributes": {},
-                    "tv_background_image": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/tvBackgroundImage/1784796496676_1784647341457819_CWG26_Bowls_and_Para_Bowls_pictogram_tv_bg.jpg",
+                    "tv_background_image": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/tvBackgroundImage/1784799262984_1784647341457819_CWG26_Bowls_and_Para_Bowls_pictogram_tv_bg.jpg",
                     "U": "IN",
                     "country_rating": {
                         "U": "IN",
@@ -61,11 +61,11 @@
                     "value": "SVOD",
                     "is_audio_desc_available": false,
                     "venue_id": "69",
-                    "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/thumbnail/1784796496605_1784647162182819_CWG26_Bowls_and_Para_Bowls_pictogram_thumbnail.jpg",
+                    "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/thumbnail/1784799262915_1784647162182819_CWG26_Bowls_and_Para_Bowls_pictogram_thumbnail.jpg",
                     "variant_asset_languages": [],
                     "ad_cluster_id": "ad_cluster_1",
                     "live_label_display": true,
-                    "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/portraitThumb/1784796496394_1784635752092819_CWG26_Bowls_and_Para_Bowls_pictogram_portrait_thumb.jpg",
+                    "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/portraitThumb/1784799262703_1784635752092819_CWG26_Bowls_and_Para_Bowls_pictogram_portrait_thumb.jpg",
                     "isSponsorAdAvailable": "true",
                     "dai_asset_key": "XSjjwrlLR6Cfn7Whgceqxg",
                     "team": "Australia, Botswana, Canada, Cook Islands, England, Fiji, Falkland Islands, Guernsey, India, Isle of Man, Jersey, Kenya, Malaysia, Malta, Namibia, Norfolk Island, Northern Ireland, Niue, New Zealand, South Africa, Scotland, Singapore, Tonga, Wales, Zambia",
@@ -75,7 +75,7 @@
                     "SVOD_countries": "_in,_bd,_np,_mv,_bt,_lk,_af,_pk",
                     "is_subtitle_cc_available": false,
                     "ssai_partners": "Google DAI",
-                    "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/landscapeThumb/1784796496501_1784647154993819_CWG26_Bowls_and_Para_Bowls_pictogram_landscape_thumb.jpg",
+                    "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/landscapeThumb/1784799262823_1784647154993819_CWG26_Bowls_and_Para_Bowls_pictogram_landscape_thumb.jpg",
                     "audio_language_list": [
                         {
                             "lang_code": "ENG",
@@ -114,7 +114,7 @@
                 "resultObj": {
                     "showPlayerStats": false,
                     "is_preview_enabled": false,
-                    "videoURL": "https://sonydaimenew.akamaized.net/hls/live/20000298/CWG_Stre2307/ENG/master.m3u8?hdnea=exp=1784819430~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=ca8bda29c469bdaa9e1ff4564f15f45c050ae9e4941cdf951cfe13a1a9e31939",
+                    "videoURL": "https://sonydaimenew.akamaized.net/hls/live/20000298/CWG_Stre2307/ENG/master.m3u8?hdnea=exp=1784821831~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=9ee0a38fbf4e2fdab55f5e99766b5711bf09f695a73408905a98470556eefe7a",
                     "multiLanguageVideoURL": [],
                     "audioLanguages": [
                         {
@@ -211,7 +211,7 @@
                     "multiAudioTrack": true,
                     "packId": "liv_premium_GP_1m"
                 },
-                "systemTime": 1784797830215
+                "systemTime": 1784800231330
             }
         }
     ]
