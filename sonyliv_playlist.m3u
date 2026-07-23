@@ -2,10 +2,7 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 11:20:34 PM 23-07-2026
+# last_update: 11:50:30 PM 23-07-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090536974" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020768/1784657479488339_The_Hundred2026_mens_London_Spirit_vs_Manchester_Super_Giants_21jul_landscape_thumb.jpg" group-title="Cricket", The Hundred 2026 | London Spirit vs Manchester Super Giants - 23 Jul 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2022322/DAI18-HMEN/master.m3u8?hdnea=exp=1784848838~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=71a1218c18e195a3f99ede2d3fbe4541b78740b2f0b1e7a6c3c7ae663ec28feb
-
-#EXTINF:-1 tvg-id="sonyliv-1090536961" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020822/178474079699996_LIV_Golf_UK_Day1_landscape_thumb.jpg" group-title="Golf", LIV Golf | UK - Day 1 - 23 Jul 2026
-https://sonydaimenew.akamaized.net/hls/live/20000291/Golf_UK_2307/ENG/master.m3u8?hdnea=exp=1784848851~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=2e5a3bc8ad810f8e8f469a0ae6544d604000fac7f8a9bb4545dd0f7b8670aaf6
+https://sonyeventsglobal.akamaized.net/hls/live/2022322/DAI18-HMEN/master.m3u8?hdnea=exp=1784850635~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=cf7fec97c3cc17a6ffdf674bfad1ad03f8e5ed4d3cd3b245f33a45c9844f3ff2
