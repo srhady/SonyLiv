@@ -3,7 +3,35 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "01:50:28 PM 23-07-2026"
+        "last_update": "02:10:27 PM 23-07-2026"
     },
-    "live_matches": []
+    "live_matches": [
+        {
+            "match_id": 1090536385,
+            "sport_type": " Bowls and Para Bowls",
+            "event_name": "Glasgow 2026 Commonwealth Games",
+            "match_title": "Bowls and Para Bowls - Women's Pairs - Australia vs Zambia - 23 Jul 2026",
+            "home_team": "N/A",
+            "away_team": "N/A",
+            "venue": "Glasgow, Scotland",
+            "status": "LIVE",
+            "start_time_bd": "02:00:00 PM 23-07-2026",
+            "end_time_bd": "12:00:00 AM 24-07-2026",
+            "duration": 0,
+            "broadcast_channel": "LIV",
+            "language": "ENG",
+            "resolution": "FULL_HD",
+            "audio_quality": "STEREO",
+            "is_drm_protected": false,
+            "is_geo_blocked": false,
+            "ad_status": "AD SUPPORTED",
+            "description": "The 2026 Commonwealth Games in Glasgow is a scaled-down event featuring 10 sports across four venues, with a focus on sustainability and cost-efficiency, while hosting around 3,000 athletes from 74 Commonwealth nations and territories. Tune in to catch all the action, LIVE on Sony LIV.",
+            "seo_tags": "Glasgow 2026 Commonwealth Games,Glasgow 2026,CWG 2026,Commonwealth Games 2026,Glasgow 2026 India squad,Indian athletes Commonwealth Games 2026,CWG 2026 India schedule,India at Glasgow 2026,Neeraj Chopra Glasgow 2026,Mirabai Chanu CWG 2026,Lovlina Borgohain Commonwealth Games,Praveen Chithravel triple jump Glasgow,Murali Sreeshankar CWG 2026,Parul Chaudhary Commonwealth Games,Pranati Nayak gymnastics Glasgow 2026,Rohit Yadav javelin CWG,Preeti Pawar boxing Glasgow,India medal contenders CWG 2026,Commonwealth Games 2026 live streaming India,Glasgow 2026 sports list,Indian weightlifting team CWG 2026,Indian athletics squad Glasgow 2026,Neeraj Chopra,Mirabai Chanu,Lovlina Borgohain,Praveen Chithravel,Murali Sreeshankar,Parul Chaudhary,Pranati Nayak,Rohit Yadav,Preeti Pawar",
+            "image_landscape": "N/A",
+            "image_thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/thumbnail/1784751984685_1784647154993819_CWG26_Bowls_and_Para_Bowls_pictogram_landscape_thumb.jpg",
+            "image_tv_bg": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/tvBackgroundImage/1784751985078_1784647341457819_CWG26_Bowls_and_Para_Bowls_pictogram_tv_bg.jpg",
+            "tournament_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020251/178291361564192_Commonwealth_Games_2026_GOB_Masthead_logo.png",
+            "stream_url": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT2b5aprod-PlaybackConfig/20000298/CWG_Stre2307/ENG/std_lrl-800300010.m3u8?tracking_params=https://e138b425de774612937f377e0fdfb880.mediatailor.ap-south-1.amazonaws.com/v1/session/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT2b5aprod-PlaybackConfig/master.m3u8&adServer=GAM&hdnea=exp=1784815830~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=a5f56b49d0dbec591f7a751899f545fa89c4c699c2c4ec782ab658b12f0f74c9"
+        }
+    ]
 }
