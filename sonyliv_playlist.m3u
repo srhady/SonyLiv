@@ -2,10 +2,7 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 02:20:25 AM 24-07-2026
+# last_update: 02:50:27 AM 24-07-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090536995" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020815/1784728579541782_CWG_Opening_Ceremony_Promo_landscape_thumb.jpg" group-title="Sports", Glasgow 2026 Commonwealth Games | Opening Ceremony - 24 Jul 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-CMG/master.m3u8?hdnea=exp=1784859629~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=3e74e3a9a0cca4b89813b3bba0f6c07d8fe1c3ff05973e1b11cda71f819d7b54
-
-#EXTINF:-1 tvg-id="sonyliv-1090536974" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020768/1784657479488339_The_Hundred2026_mens_London_Spirit_vs_Manchester_Super_Giants_21jul_landscape_thumb.jpg" group-title="Cricket", The Hundred 2026 | London Spirit vs Manchester Super Giants - 23 Jul 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2022322/DAI18-HMEN/master.m3u8?hdnea=exp=1784859637~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=705cc6102621c8b930ae409a753b8ca068a23f08f71aad8c322f3de3373dc62f
+https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-CMG/master.m3u8?hdnea=exp=1784861431~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=81a9e3a96243d02fbd67b7e90377384679d4ae0697ce9b2e6f278713c20a8d69
