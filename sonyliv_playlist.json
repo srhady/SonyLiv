@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "02:58:47 PM 23-07-2026"
+        "last_update": "03:10:26 PM 23-07-2026"
     },
     "live_matches": [
         {
@@ -16,12 +16,12 @@
                 "contentType": "VOD",
                 "contentSubtype": "LIVE_SPORT",
                 "title": "Glasgow 2026 Commonwealth Games",
-                "longDescription": "Watch all the exclusive action from the SEC Hall 3 during the Women's Pairs - Section A, Round 1, Match 1, LIVE on Sony LIV.",
-                "shortDescription": "Watch all the exclusive action from the SEC Hall 3 during the Women's Pairs - Section A, Round 1, Match 1, LIVE on Sony LIV.",
+                "longDescription": "The 2026 Commonwealth Games in Glasgow is a scaled-down event featuring 10 sports across four venues, with a focus on sustainability and cost-efficiency, while hosting around 3,000 athletes from 74 Commonwealth nations and territories. Tune in to catch all the action, LIVE on Sony LIV.",
+                "shortDescription": "The 2026 Commonwealth Games in Glasgow is a scaled-down event featuring 10 sports across four venues, with a focus on sustainability and cost-efficiency, while hosting around 3,000 athletes from 74 Commonwealth nations and territories. Tune in to catch all the action, LIVE on Sony LIV.",
                 "isCopyProtected": false,
                 "contractStartDate": 1784793600000,
                 "contractEndDate": 1784829600000,
-                "episodeTitle": "Bowls and Para Bowls-Women's Pairs-23 Jul 2026",
+                "episodeTitle": "Australia vs Zambia - Women's Pairs - Bowls and Para Bowls - 23 Jul 2026",
                 "genres": [
                     "Bowls and Para Bowls"
                 ],
@@ -114,7 +114,7 @@
                 "resultObj": {
                     "showPlayerStats": false,
                     "is_preview_enabled": false,
-                    "videoURL": "https://sonydaimenew.akamaized.net/hls/live/20000298/CWG_Stre2307/ENG/master.m3u8?hdnea=exp=1784818730~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=574688748ed7434bca1b62704afae771f25a8103e9c390eb5f9b5aa5e5cb4b7f",
+                    "videoURL": "https://sonydaimenew.akamaized.net/hls/live/20000298/CWG_Stre2307/ENG/master.m3u8?hdnea=exp=1784819430~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=ca8bda29c469bdaa9e1ff4564f15f45c050ae9e4941cdf951cfe13a1a9e31939",
                     "multiLanguageVideoURL": [],
                     "audioLanguages": [
                         {
@@ -211,7 +211,7 @@
                     "multiAudioTrack": true,
                     "packId": "liv_premium_GP_1m"
                 },
-                "systemTime": 1784797130525
+                "systemTime": 1784797830215
             }
         }
     ]
