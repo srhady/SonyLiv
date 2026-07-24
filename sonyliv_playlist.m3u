@@ -2,13 +2,13 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 04:20:26 PM 24-07-2026
+# last_update: 04:50:31 PM 24-07-2026
 
-#EXTINF:-1 tvg-id="sonyliv-1090536386" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536386/thumbnail/1784883649053_1784647785497819_CWG26_Gymnastics_pictogram_thumbnail.jpg" group-title="Gymnastics", Glasgow 2026 Commonwealth Games | Men - Gymnastics - 24 Jul 2026
-https://sonydaimenew.akamaized.net/hls/live/20000300/CWG_Stre2407/ENG/master.m3u8?hdnea=exp=1784908231~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=5c3aedd229a7eb64fd1849190215f8487d84e66fedbe051d58934f7bf26f647d
+#EXTINF:-1 tvg-id="sonyliv-1090536386" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536386/thumbnail/1784890149488_1784647785497819_CWG26_Gymnastics_pictogram_thumbnail.jpg" group-title="Gymnastics", Glasgow 2026 Commonwealth Games | Men - Gymnastics - 24 Jul 2026
+https://sonydaimenew.akamaized.net/hls/live/20000300/CWG_Stre2407/ENG/master.m3u8?hdnea=exp=1784911835~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=58b6a33d91ab3932d039f066c13ec3bbaa965fa0c37784df2567ef28d5e8d4d4
 
 #EXTINF:-1 tvg-id="sonyliv-1090536268" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/thumbnail/1784887217338_1784647162182819_CWG26_Bowls_and_Para_Bowls_pictogram_thumbnail.jpg" group-title="Bowls and Para Bowls", Glasgow 2026 Commonwealth Games | Scotland vs Jersey - Women's Pairs - Bowls and Para Bowls - 24 Jul 2026
-https://sonydaimenew.akamaized.net/hls/live/20000298/CWG_Stre2407/ENG/master.m3u8?hdnea=exp=1784910046~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=915a58c3c2bdd5065df7946b55461d63480c334857db102b9caffd6985421015
+https://sonydaimenew.akamaized.net/hls/live/20000298/CWG_Stre2407/ENG/master.m3u8?hdnea=exp=1784911844~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=574b9d3cd34bf583d01b0d63c8287aa2a67b736888311482c60e89d9b7552343
 
-#EXTINF:-1 tvg-id="sonyliv-1090536387" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536387/thumbnail/1784888182513_1784647659853819_CWG26_Boxing_pictogram_thumbnail.jpg" group-title="Boxing", Glasgow 2026 Commonwealth Games | Thomas Teers vs Eriu Temakau - Men's 55kg - Boxing - 24 Jul 2026
-https://sonydaimenew.akamaized.net/hls/live/20000376/CWG_Stre2407/ENG/master.m3u8?hdnea=exp=1784910060~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=99bb17659434a2b18ae55ba3fbc7fa8d472cb307acb3ebbc05933029b1f69781
+#EXTINF:-1 tvg-id="sonyliv-1090536387" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536387/thumbnail/1784889647529_1784647646298819_CWG26_Basketball_pictogram_thumbnail.jpg" group-title="Basketball", Glasgow 2026 Commonwealth Games | Canada vs Kenya - Wheelchair Men - Basketball - 24 Jul 2026
+https://sonydaimenew.akamaized.net/hls/live/20000376/CWG_Stre2407/ENG/master.m3u8?hdnea=exp=1784911855~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=901bc341c2b58514ebf90773680e5e3d6e6044499799437ac2752d19684dcd56
