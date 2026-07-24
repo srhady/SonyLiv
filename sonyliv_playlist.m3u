@@ -2,16 +2,16 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 06:20:25 PM 24-07-2026
-
-#EXTINF:-1 tvg-id="sonyliv-1090536385" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/thumbnail/1784894602258_1784647612769819_CWG26_Aquatics_pictogram_thumbnail.jpg" group-title="Aquatics", Glasgow 2026 Commonwealth Games | Men's 4 x 100m Freestyle Relay - Aquatics - 24 Jul 2026
-https://sonydaimenew.akamaized.net/hls/live/20000299/CWG_Stre2407/ENG/master.m3u8?hdnea=exp=1784917230~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=42d0c83e481a298de95e83eb4d69aca95290ee8266e4b0537e31075904abebd1
-
-#EXTINF:-1 tvg-id="sonyliv-1090536387" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536387/thumbnail/1784895030942_1784647659853819_CWG26_Boxing_pictogram_thumbnail.jpg" group-title="Boxing", Glasgow 2026 Commonwealth Games | Connor Campbell vs Ben Maukakala - Men's 65kg - Boxing - 24 Jul 2026
-https://sonydaimenew.akamaized.net/hls/live/20000376/CWG_Stre2407/ENG/master.m3u8?hdnea=exp=1784915438~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=b525bb73b17f99f068cda979c5966d71ebac1f249f6bdae31e0bf641b01d28ef
+# last_update: 06:50:25 PM 24-07-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090536268" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/thumbnail/1784895002596_1784647176019819_CWG26_Para_Powerlifting_pictogram_thumbnail.jpg" group-title="Para Powerlifting", Glasgow 2026 Commonwealth Games | Men's Lightweight - Para Powerlifting - 24 Jul 2026
 https://sonydaimenew.akamaized.net/hls/live/20000298/CWG_Stre2407/ENG/master.m3u8?hdnea=exp=1784915447~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=45a348c3bbcd616f610bdee765bd1418bdf696179ae95e5d3a2ac9ada32d3c74
 
+#EXTINF:-1 tvg-id="sonyliv-1090536385" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784647162182819_CWG26_Bowls_and_Para_Bowls_pictogram_thumbnail.jpg" group-title="Aquatics", Glasgow 2026 Commonwealth Games | Scotland vs South Africa - Men's Pairs - Bowls and Para Bowls - 24 Jul 2026
+https://sonydaimenew.akamaized.net/hls/live/20000299/CWG_Stre2407/ENG/master.m3u8?hdnea=exp=1784919040~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=4a52dbb5a229f358b5ddad3d5768c6a45244791e594f90331b493d392174c67f
+
+#EXTINF:-1 tvg-id="sonyliv-1090536387" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536387/thumbnail/1784896637759_1784647659853819_CWG26_Boxing_pictogram_thumbnail.jpg" group-title="Boxing", Glasgow 2026 Commonwealth Games | Refiloe Thai vs Ayomide Hassan Foly - Men's 70kg - Boxing - 24 Jul 2026
+https://sonydaimenew.akamaized.net/hls/live/20000376/CWG_Stre2407/ENG/master.m3u8?hdnea=exp=1784919047~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=bdf2c46b641c40323490c74ad4f760117464cfdba9d27fadc2d774944c90b615
+
 #EXTINF:-1 tvg-id="sonyliv-1090536997" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020822/178474073773096_LIV_Golf_UK_Day2_landscape_thumb.jpg" group-title="Golf", LIV Golf | UK - Day 2 - 24 Jul 2026
-https://sonydaimenew.akamaized.net/hls/live/20000301/Golf_UK_2407/ENG/master.m3u8?hdnea=exp=1784917258~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=c10048b8e9e8faee72f5820b791821916eb4547d904d86e51d8c83773a221d69
+https://sonydaimenew.akamaized.net/hls/live/20000301/Golf_UK_2407/ENG/master.m3u8?hdnea=exp=1784919056~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=4e7ebb28173a3b8f5def5cb4036e3c332f07469b542de6b6a0ddb4fc03938234
