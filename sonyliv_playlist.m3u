@@ -2,13 +2,13 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 03:20:25 PM 24-07-2026
+# last_update: 03:50:26 PM 24-07-2026
+
+#EXTINF:-1 tvg-id="sonyliv-1090536386" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536386/thumbnail/1784883649053_1784647785497819_CWG26_Gymnastics_pictogram_thumbnail.jpg" group-title="Gymnastics", Glasgow 2026 Commonwealth Games | Men - Gymnastics - 24 Jul 2026
+https://sonydaimenew.akamaized.net/hls/live/20000300/CWG_Stre2407/ENG/master.m3u8?hdnea=exp=1784908231~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=5c3aedd229a7eb64fd1849190215f8487d84e66fedbe051d58934f7bf26f647d
 
 #EXTINF:-1 tvg-id="sonyliv-1090536268" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/thumbnail/1784883090154_1784647162182819_CWG26_Bowls_and_Para_Bowls_pictogram_thumbnail.jpg" group-title="Bowls and Para Bowls", Glasgow 2026 Commonwealth Games | Taylor Greechan vs Royden Aperau - Men's Singles - Bowls and Para Bowls - 24 Jul 2026
-https://sonydaimenew.akamaized.net/hls/live/20000298/CWG_Stre2407/ENG/master.m3u8?hdnea=exp=1784906428~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=539453f1d5f081eafe871327a433f855f36c2128456a2ee88443f262a38124c2
+https://sonydaimenew.akamaized.net/hls/live/20000298/CWG_Stre2407/ENG/master.m3u8?hdnea=exp=1784908243~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=b6820aac43ec406e397939ce27abae6eeeb5e8ba82a08de59764cb9505449fce
 
-#EXTINF:-1 tvg-id="sonyliv-1090536385" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/thumbnail/1784883092451_1784647162182819_CWG26_Bowls_and_Para_Bowls_pictogram_thumbnail.jpg" group-title="Bowls and Para Bowls", Glasgow 2026 Commonwealth Games | Aaron Wilson vs Waylon Wentzel - Men's Singles - Bowls and Para Bowls - 24 Jul 2026
-https://sonydaimenew.akamaized.net/hls/live/20000299/CWG_Stre2407/ENG/master.m3u8?hdnea=exp=1784906436~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=5eb80fad013566ab3bb07b62264c45f77aa5edf1ca180341375339bc46a0d896
-
-#EXTINF:-1 tvg-id="sonyliv-1090536387" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536387/thumbnail/1784884514112_1784647646298819_CWG26_Basketball_pictogram_thumbnail.jpg" group-title="Basketball", Glasgow 2026 Commonwealth Games | New Zealand vs Australia - Men - Basketball - 24 Jul 2026
-https://sonydaimenew.akamaized.net/hls/live/20000376/CWG_Stre2407/ENG/master.m3u8?hdnea=exp=1784906444~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=9863618d867fd8ec06df3155c1f659e99533e456a9d4161cb778de4c188b9a42
+#EXTINF:-1 tvg-id="sonyliv-1090536387" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536387/thumbnail/1784885925915_1784647646298819_CWG26_Basketball_pictogram_thumbnail.jpg" group-title="Basketball", Glasgow 2026 Commonwealth Games | Australia vs Kenya - Women - Basketball - 24 Jul 2026
+https://sonydaimenew.akamaized.net/hls/live/20000376/CWG_Stre2407/ENG/master.m3u8?hdnea=exp=1784908251~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=61068356153d6e768aa6e8ade22b8a29e34afab0fe07c5b553b641f86d3cc350
