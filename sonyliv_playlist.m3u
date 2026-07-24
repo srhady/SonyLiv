@@ -2,16 +2,7 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 02:20:24 AM 25-07-2026
-
-#EXTINF:-1 tvg-id="sonyliv-1090536385" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/thumbnail/1784923473315_1784647612769819_CWG26_Aquatics_pictogram_thumbnail.jpg" group-title="Aquatics", Glasgow 2026 Commonwealth Games | Men's 100m Butterfly S10 - Aquatics - 24 Jul 2026
-https://sonydaimenew.akamaized.net/hls/live/20000299/CWG_Stre2407/ENG/master.m3u8?hdnea=exp=1784946029~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=4145654d39223b3e608307429e3288c99e82b4e413b17b51059b0e0606b466f8
+# last_update: 02:50:26 AM 25-07-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090536386" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784647785497819_CWG26_Gymnastics_pictogram_thumbnail.jpg" group-title="Bowls and Para Bowls", Glasgow 2026 Commonwealth Games | Mens - Gymnastics - 24 Jul 2026
-https://sonydaimenew.akamaized.net/hls/live/20000300/CWG_Stre2407/ENG/master.m3u8?hdnea=exp=1784946036~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=fd5565050f921e726a41f72589230300c5dd63b4fe91041bea1af5c74b0f0f58
-
-#EXTINF:-1 tvg-id="sonyliv-1090536268" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/thumbnail/1784922020877_1784647176019819_CWG26_Para_Powerlifting_pictogram_thumbnail.jpg" group-title="Para Powerlifting", Glasgow 2026 Commonwealth Games | Men's Heavyweight - Para Powerlifting - 24 Jul 2026
-https://sonydaimenew.akamaized.net/hls/live/20000298/CWG_Stre2407/ENG/master.m3u8?hdnea=exp=1784946043~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=d20784be92f756c890c7e5c4ba9607a773eec2fe95d93e41054c82165062d2b3
-
-#EXTINF:-1 tvg-id="sonyliv-1090537018" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020768/1784658100465339_The_Hundred2026_mens_Birmingham_Phoenix_vs_Trent_Rockets_21jul_landscape_thumb.jpg" group-title="Cricket", The Hundred 2026 | Birmingham Phoenix vs Trent Rockets - 24 Jul 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2022322/DAI18-HMEN/master.m3u8?hdnea=exp=1784946054~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=48cb92e05b3e586a4d1e19b0236ac801e0fb2b127bdbe98ddecd834f7d24cf25
+https://sonydaimenew.akamaized.net/hls/live/20000300/CWG_Stre2407/ENG/master.m3u8?hdnea=exp=1784947832~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=7d8159d7d345b35759e8f320d42ef244af016e6f16d411ca15c088d47ac0b1b3
