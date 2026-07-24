@@ -3,635 +3,9 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "11:27:20 PM 24-07-2026"
+        "last_update": "12:20:26 AM 25-07-2026"
     },
     "live_matches": [
-        {
-            "match_info": {
-                "contentId": 1090536385,
-                "externalId": "1090536385",
-                "objectType": "VOD",
-                "isLive": true,
-                "objectSubtype": "LIVE_SPORT",
-                "contentType": "VOD",
-                "contentSubtype": "LIVE_SPORT",
-                "title": "Glasgow 2026 Commonwealth Games",
-                "longDescription": "Watch all the exclusive action from the Bowls and Para Bowls in the Men's Singles, LIVE on Sony LIV.",
-                "shortDescription": "Watch all the exclusive action from the Bowls and Para Bowls in the Men's Singles, LIVE on Sony LIV.",
-                "isCopyProtected": false,
-                "contractStartDate": 1784875800000,
-                "contractEndDate": 1784947800000,
-                "episodeTitle": "Sam Tolchard vs Ross Owen - Men's Singles - Bowls and Para Bowls - 24 Jul 2026",
-                "genres": [
-                    "Bowls and Para Bowls"
-                ],
-                "originalAirDate": 1784877600000,
-                "pcExtendedRatings": [],
-                "isOnAir": true,
-                "isEncrypted": false,
-                "pcVodLabel": "3+",
-                "duration": 0,
-                "language": "ENG",
-                "isGeoBlocked": false,
-                "advertisingInfoList": [],
-                "emfAttributes": {
-                    "venue_name": "SEC Hall 3 - Rink 1",
-                    "region_of_origin": "English",
-                    "svod_advertising": "true",
-                    "audio_languages": "ENG",
-                    "sub_category": "Sport",
-                    "snp_tags": "Suitable for all",
-                    "is_multi_track_per_language_available": false,
-                    "packageid": "12m_mobile_saarc,Liv_Pre_Yupp,12m_saarc,1m_saarc,liv_premium_GP_1m,liv_premium_GP_1m_mobile,LIV_Pre_Mob_1M,liv_binge_1m",
-                    "masthead_logo_rectangualar": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/mastheadLogoRectangualar/178291361572592_Commonwealth_Games_2026_GOB_masthead_logo_rectangualar_950x570_LIVE.png",
-                    "broadcast_channel": "LIV",
-                    "Maximum_Video_Quality": "SDR",
-                    "Maximum_Resolution": "FULL_HD",
-                    "advertising": "AD SUPPORTED",
-                    "isdvr": "No",
-                    "emaAttributes": {},
-                    "tv_background_image": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/tvBackgroundImage/1784911458273_1784647341457819_CWG26_Bowls_and_Para_Bowls_pictogram_tv_bg.jpg",
-                    "U": "IN",
-                    "country_rating": {
-                        "U": "IN",
-                        "3+": "BD,NP,LK,PK,AF,BT,MV"
-                    },
-                    "3+": "BD,NP,LK,PK,AF,BT,MV",
-                    "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020251/178291361564192_Commonwealth_Games_2026_GOB_Masthead_logo.png",
-                    "player_name": "Sam Tolchard, Ross Owen",
-                    "value": "SVOD",
-                    "is_audio_desc_available": false,
-                    "venue_id": "66",
-                    "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/thumbnail/1784911458136_1784647162182819_CWG26_Bowls_and_Para_Bowls_pictogram_thumbnail.jpg",
-                    "variant_asset_languages": [],
-                    "broadcast_channel_hin": "लिव",
-                    "ad_cluster_id": "ad_cluster_1",
-                    "live_label_display": true,
-                    "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/portraitThumb/1784911457900_1784635752092819_CWG26_Bowls_and_Para_Bowls_pictogram_portrait_thumb.jpg",
-                    "isSponsorAdAvailable": "true",
-                    "dai_asset_key": "lCPeNz0CSL6iH5VTP5pRYQ",
-                    "seo_tags": "Glasgow 2026 Commonwealth Games,Glasgow 2026,CWG 2026,Commonwealth Games 2026,Glasgow 2026 India squad,Indian athletes Commonwealth Games 2026,CWG 2026 India schedule,India at Glasgow 2026,Neeraj Chopra Glasgow 2026,Mirabai Chanu CWG 2026,Lovlina Borgohain Commonwealth Games,Praveen Chithravel triple jump Glasgow,Murali Sreeshankar CWG 2026,Parul Chaudhary Commonwealth Games,Pranati Nayak gymnastics Glasgow 2026,Rohit Yadav javelin CWG,Preeti Pawar boxing Glasgow,India medal contenders CWG 2026,Commonwealth Games 2026 live streaming India,Glasgow 2026 sports list,Indian weightlifting team CWG 2026,Indian athletics squad Glasgow 2026,Neeraj Chopra,Mirabai Chanu,Lovlina Borgohain,Praveen Chithravel,Murali Sreeshankar,Parul Chaudhary,Pranati Nayak,Rohit Yadav,Preeti Pawar",
-                    "Free_countries": "",
-                    "overlay_visibility": "0",
-                    "SVOD_countries": "_in,_bd,_np,_mv,_bt,_lk,_af,_pk",
-                    "is_subtitle_cc_available": false,
-                    "ssai_partners": "Google DAI",
-                    "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/landscapeThumb/1784911458061_1784647154993819_CWG26_Bowls_and_Para_Bowls_pictogram_landscape_thumb.jpg",
-                    "audio_language_list": [
-                        {
-                            "lang_code": "ENG",
-                            "lang_label": "English"
-                        }
-                    ],
-                    "Maximum_Audio_Quality": "STEREO",
-                    "sub_license": "No",
-                    "is_auto_play_trailer": true,
-                    "integrated_splash_available": "Yes",
-                    "matchid": "",
-                    "isDVR": false,
-                    "isTimeLineMarker": false,
-                    "isDownloadable": false,
-                    "is_preview_enabled": false,
-                    "sprite_image_url": "",
-                    "tv_sprite_image_url": "",
-                    "kids_safe": false,
-                    "tl_marker": "",
-                    "icon_on_asset": {
-                        "play_focus_icon": "https://origin-staticv2.sonyliv.com/UI_icons/spotlight/focus_play_icon.png",
-                        "play_normal_icon": "https://origin-staticv2.sonyliv.com/UI_icons/spotlight/non_focused_play_icon.png"
-                    }
-                },
-                "isADVAllowed": false,
-                "ratingEligibility": true,
-                "ratingDisplay": false,
-                "titleBrief": "",
-                "baseContentId": 1090536385,
-                "isBaseAsset": true
-            },
-            "playback_info": {
-                "resultCode": "OK",
-                "message": "",
-                "errorDescription": "200-10000",
-                "resultObj": {
-                    "showPlayerStats": false,
-                    "is_preview_enabled": false,
-                    "videoURL": "https://sonydaimenew.akamaized.net/hls/live/20000299/CWG_Stre2407/ENG/master.m3u8?hdnea=exp=1784935650~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=04429b88877934f3356c1110266e9b6df39274541f0e54e56a5b8af0f1aaedfe",
-                    "multiLanguageVideoURL": [],
-                    "audioLanguages": [
-                        {
-                            "audioLanguageName": "ENG",
-                            "audioLanguageLabel": "English"
-                        }
-                    ],
-                    "trailer_url": "",
-                    "subtitle": [],
-                    "isEncrypted": false,
-                    "isDVR": false,
-                    "isDownloadable": false,
-                    "posterURL": "",
-                    "sprite_image_url": "",
-                    "tv_sprite_image_url": "",
-                    "dai_asset_key": "Nl41EGGUQSWMYMqWFkeegA",
-                    "contextual_cue_point": {},
-                    "cuepoints": [],
-                    "isLive": true,
-                    "country_rating": {
-                        "U": "IN",
-                        "3+": "BD,NP,LK,PK,AF,BT,MV"
-                    },
-                    "dai_asset_key_hlsfp": "",
-                    "dai_asset_key_wm": "",
-                    "Maximum_Video_Quality": "SDR",
-                    "Maximum_Audio_Quality": "STEREO",
-                    "Maximum_Resolution": "FULL_HD",
-                    "isWatermarked": "false",
-                    "watermark_partner": "",
-                    "upfrontAudio": false,
-                    "pcVodLabel": "3+",
-                    "promotionUrl": "",
-                    "hasPromotion": false,
-                    "contentProvider": "Commonwealth Sport",
-                    "sony_match_id": "",
-                    "tl_marker": "",
-                    "checksum": "",
-                    "kid_mss": "",
-                    "parentId": "1790007824",
-                    "selectedLanguage": {
-                        "lang_label": "English",
-                        "lang_code": "ENG",
-                        "lang_type": "main",
-                        "lang_identifier": ""
-                    },
-                    "originalLanguage": {
-                        "lang_label": "English",
-                        "lang_code": "eng",
-                        "lang_type": "main",
-                        "lang_identifier": ""
-                    },
-                    "stateLanguage": {},
-                    "isFirstVideoPlayedInDevice": false,
-                    "targetedDelivery": {
-                        "td_server_hints": {
-                            "pip_bw_initial": 800000,
-                            "pip_bw_max": 7000000,
-                            "pip_live_initial_buffer": 8,
-                            "pip_live_target_latency": 10,
-                            "analytics_expt_id": "9UexVSmNVs"
-                        }
-                    },
-                    "parents": [
-                        {
-                            "parentId": 1590016357,
-                            "parentType": "BUNDLE",
-                            "parentSubType": "MATCH_TYPE"
-                        },
-                        {
-                            "parentId": 1790007824,
-                            "parentType": "GROUP_OF_BUNDLES",
-                            "parentSubType": "TOURNAMENT"
-                        }
-                    ],
-                    "additionalDataJson": {
-                        "adServer": "GAM",
-                        "ad_stack": "DAI-IMA",
-                        "audioCodec": "AAC",
-                        "audio_quality": "STEREO",
-                        "enc_format": "HLS",
-                        "fps": 25,
-                        "isDaiKey": true,
-                        "partners": [
-                            "ALL"
-                        ],
-                        "resolution": "SD",
-                        "videoCodec": "H264",
-                        "video_quality": "SDR"
-                    },
-                    "LA_Details": {},
-                    "is_audio_desc_available": false,
-                    "is_multi_track_per_language_available": false,
-                    "multiAudioTrack": true,
-                    "packId": "liv_premium_GP_1m"
-                },
-                "systemTime": 1784914050273
-            }
-        },
-        {
-            "match_info": {
-                "contentId": 1090536387,
-                "externalId": "1090536387",
-                "objectType": "VOD",
-                "isLive": true,
-                "objectSubtype": "LIVE_SPORT",
-                "contentType": "VOD",
-                "contentSubtype": "LIVE_SPORT",
-                "title": "Glasgow 2026 Commonwealth Games",
-                "longDescription": "Watch all the exclusive action from the Boxing in the Women's 60kg, LIVE on Sony LIV.",
-                "shortDescription": "Watch all the exclusive action from the Boxing in the Women's 60kg, LIVE on Sony LIV.",
-                "isCopyProtected": false,
-                "contractStartDate": 1784881200000,
-                "contractEndDate": 1784953200000,
-                "episodeTitle": "Lucy Kings-Wheatley vs Petronella Nokenoke - Women's 60kg - Boxing - 24 Jul 2026",
-                "genres": [
-                    "Boxing"
-                ],
-                "originalAirDate": 1784883000000,
-                "pcExtendedRatings": [],
-                "isOnAir": true,
-                "isEncrypted": false,
-                "pcVodLabel": "3+",
-                "duration": 0,
-                "language": "ENG",
-                "isGeoBlocked": false,
-                "advertisingInfoList": [],
-                "emfAttributes": {
-                    "venue_name": "SEC Hall 5",
-                    "region_of_origin": "English",
-                    "svod_advertising": "true",
-                    "audio_languages": "ENG",
-                    "sub_category": "Sport",
-                    "snp_tags": "Suitable for all",
-                    "is_multi_track_per_language_available": false,
-                    "packageid": "12m_mobile_saarc,Liv_Pre_Yupp,12m_saarc,1m_saarc,liv_premium_GP_1m,liv_premium_GP_1m_mobile,LIV_Pre_Mob_1M,liv_binge_1m",
-                    "masthead_logo_rectangualar": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536387/mastheadLogoRectangualar/178291361572592_Commonwealth_Games_2026_GOB_masthead_logo_rectangualar_950x570_LIVE.png",
-                    "broadcast_channel": "LIV",
-                    "Maximum_Video_Quality": "SDR",
-                    "Maximum_Resolution": "FULL_HD",
-                    "advertising": "AD SUPPORTED",
-                    "isdvr": "No",
-                    "emaAttributes": {},
-                    "tv_background_image": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536387/tvBackgroundImage/1784913209391_1784648168177819_CWG26_Boxing_pictogram_tv_bg.jpg",
-                    "U": "IN",
-                    "country_rating": {
-                        "U": "IN",
-                        "3+": "BD,NP,LK,PK,AF,BT,MV"
-                    },
-                    "3+": "BD,NP,LK,PK,AF,BT,MV",
-                    "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020251/178291361564192_Commonwealth_Games_2026_GOB_Masthead_logo.png",
-                    "player_name": "Lucy Kings-Wheatley, Petronella Nokenoke",
-                    "value": "SVOD",
-                    "is_audio_desc_available": false,
-                    "venue_id": "74",
-                    "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536387/thumbnail/1784913209298_1784647659853819_CWG26_Boxing_pictogram_thumbnail.jpg",
-                    "variant_asset_languages": [],
-                    "ad_cluster_id": "ad_cluster_1",
-                    "live_label_display": true,
-                    "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536387/portraitThumb/1784913209102_1784636551144819_CWG26_Boxing_pictogram_portrait_thumb.jpg",
-                    "isSponsorAdAvailable": "true",
-                    "dai_asset_key": "H8sZrwRMQ6WZXui7BZcbaQ",
-                    "seo_tags": "Glasgow 2026 Commonwealth Games,Glasgow 2026,CWG 2026,Commonwealth Games 2026,Glasgow 2026 India squad,Indian athletes Commonwealth Games 2026,CWG 2026 India schedule,India at Glasgow 2026,Neeraj Chopra Glasgow 2026,Mirabai Chanu CWG 2026,Lovlina Borgohain Commonwealth Games,Praveen Chithravel triple jump Glasgow,Murali Sreeshankar CWG 2026,Parul Chaudhary Commonwealth Games,Pranati Nayak gymnastics Glasgow 2026,Rohit Yadav javelin CWG,Preeti Pawar boxing Glasgow,India medal contenders CWG 2026,Commonwealth Games 2026 live streaming India,Glasgow 2026 sports list,Indian weightlifting team CWG 2026,Indian athletics squad Glasgow 2026,Neeraj Chopra,Mirabai Chanu,Lovlina Borgohain,Praveen Chithravel,Murali Sreeshankar,Parul Chaudhary,Pranati Nayak,Rohit Yadav,Preeti Pawar",
-                    "Free_countries": "",
-                    "overlay_visibility": "0",
-                    "SVOD_countries": "_in,_bd,_np,_mv,_bt,_lk,_af,_pk",
-                    "is_subtitle_cc_available": false,
-                    "ssai_partners": "Google DAI",
-                    "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536387/landscapeThumb/1784913209210_1784647663933819_CWG26_Boxing_pictogram_landscape_thumb.jpg",
-                    "audio_language_list": [
-                        {
-                            "lang_code": "ENG",
-                            "lang_label": "English"
-                        }
-                    ],
-                    "Maximum_Audio_Quality": "STEREO",
-                    "sub_license": "No",
-                    "is_auto_play_trailer": true,
-                    "integrated_splash_available": "Yes",
-                    "matchid": "",
-                    "isDVR": false,
-                    "isTimeLineMarker": false,
-                    "isDownloadable": false,
-                    "is_preview_enabled": false,
-                    "sprite_image_url": "",
-                    "tv_sprite_image_url": "",
-                    "kids_safe": false,
-                    "tl_marker": "",
-                    "icon_on_asset": {
-                        "play_focus_icon": "https://origin-staticv2.sonyliv.com/UI_icons/spotlight/focus_play_icon.png",
-                        "play_normal_icon": "https://origin-staticv2.sonyliv.com/UI_icons/spotlight/non_focused_play_icon.png"
-                    }
-                },
-                "isADVAllowed": false,
-                "ratingEligibility": true,
-                "ratingDisplay": false,
-                "titleBrief": "",
-                "baseContentId": 1090536387,
-                "isBaseAsset": true
-            },
-            "playback_info": {
-                "resultCode": "OK",
-                "message": "",
-                "errorDescription": "200-10000",
-                "resultObj": {
-                    "showPlayerStats": false,
-                    "is_preview_enabled": false,
-                    "videoURL": "https://sonydaimenew.akamaized.net/hls/live/20000376/CWG_Stre2407/ENG/master.m3u8?hdnea=exp=1784935657~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=285c9fd1ea9be6a09f6d8cf20fbd05dcab79c342f0ff2c2f087093fc4f5fbe64",
-                    "multiLanguageVideoURL": [],
-                    "audioLanguages": [
-                        {
-                            "audioLanguageName": "ENG",
-                            "audioLanguageLabel": "English"
-                        }
-                    ],
-                    "trailer_url": "",
-                    "subtitle": [],
-                    "isEncrypted": false,
-                    "isDVR": false,
-                    "isDownloadable": false,
-                    "posterURL": "",
-                    "sprite_image_url": "",
-                    "tv_sprite_image_url": "",
-                    "dai_asset_key": "vC6ytSnwQTCFRR5sYUR6DQ",
-                    "contextual_cue_point": {},
-                    "cuepoints": [],
-                    "isLive": true,
-                    "country_rating": {
-                        "U": "IN",
-                        "3+": "BD,NP,LK,PK,AF,BT,MV"
-                    },
-                    "dai_asset_key_hlsfp": "",
-                    "dai_asset_key_wm": "",
-                    "Maximum_Video_Quality": "SDR",
-                    "Maximum_Audio_Quality": "STEREO",
-                    "Maximum_Resolution": "FULL_HD",
-                    "isWatermarked": "false",
-                    "watermark_partner": "",
-                    "upfrontAudio": false,
-                    "pcVodLabel": "3+",
-                    "promotionUrl": "",
-                    "hasPromotion": false,
-                    "contentProvider": "Commonwealth Sport",
-                    "sony_match_id": "",
-                    "tl_marker": "",
-                    "checksum": "",
-                    "kid_mss": "",
-                    "parentId": "1790007824",
-                    "selectedLanguage": {
-                        "lang_label": "English",
-                        "lang_code": "ENG",
-                        "lang_type": "main",
-                        "lang_identifier": ""
-                    },
-                    "originalLanguage": {
-                        "lang_label": "English",
-                        "lang_code": "eng",
-                        "lang_type": "main",
-                        "lang_identifier": ""
-                    },
-                    "stateLanguage": {},
-                    "isFirstVideoPlayedInDevice": false,
-                    "targetedDelivery": {
-                        "td_server_hints": {
-                            "pip_bw_initial": 800000,
-                            "pip_bw_max": 7000000,
-                            "pip_live_initial_buffer": 8,
-                            "pip_live_target_latency": 10,
-                            "analytics_expt_id": "9UexVSmNVs"
-                        }
-                    },
-                    "parents": [
-                        {
-                            "parentId": 1590016357,
-                            "parentType": "BUNDLE",
-                            "parentSubType": "MATCH_TYPE"
-                        },
-                        {
-                            "parentId": 1790007824,
-                            "parentType": "GROUP_OF_BUNDLES",
-                            "parentSubType": "TOURNAMENT"
-                        }
-                    ],
-                    "additionalDataJson": {
-                        "adServer": "GAM",
-                        "ad_stack": "DAI-IMA",
-                        "audioCodec": "AAC",
-                        "audio_quality": "STEREO",
-                        "enc_format": "HLS",
-                        "fps": 25,
-                        "isDaiKey": true,
-                        "partners": [
-                            "ALL"
-                        ],
-                        "resolution": "SD",
-                        "videoCodec": "H264",
-                        "video_quality": "SDR"
-                    },
-                    "LA_Details": {},
-                    "is_audio_desc_available": false,
-                    "is_multi_track_per_language_available": false,
-                    "multiAudioTrack": true,
-                    "packId": "liv_premium_GP_1m"
-                },
-                "systemTime": 1784914057670
-            }
-        },
-        {
-            "match_info": {
-                "contentId": 1090536268,
-                "externalId": "1090536268",
-                "objectType": "VOD",
-                "isLive": true,
-                "objectSubtype": "LIVE_SPORT",
-                "contentType": "VOD",
-                "contentSubtype": "LIVE_SPORT",
-                "title": "Glasgow 2026 Commonwealth Games",
-                "longDescription": "Watch all the exclusive action from the Para Powerlifting in the Women's Heavyweight, LIVE on Sony LIV.",
-                "shortDescription": "Watch all the exclusive action from the Para Powerlifting in the Women's Heavyweight, LIVE on Sony LIV.",
-                "isCopyProtected": false,
-                "contractStartDate": 1784875800000,
-                "contractEndDate": 1784947800000,
-                "episodeTitle": "Women's Heavyweight - Para Powerlifting - 24 Jul 2026",
-                "genres": [
-                    "Para Powerlifting"
-                ],
-                "originalAirDate": 1784877600000,
-                "pcExtendedRatings": [],
-                "isOnAir": true,
-                "isEncrypted": false,
-                "pcVodLabel": "3+",
-                "duration": 0,
-                "language": "ENG",
-                "isGeoBlocked": false,
-                "advertisingInfoList": [],
-                "emfAttributes": {
-                    "venue_name": "SEC Armadillo",
-                    "region_of_origin": "English",
-                    "svod_advertising": "true",
-                    "audio_languages": "ENG",
-                    "sub_category": "Sport",
-                    "snp_tags": "Suitable for all",
-                    "is_multi_track_per_language_available": false,
-                    "packageid": "12m_mobile_saarc,Liv_Pre_Yupp,12m_saarc,1m_saarc,liv_premium_GP_1m,liv_premium_GP_1m_mobile,LIV_Pre_Mob_1M,liv_binge_1m",
-                    "masthead_logo_rectangualar": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/mastheadLogoRectangualar/178291361572592_Commonwealth_Games_2026_GOB_masthead_logo_rectangualar_950x570_LIVE.png",
-                    "broadcast_channel": "LIV",
-                    "Maximum_Video_Quality": "SDR",
-                    "Maximum_Resolution": "FULL_HD",
-                    "advertising": "AD SUPPORTED",
-                    "isdvr": "No",
-                    "emaAttributes": {},
-                    "tv_background_image": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/tvBackgroundImage/1784912409364_1784647220126819_CWG26_Para_Powerlifting_pictogram_tv_bg.jpg",
-                    "U": "IN",
-                    "country_rating": {
-                        "U": "IN",
-                        "3+": "BD,NP,LK,PK,AF,BT,MV"
-                    },
-                    "3+": "BD,NP,LK,PK,AF,BT,MV",
-                    "player_name": "Marek Sahi, Rebecca Zawedde, Hope Gordon, Thamar Gisele Mengue, Joyce Wambui Njuguna, Maria Markou",
-                    "value": "SVOD",
-                    "is_audio_desc_available": false,
-                    "venue_id": "75",
-                    "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/thumbnail/1784912409258_1784647176019819_CWG26_Para_Powerlifting_pictogram_thumbnail.jpg",
-                    "variant_asset_languages": [],
-                    "ad_cluster_id": "ad_cluster_1",
-                    "live_label_display": true,
-                    "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/portraitThumb/1784912409038_1784637437750819_CWG26_Para_Powerlifting_pictogram_portrait_thumb.jpg",
-                    "isSponsorAdAvailable": "true",
-                    "dai_asset_key": "vK0Y_rQxQ2WLCyXrCKz2Bg",
-                    "match_start_time": "1784878200",
-                    "seo_tags": "Glasgow 2026 Commonwealth Games,Glasgow 2026,CWG 2026,Commonwealth Games 2026,Glasgow 2026 India squad,Indian athletes Commonwealth Games 2026,CWG 2026 India schedule,India at Glasgow 2026,Neeraj Chopra Glasgow 2026,Mirabai Chanu CWG 2026,Lovlina Borgohain Commonwealth Games,Praveen Chithravel triple jump Glasgow,Murali Sreeshankar CWG 2026,Parul Chaudhary Commonwealth Games,Pranati Nayak gymnastics Glasgow 2026,Rohit Yadav javelin CWG,Preeti Pawar boxing Glasgow,India medal contenders CWG 2026,Commonwealth Games 2026 live streaming India,Glasgow 2026 sports list,Indian weightlifting team CWG 2026,Indian athletics squad Glasgow 2026,Neeraj Chopra,Mirabai Chanu,Lovlina Borgohain,Praveen Chithravel,Murali Sreeshankar,Parul Chaudhary,Pranati Nayak,Rohit Yadav,Preeti Pawar",
-                    "Free_countries": "",
-                    "overlay_visibility": "0",
-                    "SVOD_countries": "_in,_bd,_np,_mv,_bt,_lk,_af,_pk",
-                    "is_subtitle_cc_available": false,
-                    "ssai_partners": "Google DAI",
-                    "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/landscapeThumb/1784912409177_1784647113731819_CWG26_Para_Powerlifting_pictogram_landscape_thumb.jpg",
-                    "audio_language_list": [
-                        {
-                            "lang_code": "ENG",
-                            "lang_label": "English"
-                        }
-                    ],
-                    "Maximum_Audio_Quality": "STEREO",
-                    "sub_license": "No",
-                    "is_auto_play_trailer": true,
-                    "integrated_splash_available": "Yes",
-                    "matchid": "",
-                    "isTimeLineMarker_new": "true",
-                    "isDVR": false,
-                    "isTimeLineMarker": false,
-                    "isDownloadable": false,
-                    "is_preview_enabled": false,
-                    "sprite_image_url": "",
-                    "tv_sprite_image_url": "",
-                    "kids_safe": false,
-                    "tl_marker": "",
-                    "icon_on_asset": {
-                        "play_focus_icon": "https://origin-staticv2.sonyliv.com/UI_icons/spotlight/focus_play_icon.png",
-                        "play_normal_icon": "https://origin-staticv2.sonyliv.com/UI_icons/spotlight/non_focused_play_icon.png"
-                    }
-                },
-                "isADVAllowed": false,
-                "ratingEligibility": true,
-                "ratingDisplay": false,
-                "titleBrief": "",
-                "baseContentId": 1090536268,
-                "isBaseAsset": true
-            },
-            "playback_info": {
-                "resultCode": "OK",
-                "message": "",
-                "errorDescription": "200-10000",
-                "resultObj": {
-                    "showPlayerStats": false,
-                    "is_preview_enabled": false,
-                    "videoURL": "https://sonydaimenew.akamaized.net/hls/live/20000298/CWG_Stre2407/ENG/master.m3u8?hdnea=exp=1784933461~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=df3a057b43122390cee8c9f0bd6adea873acb35acc62b9afe0b3d02251fc457f",
-                    "multiLanguageVideoURL": [],
-                    "audioLanguages": [
-                        {
-                            "audioLanguageName": "ENG",
-                            "audioLanguageLabel": "English"
-                        }
-                    ],
-                    "trailer_url": "",
-                    "subtitle": [],
-                    "isEncrypted": false,
-                    "isDVR": false,
-                    "isDownloadable": false,
-                    "posterURL": "",
-                    "sprite_image_url": "",
-                    "tv_sprite_image_url": "",
-                    "dai_asset_key": "XSjjwrlLR6Cfn7Whgceqxg",
-                    "contextual_cue_point": {},
-                    "cuepoints": [],
-                    "isLive": true,
-                    "country_rating": {
-                        "U": "IN",
-                        "3+": "BD,NP,LK,PK,AF,BT,MV"
-                    },
-                    "dai_asset_key_hlsfp": "",
-                    "dai_asset_key_wm": "",
-                    "Maximum_Video_Quality": "SDR",
-                    "Maximum_Audio_Quality": "STEREO",
-                    "Maximum_Resolution": "FULL_HD",
-                    "isWatermarked": "false",
-                    "watermark_partner": "",
-                    "upfrontAudio": false,
-                    "pcVodLabel": "3+",
-                    "promotionUrl": "",
-                    "hasPromotion": false,
-                    "contentProvider": "Commonwealth Sport",
-                    "sony_match_id": "",
-                    "tl_marker": "",
-                    "checksum": "",
-                    "kid_mss": "",
-                    "parentId": "1790007824",
-                    "selectedLanguage": {
-                        "lang_label": "English",
-                        "lang_code": "ENG",
-                        "lang_type": "main",
-                        "lang_identifier": ""
-                    },
-                    "originalLanguage": {
-                        "lang_label": "English",
-                        "lang_code": "eng",
-                        "lang_type": "main",
-                        "lang_identifier": ""
-                    },
-                    "stateLanguage": {},
-                    "isFirstVideoPlayedInDevice": false,
-                    "targetedDelivery": {
-                        "td_server_hints": {
-                            "pip_bw_initial": 800000,
-                            "pip_bw_max": 7000000,
-                            "pip_live_initial_buffer": 8,
-                            "pip_live_target_latency": 10,
-                            "analytics_expt_id": "9UexVSmNVs"
-                        }
-                    },
-                    "parents": [
-                        {
-                            "parentId": 1590016357,
-                            "parentType": "BUNDLE",
-                            "parentSubType": "MATCH_TYPE"
-                        },
-                        {
-                            "parentId": 1790007824,
-                            "parentType": "GROUP_OF_BUNDLES",
-                            "parentSubType": "TOURNAMENT"
-                        }
-                    ],
-                    "additionalDataJson": {
-                        "adServer": "GAM",
-                        "ad_stack": "DAI-IMA",
-                        "audioCodec": "AAC",
-                        "audio_quality": "STEREO",
-                        "enc_format": "HLS",
-                        "fps": 25,
-                        "isDaiKey": true,
-                        "partners": [
-                            "ALL"
-                        ],
-                        "resolution": "SD",
-                        "videoCodec": "H264",
-                        "video_quality": "SDR"
-                    },
-                    "LA_Details": {},
-                    "is_audio_desc_available": false,
-                    "is_multi_track_per_language_available": false,
-                    "multiAudioTrack": true,
-                    "packId": "liv_premium_GP_1m"
-                },
-                "systemTime": 1784911861076
-            }
-        },
         {
             "match_info": {
                 "contentId": 1090536386,
@@ -676,7 +50,7 @@
                     "advertising": "AD SUPPORTED",
                     "isdvr": "No",
                     "emaAttributes": {},
-                    "tv_background_image": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536386/tvBackgroundImage/1784911558919_1784647341457819_CWG26_Bowls_and_Para_Bowls_pictogram_tv_bg.jpg",
+                    "tv_background_image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784648097142819_CWG26_Gymnastics_pictogram_tv_bg.jpg",
                     "U": "IN",
                     "country_rating": {
                         "U": "IN",
@@ -688,12 +62,11 @@
                     "value": "SVOD",
                     "is_audio_desc_available": false,
                     "venue_id": "67",
-                    "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536386/thumbnail/1784911558819_1784647162182819_CWG26_Bowls_and_Para_Bowls_pictogram_thumbnail.jpg",
+                    "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784647785497819_CWG26_Gymnastics_pictogram_thumbnail.jpg",
                     "variant_asset_languages": [],
-                    "broadcast_channel_hin": "लिव",
                     "ad_cluster_id": "ad_cluster_1",
                     "live_label_display": true,
-                    "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536386/portraitThumb/1784911558471_1784635752092819_CWG26_Bowls_and_Para_Bowls_pictogram_portrait_thumb.jpg",
+                    "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784637024252819_CWG26_Gymnastics_pictogram_portrait_thumb.jpg",
                     "isSponsorAdAvailable": "true",
                     "dai_asset_key": "FuGFb9bcSEWxSWShqRWhIg",
                     "seo_tags": "Glasgow 2026 Commonwealth Games,Glasgow 2026,CWG 2026,Commonwealth Games 2026,Glasgow 2026 India squad,Indian athletes Commonwealth Games 2026,CWG 2026 India schedule,India at Glasgow 2026,Neeraj Chopra Glasgow 2026,Mirabai Chanu CWG 2026,Lovlina Borgohain Commonwealth Games,Praveen Chithravel triple jump Glasgow,Murali Sreeshankar CWG 2026,Parul Chaudhary Commonwealth Games,Pranati Nayak gymnastics Glasgow 2026,Rohit Yadav javelin CWG,Preeti Pawar boxing Glasgow,India medal contenders CWG 2026,Commonwealth Games 2026 live streaming India,Glasgow 2026 sports list,Indian weightlifting team CWG 2026,Indian athletics squad Glasgow 2026,Neeraj Chopra,Mirabai Chanu,Lovlina Borgohain,Praveen Chithravel,Murali Sreeshankar,Parul Chaudhary,Pranati Nayak,Rohit Yadav,Preeti Pawar",
@@ -702,7 +75,7 @@
                     "SVOD_countries": "_in,_bd,_np,_mv,_bt,_lk,_af,_pk",
                     "is_subtitle_cc_available": false,
                     "ssai_partners": "Google DAI",
-                    "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536386/landscapeThumb/1784911558666_1784647154993819_CWG26_Bowls_and_Para_Bowls_pictogram_landscape_thumb.jpg",
+                    "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784647785497819_CWG26_Gymnastics_pictogram_thumbnail.jpg",
                     "audio_language_list": [
                         {
                             "lang_code": "ENG",
@@ -843,6 +216,422 @@
         },
         {
             "match_info": {
+                "contentId": 1090536385,
+                "externalId": "1090536385",
+                "objectType": "VOD",
+                "isLive": true,
+                "objectSubtype": "LIVE_SPORT",
+                "contentType": "VOD",
+                "contentSubtype": "LIVE_SPORT",
+                "title": "Glasgow 2026 Commonwealth Games",
+                "longDescription": "Watch all the exclusive action from the Aquatics in the Men's 200m Individual Medley, LIVE on Sony LIV.",
+                "shortDescription": "Watch all the exclusive action from the Aquatics in the Men's 200m Individual Medley, LIVE on Sony LIV.",
+                "isCopyProtected": false,
+                "contractStartDate": 1784875800000,
+                "contractEndDate": 1784947800000,
+                "episodeTitle": "Men's 200m Individual Medley - Aquatics - 24 Jul 2026",
+                "genres": [
+                    "Aquatics"
+                ],
+                "originalAirDate": 1784877600000,
+                "pcExtendedRatings": [],
+                "isOnAir": true,
+                "isEncrypted": false,
+                "pcVodLabel": "3+",
+                "duration": 0,
+                "language": "ENG",
+                "isGeoBlocked": false,
+                "advertisingInfoList": [],
+                "emfAttributes": {
+                    "venue_name": "Tollcross Swimming Centre",
+                    "region_of_origin": "English",
+                    "svod_advertising": "true",
+                    "audio_languages": "ENG",
+                    "sub_category": "Sport",
+                    "snp_tags": "Suitable for all",
+                    "is_multi_track_per_language_available": false,
+                    "packageid": "12m_mobile_saarc,Liv_Pre_Yupp,12m_saarc,1m_saarc,liv_premium_GP_1m,liv_premium_GP_1m_mobile,LIV_Pre_Mob_1M,liv_binge_1m",
+                    "masthead_logo_rectangualar": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/mastheadLogoRectangualar/178291361572592_Commonwealth_Games_2026_GOB_masthead_logo_rectangualar_950x570_LIVE.png",
+                    "broadcast_channel": "LIV",
+                    "Maximum_Video_Quality": "SDR",
+                    "Maximum_Resolution": "FULL_HD",
+                    "advertising": "AD SUPPORTED",
+                    "isdvr": "No",
+                    "emaAttributes": {},
+                    "tv_background_image": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/tvBackgroundImage/1784917128344_1784648387890819_CWG26_Aquatics_pictogram_tv_bg.jpg",
+                    "U": "IN",
+                    "country_rating": {
+                        "U": "IN",
+                        "3+": "BD,NP,LK,PK,AF,BT,MV"
+                    },
+                    "3+": "BD,NP,LK,PK,AF,BT,MV",
+                    "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020251/178291361564192_Commonwealth_Games_2026_GOB_Masthead_logo.png",
+                    "player_name": "Evan Jones, Duncan Scott, Thomas Dean, William Petric, Max Litchfield, Lewis Clareburt, Brendon Smith, Lorne Wigginton",
+                    "value": "SVOD",
+                    "is_audio_desc_available": false,
+                    "venue_id": "78",
+                    "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/thumbnail/1784917128264_1784647612769819_CWG26_Aquatics_pictogram_thumbnail.jpg",
+                    "variant_asset_languages": [],
+                    "ad_cluster_id": "ad_cluster_1",
+                    "live_label_display": true,
+                    "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/portraitThumb/1784917128069_1784630204591819_CWG26_Aquatics_pictogram_portrait_thumb.jpg",
+                    "isSponsorAdAvailable": "true",
+                    "dai_asset_key": "lCPeNz0CSL6iH5VTP5pRYQ",
+                    "seo_tags": "Glasgow 2026 Commonwealth Games,Glasgow 2026,CWG 2026,Commonwealth Games 2026,Glasgow 2026 India squad,Indian athletes Commonwealth Games 2026,CWG 2026 India schedule,India at Glasgow 2026,Neeraj Chopra Glasgow 2026,Mirabai Chanu CWG 2026,Lovlina Borgohain Commonwealth Games,Praveen Chithravel triple jump Glasgow,Murali Sreeshankar CWG 2026,Parul Chaudhary Commonwealth Games,Pranati Nayak gymnastics Glasgow 2026,Rohit Yadav javelin CWG,Preeti Pawar boxing Glasgow,India medal contenders CWG 2026,Commonwealth Games 2026 live streaming India,Glasgow 2026 sports list,Indian weightlifting team CWG 2026,Indian athletics squad Glasgow 2026,Neeraj Chopra,Mirabai Chanu,Lovlina Borgohain,Praveen Chithravel,Murali Sreeshankar,Parul Chaudhary,Pranati Nayak,Rohit Yadav,Preeti Pawar",
+                    "Free_countries": "",
+                    "overlay_visibility": "0",
+                    "SVOD_countries": "_in,_bd,_np,_mv,_bt,_lk,_af,_pk",
+                    "is_subtitle_cc_available": false,
+                    "ssai_partners": "Google DAI",
+                    "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/landscapeThumb/1784917128173_1784647616274819_CWG26_Aquatics_pictogram_landscape_thumb.jpg",
+                    "audio_language_list": [
+                        {
+                            "lang_code": "ENG",
+                            "lang_label": "English"
+                        }
+                    ],
+                    "Maximum_Audio_Quality": "STEREO",
+                    "sub_license": "No",
+                    "is_auto_play_trailer": true,
+                    "integrated_splash_available": "Yes",
+                    "matchid": "",
+                    "isDVR": false,
+                    "isTimeLineMarker": false,
+                    "isDownloadable": false,
+                    "is_preview_enabled": false,
+                    "sprite_image_url": "",
+                    "tv_sprite_image_url": "",
+                    "kids_safe": false,
+                    "tl_marker": "",
+                    "icon_on_asset": {
+                        "play_focus_icon": "https://origin-staticv2.sonyliv.com/UI_icons/spotlight/focus_play_icon.png",
+                        "play_normal_icon": "https://origin-staticv2.sonyliv.com/UI_icons/spotlight/non_focused_play_icon.png"
+                    }
+                },
+                "isADVAllowed": false,
+                "ratingEligibility": true,
+                "ratingDisplay": false,
+                "titleBrief": "",
+                "baseContentId": 1090536385,
+                "isBaseAsset": true
+            },
+            "playback_info": {
+                "resultCode": "OK",
+                "message": "",
+                "errorDescription": "200-10000",
+                "resultObj": {
+                    "showPlayerStats": false,
+                    "is_preview_enabled": false,
+                    "videoURL": "https://sonydaimenew.akamaized.net/hls/live/20000299/CWG_Stre2407/ENG/master.m3u8?hdnea=exp=1784938838~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=da9ee7e78d352ce91404ff8195731025f65b14edc3446e0335697c9a8ea60c38",
+                    "multiLanguageVideoURL": [],
+                    "audioLanguages": [
+                        {
+                            "audioLanguageName": "ENG",
+                            "audioLanguageLabel": "English"
+                        }
+                    ],
+                    "trailer_url": "",
+                    "subtitle": [],
+                    "isEncrypted": false,
+                    "isDVR": false,
+                    "isDownloadable": false,
+                    "posterURL": "",
+                    "sprite_image_url": "",
+                    "tv_sprite_image_url": "",
+                    "dai_asset_key": "Nl41EGGUQSWMYMqWFkeegA",
+                    "contextual_cue_point": {},
+                    "cuepoints": [],
+                    "isLive": true,
+                    "country_rating": {
+                        "U": "IN",
+                        "3+": "BD,NP,LK,PK,AF,BT,MV"
+                    },
+                    "dai_asset_key_hlsfp": "",
+                    "dai_asset_key_wm": "",
+                    "Maximum_Video_Quality": "SDR",
+                    "Maximum_Audio_Quality": "STEREO",
+                    "Maximum_Resolution": "FULL_HD",
+                    "isWatermarked": "false",
+                    "watermark_partner": "",
+                    "upfrontAudio": false,
+                    "pcVodLabel": "3+",
+                    "promotionUrl": "",
+                    "hasPromotion": false,
+                    "contentProvider": "Commonwealth Sport",
+                    "sony_match_id": "",
+                    "tl_marker": "",
+                    "checksum": "",
+                    "kid_mss": "",
+                    "parentId": "1790007824",
+                    "selectedLanguage": {
+                        "lang_label": "English",
+                        "lang_code": "ENG",
+                        "lang_type": "main",
+                        "lang_identifier": ""
+                    },
+                    "originalLanguage": {
+                        "lang_label": "English",
+                        "lang_code": "eng",
+                        "lang_type": "main",
+                        "lang_identifier": ""
+                    },
+                    "stateLanguage": {},
+                    "isFirstVideoPlayedInDevice": false,
+                    "targetedDelivery": {
+                        "td_server_hints": {
+                            "pip_bw_initial": 800000,
+                            "pip_bw_max": 7000000,
+                            "pip_live_initial_buffer": 8,
+                            "pip_live_target_latency": 10,
+                            "analytics_expt_id": "9UexVSmNVs"
+                        }
+                    },
+                    "parents": [
+                        {
+                            "parentId": 1590016357,
+                            "parentType": "BUNDLE",
+                            "parentSubType": "MATCH_TYPE"
+                        },
+                        {
+                            "parentId": 1790007824,
+                            "parentType": "GROUP_OF_BUNDLES",
+                            "parentSubType": "TOURNAMENT"
+                        }
+                    ],
+                    "additionalDataJson": {
+                        "adServer": "GAM",
+                        "ad_stack": "DAI-IMA",
+                        "audioCodec": "AAC",
+                        "audio_quality": "STEREO",
+                        "enc_format": "HLS",
+                        "fps": 25,
+                        "isDaiKey": true,
+                        "partners": [
+                            "ALL"
+                        ],
+                        "resolution": "SD",
+                        "videoCodec": "H264",
+                        "video_quality": "SDR"
+                    },
+                    "LA_Details": {},
+                    "is_audio_desc_available": false,
+                    "is_multi_track_per_language_available": false,
+                    "multiAudioTrack": true,
+                    "packId": "liv_premium_GP_1m"
+                },
+                "systemTime": 1784917238090
+            }
+        },
+        {
+            "match_info": {
+                "contentId": 1090536387,
+                "externalId": "1090536387",
+                "objectType": "VOD",
+                "isLive": true,
+                "objectSubtype": "LIVE_SPORT",
+                "contentType": "VOD",
+                "contentSubtype": "LIVE_SPORT",
+                "title": "Glasgow 2026 Commonwealth Games",
+                "longDescription": "Watch all the exclusive action from the Boxing in the Men's 55kg, LIVE on Sony LIV.",
+                "shortDescription": "Watch all the exclusive action from the Boxing in the Men's 55kg, LIVE on Sony LIV.",
+                "isCopyProtected": false,
+                "contractStartDate": 1784881200000,
+                "contractEndDate": 1784953200000,
+                "episodeTitle": "Marvelous-Marvin Canon vs Fabrice Karl Valerie - Men's 55kg - Boxing - 24 Jul 2026",
+                "genres": [
+                    "Boxing"
+                ],
+                "originalAirDate": 1784883000000,
+                "pcExtendedRatings": [],
+                "isOnAir": true,
+                "isEncrypted": false,
+                "pcVodLabel": "3+",
+                "duration": 0,
+                "language": "ENG",
+                "isGeoBlocked": false,
+                "advertisingInfoList": [],
+                "emfAttributes": {
+                    "venue_name": "SEC Hall 5",
+                    "region_of_origin": "English",
+                    "svod_advertising": "true",
+                    "audio_languages": "ENG",
+                    "sub_category": "Sport",
+                    "snp_tags": "Suitable for all",
+                    "is_multi_track_per_language_available": false,
+                    "packageid": "12m_mobile_saarc,Liv_Pre_Yupp,12m_saarc,1m_saarc,liv_premium_GP_1m,liv_premium_GP_1m_mobile,LIV_Pre_Mob_1M,liv_binge_1m",
+                    "masthead_logo_rectangualar": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536387/mastheadLogoRectangualar/178291361572592_Commonwealth_Games_2026_GOB_masthead_logo_rectangualar_950x570_LIVE.png",
+                    "broadcast_channel": "LIV",
+                    "Maximum_Video_Quality": "SDR",
+                    "Maximum_Resolution": "FULL_HD",
+                    "advertising": "AD SUPPORTED",
+                    "isdvr": "No",
+                    "emaAttributes": {},
+                    "tv_background_image": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536387/tvBackgroundImage/1784916154088_1784648168177819_CWG26_Boxing_pictogram_tv_bg.jpg",
+                    "U": "IN",
+                    "country_rating": {
+                        "U": "IN",
+                        "3+": "BD,NP,LK,PK,AF,BT,MV"
+                    },
+                    "3+": "BD,NP,LK,PK,AF,BT,MV",
+                    "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020251/178291361564192_Commonwealth_Games_2026_GOB_Masthead_logo.png",
+                    "player_name": "Marvelous-Marvin Canon, Fabrice Karl Valerie",
+                    "value": "SVOD",
+                    "is_audio_desc_available": false,
+                    "venue_id": "74",
+                    "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536387/thumbnail/1784916154003_1784647659853819_CWG26_Boxing_pictogram_thumbnail.jpg",
+                    "variant_asset_languages": [],
+                    "ad_cluster_id": "ad_cluster_1",
+                    "live_label_display": true,
+                    "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536387/portraitThumb/1784916153795_1784636551144819_CWG26_Boxing_pictogram_portrait_thumb.jpg",
+                    "isSponsorAdAvailable": "true",
+                    "dai_asset_key": "H8sZrwRMQ6WZXui7BZcbaQ",
+                    "seo_tags": "Glasgow 2026 Commonwealth Games,Glasgow 2026,CWG 2026,Commonwealth Games 2026,Glasgow 2026 India squad,Indian athletes Commonwealth Games 2026,CWG 2026 India schedule,India at Glasgow 2026,Neeraj Chopra Glasgow 2026,Mirabai Chanu CWG 2026,Lovlina Borgohain Commonwealth Games,Praveen Chithravel triple jump Glasgow,Murali Sreeshankar CWG 2026,Parul Chaudhary Commonwealth Games,Pranati Nayak gymnastics Glasgow 2026,Rohit Yadav javelin CWG,Preeti Pawar boxing Glasgow,India medal contenders CWG 2026,Commonwealth Games 2026 live streaming India,Glasgow 2026 sports list,Indian weightlifting team CWG 2026,Indian athletics squad Glasgow 2026,Neeraj Chopra,Mirabai Chanu,Lovlina Borgohain,Praveen Chithravel,Murali Sreeshankar,Parul Chaudhary,Pranati Nayak,Rohit Yadav,Preeti Pawar",
+                    "Free_countries": "",
+                    "overlay_visibility": "0",
+                    "SVOD_countries": "_in,_bd,_np,_mv,_bt,_lk,_af,_pk",
+                    "is_subtitle_cc_available": false,
+                    "ssai_partners": "Google DAI",
+                    "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536387/landscapeThumb/1784916153926_1784647663933819_CWG26_Boxing_pictogram_landscape_thumb.jpg",
+                    "audio_language_list": [
+                        {
+                            "lang_code": "ENG",
+                            "lang_label": "English"
+                        }
+                    ],
+                    "Maximum_Audio_Quality": "STEREO",
+                    "sub_license": "No",
+                    "is_auto_play_trailer": true,
+                    "integrated_splash_available": "Yes",
+                    "matchid": "",
+                    "isDVR": false,
+                    "isTimeLineMarker": false,
+                    "isDownloadable": false,
+                    "is_preview_enabled": false,
+                    "sprite_image_url": "",
+                    "tv_sprite_image_url": "",
+                    "kids_safe": false,
+                    "tl_marker": "",
+                    "icon_on_asset": {
+                        "play_focus_icon": "https://origin-staticv2.sonyliv.com/UI_icons/spotlight/focus_play_icon.png",
+                        "play_normal_icon": "https://origin-staticv2.sonyliv.com/UI_icons/spotlight/non_focused_play_icon.png"
+                    }
+                },
+                "isADVAllowed": false,
+                "ratingEligibility": true,
+                "ratingDisplay": false,
+                "titleBrief": "",
+                "baseContentId": 1090536387,
+                "isBaseAsset": true
+            },
+            "playback_info": {
+                "resultCode": "OK",
+                "message": "",
+                "errorDescription": "200-10000",
+                "resultObj": {
+                    "showPlayerStats": false,
+                    "is_preview_enabled": false,
+                    "videoURL": "https://sonydaimenew.akamaized.net/hls/live/20000376/CWG_Stre2407/ENG/master.m3u8?hdnea=exp=1784938845~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=8e00f932b368d6bcdaf633fcf574c3586670ed565fdf12591aceca49fc05ca93",
+                    "multiLanguageVideoURL": [],
+                    "audioLanguages": [
+                        {
+                            "audioLanguageName": "ENG",
+                            "audioLanguageLabel": "English"
+                        }
+                    ],
+                    "trailer_url": "",
+                    "subtitle": [],
+                    "isEncrypted": false,
+                    "isDVR": false,
+                    "isDownloadable": false,
+                    "posterURL": "",
+                    "sprite_image_url": "",
+                    "tv_sprite_image_url": "",
+                    "dai_asset_key": "vC6ytSnwQTCFRR5sYUR6DQ",
+                    "contextual_cue_point": {},
+                    "cuepoints": [],
+                    "isLive": true,
+                    "country_rating": {
+                        "U": "IN",
+                        "3+": "BD,NP,LK,PK,AF,BT,MV"
+                    },
+                    "dai_asset_key_hlsfp": "",
+                    "dai_asset_key_wm": "",
+                    "Maximum_Video_Quality": "SDR",
+                    "Maximum_Audio_Quality": "STEREO",
+                    "Maximum_Resolution": "FULL_HD",
+                    "isWatermarked": "false",
+                    "watermark_partner": "",
+                    "upfrontAudio": false,
+                    "pcVodLabel": "3+",
+                    "promotionUrl": "",
+                    "hasPromotion": false,
+                    "contentProvider": "Commonwealth Sport",
+                    "sony_match_id": "",
+                    "tl_marker": "",
+                    "checksum": "",
+                    "kid_mss": "",
+                    "parentId": "1790007824",
+                    "selectedLanguage": {
+                        "lang_label": "English",
+                        "lang_code": "ENG",
+                        "lang_type": "main",
+                        "lang_identifier": ""
+                    },
+                    "originalLanguage": {
+                        "lang_label": "English",
+                        "lang_code": "eng",
+                        "lang_type": "main",
+                        "lang_identifier": ""
+                    },
+                    "stateLanguage": {},
+                    "isFirstVideoPlayedInDevice": false,
+                    "targetedDelivery": {
+                        "td_server_hints": {
+                            "pip_bw_initial": 800000,
+                            "pip_bw_max": 7000000,
+                            "pip_live_initial_buffer": 8,
+                            "pip_live_target_latency": 10,
+                            "analytics_expt_id": "9UexVSmNVs"
+                        }
+                    },
+                    "parents": [
+                        {
+                            "parentId": 1590016357,
+                            "parentType": "BUNDLE",
+                            "parentSubType": "MATCH_TYPE"
+                        },
+                        {
+                            "parentId": 1790007824,
+                            "parentType": "GROUP_OF_BUNDLES",
+                            "parentSubType": "TOURNAMENT"
+                        }
+                    ],
+                    "additionalDataJson": {
+                        "adServer": "GAM",
+                        "ad_stack": "DAI-IMA",
+                        "audioCodec": "AAC",
+                        "audio_quality": "STEREO",
+                        "enc_format": "HLS",
+                        "fps": 25,
+                        "isDaiKey": true,
+                        "partners": [
+                            "ALL"
+                        ],
+                        "resolution": "SD",
+                        "videoCodec": "H264",
+                        "video_quality": "SDR"
+                    },
+                    "LA_Details": {},
+                    "is_audio_desc_available": false,
+                    "is_multi_track_per_language_available": false,
+                    "multiAudioTrack": true,
+                    "packId": "liv_premium_GP_1m"
+                },
+                "systemTime": 1784917245158
+            }
+        },
+        {
+            "match_info": {
                 "contentId": 1090537018,
                 "externalId": "1090537018",
                 "objectType": "VOD",
@@ -948,7 +737,7 @@
                 "resultObj": {
                     "showPlayerStats": false,
                     "is_preview_enabled": false,
-                    "videoURL": "https://sonyeventsglobal.akamaized.net/hls/live/2022322/DAI18-HMEN/master.m3u8?hdnea=exp=1784935691~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=7ac6a7a66bc1de78584dc6af6a6f67e85a12dbbd85654cafe1931aa85c9231af",
+                    "videoURL": "https://sonyeventsglobal.akamaized.net/hls/live/2022322/DAI18-HMEN/master.m3u8?hdnea=exp=1784938852~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=c6ab18090b5284211b1693b3e469c6783900284cedfe1544a2dfcbd06e3f5fe4",
                     "multiLanguageVideoURL": [],
                     "audioLanguages": [
                         {
@@ -1036,211 +825,7 @@
                     "multiAudioTrack": true,
                     "packId": "liv_premium_GP_1m"
                 },
-                "systemTime": 1784914091196
-            }
-        },
-        {
-            "match_info": {
-                "contentId": 1090536997,
-                "externalId": "1090536997",
-                "objectType": "VOD",
-                "isLive": true,
-                "objectSubtype": "LIVE_SPORT",
-                "contentType": "VOD",
-                "contentSubtype": "LIVE_SPORT",
-                "title": "LIV Golf",
-                "longDescription": "Catch all Day 2 action from the LIV Golf UK, live on Sony LIV.",
-                "shortDescription": "Catch all Day 2 action from the LIV Golf UK, live on Sony LIV.",
-                "isCopyProtected": false,
-                "contractStartDate": 1784892600000,
-                "contractEndDate": 1784928600000,
-                "episodeTitle": "UK - Day 2 - 24 Jul 2026",
-                "genres": [
-                    "Golf"
-                ],
-                "originalAirDate": 1784894400000,
-                "pcExtendedRatings": [],
-                "isOnAir": false,
-                "isEncrypted": false,
-                "pcVodLabel": "3+",
-                "duration": 0,
-                "language": "ENG",
-                "isGeoBlocked": false,
-                "advertisingInfoList": [],
-                "emfAttributes": {
-                    "venue_name": "Rocester, Staffordshire, England",
-                    "region_of_origin": "English",
-                    "svod_advertising": "true",
-                    "audio_languages": "ENG",
-                    "snp_tags": "Suitable for all",
-                    "is_multi_track_per_language_available": false,
-                    "packageid": "12m_mobile_saarc,Liv_Pre_Yupp,12m_saarc,1m_saarc,liv_premium_GP_1m,liv_premium_GP_1m_mobile,LIV_Pre_Mob_1M,liv_binge_1m",
-                    "broadcast_channel": "LIV",
-                    "Maximum_Video_Quality": "SDR",
-                    "Maximum_Resolution": "FULL_HD",
-                    "advertising": "AD SUPPORTED",
-                    "isdvr": "No",
-                    "emaAttributes": {},
-                    "tv_background_image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020822/178474095723996_LIV_Golf_UK_tv_bg.jpg",
-                    "U": "IN",
-                    "country_rating": {
-                        "U": "IN",
-                        "3+": "BD,NP,LK,AF,BT,MV,PK"
-                    },
-                    "3+": "BD,NP,LK,AF,BT,MV,PK",
-                    "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009146/1758606495748941_UEL25_26_GENERIC_Masthead_logo_LIVE1.png",
-                    "value": "SVOD",
-                    "is_audio_desc_available": false,
-                    "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020822/178474073773096_LIV_Golf_UK_Day2_landscape_thumb.jpg",
-                    "variant_asset_languages": [],
-                    "broadcast_channel_hin": "लिव",
-                    "ad_cluster_id": "ad_cluster_1",
-                    "live_label_display": true,
-                    "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020822/178474005804696_LIV_Golf_UK_Day2_live_portrait_thumb.jpg",
-                    "dai_asset_key": "fNwNyRsSQLOQ45LFUyTx2g",
-                    "seo_tags": "LIV Golf,LIV Golf League,LIV Golf schedule,LIV Golf players,LIV Golf teams,LIV Golf leaderboard,LIV Golf standings,LIV Golf news,LIV Golf results,LIV Golf highlights,LIV Golf tournament,LIV Golf events,LIV Golf rankings,LIV Golf prize money,LIV Golf vs PGA Tour,LIV Golf format,LIV Golf venues,LIV Golf contracts,LIV Golf live stream,LIV Golf updates,LIV Golf 2026,LIV Golf season,LIV Golf tickets,LIV Golf broadcast",
-                    "Free_countries": "",
-                    "overlay_visibility": "0",
-                    "SVOD_countries": "_in,_bd,_np,_mv,_af,_bt,_lk,_pk",
-                    "is_subtitle_cc_available": false,
-                    "ssai_partners": "Google DAI",
-                    "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020822/178474073773096_LIV_Golf_UK_Day2_landscape_thumb.jpg",
-                    "audio_language_list": [
-                        {
-                            "lang_code": "ENG",
-                            "lang_label": "English"
-                        }
-                    ],
-                    "Maximum_Audio_Quality": "STEREO",
-                    "sub_license": "No",
-                    "is_auto_play_trailer": true,
-                    "integrated_splash_available": "Yes",
-                    "isTimeLineMarker_new": "false",
-                    "isDVR": false,
-                    "isTimeLineMarker": false,
-                    "isDownloadable": false,
-                    "is_preview_enabled": false,
-                    "sprite_image_url": "",
-                    "tv_sprite_image_url": "",
-                    "kids_safe": false,
-                    "tl_marker": "",
-                    "icon_on_asset": {
-                        "play_focus_icon": "https://origin-staticv2.sonyliv.com/UI_icons/spotlight/focus_play_icon.png",
-                        "play_normal_icon": "https://origin-staticv2.sonyliv.com/UI_icons/spotlight/non_focused_play_icon.png"
-                    }
-                },
-                "isADVAllowed": false,
-                "ratingEligibility": true,
-                "ratingDisplay": false,
-                "titleBrief": "",
-                "baseContentId": 1090536997,
-                "isBaseAsset": true
-            },
-            "playback_info": {
-                "resultCode": "OK",
-                "message": "",
-                "errorDescription": "200-10000",
-                "resultObj": {
-                    "showPlayerStats": false,
-                    "is_preview_enabled": false,
-                    "videoURL": "https://sonydaimenew.akamaized.net/hls/live/20000301/Golf_UK_2407/ENG/master.m3u8?hdnea=exp=1784933475~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=b73a66b6dd1a9f8e0b62ac9e426466b2d200dc71c73f5095b6c7e7a408df24c3",
-                    "multiLanguageVideoURL": [],
-                    "audioLanguages": [
-                        {
-                            "audioLanguageName": "ENG",
-                            "audioLanguageLabel": "English"
-                        }
-                    ],
-                    "trailer_url": "",
-                    "subtitle": [],
-                    "isEncrypted": false,
-                    "isDVR": false,
-                    "isDownloadable": false,
-                    "posterURL": "",
-                    "sprite_image_url": "",
-                    "tv_sprite_image_url": "",
-                    "dai_asset_key": "aYpYXhJ_R-q0A8bvM-SBmQ",
-                    "contextual_cue_point": {},
-                    "cuepoints": [],
-                    "isLive": true,
-                    "country_rating": {
-                        "U": "IN",
-                        "3+": "BD,NP,LK,AF,BT,MV,PK"
-                    },
-                    "dai_asset_key_hlsfp": "",
-                    "dai_asset_key_wm": "",
-                    "Maximum_Video_Quality": "SDR",
-                    "Maximum_Audio_Quality": "STEREO",
-                    "Maximum_Resolution": "FULL_HD",
-                    "isWatermarked": "false",
-                    "watermark_partner": "",
-                    "upfrontAudio": false,
-                    "pcVodLabel": "3+",
-                    "promotionUrl": "",
-                    "hasPromotion": false,
-                    "contentProvider": "LIV GOLF LTD.",
-                    "sony_match_id": "",
-                    "tl_marker": "",
-                    "checksum": "",
-                    "kid_mss": "",
-                    "parentId": "1790006796",
-                    "selectedLanguage": {
-                        "lang_label": "English",
-                        "lang_code": "ENG",
-                        "lang_type": "main",
-                        "lang_identifier": ""
-                    },
-                    "originalLanguage": {
-                        "lang_label": "English",
-                        "lang_code": "eng",
-                        "lang_type": "main",
-                        "lang_identifier": ""
-                    },
-                    "stateLanguage": {},
-                    "isFirstVideoPlayedInDevice": false,
-                    "targetedDelivery": {
-                        "td_server_hints": {
-                            "pip_bw_initial": 800000,
-                            "pip_bw_max": 7000000,
-                            "pip_live_initial_buffer": 8,
-                            "pip_live_target_latency": 10,
-                            "analytics_expt_id": "9UexVSmNVs"
-                        }
-                    },
-                    "parents": [
-                        {
-                            "parentId": 1590014749,
-                            "parentType": "BUNDLE",
-                            "parentSubType": "MATCH_TYPE"
-                        },
-                        {
-                            "parentId": 1790006796,
-                            "parentType": "GROUP_OF_BUNDLES",
-                            "parentSubType": "TOURNAMENT"
-                        }
-                    ],
-                    "additionalDataJson": {
-                        "adServer": "GAM",
-                        "ad_stack": "DAI-IMA",
-                        "audioCodec": "AAC",
-                        "audio_quality": "STEREO",
-                        "enc_format": "HLS",
-                        "fps": 25,
-                        "isDaiKey": true,
-                        "partners": [
-                            "ALL"
-                        ],
-                        "resolution": "SD",
-                        "videoCodec": "H264",
-                        "video_quality": "SDR"
-                    },
-                    "LA_Details": {},
-                    "is_audio_desc_available": false,
-                    "is_multi_track_per_language_available": false,
-                    "multiAudioTrack": true,
-                    "packId": "liv_premium_GP_1m"
-                },
-                "systemTime": 1784911875485
+                "systemTime": 1784917252993
             }
         }
     ]
