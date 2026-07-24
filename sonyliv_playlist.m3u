@@ -2,19 +2,19 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 07:50:27 PM 24-07-2026
+# last_update: 08:20:25 PM 24-07-2026
 
-#EXTINF:-1 tvg-id="sonyliv-1090536268" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/thumbnail/1784897453100_1784647176019819_CWG26_Para_Powerlifting_pictogram_thumbnail.jpg" group-title="Para Powerlifting", Glasgow 2026 Commonwealth Games | Men's Lightweight - Para Powerlifting - 24 Jul 2026
-https://sonydaimenew.akamaized.net/hls/live/20000298/CWG_Stre2407/ENG/master.m3u8?hdnea=exp=1784922631~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=a7d27f9d21cee12ae005aaa3979950a7ddbd99f0572bce40b122db20c8b4b6ed
+#EXTINF:-1 tvg-id="sonyliv-1090536268" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020889/178488424048277_POWERLIFTING_Jaspreet_Kaur_Suman_Devi_live_landsacpe_thumb.jpg" group-title="Para Powerlifting", Glasgow 2026 Commonwealth Games | Women's Lightweight - Para Powerlifting - 24 Jul 2026
+https://sonydaimenew.akamaized.net/hls/live/20000298/CWG_Stre2407/ENG/master.m3u8?hdnea=exp=1784924429~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=d2e030cec02a2aac19b25992e9f0a7f45aefc090ea7d0895dce3043e64197fa5
 
-#EXTINF:-1 tvg-id="sonyliv-1090536385" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784647162182819_CWG26_Bowls_and_Para_Bowls_pictogram_thumbnail.jpg" group-title="Bowls and Para Bowls", Glasgow 2026 Commonwealth Games | Scotland vs South Africa - Men's Pairs - Bowls and Para Bowls - 24 Jul 2026
-https://sonydaimenew.akamaized.net/hls/live/20000299/CWG_Stre2407/ENG/master.m3u8?hdnea=exp=1784920846~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=232a0dd00d353ac3bfefa5258a990d13476d20a6fc9d3df7d9794550d02d6839
+#EXTINF:-1 tvg-id="sonyliv-1090536386" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020869/1784837970711549_GYMNASTICS_MENS_TEAM_FINAL_live_landscape_thumb.jpg" group-title="Gymnastics", Glasgow 2026 Commonwealth Games | Men - Gymnastics - 24 Jul 2026
+https://sonydaimenew.akamaized.net/hls/live/20000300/CWG_Stre2407/ENG/master.m3u8?hdnea=exp=1784924436~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=ae2e58039c67a8b344e0f4541346b0cea7c8b5e1b900c39a2cfb01b31c8f107e
 
-#EXTINF:-1 tvg-id="sonyliv-1090536387" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536387/thumbnail/1784899736406_1784647646298819_CWG26_Basketball_pictogram_thumbnail.jpg" group-title="Basketball", Glasgow 2026 Commonwealth Games | Australia vs Jamaica - Women - Basketball - 24 Jul 2026
-https://sonydaimenew.akamaized.net/hls/live/20000376/CWG_Stre2407/ENG/master.m3u8?hdnea=exp=1784922649~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=3a810a59272c1836f8d1cb60cebb8f77f630d185ef85b04a4addadb77ed44023
+#EXTINF:-1 tvg-id="sonyliv-1090536387" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536387/thumbnail/1784901348553_1784647646298819_CWG26_Basketball_pictogram_thumbnail.jpg" group-title="Basketball", Glasgow 2026 Commonwealth Games | New Zealand vs Guyana - Men - Basketball - 24 Jul 2026
+https://sonydaimenew.akamaized.net/hls/live/20000376/CWG_Stre2407/ENG/master.m3u8?hdnea=exp=1784924446~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=e60e6d7f5c4f4d8905079cea69f4edfc1df7248b2e6313c28df17090e8ac221e
 
 #EXTINF:-1 tvg-id="sonyliv-1090537013" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020768/1784658241293339_The_Hundred2026_womens_Birmingham_Phoenix_vs_Trent_Rockets_21jul_landscape_thumb.jpg" group-title="Cricket", The Hundred 2026 (Women's) | Birmingham Phoenix vs Trent Rockets - 24 Jul 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-HWOM/master.m3u8?hdnea=exp=1784922660~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=708120269c5f43e02ffcd920a27b1301ae83a3d039e62575ba2cf32a86e023b3
+https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-HWOM/master.m3u8?hdnea=exp=1784924452~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=9ea9adf602f1093afad7b96cd54fd1e831727c4ca2c82f72fd7c0692dfb66812
 
 #EXTINF:-1 tvg-id="sonyliv-1090536997" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020822/178474073773096_LIV_Golf_UK_Day2_landscape_thumb.jpg" group-title="Golf", LIV Golf | UK - Day 2 - 24 Jul 2026
-https://sonydaimenew.akamaized.net/hls/live/20000301/Golf_UK_2407/ENG/master.m3u8?hdnea=exp=1784922666~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=97e1b442496c7ad79e2fb502ae1b371ca586283ce5d02c2933d5e6ceea3fb685
+https://sonydaimenew.akamaized.net/hls/live/20000301/Golf_UK_2407/ENG/master.m3u8?hdnea=exp=1784924459~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=55ec1a1fc2500f5531affec440f79b9c76ac661d72b9d4353cff6cc3dec8e0b4
