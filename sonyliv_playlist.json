@@ -3,7 +3,212 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "11:50:24 AM 25-07-2026"
+        "last_update": "12:20:26 PM 25-07-2026"
     },
-    "live_matches": []
+    "live_matches": [
+        {
+            "match_info": {
+                "contentId": 1090537167,
+                "externalId": "1090537167",
+                "objectType": "VOD",
+                "isLive": true,
+                "objectSubtype": "LIVE_SPORT",
+                "contentType": "VOD",
+                "contentSubtype": "LIVE_SPORT",
+                "title": "ABB FIA Formula E World Championship",
+                "longDescription": "Catch all the action from the Tokyo E-Prix qualifying race here, only on Sony LIV.",
+                "shortDescription": "Catch all the action from the Tokyo E-Prix qualifying race here, only on Sony LIV.",
+                "isCopyProtected": false,
+                "contractStartDate": 1784959200000,
+                "contractEndDate": 1784976300000,
+                "episodeTitle": "R14 - Tokyo E-Prix - Qualifying Race - 25 Jul 2026",
+                "genres": [
+                    "Racing"
+                ],
+                "originalAirDate": 1784961000000,
+                "pcExtendedRatings": [],
+                "isOnAir": true,
+                "isEncrypted": false,
+                "pcVodLabel": "3+",
+                "duration": 0,
+                "language": "ENG",
+                "isGeoBlocked": false,
+                "advertisingInfoList": [],
+                "emfAttributes": {
+                    "venue_name": "Tokyo Street Circuit",
+                    "region_of_origin": "English",
+                    "svod_advertising": "true",
+                    "audio_languages": "ENG",
+                    "sub_category": "Sport",
+                    "snp_tags": "Suitable for all",
+                    "is_multi_track_per_language_available": false,
+                    "packageid": "12m_mobile_saarc,Liv_Pre_Yupp,12m_saarc,1m_saarc,liv_premium_GP_1m,liv_premium_GP_1m_mobile,LIV_Pre_Mob_1M,liv_binge_1m",
+                    "broadcast_channel": "Sony Sports Ten 5",
+                    "Maximum_Video_Quality": "SDR",
+                    "Maximum_Resolution": "FULL_HD",
+                    "advertising": "AD SUPPORTED",
+                    "isdvr": "No",
+                    "emaAttributes": {},
+                    "tv_background_image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020959/1784932515982224_ABB_FIA_FormulaE_WC26_RD14_Tokyo_EPrix_Qualifying_Race_tv_bg.jpg",
+                    "U": "IN",
+                    "country_rating": {
+                        "U": "IN",
+                        "3+": "BD,NP,LK,PK,AF,BT,MV"
+                    },
+                    "3+": "BD,NP,LK,PK,AF,BT,MV",
+                    "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009146/1758606495748941_UEL25_26_GENERIC_Masthead_logo_LIVE1.png",
+                    "value": "SVOD",
+                    "is_audio_desc_available": false,
+                    "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020959/1784932559016224_ABB_FIA_FormulaE_WC26_RD14_Tokyo_EPrix_Qualifying_Race_landscape_thumb.jpg",
+                    "variant_asset_languages": [],
+                    "broadcast_channel_hin": "सोनी स्पोर्ट्स तेन ५",
+                    "live_label_display": true,
+                    "ad_cluster_id": "ad_cluster_1",
+                    "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020959/1784932610041224_ABB_FIA_FormulaE_WC26_RD14_Tokyo_EPrix_Qualifying_Race_live_portrait_thumb.jpg",
+                    "dai_asset_key": "O1T1FsBGRG-E3tKfjU-jnw",
+                    "seo_tags": "Formula E,ABB FIA Formula E,Formula E Championship,Electric racing,FIA electric racing series,E-Prix,Electric street racing,ABB Formula E,Electric car racing,FIA Formula E World Championship,Formula E teams,Formula E drivers,Electric motorsport,ABB Formula E schedule,Formula E tickets,Formula E results,Formula E highlights,Electric vehicle racing,ABB Formula E news,Formula E technology",
+                    "Free_countries": "",
+                    "overlay_visibility": "0",
+                    "SVOD_countries": "_in,_bd,_np,_mv,_af,_pk,_bt,_lk",
+                    "is_subtitle_cc_available": false,
+                    "ssai_partners": "Google DAI",
+                    "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020959/1784932559016224_ABB_FIA_FormulaE_WC26_RD14_Tokyo_EPrix_Qualifying_Race_landscape_thumb.jpg",
+                    "audio_language_list": [
+                        {
+                            "lang_code": "ENG",
+                            "lang_label": "English"
+                        }
+                    ],
+                    "Maximum_Audio_Quality": "STEREO",
+                    "is_auto_play_trailer": true,
+                    "integrated_splash_available": "Yes",
+                    "isTimeLineMarker_new": "false",
+                    "isDVR": false,
+                    "isTimeLineMarker": false,
+                    "isDownloadable": false,
+                    "is_preview_enabled": false,
+                    "sprite_image_url": "",
+                    "tv_sprite_image_url": "",
+                    "kids_safe": false,
+                    "tl_marker": "",
+                    "icon_on_asset": {
+                        "play_focus_icon": "https://origin-staticv2.sonyliv.com/UI_icons/spotlight/focus_play_icon.png",
+                        "play_normal_icon": "https://origin-staticv2.sonyliv.com/UI_icons/spotlight/non_focused_play_icon.png"
+                    }
+                },
+                "isADVAllowed": false,
+                "ratingEligibility": true,
+                "ratingDisplay": false,
+                "titleBrief": "",
+                "baseContentId": 1090537167,
+                "isBaseAsset": true
+            },
+            "playback_info": {
+                "resultCode": "OK",
+                "message": "",
+                "errorDescription": "200-10000",
+                "resultObj": {
+                    "showPlayerStats": false,
+                    "is_preview_enabled": false,
+                    "videoURL": "https://sonydaimenew.akamaized.net/hls/live/20000293/FormulaE2507/ENG/master.m3u8?hdnea=exp=1784982031~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=ad3e40c3b170e7db9778a6d29f2d4d10770edad0a7c579d4c09abbe9d84929d5",
+                    "multiLanguageVideoURL": [],
+                    "audioLanguages": [
+                        {
+                            "audioLanguageName": "ENG",
+                            "audioLanguageLabel": "English"
+                        }
+                    ],
+                    "trailer_url": "",
+                    "subtitle": [],
+                    "isEncrypted": false,
+                    "isDVR": false,
+                    "isDownloadable": false,
+                    "posterURL": "",
+                    "sprite_image_url": "",
+                    "tv_sprite_image_url": "",
+                    "dai_asset_key": "ga95v7YpR9uILztaMnCF5w",
+                    "contextual_cue_point": {},
+                    "cuepoints": [],
+                    "isLive": true,
+                    "country_rating": {
+                        "U": "IN",
+                        "3+": "BD,NP,LK,PK,AF,BT,MV"
+                    },
+                    "dai_asset_key_hlsfp": "",
+                    "dai_asset_key_wm": "",
+                    "Maximum_Video_Quality": "SDR",
+                    "Maximum_Audio_Quality": "STEREO",
+                    "Maximum_Resolution": "FULL_HD",
+                    "isWatermarked": "false",
+                    "watermark_partner": "",
+                    "upfrontAudio": true,
+                    "pcVodLabel": "3+",
+                    "promotionUrl": "",
+                    "hasPromotion": false,
+                    "contentProvider": "FORMULA E OPERATIONS LIMITED",
+                    "sony_match_id": "",
+                    "tl_marker": "",
+                    "checksum": "",
+                    "kid_mss": "",
+                    "parentId": "1700001373",
+                    "selectedLanguage": {
+                        "lang_label": "English",
+                        "lang_code": "ENG",
+                        "lang_type": "main",
+                        "lang_identifier": ""
+                    },
+                    "originalLanguage": {
+                        "lang_label": "English",
+                        "lang_code": "eng",
+                        "lang_type": "main",
+                        "lang_identifier": ""
+                    },
+                    "stateLanguage": {},
+                    "isFirstVideoPlayedInDevice": false,
+                    "targetedDelivery": {
+                        "td_server_hints": {
+                            "pip_bw_initial": 800000,
+                            "pip_bw_max": 7000000,
+                            "pip_live_initial_buffer": 8,
+                            "pip_live_target_latency": 10,
+                            "analytics_expt_id": "9UexVSmNVs"
+                        }
+                    },
+                    "parents": [
+                        {
+                            "parentId": 1590014651,
+                            "parentType": "BUNDLE",
+                            "parentSubType": "MATCH_TYPE"
+                        },
+                        {
+                            "parentId": 1700001373,
+                            "parentType": "GROUP_OF_BUNDLES",
+                            "parentSubType": "TOURNAMENT"
+                        }
+                    ],
+                    "additionalDataJson": {
+                        "adServer": "GAM",
+                        "ad_stack": "DAI-IMA",
+                        "audioCodec": "AAC",
+                        "audio_quality": "STEREO",
+                        "enc_format": "HLS",
+                        "fps": 25,
+                        "isDaiKey": true,
+                        "partners": [
+                            "ALL"
+                        ],
+                        "resolution": "SD",
+                        "videoCodec": "H264",
+                        "video_quality": "SDR"
+                    },
+                    "LA_Details": {},
+                    "is_audio_desc_available": false,
+                    "is_multi_track_per_language_available": false,
+                    "multiAudioTrack": true,
+                    "packId": "liv_premium_GP_1m"
+                },
+                "systemTime": 1784960431559
+            }
+        }
+    ]
 }
