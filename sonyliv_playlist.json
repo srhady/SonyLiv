@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "02:20:27 PM 25-07-2026"
+        "last_update": "02:50:41 PM 25-07-2026"
     },
     "live_matches": [
         {
@@ -63,6 +63,7 @@
                     "venue_id": "77",
                     "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/thumbnail/1784966422360_1784647811561819_CWG26_Netball_pictogram_thumbnail.jpg",
                     "variant_asset_languages": [],
+                    "broadcast_channel_hin": "लिव",
                     "ad_cluster_id": "ad_cluster_1",
                     "live_label_display": true,
                     "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/portraitThumb/1784966422165_1784637323747819_CWG26_Netball_pictogram_portrait_thumb.jpg",
@@ -83,6 +84,7 @@
                         }
                     ],
                     "Maximum_Audio_Quality": "STEREO",
+                    "team_hin": "नई ज़ीलैण्ड स्कॉटलैंड",
                     "sub_license": "No",
                     "is_auto_play_trailer": true,
                     "integrated_splash_available": "Yes",
@@ -114,7 +116,7 @@
                 "resultObj": {
                     "showPlayerStats": false,
                     "is_preview_enabled": false,
-                    "videoURL": "https://sonydaimenew.akamaized.net/hls/live/20000291/CWG_Stre2507/ENG/master.m3u8?hdnea=exp=1784989236~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=af850f91ff46314fb187c7fb8f3423031f55513e784d397cd7363b7f52c0ade6",
+                    "videoURL": "https://sonydaimenew.akamaized.net/hls/live/20000291/CWG_Stre2507/ENG/master.m3u8?hdnea=exp=1784991045~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=49f3c29b4ad33245c883326e5469c0db49e798c4c2cba8bb34b0170e9cda6be6",
                     "multiLanguageVideoURL": [],
                     "audioLanguages": [
                         {
@@ -211,7 +213,7 @@
                     "multiAudioTrack": true,
                     "packId": "liv_premium_GP_1m"
                 },
-                "systemTime": 1784967636628
+                "systemTime": 1784969445857
             }
         },
         {
@@ -324,7 +326,7 @@
                 "resultObj": {
                     "showPlayerStats": false,
                     "is_preview_enabled": false,
-                    "videoURL": "https://sonydaimenew.akamaized.net/hls/live/20000300/CWG_Stre2507/ENG/master.m3u8?hdnea=exp=1784987437~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=c6404812a67cf04be07534b3e2fed1975db90bedd3caa217d9ae1e73bf30c1d6",
+                    "videoURL": "https://sonydaimenew.akamaized.net/hls/live/20000300/CWG_Stre2507/ENG/master.m3u8?hdnea=exp=1784991052~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=d3917fb6181110975b8fb700ac11c49e1287164f1e0109cf7aee9818cba8f933",
                     "multiLanguageVideoURL": [],
                     "audioLanguages": [
                         {
@@ -421,7 +423,7 @@
                     "multiAudioTrack": true,
                     "packId": "liv_premium_GP_1m"
                 },
-                "systemTime": 1784965837723
+                "systemTime": 1784969452757
             }
         },
         {
@@ -533,7 +535,7 @@
                 "resultObj": {
                     "showPlayerStats": false,
                     "is_preview_enabled": false,
-                    "videoURL": "https://sonydaimenew.akamaized.net/hls/live/20000376/CWG_Stre2507/ENG/master.m3u8?hdnea=exp=1784989278~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=369ce60d8d6912f0d43a252f1f23e1e0cc978ea5216716d69a7cbd52ee606ffa",
+                    "videoURL": "https://sonydaimenew.akamaized.net/hls/live/20000376/CWG_Stre2507/ENG/master.m3u8?hdnea=exp=1784991061~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=bc5ab83acfd90e9bffc21a5a75c1c9fed990b4c7abe954ae5bfc04fe39239bec",
                     "multiLanguageVideoURL": [],
                     "audioLanguages": [
                         {
@@ -630,7 +632,7 @@
                     "multiAudioTrack": true,
                     "packId": "liv_premium_GP_1m"
                 },
-                "systemTime": 1784967678327
+                "systemTime": 1784969461559
             }
         }
     ]
