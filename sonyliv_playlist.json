@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "12:50:25 PM 25-07-2026"
+        "last_update": "01:20:24 PM 25-07-2026"
     },
     "live_matches": [
         {
@@ -114,7 +114,7 @@
                 "resultObj": {
                     "showPlayerStats": false,
                     "is_preview_enabled": false,
-                    "videoURL": "https://sonydaimenew.akamaized.net/hls/live/20000299/CWG_Stre2507/ENG/master.m3u8?hdnea=exp=1784983829~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=0cfdf554062594db9607c9a28ec8eabd5a69d1245c96f5f55c0dc81cbf933f8a",
+                    "videoURL": "https://sonydaimenew.akamaized.net/hls/live/20000299/CWG_Stre2507/ENG/master.m3u8?hdnea=exp=1784985628~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=aa35405d7e99ae2d4d45cbf111b862b90773c7d4d0ded8714b98e01defbb3802",
                     "multiLanguageVideoURL": [],
                     "audioLanguages": [
                         {
@@ -211,7 +211,112 @@
                     "multiAudioTrack": true,
                     "packId": "liv_premium_GP_1m"
                 },
-                "systemTime": 1784962229583
+                "systemTime": 1784964028586
+            }
+        },
+        {
+            "match_info": {
+                "contentId": 1090536385,
+                "externalId": "1090536385",
+                "objectType": "VOD",
+                "isLive": true,
+                "objectSubtype": "LIVE_SPORT",
+                "contentType": "VOD",
+                "contentSubtype": "LIVE_SPORT",
+                "title": "Glasgow 2026 Commonwealth Games",
+                "longDescription": "Watch all the exclusive action from Glasgow 2026 Commonwealth Games, LIVE on Sony LIV.",
+                "shortDescription": "Watch all the exclusive action from Glasgow 2026 Commonwealth Games, LIVE on Sony LIV.",
+                "isCopyProtected": false,
+                "contractStartDate": 1784964000000,
+                "contractEndDate": 1785032400000,
+                "episodeTitle": "Scotland vs New Zealand - Netball - 25 Jul 2026",
+                "genres": [
+                    "Netball"
+                ],
+                "originalAirDate": 1784965800000,
+                "pcExtendedRatings": [],
+                "isOnAir": true,
+                "isEncrypted": false,
+                "pcVodLabel": "3+",
+                "duration": 0,
+                "language": "ENG",
+                "isGeoBlocked": false,
+                "advertisingInfoList": [],
+                "emfAttributes": {
+                    "venue_name": "Tollcross Swimming Centre",
+                    "region_of_origin": "English",
+                    "svod_advertising": "true",
+                    "audio_languages": "ENG",
+                    "sub_category": "Sport",
+                    "snp_tags": "Suitable for all",
+                    "is_multi_track_per_language_available": false,
+                    "packageid": "12m_mobile_saarc,Liv_Pre_Yupp,12m_saarc,1m_saarc,liv_premium_GP_1m,liv_premium_GP_1m_mobile,LIV_Pre_Mob_1M,liv_binge_1m",
+                    "masthead_logo_rectangualar": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/mastheadLogoRectangualar/178291361572592_Commonwealth_Games_2026_GOB_masthead_logo_rectangualar_950x570_LIVE.png",
+                    "broadcast_channel": "LIV",
+                    "Maximum_Video_Quality": "SDR",
+                    "Maximum_Resolution": "FULL_HD",
+                    "advertising": "AD SUPPORTED",
+                    "isdvr": "No",
+                    "emaAttributes": {},
+                    "tv_background_image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784648041892819_CWG26_Netball_pictogram_tv_bg.jpg",
+                    "U": "IN",
+                    "country_rating": {
+                        "U": "IN",
+                        "3+": "BD,NP,LK,PK,AF,BT,MV"
+                    },
+                    "3+": "BD,NP,LK,PK,AF,BT,MV",
+                    "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020251/178291361564192_Commonwealth_Games_2026_GOB_Masthead_logo.png",
+                    "value": "SVOD",
+                    "is_audio_desc_available": false,
+                    "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784647811561819_CWG26_Netball_pictogram_thumbnail.jpg",
+                    "variant_asset_languages": [],
+                    "broadcast_channel_hin": "लिव",
+                    "ad_cluster_id": "ad_cluster_1",
+                    "live_label_display": true,
+                    "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784637323747819_CWG26_Netball_pictogram_portrait_thumb.jpg",
+                    "isSponsorAdAvailable": "true",
+                    "dai_asset_key": "jRQlKg2DQWa70jsLHUtxGA",
+                    "team": "Isle of Man, Scotland, Canada, Australia, England, South Africa, Malaysia, Cayman Islands",
+                    "seo_tags": "Glasgow 2026 Commonwealth Games,Glasgow 2026,CWG 2026,Commonwealth Games 2026,Glasgow 2026 India squad,Indian athletes Commonwealth Games 2026,CWG 2026 India schedule,India at Glasgow 2026,Neeraj Chopra Glasgow 2026,Mirabai Chanu CWG 2026,Lovlina Borgohain Commonwealth Games,Praveen Chithravel triple jump Glasgow,Murali Sreeshankar CWG 2026,Parul Chaudhary Commonwealth Games,Pranati Nayak gymnastics Glasgow 2026,Rohit Yadav javelin CWG,Preeti Pawar boxing Glasgow,India medal contenders CWG 2026,Commonwealth Games 2026 live streaming India,Glasgow 2026 sports list,Indian weightlifting team CWG 2026,Indian athletics squad Glasgow 2026,Neeraj Chopra,Mirabai Chanu,Lovlina Borgohain,Praveen Chithravel,Murali Sreeshankar,Parul Chaudhary,Pranati Nayak,Rohit Yadav,Preeti Pawar",
+                    "Free_countries": "",
+                    "overlay_visibility": "0",
+                    "SVOD_countries": "_in,_bd,_np,_mv,_bt,_lk,_af,_pk",
+                    "is_subtitle_cc_available": false,
+                    "ssai_partners": "Google DAI",
+                    "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784647811561819_CWG26_Netball_pictogram_thumbnail.jpg",
+                    "audio_language_list": [
+                        {
+                            "lang_code": "ENG",
+                            "lang_label": "English"
+                        }
+                    ],
+                    "Maximum_Audio_Quality": "STEREO",
+                    "team_hin": "आइल ऑफ़ मन स्कॉटलैंड कनाडा ऑस्ट्रेलिया इंग्लैंड साउथ अफ्रीका मलेशिया केमन इसलैंड्स",
+                    "sub_license": "No",
+                    "is_auto_play_trailer": true,
+                    "integrated_splash_available": "Yes",
+                    "isDVR": false,
+                    "isTimeLineMarker": false,
+                    "isDownloadable": false,
+                    "is_preview_enabled": false,
+                    "sprite_image_url": "",
+                    "tv_sprite_image_url": "",
+                    "kids_safe": false,
+                    "tl_marker": "",
+                    "icon_on_asset": {
+                        "play_focus_icon": "https://origin-staticv2.sonyliv.com/UI_icons/spotlight/focus_play_icon.png",
+                        "play_normal_icon": "https://origin-staticv2.sonyliv.com/UI_icons/spotlight/non_focused_play_icon.png"
+                    }
+                },
+                "isADVAllowed": false,
+                "ratingEligibility": true,
+                "ratingDisplay": false,
+                "titleBrief": "",
+                "baseContentId": 1090536385,
+                "isBaseAsset": true
+            },
+            "playback_info": {
+                "error": "HTTP Error 403: Forbidden"
             }
         },
         {
@@ -533,7 +638,7 @@
                 "resultObj": {
                     "showPlayerStats": false,
                     "is_preview_enabled": false,
-                    "videoURL": "https://sonydaimenew.akamaized.net/hls/live/20000376/CWG_Stre2507/ENG/master.m3u8?hdnea=exp=1784983844~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=c37b1e2d6ca2963ba8270b43f8284d5b4ea9030e15526fdd286cfb29e38c26c8",
+                    "videoURL": "https://sonydaimenew.akamaized.net/hls/live/20000376/CWG_Stre2507/ENG/master.m3u8?hdnea=exp=1784985653~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=b3f084abd25d70e282278092a10327aae332411016ae23c5c858d31d94762031",
                     "multiLanguageVideoURL": [],
                     "audioLanguages": [
                         {
@@ -630,7 +735,7 @@
                     "multiAudioTrack": true,
                     "packId": "liv_premium_GP_1m"
                 },
-                "systemTime": 1784962244233
+                "systemTime": 1784964053024
             }
         },
         {
@@ -737,7 +842,7 @@
                 "resultObj": {
                     "showPlayerStats": false,
                     "is_preview_enabled": false,
-                    "videoURL": "https://sonydaimenew.akamaized.net/hls/live/20000293/FormulaE2507/ENG/master.m3u8?hdnea=exp=1784983854~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=a8f74a8f9d5a83963c1b46cec9b4b0ced64b344fd4d8ed64a847e5e5ac393ccb",
+                    "videoURL": "https://sonydaimenew.akamaized.net/hls/live/20000293/FormulaE2507/ENG/master.m3u8?hdnea=exp=1784985660~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=1ad3974fe6af63e1a92bdb89fd0e87ce585e44f07ef7516f136dc1ca68c38104",
                     "multiLanguageVideoURL": [],
                     "audioLanguages": [
                         {
@@ -834,7 +939,7 @@
                     "multiAudioTrack": true,
                     "packId": "liv_premium_GP_1m"
                 },
-                "systemTime": 1784962254501
+                "systemTime": 1784964060959
             }
         }
     ]
