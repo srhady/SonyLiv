@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "02:20:24 AM 26-07-2026"
+        "last_update": "02:50:25 AM 26-07-2026"
     },
     "live_matches": [
         {
@@ -62,6 +62,7 @@
                     "venue_id": "78",
                     "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/thumbnail/1785010636663_1784647612769819_CWG26_Aquatics_pictogram_thumbnail.jpg",
                     "variant_asset_languages": [],
+                    "broadcast_channel_hin": "लिव",
                     "ad_cluster_id": "ad_cluster_1",
                     "live_label_display": true,
                     "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/portraitThumb/1785010636477_1784630204591819_CWG26_Aquatics_pictogram_portrait_thumb.jpg",
@@ -83,6 +84,7 @@
                         }
                     ],
                     "Maximum_Audio_Quality": "STEREO",
+                    "team_hin": "केमन इसलैंड्स स्कॉटलैंड नई ज़ीलैण्ड ऑस्ट्रेलिया इंग्लैंड वेल्स यूगांडा आइल ऑफ़ मन",
                     "sub_license": "No",
                     "is_auto_play_trailer": true,
                     "integrated_splash_available": "Yes",
@@ -689,6 +691,7 @@
                     "venue_id": "77",
                     "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536387/thumbnail/1785009610081_1784647811561819_CWG26_Netball_pictogram_thumbnail.jpg",
                     "variant_asset_languages": [],
+                    "broadcast_channel_hin": "लिव",
                     "ad_cluster_id": "ad_cluster_1",
                     "live_label_display": true,
                     "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536387/portraitThumb/1785009609883_1784637323747819_CWG26_Netball_pictogram_portrait_thumb.jpg",
@@ -709,6 +712,7 @@
                         }
                     ],
                     "Maximum_Audio_Quality": "STEREO",
+                    "team_hin": "साउथ अफ्रीका मलावी",
                     "sub_license": "No",
                     "is_auto_play_trailer": true,
                     "integrated_splash_available": "Yes",
