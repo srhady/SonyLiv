@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "01:20:26 AM 26-07-2026"
+        "last_update": "01:50:25 AM 26-07-2026"
     },
     "live_matches": [
         {
@@ -16,12 +16,12 @@
                 "contentType": "VOD",
                 "contentSubtype": "LIVE_SPORT",
                 "title": "Glasgow 2026 Commonwealth Games",
-                "longDescription": "Watch all the exclusive action from the Aquatics in the Women's 50m Butterfly, LIVE on Sony LIV.",
-                "shortDescription": "Watch all the exclusive action from the Aquatics in the Women's 50m Butterfly, LIVE on Sony LIV.",
+                "longDescription": "Watch all the exclusive action from the Aquatics in the Men's 200m Freestyle S14, LIVE on Sony LIV.",
+                "shortDescription": "Watch all the exclusive action from the Aquatics in the Men's 200m Freestyle S14, LIVE on Sony LIV.",
                 "isCopyProtected": false,
                 "contractStartDate": 1784962200000,
                 "contractEndDate": 1785030600000,
-                "episodeTitle": "Women's 50m Butterfly - Aquatics - 25 Jul 2026",
+                "episodeTitle": "Men's 200m Freestyle S14 - Aquatics - 25 Jul 2026",
                 "genres": [
                     "Aquatics"
                 ],
@@ -50,23 +50,22 @@
                     "advertising": "AD SUPPORTED",
                     "isdvr": "No",
                     "emaAttributes": {},
-                    "tv_background_image": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/tvBackgroundImage/1785005807060_1784648387890819_CWG26_Aquatics_pictogram_tv_bg.jpg",
+                    "tv_background_image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784647341457819_CWG26_Bowls_and_Para_Bowls_pictogram_tv_bg.jpg",
                     "U": "IN",
                     "country_rating": {
                         "U": "IN",
                         "3+": "BD,NP,LK,PK,AF,BT,MV"
                     },
                     "3+": "BD,NP,LK,PK,AF,BT,MV",
-                    "player_name": "Eva Okaro, Caitlin de Lange, Hazel Ouwehand, Alex Perkins, Erin Gallagher, Jessica Thompson, Zoe Pedersen, Lucy Grieve",
+                    "player_name": "Ethan Yin Jun Khoo, Rhys Darbey, William Ellard, Jack Ireland, Dylan Broom",
                     "value": "SVOD",
                     "is_audio_desc_available": false,
                     "venue_id": "78",
-                    "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/thumbnail/1785005806988_1784647612769819_CWG26_Aquatics_pictogram_thumbnail.jpg",
+                    "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784647154993819_CWG26_Bowls_and_Para_Bowls_pictogram_landscape_thumb.jpg",
                     "variant_asset_languages": [],
-                    "broadcast_channel_hin": "लिव",
                     "ad_cluster_id": "ad_cluster_1",
                     "live_label_display": true,
-                    "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/portraitThumb/1785005806801_1784630204591819_CWG26_Aquatics_pictogram_portrait_thumb.jpg",
+                    "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784635752092819_CWG26_Bowls_and_Para_Bowls_pictogram_portrait_thumb.jpg",
                     "isSponsorAdAvailable": "true",
                     "dai_asset_key": "Nl41EGGUQSWMYMqWFkeegA",
                     "match_start_time": "1784964600",
@@ -76,7 +75,7 @@
                     "SVOD_countries": "_in,_bd,_np,_mv,_bt,_lk,_af,_pk",
                     "is_subtitle_cc_available": false,
                     "ssai_partners": "Google DAI",
-                    "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/landscapeThumb/1785005806916_1784647616274819_CWG26_Aquatics_pictogram_landscape_thumb.jpg",
+                    "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784647154993819_CWG26_Bowls_and_Para_Bowls_pictogram_landscape_thumb.jpg",
                     "audio_language_list": [
                         {
                             "lang_code": "ENG",
