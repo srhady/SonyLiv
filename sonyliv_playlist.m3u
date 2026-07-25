@@ -2,15 +2,12 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 07:20:28 PM 25-07-2026
-
-#EXTINF:-1 tvg-id="sonyliv-1090537148" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020876/1784846575018928_durand_cup26_east_bengal_vs_MBSG_landscape_thumb.jpg" group-title="Football",  East Bengal FC vs Mohun Bagan SG - 25 Jul 2026 | IndianOil Durand Cup 2026
-https://sonydaimenew.akamaized.net/hls/live/20000295/Football2507/ENG/master.m3u8?hdnea=exp=1784998228~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=0a02c062016ffe414acad729eb0c3760d5c10d7e883edf7e311f8c1d63e491ec
+# last_update: 07:50:26 PM 25-07-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090536386" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536386/thumbnail/1784979995057_1784647162182819_CWG26_Bowls_and_Para_Bowls_pictogram_thumbnail.jpg" group-title="Bowls and Para Bowls", Scotland vs Australia - Mixed Pairs B2-B3 - Bowls and Para Bowls - 25 Jul 2026 | Glasgow 2026 Commonwealth Games
 https://sonydaimenew.akamaized.net/hls/live/20000300/CWG_Stre2507/ENG/master.m3u8?hdnea=exp=1785007232~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=46c8970355d6690ff9cc3a72b72d9ba5492a22e25f932a945a20b8a21c5ad565
 
-#EXTINF:-1 tvg-id="sonyliv-1090536268" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/thumbnail/1784979989619_1784647162182819_CWG26_Bowls_and_Para_Bowls_pictogram_thumbnail.jpg" group-title="Bowls and Para Bowls", South Africa vs Namibia - Women's Pairs - Bowls and Para Bowls - 25 Jul 2026 | Glasgow 2026 Commonwealth Games
+#EXTINF:-1 tvg-id="sonyliv-1090536268" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/thumbnail/1784986151652_1784647646298819_CWG26_Basketball_pictogram_thumbnail.jpg" group-title="Basketball", Singapore vs Papua New Guinea - Women - Basketball - 25 Jul 2026 | Glasgow 2026 Commonwealth Games
 https://sonydaimenew.akamaized.net/hls/live/20000299/CWG_Stre2507/ENG/master.m3u8?hdnea=exp=1784998241~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=bf46f046106bed7ef01ee56549fe48d46db25a05ef552bec7385d11cc6d0a964
 
 #EXTINF:-1 tvg-id="sonyliv-1090536387" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536387/thumbnail/1784979411044_1784647785497819_CWG26_Gymnastics_pictogram_thumbnail.jpg" group-title="Gymnastics", Women - Gymnastics - 25 Jul 2026 | Glasgow 2026 Commonwealth Games

@@ -3,226 +3,9 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "07:20:28 PM 25-07-2026"
+        "last_update": "07:50:26 PM 25-07-2026"
     },
     "live_matches": [
-        {
-            "match_info": {
-                "contentId": 1090537148,
-                "externalId": "1090537148",
-                "objectType": "VOD",
-                "isLive": true,
-                "objectSubtype": "LIVE_SPORT",
-                "contentType": "VOD",
-                "contentSubtype": "LIVE_SPORT",
-                "title": "IndianOil Durand Cup 2026",
-                "longDescription": "East Bengal FC and Mohun Bagan SG clash in the opening match of the IndianOil Durand Cup 2026 at Vivekananda Yuba Bharati Krirangan, Kolkata, as both rivals look to kick off their campaign with a winning start. Catch all the action LIVE, only on Sony LIV.",
-                "shortDescription": "East Bengal FC and Mohun Bagan SG clash in the opening match of the IndianOil Durand Cup 2026 at Vivekananda Yuba Bharati Krirangan, Kolkata, as both rivals look to kick off their campaign with a winning start. Catch all the action LIVE, only on Sony LIV.",
-                "isCopyProtected": false,
-                "contractStartDate": 1784975400000,
-                "contractEndDate": 1784995200000,
-                "episodeTitle": " East Bengal FC vs Mohun Bagan SG - 25 Jul 2026",
-                "genres": [
-                    "Football"
-                ],
-                "originalAirDate": 1784977200000,
-                "pcExtendedRatings": [],
-                "isOnAir": true,
-                "isEncrypted": false,
-                "pcVodLabel": "3+",
-                "duration": 0,
-                "language": "ENG",
-                "isGeoBlocked": false,
-                "advertisingInfoList": [],
-                "emfAttributes": {
-                    "audio_languages": "ENG",
-                    "snp_tags": "Suitable for all",
-                    "packageid": "12m_mobile_saarc,Liv_Pre_Yupp,12m_saarc,1m_saarc,liv_premium_GP_1m,liv_premium_GP_1m_mobile,LIV_Pre_Mob_1M,liv_binge_1m",
-                    "masthead_logo_rectangualar": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020652/1784199816000336_DURAND_CUP_2026_Match_masthead_logo_rectangualar_950x570_EAST_BENGAL_vs_MOHUN_BAGAN_LIVE.png",
-                    "Maximum_Resolution": "FULL_HD",
-                    "masthead_logo_v1": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020652/1784199816000336_DURAND_CUP_2026_Match_masthead_logo_V1_692x390_EAST_BENGAL_vs_MOHUN_BAGAN_LIVE.png",
-                    "advertising": "AD SUPPORTED",
-                    "emaAttributes": {},
-                    "kids_safe": false,
-                    "tv_background_image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020651/1784216698432440_durand_cup26_east_bengal_vs_MBSG_tv_bg.jpg",
-                    "content_marquee_status": "false",
-                    "marquee_target_state": [],
-                    "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021007/1784982634440564_DURAND_CUP_2026_East_Bengal_vs_Mohun_Bagan_Match_masthead_mobile_v2_984x1182.jpg",
-                    "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020876/1784846575018928_durand_cup26_east_bengal_vs_MBSG_landscape_thumb.jpg",
-                    "variant_asset_languages": [],
-                    "broadcast_channel_hin": "सोनी स्पोर्ट्स तेन २",
-                    "ad_cluster_id": "ad_cluster_1",
-                    "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020876/1784846399239928_durand_cup26_east_bengal_vs_MBSG_live_portrait_thumb.jpg",
-                    "is_subtitle_cc_available": false,
-                    "ssai_partners": "Google DAI",
-                    "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020876/1784846575018928_durand_cup26_east_bengal_vs_MBSG_landscape_thumb.jpg",
-                    "audio_language_list": [
-                        {
-                            "lang_code": "ENG",
-                            "lang_label": "English"
-                        }
-                    ],
-                    "Maximum_Audio_Quality": "STEREO",
-                    "matchid": "",
-                    "isTimeLineMarker_new": "true",
-                    "venue_name": "Vivekananda Yuba Bharati Krirangan",
-                    "region_of_origin": "English",
-                    "svod_advertising": "true",
-                    "sub_category": "Sport",
-                    "is_multi_track_per_language_available": false,
-                    "broadcast_channel": "Sony Sports Ten 2",
-                    "Maximum_Video_Quality": "SDR",
-                    "isdvr": "No",
-                    "away_team": "Mohun Bagan SG",
-                    "U": "IN",
-                    "country_rating": {
-                        "U": "IN",
-                        "3+": "BD,NP,LK,PK,AF,BT,MV"
-                    },
-                    "3+": "BD,NP,LK,PK,AF,BT,MV",
-                    "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020652/1784199816000336_DURAND_CUP_2026_Match_Masthead_logo_EAST_BENGAL_vs_MOHUN_BAGAN_LIVE.png",
-                    "projected_max_concurrency": 100000,
-                    "value": "SVOD",
-                    "is_audio_desc_available": false,
-                    "target_impressions_per_week": 2000000,
-                    "live_label_display": true,
-                    "dai_asset_key": "bdRpTNSURR6_I76sWJXssA",
-                    "match_start_time": "1784975400",
-                    "seo_tags": "IndianOil Durand Cup 2026,football,Durand Cup,Durand Cup 2026 tickets,Durand Cup 2026 schedule,Asian football,Durand Cup 2026 highlights,Durand Cup 2026,durand cup,Durand Cup 2026 date,Durand Cup 2026 news,Durand Cup 2026 live,Durand Cup 2026 teams,Durand Cup 2026 venue,Durand Cup 2026 update,Durand Cup 2026 fixtures,Durand Cup 2026 all matches,Durand Cup 2026 new updates,Durand Cup 2026 latest news,Durand Cup 2026 team updates,where to watch Durand Cup 2026,Durand Cup fixtures 2026,Durand Cup 2026 starting date,Durand Cup 2026 latest updates",
-                    "Free_countries": "",
-                    "overlay_visibility": "0",
-                    "target_frequency_per_week": 3,
-                    "SVOD_countries": "_in,_lk,_mv,_np,_bd,_bt,_af,_pk",
-                    "home_team": " East Bengal FC",
-                    "is_auto_play_trailer": true,
-                    "integrated_splash_available": "Yes",
-                    "masthead_large_v3": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021007/1784982736351564_DURAND_CUP_2026_East_Bengal_vs_Mohun_Bagan_Match_masthead_large_v3_3200x1800.jpg",
-                    "isDVR": false,
-                    "isTimeLineMarker": false,
-                    "isDownloadable": false,
-                    "is_preview_enabled": false,
-                    "sprite_image_url": "",
-                    "tv_sprite_image_url": "",
-                    "tl_marker": "",
-                    "icon_on_asset": {
-                        "play_focus_icon": "https://origin-staticv2.sonyliv.com/UI_icons/spotlight/focus_play_icon.png",
-                        "play_normal_icon": "https://origin-staticv2.sonyliv.com/UI_icons/spotlight/non_focused_play_icon.png"
-                    }
-                },
-                "isADVAllowed": false,
-                "ratingEligibility": true,
-                "ratingDisplay": false,
-                "titleBrief": "",
-                "baseContentId": 1090537148,
-                "isBaseAsset": true
-            },
-            "playback_info": {
-                "resultCode": "OK",
-                "message": "",
-                "errorDescription": "200-10000",
-                "resultObj": {
-                    "showPlayerStats": false,
-                    "is_preview_enabled": false,
-                    "videoURL": "https://sonydaimenew.akamaized.net/hls/live/20000295/Football2507/ENG/master.m3u8?hdnea=exp=1784998228~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=0a02c062016ffe414acad729eb0c3760d5c10d7e883edf7e311f8c1d63e491ec",
-                    "multiLanguageVideoURL": [],
-                    "audioLanguages": [
-                        {
-                            "audioLanguageName": "ENG",
-                            "audioLanguageLabel": "English"
-                        }
-                    ],
-                    "trailer_url": "",
-                    "subtitle": [],
-                    "isEncrypted": false,
-                    "isDVR": false,
-                    "isDownloadable": false,
-                    "posterURL": "",
-                    "sprite_image_url": "",
-                    "tv_sprite_image_url": "",
-                    "dai_asset_key": "ZGqpKljKQFau0vp8fmia4A",
-                    "contextual_cue_point": {},
-                    "cuepoints": [],
-                    "isLive": true,
-                    "country_rating": {
-                        "U": "IN",
-                        "3+": "BD,NP,LK,PK,AF,BT,MV"
-                    },
-                    "dai_asset_key_hlsfp": "",
-                    "dai_asset_key_wm": "",
-                    "Maximum_Video_Quality": "SDR",
-                    "Maximum_Audio_Quality": "STEREO",
-                    "Maximum_Resolution": "FULL_HD",
-                    "isWatermarked": "false",
-                    "watermark_partner": "",
-                    "upfrontAudio": false,
-                    "pcVodLabel": "3+",
-                    "promotionUrl": "",
-                    "hasPromotion": false,
-                    "contentProvider": "DURAND FOOTBALL TOURNAMENT SOCIETY",
-                    "sony_match_id": "",
-                    "tl_marker": "",
-                    "checksum": "",
-                    "kid_mss": "",
-                    "parentId": "1700001471",
-                    "selectedLanguage": {
-                        "lang_label": "English",
-                        "lang_code": "ENG",
-                        "lang_type": "main",
-                        "lang_identifier": ""
-                    },
-                    "originalLanguage": {
-                        "lang_label": "English",
-                        "lang_code": "eng",
-                        "lang_type": "main",
-                        "lang_identifier": ""
-                    },
-                    "stateLanguage": {},
-                    "isFirstVideoPlayedInDevice": false,
-                    "targetedDelivery": {
-                        "td_server_hints": {
-                            "pip_bw_initial": 800000,
-                            "pip_bw_max": 7000000,
-                            "pip_live_initial_buffer": 8,
-                            "pip_live_target_latency": 10,
-                            "analytics_expt_id": "9UexVSmNVs"
-                        }
-                    },
-                    "parents": [
-                        {
-                            "parentId": 1590016397,
-                            "parentType": "BUNDLE",
-                            "parentSubType": "MATCH_TYPE"
-                        },
-                        {
-                            "parentId": 1700001471,
-                            "parentType": "GROUP_OF_BUNDLES",
-                            "parentSubType": "TOURNAMENT"
-                        }
-                    ],
-                    "additionalDataJson": {
-                        "adServer": "GAM",
-                        "ad_stack": "DAI-IMA",
-                        "audioCodec": "AAC",
-                        "audio_quality": "STEREO",
-                        "enc_format": "HLS",
-                        "fps": 25,
-                        "isDaiKey": true,
-                        "partners": [
-                            "ALL"
-                        ],
-                        "resolution": "SD",
-                        "videoCodec": "H264",
-                        "video_quality": "SDR"
-                    },
-                    "LA_Details": {},
-                    "is_audio_desc_available": false,
-                    "is_multi_track_per_language_available": false,
-                    "multiAudioTrack": true,
-                    "packId": "liv_premium_GP_1m"
-                },
-                "systemTime": 1784976628214
-            }
-        },
         {
             "match_info": {
                 "contentId": 1090536386,
@@ -280,7 +63,6 @@
                     "venue_id": "69",
                     "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536386/thumbnail/1784979995057_1784647162182819_CWG26_Bowls_and_Para_Bowls_pictogram_thumbnail.jpg",
                     "variant_asset_languages": [],
-                    "broadcast_channel_hin": "लिव",
                     "ad_cluster_id": "ad_cluster_1",
                     "live_label_display": true,
                     "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536386/portraitThumb/1784979994856_1784635752092819_CWG26_Bowls_and_Para_Bowls_pictogram_portrait_thumb.jpg",
@@ -301,7 +83,6 @@
                         }
                     ],
                     "Maximum_Audio_Quality": "STEREO",
-                    "team_hin": "स्कॉटलैंड ऑस्ट्रेलिया",
                     "sub_license": "No",
                     "is_auto_play_trailer": true,
                     "integrated_splash_available": "Yes",
@@ -443,14 +224,14 @@
                 "contentType": "VOD",
                 "contentSubtype": "LIVE_SPORT",
                 "title": "Glasgow 2026 Commonwealth Games",
-                "longDescription": "Watch all the exclusive action from the Bowls and Para Bowls in the Women's Pairs, LIVE on Sony LIV.",
-                "shortDescription": "Watch all the exclusive action from the Bowls and Para Bowls in the Women's Pairs, LIVE on Sony LIV.",
+                "longDescription": "Watch all the exclusive action from the Basketball in the Women, LIVE on Sony LIV.",
+                "shortDescription": "Watch all the exclusive action from the Basketball in the Women, LIVE on Sony LIV.",
                 "isCopyProtected": false,
                 "contractStartDate": 1784962200000,
                 "contractEndDate": 1785030600000,
-                "episodeTitle": "South Africa vs Namibia - Women's Pairs - Bowls and Para Bowls - 25 Jul 2026",
+                "episodeTitle": "Singapore vs Papua New Guinea - Women - Basketball - 25 Jul 2026",
                 "genres": [
-                    "Bowls and Para Bowls"
+                    "Basketball"
                 ],
                 "originalAirDate": 1784964000000,
                 "pcExtendedRatings": [],
@@ -462,7 +243,7 @@
                 "isGeoBlocked": false,
                 "advertisingInfoList": [],
                 "emfAttributes": {
-                    "venue_name": "SEC Hall 3 - Rink 1",
+                    "venue_name": "SEC Hall 4",
                     "region_of_origin": "English",
                     "svod_advertising": "true",
                     "audio_languages": "ENG",
@@ -477,7 +258,7 @@
                     "advertising": "AD SUPPORTED",
                     "isdvr": "No",
                     "emaAttributes": {},
-                    "tv_background_image": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/tvBackgroundImage/1784979989710_1784647341457819_CWG26_Bowls_and_Para_Bowls_pictogram_tv_bg.jpg",
+                    "tv_background_image": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/tvBackgroundImage/1784986151737_1784648201229819_CWG26_Basketball_pictogram_tv_bg.jpg",
                     "U": "IN",
                     "country_rating": {
                         "U": "IN",
@@ -486,24 +267,23 @@
                     "3+": "BD,NP,LK,PK,AF,BT,MV",
                     "value": "SVOD",
                     "is_audio_desc_available": false,
-                    "venue_id": "66",
-                    "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/thumbnail/1784979989619_1784647162182819_CWG26_Bowls_and_Para_Bowls_pictogram_thumbnail.jpg",
+                    "venue_id": "73",
+                    "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/thumbnail/1784986151652_1784647646298819_CWG26_Basketball_pictogram_thumbnail.jpg",
                     "variant_asset_languages": [],
-                    "broadcast_channel_hin": "लिव",
                     "ad_cluster_id": "ad_cluster_1",
                     "live_label_display": true,
-                    "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/portraitThumb/1784979989385_1784635752092819_CWG26_Bowls_and_Para_Bowls_pictogram_portrait_thumb.jpg",
+                    "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/portraitThumb/1784986151433_1784635657297819_CWG26_Basketball_pictogram_portrait_thumb.jpg",
                     "isSponsorAdAvailable": "true",
                     "dai_asset_key": "Nl41EGGUQSWMYMqWFkeegA",
                     "match_start_time": "1784964600",
-                    "team": "South Africa, Namibia",
+                    "team": "Singapore, Papua New Guinea",
                     "seo_tags": "Glasgow 2026 Commonwealth Games,Glasgow 2026,CWG 2026,Commonwealth Games 2026,Glasgow 2026 India squad,Indian athletes Commonwealth Games 2026,CWG 2026 India schedule,India at Glasgow 2026,Neeraj Chopra Glasgow 2026,Mirabai Chanu CWG 2026,Lovlina Borgohain Commonwealth Games,Praveen Chithravel triple jump Glasgow,Murali Sreeshankar CWG 2026,Parul Chaudhary Commonwealth Games,Pranati Nayak gymnastics Glasgow 2026,Rohit Yadav javelin CWG,Preeti Pawar boxing Glasgow,India medal contenders CWG 2026,Commonwealth Games 2026 live streaming India,Glasgow 2026 sports list,Indian weightlifting team CWG 2026,Indian athletics squad Glasgow 2026,Neeraj Chopra,Mirabai Chanu,Lovlina Borgohain,Praveen Chithravel,Murali Sreeshankar,Parul Chaudhary,Pranati Nayak,Rohit Yadav,Preeti Pawar",
                     "Free_countries": "",
                     "overlay_visibility": "0",
                     "SVOD_countries": "_in,_bd,_np,_mv,_bt,_lk,_af,_pk",
                     "is_subtitle_cc_available": false,
                     "ssai_partners": "Google DAI",
-                    "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/landscapeThumb/1784979989527_1784647154993819_CWG26_Bowls_and_Para_Bowls_pictogram_landscape_thumb.jpg",
+                    "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/landscapeThumb/1784986151557_1784647649647819_CWG26_Basketball_pictogram_landscape_thumb.jpg",
                     "audio_language_list": [
                         {
                             "lang_code": "ENG",
@@ -511,7 +291,6 @@
                         }
                     ],
                     "Maximum_Audio_Quality": "STEREO",
-                    "team_hin": "साउथ अफ्रीका नामीबिया",
                     "sub_license": "No",
                     "is_auto_play_trailer": true,
                     "integrated_splash_available": "Yes",
@@ -701,7 +480,6 @@
                     "venue_id": "54",
                     "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536387/thumbnail/1784979411044_1784647785497819_CWG26_Gymnastics_pictogram_thumbnail.jpg",
                     "variant_asset_languages": [],
-                    "broadcast_channel_hin": "लिव",
                     "ad_cluster_id": "ad_cluster_1",
                     "live_label_display": true,
                     "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536387/portraitThumb/1784979410845_1784637024252819_CWG26_Gymnastics_pictogram_portrait_thumb.jpg",
