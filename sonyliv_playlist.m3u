@@ -2,18 +2,18 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 12:20:27 AM 26-07-2026
+# last_update: 12:50:22 AM 26-07-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090537224" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020945/1784922261862627_UFC_Fight_Night_Ankalaev_vs_Guskov_landscape_thumbnail.jpg" group-title="Fight Sports", UFC Fight Night - Ankalaev vs Guskov - 25 Jul 2026 | UFC Fight Night - Ankalaev vs Guskov
 https://sonydaimenew.akamaized.net/hls/live/20000378/UFC_Live2507/ENG/master.m3u8?hdnea=exp=1785016233~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=1fac256861696f197478ec91928272125f11d95c9e8ef2e5795723d484a51996
 
-#EXTINF:-1 tvg-id="sonyliv-1090536268" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/thumbnail/1785002422506_1784647811561819_CWG26_Netball_pictogram_thumbnail.jpg" group-title="Netball", Jamaica vs Trinidad and Tobago - Netball - Netball - 25 Jul 2026 | Glasgow 2026 Commonwealth Games
+#EXTINF:-1 tvg-id="sonyliv-1090536268" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/thumbnail/1785005096984_1784647612769819_CWG26_Aquatics_pictogram_thumbnail.jpg" group-title="Aquatics", Women's 200m Freestyle - Aquatics - 25 Jul 2026 | Glasgow 2026 Commonwealth Games
 https://sonydaimenew.akamaized.net/hls/live/20000299/CWG_Stre2507/ENG/master.m3u8?hdnea=exp=1785016242~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=6b1640994131520e3ba3240ffe077696203e414f71c98b2f242e11b78ef34551
 
-#EXTINF:-1 tvg-id="sonyliv-1090536386" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536386/thumbnail/1785003076385_1784647659853819_CWG26_Boxing_pictogram_thumbnail.jpg" group-title="Boxing", David Akintola vs Yusuf Lucasi Changalawe - Men's 80kg - Boxing - 25 Jul 2026 | Glasgow 2026 Commonwealth Games
+#EXTINF:-1 tvg-id="sonyliv-1090536386" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536386/thumbnail/1785005000181_1784647659853819_CWG26_Boxing_pictogram_thumbnail.jpg" group-title="Boxing", Alan Perrie vs Paul Trainor - Men's 80kg - Boxing - 25 Jul 2026 | Glasgow 2026 Commonwealth Games
 https://sonydaimenew.akamaized.net/hls/live/20000300/CWG_Stre2507/ENG/master.m3u8?hdnea=exp=1785021648~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=e8c31932cbc3c7134aa7b219116fed9a9857e915326e64db0141a93d4dd4c108
 
-#EXTINF:-1 tvg-id="sonyliv-1090536385" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/thumbnail/1785003477722_1784647612769819_CWG26_Aquatics_pictogram_thumbnail.jpg" group-title="Aquatics", Women's 100m Backstroke - Aquatics - 25 Jul 2026 | Glasgow 2026 Commonwealth Games
+#EXTINF:-1 tvg-id="sonyliv-1090536385" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/thumbnail/1785004049710_1784647612769819_CWG26_Aquatics_pictogram_thumbnail.jpg" group-title="Aquatics", Men's 50m Freestyle - Aquatics - 25 Jul 2026 | Glasgow 2026 Commonwealth Games
 https://sonydaimenew.akamaized.net/hls/live/20000291/CWG_Stre2507/ENG/master.m3u8?hdnea=exp=1785025232~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=6cda97a95a87b644be4b71678d7a2723fafad7faa958b0a192b6cd2cfb1e19e6
 
 #EXTINF:-1 tvg-id="sonyliv-1090536387" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536387/thumbnail/1785002573848_1784647785497819_CWG26_Gymnastics_pictogram_thumbnail.jpg" group-title="Gymnastics", Women - Gymnastics - 25 Jul 2026 | Glasgow 2026 Commonwealth Games
