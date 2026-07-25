@@ -2,7 +2,16 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 12:20:26 PM 25-07-2026
+# last_update: 12:50:25 PM 25-07-2026
+
+#EXTINF:-1 tvg-id="sonyliv-1090536268" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784647162182819_CWG26_Bowls_and_Para_Bowls_pictogram_thumbnail.jpg" group-title="Para Powerlifting", Glasgow 2026 Commonwealth Games | Northern Ireland vs Tonga - Men's Singles - Bowls And Para Bowls - 25 Jul 2026
+https://sonydaimenew.akamaized.net/hls/live/20000299/CWG_Stre2507/ENG/master.m3u8?hdnea=exp=1784983829~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=0cfdf554062594db9607c9a28ec8eabd5a69d1245c96f5f55c0dc81cbf933f8a
+
+#EXTINF:-1 tvg-id="sonyliv-1090536386" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784647162182819_CWG26_Bowls_and_Para_Bowls_pictogram_thumbnail.jpg" group-title="Bowls and Para Bowls", Glasgow 2026 Commonwealth Games | Australia vs Isle Of Man - Women's Pairs - Bowls And Para Bowls- 25 Jul 2026
+https://sonydaimenew.akamaized.net/hls/live/20000300/CWG_Stre2507/ENG/master.m3u8?hdnea=exp=1784983836~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=2a75109a31bd915720bbe130a4bced440cd2705a8a43e3d459a1a052cf1b97eb
+
+#EXTINF:-1 tvg-id="sonyliv-1090536387" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784647154993819_CWG26_Bowls_and_Para_Bowls_pictogram_landscape_thumb.jpg" group-title="Basketball", Glasgow 2026 Commonwealth Games | Cook Islands vs Isle Of Man - Men's Singles - Bowls And Para Bowls- 25 Jul 2026
+https://sonydaimenew.akamaized.net/hls/live/20000376/CWG_Stre2507/ENG/master.m3u8?hdnea=exp=1784983844~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=c37b1e2d6ca2963ba8270b43f8284d5b4ea9030e15526fdd286cfb29e38c26c8
 
 #EXTINF:-1 tvg-id="sonyliv-1090537167" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020959/1784932559016224_ABB_FIA_FormulaE_WC26_RD14_Tokyo_EPrix_Qualifying_Race_landscape_thumb.jpg" group-title="Racing", ABB FIA Formula E World Championship | R14 - Tokyo E-Prix - Qualifying Race - 25 Jul 2026
-https://sonydaimenew.akamaized.net/hls/live/20000293/FormulaE2507/ENG/master.m3u8?hdnea=exp=1784982031~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=ad3e40c3b170e7db9778a6d29f2d4d10770edad0a7c579d4c09abbe9d84929d5
+https://sonydaimenew.akamaized.net/hls/live/20000293/FormulaE2507/ENG/master.m3u8?hdnea=exp=1784983854~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=a8f74a8f9d5a83963c1b46cec9b4b0ced64b344fd4d8ed64a847e5e5ac393ccb
