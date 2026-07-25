@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "03:50:23 PM 25-07-2026"
+        "last_update": "04:20:21 PM 25-07-2026"
     },
     "live_matches": [
         {
@@ -16,12 +16,12 @@
                 "contentType": "VOD",
                 "contentSubtype": "LIVE_SPORT",
                 "title": "Glasgow 2026 Commonwealth Games",
-                "longDescription": "Watch all the exclusive action from the Aquatics in the Women's 200m Freestyle, LIVE on Sony LIV.",
-                "shortDescription": "Watch all the exclusive action from the Aquatics in the Women's 200m Freestyle, LIVE on Sony LIV.",
+                "longDescription": "Watch all the exclusive action from the Aquatics in the Women's 100m Backstroke, LIVE on Sony LIV.",
+                "shortDescription": "Watch all the exclusive action from the Aquatics in the Women's 100m Backstroke, LIVE on Sony LIV.",
                 "isCopyProtected": false,
                 "contractStartDate": 1784964000000,
                 "contractEndDate": 1785032400000,
-                "episodeTitle": "Women's 200m Freestyle - Aquatics - 25 Jul 2026",
+                "episodeTitle": "Women's 100m Backstroke - Aquatics - 25 Jul 2026",
                 "genres": [
                     "Aquatics"
                 ],
@@ -50,7 +50,7 @@
                     "advertising": "AD SUPPORTED",
                     "isdvr": "No",
                     "emaAttributes": {},
-                    "tv_background_image": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/tvBackgroundImage/1784972695298_1784648387890819_CWG26_Aquatics_pictogram_tv_bg.jpg",
+                    "tv_background_image": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/tvBackgroundImage/1784974655387_1784648387890819_CWG26_Aquatics_pictogram_tv_bg.jpg",
                     "U": "IN",
                     "country_rating": {
                         "U": "IN",
@@ -58,15 +58,15 @@
                     },
                     "3+": "BD,NP,LK,PK,AF,BT,MV",
                     "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020251/178291361564192_Commonwealth_Games_2026_GOB_Masthead_logo.png",
-                    "player_name": "Emily Hughes, Hannah Robertson, Ella Jansen, Mollie O'Callaghan, Erika Fairweather, Grace Davison, Victoria Catterson, En Xi Sarah Sim",
+                    "player_name": "Jessica Olive Twapewa Humphrey, Delia Lloyd, Lottie Cullen, Hannah Fredericks, Katie Shanahan, Danielle Hill, Emma Harvey, Anishta Teeluck",
                     "value": "SVOD",
                     "is_audio_desc_available": false,
                     "venue_id": "78",
-                    "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/thumbnail/1784972695217_1784647612769819_CWG26_Aquatics_pictogram_thumbnail.jpg",
+                    "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/thumbnail/1784974655298_1784647612769819_CWG26_Aquatics_pictogram_thumbnail.jpg",
                     "variant_asset_languages": [],
                     "ad_cluster_id": "ad_cluster_1",
                     "live_label_display": true,
-                    "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/portraitThumb/1784972695004_1784630204591819_CWG26_Aquatics_pictogram_portrait_thumb.jpg",
+                    "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/portraitThumb/1784974655095_1784630204591819_CWG26_Aquatics_pictogram_portrait_thumb.jpg",
                     "isSponsorAdAvailable": "true",
                     "dai_asset_key": "jRQlKg2DQWa70jsLHUtxGA",
                     "seo_tags": "Glasgow 2026 Commonwealth Games,Glasgow 2026,CWG 2026,Commonwealth Games 2026,Glasgow 2026 India squad,Indian athletes Commonwealth Games 2026,CWG 2026 India schedule,India at Glasgow 2026,Neeraj Chopra Glasgow 2026,Mirabai Chanu CWG 2026,Lovlina Borgohain Commonwealth Games,Praveen Chithravel triple jump Glasgow,Murali Sreeshankar CWG 2026,Parul Chaudhary Commonwealth Games,Pranati Nayak gymnastics Glasgow 2026,Rohit Yadav javelin CWG,Preeti Pawar boxing Glasgow,India medal contenders CWG 2026,Commonwealth Games 2026 live streaming India,Glasgow 2026 sports list,Indian weightlifting team CWG 2026,Indian athletics squad Glasgow 2026,Neeraj Chopra,Mirabai Chanu,Lovlina Borgohain,Praveen Chithravel,Murali Sreeshankar,Parul Chaudhary,Pranati Nayak,Rohit Yadav,Preeti Pawar",
@@ -75,7 +75,7 @@
                     "SVOD_countries": "_in,_bd,_np,_mv,_bt,_lk,_af,_pk",
                     "is_subtitle_cc_available": false,
                     "ssai_partners": "Google DAI",
-                    "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/landscapeThumb/1784972695111_1784647616274819_CWG26_Aquatics_pictogram_landscape_thumb.jpg",
+                    "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/landscapeThumb/1784974655218_1784647616274819_CWG26_Aquatics_pictogram_landscape_thumb.jpg",
                     "audio_language_list": [
                         {
                             "lang_code": "ENG",
@@ -224,14 +224,14 @@
                 "contentType": "VOD",
                 "contentSubtype": "LIVE_SPORT",
                 "title": "Glasgow 2026 Commonwealth Games",
-                "longDescription": "Watch all the exclusive action from the Bowls and Para Bowls in the Women's Pairs, LIVE on Sony LIV.",
-                "shortDescription": "Watch all the exclusive action from the Bowls and Para Bowls in the Women's Pairs, LIVE on Sony LIV.",
+                "longDescription": "Watch all the exclusive action from the Boxing in the Men's 60kg, LIVE on Sony LIV.",
+                "shortDescription": "Watch all the exclusive action from the Boxing in the Men's 60kg, LIVE on Sony LIV.",
                 "isCopyProtected": false,
                 "contractStartDate": 1784962200000,
                 "contractEndDate": 1785030600000,
-                "episodeTitle": "Guernsey vs Zambia - Women's Pairs - Bowls and Para Bowls - 25 Jul 2026",
+                "episodeTitle": "Phoenix Gataua vs Treasure Moremi - Men's 60kg - Boxing - 25 Jul 2026",
                 "genres": [
-                    "Bowls and Para Bowls"
+                    "Boxing"
                 ],
                 "originalAirDate": 1784964000000,
                 "pcExtendedRatings": [],
@@ -243,7 +243,7 @@
                 "isGeoBlocked": false,
                 "advertisingInfoList": [],
                 "emfAttributes": {
-                    "venue_name": "SEC Hall 3 - Rink 1",
+                    "venue_name": "SEC Hall 5",
                     "region_of_origin": "English",
                     "svod_advertising": "true",
                     "audio_languages": "ENG",
@@ -258,7 +258,7 @@
                     "advertising": "AD SUPPORTED",
                     "isdvr": "No",
                     "emaAttributes": {},
-                    "tv_background_image": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536386/tvBackgroundImage/1784969533959_1784647341457819_CWG26_Bowls_and_Para_Bowls_pictogram_tv_bg.jpg",
+                    "tv_background_image": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536386/tvBackgroundImage/1784974510775_1784648168177819_CWG26_Boxing_pictogram_tv_bg.jpg",
                     "U": "IN",
                     "country_rating": {
                         "U": "IN",
@@ -266,25 +266,24 @@
                     },
                     "3+": "BD,NP,LK,PK,AF,BT,MV",
                     "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020251/178291361564192_Commonwealth_Games_2026_GOB_Masthead_logo.png",
+                    "player_name": "Phoenix Gataua, Treasure Moremi",
                     "value": "SVOD",
                     "is_audio_desc_available": false,
-                    "venue_id": "66",
-                    "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536386/thumbnail/1784969533862_1784647162182819_CWG26_Bowls_and_Para_Bowls_pictogram_thumbnail.jpg",
+                    "venue_id": "74",
+                    "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536386/thumbnail/1784974510696_1784647659853819_CWG26_Boxing_pictogram_thumbnail.jpg",
                     "variant_asset_languages": [],
-                    "broadcast_channel_hin": "लिव",
                     "ad_cluster_id": "ad_cluster_1",
                     "live_label_display": true,
-                    "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536386/portraitThumb/1784969533702_1784635752092819_CWG26_Bowls_and_Para_Bowls_pictogram_portrait_thumb.jpg",
+                    "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536386/portraitThumb/1784974510498_1784636551144819_CWG26_Boxing_pictogram_portrait_thumb.jpg",
                     "isSponsorAdAvailable": "true",
                     "dai_asset_key": "FuGFb9bcSEWxSWShqRWhIg",
-                    "team": "Guernsey, Zambia",
                     "seo_tags": "Glasgow 2026 Commonwealth Games,Glasgow 2026,CWG 2026,Commonwealth Games 2026,Glasgow 2026 India squad,Indian athletes Commonwealth Games 2026,CWG 2026 India schedule,India at Glasgow 2026,Neeraj Chopra Glasgow 2026,Mirabai Chanu CWG 2026,Lovlina Borgohain Commonwealth Games,Praveen Chithravel triple jump Glasgow,Murali Sreeshankar CWG 2026,Parul Chaudhary Commonwealth Games,Pranati Nayak gymnastics Glasgow 2026,Rohit Yadav javelin CWG,Preeti Pawar boxing Glasgow,India medal contenders CWG 2026,Commonwealth Games 2026 live streaming India,Glasgow 2026 sports list,Indian weightlifting team CWG 2026,Indian athletics squad Glasgow 2026,Neeraj Chopra,Mirabai Chanu,Lovlina Borgohain,Praveen Chithravel,Murali Sreeshankar,Parul Chaudhary,Pranati Nayak,Rohit Yadav,Preeti Pawar",
                     "Free_countries": "",
                     "overlay_visibility": "0",
                     "SVOD_countries": "_in,_bd,_np,_mv,_bt,_lk,_af,_pk",
                     "is_subtitle_cc_available": false,
                     "ssai_partners": "Google DAI",
-                    "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536386/landscapeThumb/1784969533795_1784647154993819_CWG26_Bowls_and_Para_Bowls_pictogram_landscape_thumb.jpg",
+                    "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536386/landscapeThumb/1784974510613_1784647663933819_CWG26_Boxing_pictogram_landscape_thumb.jpg",
                     "audio_language_list": [
                         {
                             "lang_code": "ENG",
@@ -292,7 +291,6 @@
                         }
                     ],
                     "Maximum_Audio_Quality": "STEREO",
-                    "team_hin": "गर्नजी ज़ाम्बिया",
                     "sub_license": "No",
                     "is_auto_play_trailer": true,
                     "integrated_splash_available": "Yes",
