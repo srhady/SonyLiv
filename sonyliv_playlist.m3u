@@ -2,16 +2,16 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 01:20:24 PM 25-07-2026
+# last_update: 01:50:23 PM 25-07-2026
 
-#EXTINF:-1 tvg-id="sonyliv-1090536268" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784647162182819_CWG26_Bowls_and_Para_Bowls_pictogram_thumbnail.jpg" group-title="Para Powerlifting", Glasgow 2026 Commonwealth Games | Northern Ireland vs Tonga - Men's Singles - Bowls And Para Bowls - 25 Jul 2026
-https://sonydaimenew.akamaized.net/hls/live/20000299/CWG_Stre2507/ENG/master.m3u8?hdnea=exp=1784985628~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=aa35405d7e99ae2d4d45cbf111b862b90773c7d4d0ded8714b98e01defbb3802
+#EXTINF:-1 tvg-id="sonyliv-1090536385" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784647811561819_CWG26_Netball_pictogram_thumbnail.jpg" group-title="Netball", Glasgow 2026 Commonwealth Games | Scotland vs New Zealand - Netball - 25 Jul 2026
+https://sonydaimenew.akamaized.net/hls/live/20000291/CWG_Stre2507/ENG/master.m3u8?hdnea=exp=1784987427~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=af7ad25416a8ced4d52f5aa6ca0f975330cc4e301738f4b54e9f933bee515172
 
-#EXTINF:-1 tvg-id="sonyliv-1090536386" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784647162182819_CWG26_Bowls_and_Para_Bowls_pictogram_thumbnail.jpg" group-title="Bowls and Para Bowls", Glasgow 2026 Commonwealth Games | Australia vs Isle Of Man - Women's Pairs - Bowls And Para Bowls- 25 Jul 2026
-https://sonydaimenew.akamaized.net/hls/live/20000300/CWG_Stre2507/ENG/master.m3u8?hdnea=exp=1784983836~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=2a75109a31bd915720bbe130a4bced440cd2705a8a43e3d459a1a052cf1b97eb
+#EXTINF:-1 tvg-id="sonyliv-1090536386" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536386/thumbnail/1784964301617_1784647162182819_CWG26_Bowls_and_Para_Bowls_pictogram_thumbnail.jpg" group-title="Bowls and Para Bowls", Glasgow 2026 Commonwealth Games | Australia vs Isle of Man - Women's Pairs - Bowls and Para Bowls - 25 Jul 2026
+https://sonydaimenew.akamaized.net/hls/live/20000300/CWG_Stre2507/ENG/master.m3u8?hdnea=exp=1784987437~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=c6404812a67cf04be07534b3e2fed1975db90bedd3caa217d9ae1e73bf30c1d6
 
-#EXTINF:-1 tvg-id="sonyliv-1090536387" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784647154993819_CWG26_Bowls_and_Para_Bowls_pictogram_landscape_thumb.jpg" group-title="Basketball", Glasgow 2026 Commonwealth Games | Cook Islands vs Isle Of Man - Men's Singles - Bowls And Para Bowls- 25 Jul 2026
-https://sonydaimenew.akamaized.net/hls/live/20000376/CWG_Stre2507/ENG/master.m3u8?hdnea=exp=1784985653~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=b3f084abd25d70e282278092a10327aae332411016ae23c5c858d31d94762031
+#EXTINF:-1 tvg-id="sonyliv-1090536387" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536387/thumbnail/1784964303517_1784647162182819_CWG26_Bowls_and_Para_Bowls_pictogram_thumbnail.jpg" group-title="Bowls and Para Bowls", Glasgow 2026 Commonwealth Games | Royden Aperau vs Mark McGreal - Men's Singles - Bowls and Para Bowls - 25 Jul 2026
+https://sonydaimenew.akamaized.net/hls/live/20000376/CWG_Stre2507/ENG/master.m3u8?hdnea=exp=1784987448~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=aed0f668ba8af4ff15da757494b0a773732ba6bd2b190f5735a274ea55bb2c74
 
 #EXTINF:-1 tvg-id="sonyliv-1090537167" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020959/1784932559016224_ABB_FIA_FormulaE_WC26_RD14_Tokyo_EPrix_Qualifying_Race_landscape_thumb.jpg" group-title="Racing", ABB FIA Formula E World Championship | R14 - Tokyo E-Prix - Qualifying Race - 25 Jul 2026
-https://sonydaimenew.akamaized.net/hls/live/20000293/FormulaE2507/ENG/master.m3u8?hdnea=exp=1784985660~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=1ad3974fe6af63e1a92bdb89fd0e87ce585e44f07ef7516f136dc1ca68c38104
+https://sonydaimenew.akamaized.net/hls/live/20000293/FormulaE2507/ENG/master.m3u8?hdnea=exp=1784987457~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=1182611767a0631150b25bf969ea5429ca35aff3d3362a014c342b61acc70c8d
