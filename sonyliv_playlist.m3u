@@ -2,15 +2,18 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 09:20:26 PM 25-07-2026
+# last_update: 09:50:27 PM 25-07-2026
 
-#EXTINF:-1 tvg-id="sonyliv-1090536387" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021001/1784978952355879_GYMNASTICS_WOMENS_TEAM_live_landscape_thumb.jpg" group-title="Gymnastics", Women - Gymnastics - 25 Jul 2026 | Glasgow 2026 Commonwealth Games
-https://sonydaimenew.akamaized.net/hls/live/20000376/CWG_Stre2507/ENG/master.m3u8?hdnea=exp=1785007240~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=2905e973d31e448e8849aa6f45cb834cfeb908044341da6996f355eb20dad606
+#EXTINF:-1 tvg-id="sonyliv-1090537224" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020945/1784922261862627_UFC_Fight_Night_Ankalaev_vs_Guskov_landscape_thumbnail.jpg" group-title="Fight Sports", UFC Fight Night - Ankalaev vs Guskov - 25 Jul 2026 | UFC Fight Night - Ankalaev vs Guskov
+https://sonydaimenew.akamaized.net/hls/live/20000378/UFC_Live2507/ENG/master.m3u8?hdnea=exp=1785016233~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=1fac256861696f197478ec91928272125f11d95c9e8ef2e5795723d484a51996
 
-#EXTINF:-1 tvg-id="sonyliv-1090536386" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536386/thumbnail/1784987459606_1784647162182819_CWG26_Bowls_and_Para_Bowls_pictogram_thumbnail.jpg" group-title="Bowls and Para Bowls", Wales vs Botswana - Women's Pairs - Bowls and Para Bowls - 25 Jul 2026 | Glasgow 2026 Commonwealth Games
+#EXTINF:-1 tvg-id="sonyliv-1090536268" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/thumbnail/1784991606509_1784647811561819_CWG26_Netball_pictogram_thumbnail.jpg" group-title="Netball", Wales vs Uganda - Netball - Netball - 25 Jul 2026 | Glasgow 2026 Commonwealth Games
+https://sonydaimenew.akamaized.net/hls/live/20000299/CWG_Stre2507/ENG/master.m3u8?hdnea=exp=1785016242~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=6b1640994131520e3ba3240ffe077696203e414f71c98b2f242e11b78ef34551
+
+#EXTINF:-1 tvg-id="sonyliv-1090536386" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536386/thumbnail/1784993171477_1784647162182819_CWG26_Bowls_and_Para_Bowls_pictogram_thumbnail.jpg" group-title="Bowls and Para Bowls", Ryan Bester vs Shaun James Parnis - Men's Singles - Bowls and Para Bowls - 25 Jul 2026 | Glasgow 2026 Commonwealth Games
 https://sonydaimenew.akamaized.net/hls/live/20000300/CWG_Stre2507/ENG/master.m3u8?hdnea=exp=1785007232~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=46c8970355d6690ff9cc3a72b72d9ba5492a22e25f932a945a20b8a21c5ad565
 
-#EXTINF:-1 tvg-id="sonyliv-1090536385" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/thumbnail/1784990910704_1784647646298819_CWG26_Basketball_pictogram_thumbnail.jpg" group-title="Basketball", England vs Fiji - Men - Basketball - 25 Jul 2026 | Glasgow 2026 Commonwealth Games
+#EXTINF:-1 tvg-id="sonyliv-1090536385" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/thumbnail/1784993170390_1784647162182819_CWG26_Bowls_and_Para_Bowls_pictogram_thumbnail.jpg" group-title="Bowls and Para Bowls", Scotland vs Falkland Islands - Women's Pairs - Bowls and Para Bowls - 25 Jul 2026 | Glasgow 2026 Commonwealth Games
 https://sonydaimenew.akamaized.net/hls/live/20000291/CWG_Stre2507/ENG/master.m3u8?hdnea=exp=1785010826~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=439eaa6fb8f5683c4d1d80015ef68ce9a2ad4ea4e80ee70dad20a65f08262d6b
 
 #EXTINF:-1 tvg-id="sonyliv-1090537158" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020769/1784659361409796_The_Hundred2026_mens_Sunrisers_Leeds_vs_Southern_Brave_21jul_landscape_thumb.jpg" group-title="Cricket", Sunrisers Leeds vs Southern Brave - 25 Jul 2026 | The Hundred 2026
@@ -20,4 +23,4 @@ https://sonyeventsglobal.akamaized.net/hls/live/2022322/DAI18-HMEN/master.m3u8?h
 https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-HWOM/master.m3u8?hdnea=exp=1785007257~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=f61a3a7bb910ae68cf45b4da6626fedb5fb5b571b4b2cdfc208fcb12c08a2498
 
 #EXTINF:-1 tvg-id="sonyliv-1090537177" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020822/178474073064996_LIV_Golf_UK_Day3_landscape_thumb.jpg" group-title="Golf", UK - Day 3 - 25 Jul 2026 | LIV Golf
-https://sonydaimenew.akamaized.net/hls/live/20000292/Golf_LIV2507/ENG/master.m3u8?hdnea=exp=1785001829~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=cea903dfcd614200ab368ea227248921a71eb7213d5cf669be83d4a1444a30b8
+https://sonydaimenew.akamaized.net/hls/live/20000292/Golf_LIV2507/ENG/master.m3u8?hdnea=exp=1785016254~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=e067f3599f23ff5e697a31b9d11c232989c77c0df3e1590a95c4aaf5c53fdb8a
