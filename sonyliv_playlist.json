@@ -3,25 +3,25 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "10:20:25 PM 26-07-2026"
+        "last_update": "10:50:26 PM 26-07-2026"
     },
     "live_matches": [
         {
             "match_info": {
-                "contentId": 1090536268,
-                "externalId": "1090536268",
+                "contentId": 1090536385,
+                "externalId": "1090536385",
                 "objectType": "VOD",
                 "isLive": true,
                 "objectSubtype": "LIVE_SPORT",
                 "contentType": "VOD",
                 "contentSubtype": "LIVE_SPORT",
                 "title": "Glasgow 2026 Commonwealth Games",
-                "longDescription": "Watch all the exclusive action from the Bowls and Para Bowls in the Women's Pairs, LIVE on Sony LIV.",
-                "shortDescription": "Watch all the exclusive action from the Bowls and Para Bowls in the Women's Pairs, LIVE on Sony LIV.",
+                "longDescription": "Watch all the exclusive action from the Bowls and Para Bowls in the Men's Singles, LIVE on Sony LIV.",
+                "shortDescription": "Watch all the exclusive action from the Bowls and Para Bowls in the Men's Singles, LIVE on Sony LIV.",
                 "isCopyProtected": false,
                 "contractStartDate": 1785048600000,
                 "contractEndDate": 1785117000000,
-                "episodeTitle": "Malaysia vs Scotland - Women's Pairs - Bowls and Para Bowls - 26 Jul 2026",
+                "episodeTitle": "Ryan Bester vs Cecil Alexander - Men's Singles - Bowls and Para Bowls - 26 Jul 2026",
                 "genres": [
                     "Bowls and Para Bowls"
                 ],
@@ -43,216 +43,6 @@
                     "snp_tags": "Suitable for all",
                     "is_multi_track_per_language_available": false,
                     "packageid": "12m_mobile_saarc,Liv_Pre_Yupp,12m_saarc,1m_saarc,liv_premium_GP_1m,liv_premium_GP_1m_mobile,LIV_Pre_Mob_1M,liv_binge_1m",
-                    "masthead_logo_rectangualar": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/mastheadLogoRectangualar/178291361572592_Commonwealth_Games_2026_GOB_masthead_logo_rectangualar_950x570_LIVE.png",
-                    "broadcast_channel": "LIV",
-                    "Maximum_Video_Quality": "SDR",
-                    "Maximum_Resolution": "FULL_HD",
-                    "advertising": "AD SUPPORTED",
-                    "isdvr": "No",
-                    "emaAttributes": {},
-                    "tv_background_image": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/tvBackgroundImage/1785078609894_1784647341457819_CWG26_Bowls_and_Para_Bowls_pictogram_tv_bg.jpg",
-                    "U": "IN",
-                    "country_rating": {
-                        "U": "IN",
-                        "3+": "BD,NP,LK,PK,AF,BT,MV"
-                    },
-                    "3+": "BD,NP,LK,PK,AF,BT,MV",
-                    "value": "SVOD",
-                    "is_audio_desc_available": false,
-                    "venue_id": "69",
-                    "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/thumbnail/1785078609792_1784647162182819_CWG26_Bowls_and_Para_Bowls_pictogram_thumbnail.jpg",
-                    "variant_asset_languages": [],
-                    "broadcast_channel_hin": "लिव",
-                    "ad_cluster_id": "ad_cluster_1",
-                    "live_label_display": true,
-                    "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/portraitThumb/1785078609615_1784635752092819_CWG26_Bowls_and_Para_Bowls_pictogram_portrait_thumb.jpg",
-                    "isSponsorAdAvailable": "true",
-                    "dai_asset_key": "jIVNhfIrRHqtoYIcw8SMeQ",
-                    "match_start_time": "1785051000",
-                    "team": "Malaysia, Scotland",
-                    "seo_tags": "Glasgow 2026 Commonwealth Games,Glasgow 2026,CWG 2026,Commonwealth Games 2026,Glasgow 2026 India squad,Indian athletes Commonwealth Games 2026,CWG 2026 India schedule,India at Glasgow 2026,Neeraj Chopra Glasgow 2026,Mirabai Chanu CWG 2026,Lovlina Borgohain Commonwealth Games,Praveen Chithravel triple jump Glasgow,Murali Sreeshankar CWG 2026,Parul Chaudhary Commonwealth Games,Pranati Nayak gymnastics Glasgow 2026,Rohit Yadav javelin CWG,Preeti Pawar boxing Glasgow,India medal contenders CWG 2026,Commonwealth Games 2026 live streaming India,Glasgow 2026 sports list,Indian weightlifting team CWG 2026,Indian athletics squad Glasgow 2026,Neeraj Chopra,Mirabai Chanu,Lovlina Borgohain,Praveen Chithravel,Murali Sreeshankar,Parul Chaudhary,Pranati Nayak,Rohit Yadav,Preeti Pawar",
-                    "Free_countries": "",
-                    "overlay_visibility": "0",
-                    "SVOD_countries": "_in,_bd,_np,_mv,_bt,_lk,_af,_pk",
-                    "is_subtitle_cc_available": false,
-                    "ssai_partners": "Google DAI",
-                    "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/landscapeThumb/1785078609706_1784647154993819_CWG26_Bowls_and_Para_Bowls_pictogram_landscape_thumb.jpg",
-                    "audio_language_list": [
-                        {
-                            "lang_code": "ENG",
-                            "lang_label": "English"
-                        }
-                    ],
-                    "Maximum_Audio_Quality": "STEREO",
-                    "team_hin": "मलेशिया स्कॉटलैंड",
-                    "sub_license": "No",
-                    "is_auto_play_trailer": true,
-                    "integrated_splash_available": "Yes",
-                    "matchid": "",
-                    "isTimeLineMarker_new": "true",
-                    "isDVR": false,
-                    "isTimeLineMarker": false,
-                    "isDownloadable": false,
-                    "is_preview_enabled": false,
-                    "sprite_image_url": "",
-                    "tv_sprite_image_url": "",
-                    "kids_safe": false,
-                    "tl_marker": "",
-                    "icon_on_asset": {
-                        "play_focus_icon": "https://origin-staticv2.sonyliv.com/UI_icons/spotlight/focus_play_icon.png",
-                        "play_normal_icon": "https://origin-staticv2.sonyliv.com/UI_icons/spotlight/non_focused_play_icon.png"
-                    }
-                },
-                "isADVAllowed": false,
-                "ratingEligibility": true,
-                "ratingDisplay": false,
-                "titleBrief": "",
-                "baseContentId": 1090536268,
-                "isBaseAsset": true
-            },
-            "playback_info": {
-                "resultCode": "OK",
-                "message": "",
-                "errorDescription": "200-10000",
-                "resultObj": {
-                    "showPlayerStats": false,
-                    "is_preview_enabled": false,
-                    "videoURL": "https://sonydaimenew.akamaized.net/hls/live/20000385/CWG_Stre2607/ENG/master.m3u8?hdnea=exp=1785093639~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=53d2eba5495f92d6e009b0649e1b0831f2602ff7887a97b2889636a260d61a8a",
-                    "multiLanguageVideoURL": [],
-                    "audioLanguages": [
-                        {
-                            "audioLanguageName": "ENG",
-                            "audioLanguageLabel": "English"
-                        }
-                    ],
-                    "trailer_url": "",
-                    "subtitle": [],
-                    "isEncrypted": false,
-                    "isDVR": false,
-                    "isDownloadable": false,
-                    "posterURL": "",
-                    "sprite_image_url": "",
-                    "tv_sprite_image_url": "",
-                    "dai_asset_key": "gCKMhK8PRbiNJcMer5NWzQ",
-                    "contextual_cue_point": {},
-                    "cuepoints": [],
-                    "isLive": true,
-                    "country_rating": {
-                        "U": "IN",
-                        "3+": "BD,NP,LK,PK,AF,BT,MV"
-                    },
-                    "dai_asset_key_hlsfp": "",
-                    "dai_asset_key_wm": "",
-                    "Maximum_Video_Quality": "SDR",
-                    "Maximum_Audio_Quality": "STEREO",
-                    "Maximum_Resolution": "FULL_HD",
-                    "isWatermarked": "false",
-                    "watermark_partner": "",
-                    "upfrontAudio": false,
-                    "pcVodLabel": "3+",
-                    "promotionUrl": "",
-                    "hasPromotion": false,
-                    "contentProvider": "Commonwealth Sport",
-                    "sony_match_id": "",
-                    "tl_marker": "",
-                    "checksum": "",
-                    "kid_mss": "",
-                    "parentId": "1790007824",
-                    "selectedLanguage": {
-                        "lang_code": "ENG",
-                        "lang_label": "English",
-                        "lang_type": "main"
-                    },
-                    "originalLanguage": {
-                        "lang_label": "English",
-                        "lang_code": "eng",
-                        "lang_type": "main",
-                        "lang_identifier": ""
-                    },
-                    "stateLanguage": {},
-                    "isFirstVideoPlayedInDevice": false,
-                    "targetedDelivery": {
-                        "td_server_hints": {
-                            "pip_bw_initial": 800000,
-                            "pip_bw_max": 7000000,
-                            "pip_live_initial_buffer": 8,
-                            "pip_live_target_latency": 10,
-                            "analytics_expt_id": "9UexVSmNVs"
-                        }
-                    },
-                    "parents": [
-                        {
-                            "parentId": 1590016357,
-                            "parentType": "BUNDLE",
-                            "parentSubType": "MATCH_TYPE"
-                        },
-                        {
-                            "parentId": 1790007824,
-                            "parentType": "GROUP_OF_BUNDLES",
-                            "parentSubType": "TOURNAMENT"
-                        }
-                    ],
-                    "additionalDataJson": {
-                        "adServer": "GAM",
-                        "ad_stack": "DAI-IMA",
-                        "audioCodec": "AAC",
-                        "audio_quality": "STEREO",
-                        "enc_format": "HLS",
-                        "fps": 25,
-                        "isDaiKey": true,
-                        "partners": [
-                            "ALL"
-                        ],
-                        "resolution": "SD",
-                        "videoCodec": "H264",
-                        "video_quality": "SDR"
-                    },
-                    "LA_Details": {},
-                    "is_audio_desc_available": false,
-                    "is_multi_track_per_language_available": false,
-                    "multiAudioTrack": true,
-                    "packId": "liv_premium_GP_1m"
-                },
-                "systemTime": 1785072039466
-            }
-        },
-        {
-            "match_info": {
-                "contentId": 1090536385,
-                "externalId": "1090536385",
-                "objectType": "VOD",
-                "isLive": true,
-                "objectSubtype": "LIVE_SPORT",
-                "contentType": "VOD",
-                "contentSubtype": "LIVE_SPORT",
-                "title": "Glasgow 2026 Commonwealth Games",
-                "longDescription": "Watch all the exclusive action from the Bowls and Para Bowls in the Women's Pairs, LIVE on Sony LIV.",
-                "shortDescription": "Watch all the exclusive action from the Bowls and Para Bowls in the Women's Pairs, LIVE on Sony LIV.",
-                "isCopyProtected": false,
-                "contractStartDate": 1785048600000,
-                "contractEndDate": 1785117000000,
-                "episodeTitle": "Norfolk Island vs Falkland Islands - Women's Pairs - Bowls and Para Bowls - 26 Jul 2026",
-                "genres": [
-                    "Bowls and Para Bowls"
-                ],
-                "originalAirDate": 1785050400000,
-                "pcExtendedRatings": [],
-                "isOnAir": true,
-                "isEncrypted": false,
-                "pcVodLabel": "3+",
-                "duration": 0,
-                "language": "ENG",
-                "isGeoBlocked": false,
-                "advertisingInfoList": [],
-                "emfAttributes": {
-                    "venue_name": "SEC Hall 3 - Rink 1",
-                    "region_of_origin": "English",
-                    "svod_advertising": "true",
-                    "audio_languages": "ENG",
-                    "sub_category": "Sport",
-                    "snp_tags": "Suitable for all",
-                    "is_multi_track_per_language_available": false,
-                    "packageid": "12m_mobile_saarc,Liv_Pre_Yupp,12m_saarc,1m_saarc,liv_premium_GP_1m,liv_premium_GP_1m_mobile,LIV_Pre_Mob_1M,liv_binge_1m",
                     "masthead_logo_rectangualar": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/mastheadLogoRectangualar/178291361572592_Commonwealth_Games_2026_GOB_masthead_logo_rectangualar_950x570_LIVE.png",
                     "broadcast_channel": "LIV",
                     "Maximum_Video_Quality": "SDR",
@@ -260,7 +50,7 @@
                     "advertising": "AD SUPPORTED",
                     "isdvr": "No",
                     "emaAttributes": {},
-                    "tv_background_image": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/tvBackgroundImage/1785078612910_1784647341457819_CWG26_Bowls_and_Para_Bowls_pictogram_tv_bg.jpg",
+                    "tv_background_image": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/tvBackgroundImage/1785083544463_1784647341457819_CWG26_Bowls_and_Para_Bowls_pictogram_tv_bg.jpg",
                     "U": "IN",
                     "country_rating": {
                         "U": "IN",
@@ -268,25 +58,24 @@
                     },
                     "3+": "BD,NP,LK,PK,AF,BT,MV",
                     "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020251/178291361564192_Commonwealth_Games_2026_GOB_Masthead_logo.png",
+                    "player_name": "Ryan Bester, Cecil Alexander",
                     "value": "SVOD",
                     "is_audio_desc_available": false,
-                    "venue_id": "66",
-                    "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/thumbnail/1785078612832_1784647162182819_CWG26_Bowls_and_Para_Bowls_pictogram_thumbnail.jpg",
+                    "venue_id": "69",
+                    "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/thumbnail/1785083544394_1784647162182819_CWG26_Bowls_and_Para_Bowls_pictogram_thumbnail.jpg",
                     "variant_asset_languages": [],
-                    "broadcast_channel_hin": "लिव",
                     "ad_cluster_id": "ad_cluster_1",
                     "live_label_display": true,
-                    "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/portraitThumb/1785078612647_1784635752092819_CWG26_Bowls_and_Para_Bowls_pictogram_portrait_thumb.jpg",
+                    "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/portraitThumb/1785083544222_1784635752092819_CWG26_Bowls_and_Para_Bowls_pictogram_portrait_thumb.jpg",
                     "isSponsorAdAvailable": "true",
                     "dai_asset_key": "-lsGhcFUQ6KYN5Yaaw8gcQ",
-                    "team": "Norfolk Island, Falkland Islands",
                     "seo_tags": "Glasgow 2026 Commonwealth Games,Glasgow 2026,CWG 2026,Commonwealth Games 2026,Glasgow 2026 India squad,Indian athletes Commonwealth Games 2026,CWG 2026 India schedule,India at Glasgow 2026,Neeraj Chopra Glasgow 2026,Mirabai Chanu CWG 2026,Lovlina Borgohain Commonwealth Games,Praveen Chithravel triple jump Glasgow,Murali Sreeshankar CWG 2026,Parul Chaudhary Commonwealth Games,Pranati Nayak gymnastics Glasgow 2026,Rohit Yadav javelin CWG,Preeti Pawar boxing Glasgow,India medal contenders CWG 2026,Commonwealth Games 2026 live streaming India,Glasgow 2026 sports list,Indian weightlifting team CWG 2026,Indian athletics squad Glasgow 2026,Neeraj Chopra,Mirabai Chanu,Lovlina Borgohain,Praveen Chithravel,Murali Sreeshankar,Parul Chaudhary,Pranati Nayak,Rohit Yadav,Preeti Pawar",
                     "Free_countries": "",
                     "overlay_visibility": "0",
                     "SVOD_countries": "_in,_bd,_np,_mv,_bt,_lk,_af,_pk",
                     "is_subtitle_cc_available": false,
                     "ssai_partners": "Google DAI",
-                    "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/landscapeThumb/1785078612753_1784647154993819_CWG26_Bowls_and_Para_Bowls_pictogram_landscape_thumb.jpg",
+                    "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/landscapeThumb/1785083544319_1784647154993819_CWG26_Bowls_and_Para_Bowls_pictogram_landscape_thumb.jpg",
                     "audio_language_list": [
                         {
                             "lang_code": "ENG",
@@ -294,7 +83,6 @@
                         }
                     ],
                     "Maximum_Audio_Quality": "STEREO",
-                    "team_hin": "नोरफ़ॉल्क आइलैंड फ़ॉकलैंड इसलैंड्स",
                     "sub_license": "No",
                     "is_auto_play_trailer": true,
                     "integrated_splash_available": "Yes",
@@ -440,7 +228,7 @@
                 "isCopyProtected": false,
                 "contractStartDate": 1785050400000,
                 "contractEndDate": 1785118800000,
-                "episodeTitle": "Namibia vs Tonga - Women's Pairs - Bowls and Para Bowls - 26 Jul 2026",
+                "episodeTitle": "South Africa vs Malta - Women's Pairs - Bowls and Para Bowls - 26 Jul 2026",
                 "genres": [
                     "Bowls and Para Bowls"
                 ],
@@ -469,7 +257,7 @@
                     "advertising": "AD SUPPORTED",
                     "isdvr": "No",
                     "emaAttributes": {},
-                    "tv_background_image": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536386/tvBackgroundImage/1785078612659_1784647341457819_CWG26_Bowls_and_Para_Bowls_pictogram_tv_bg.jpg",
+                    "tv_background_image": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536386/tvBackgroundImage/1785083702495_1784647341457819_CWG26_Bowls_and_Para_Bowls_pictogram_tv_bg.jpg",
                     "U": "IN",
                     "country_rating": {
                         "U": "IN",
@@ -480,22 +268,21 @@
                     "value": "SVOD",
                     "is_audio_desc_available": false,
                     "venue_id": "68",
-                    "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536386/thumbnail/1785078612579_1784647162182819_CWG26_Bowls_and_Para_Bowls_pictogram_thumbnail.jpg",
+                    "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536386/thumbnail/1785083702417_1784647162182819_CWG26_Bowls_and_Para_Bowls_pictogram_thumbnail.jpg",
                     "variant_asset_languages": [],
-                    "broadcast_channel_hin": "लिव",
                     "ad_cluster_id": "ad_cluster_1",
                     "live_label_display": true,
-                    "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536386/portraitThumb/1785078612392_1784635752092819_CWG26_Bowls_and_Para_Bowls_pictogram_portrait_thumb.jpg",
+                    "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536386/portraitThumb/1785083702218_1784635752092819_CWG26_Bowls_and_Para_Bowls_pictogram_portrait_thumb.jpg",
                     "isSponsorAdAvailable": "true",
                     "dai_asset_key": "ATAXpKZ-S_mnNwXuV5-R1w",
-                    "team": "Namibia, Tonga",
+                    "team": "South Africa, Malta",
                     "seo_tags": "Glasgow 2026 Commonwealth Games,Glasgow 2026,CWG 2026,Commonwealth Games 2026,Glasgow 2026 India squad,Indian athletes Commonwealth Games 2026,CWG 2026 India schedule,India at Glasgow 2026,Neeraj Chopra Glasgow 2026,Mirabai Chanu CWG 2026,Lovlina Borgohain Commonwealth Games,Praveen Chithravel triple jump Glasgow,Murali Sreeshankar CWG 2026,Parul Chaudhary Commonwealth Games,Pranati Nayak gymnastics Glasgow 2026,Rohit Yadav javelin CWG,Preeti Pawar boxing Glasgow,India medal contenders CWG 2026,Commonwealth Games 2026 live streaming India,Glasgow 2026 sports list,Indian weightlifting team CWG 2026,Indian athletics squad Glasgow 2026,Neeraj Chopra,Mirabai Chanu,Lovlina Borgohain,Praveen Chithravel,Murali Sreeshankar,Parul Chaudhary,Pranati Nayak,Rohit Yadav,Preeti Pawar",
                     "Free_countries": "",
                     "overlay_visibility": "0",
                     "SVOD_countries": "_in,_bd,_np,_mv,_bt,_lk,_af,_pk",
                     "is_subtitle_cc_available": false,
                     "ssai_partners": "Google DAI",
-                    "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536386/landscapeThumb/1785078612508_1784647154993819_CWG26_Bowls_and_Para_Bowls_pictogram_landscape_thumb.jpg",
+                    "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536386/landscapeThumb/1785083702335_1784647154993819_CWG26_Bowls_and_Para_Bowls_pictogram_landscape_thumb.jpg",
                     "audio_language_list": [
                         {
                             "lang_code": "ENG",
@@ -503,7 +290,6 @@
                         }
                     ],
                     "Maximum_Audio_Quality": "STEREO",
-                    "team_hin": "नामीबिया टोंगा",
                     "sub_license": "No",
                     "is_auto_play_trailer": true,
                     "integrated_splash_available": "Yes",
@@ -691,6 +477,7 @@
                     "venue_id": "77",
                     "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536387/thumbnail/1785078015243_1784647811561819_CWG26_Netball_pictogram_thumbnail.jpg",
                     "variant_asset_languages": [],
+                    "broadcast_channel_hin": "लिव",
                     "ad_cluster_id": "ad_cluster_1",
                     "live_label_display": true,
                     "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536387/portraitThumb/1785078015020_1784637323747819_CWG26_Netball_pictogram_portrait_thumb.jpg",
@@ -711,6 +498,7 @@
                         }
                     ],
                     "Maximum_Audio_Quality": "STEREO",
+                    "team_hin": "साउथ अफ्रीका टोंगा",
                     "sub_license": "No",
                     "is_auto_play_trailer": true,
                     "integrated_splash_available": "Yes",
@@ -843,24 +631,24 @@
         },
         {
             "match_info": {
-                "contentId": 1090537311,
-                "externalId": "1090537311",
+                "contentId": 1090537310,
+                "externalId": "1090537310",
                 "objectType": "VOD",
                 "isLive": true,
                 "objectSubtype": "LIVE_SPORT",
                 "contentType": "VOD",
                 "contentSubtype": "LIVE_SPORT",
                 "title": "The Hundred 2026",
-                "longDescription": "Manchester Super Giants take on Birmingham Phoenix in an exciting clash of The Hundred Men's Competition 2026. Catch all the action live, only on Sony LIV.",
-                "shortDescription": "Manchester Super Giants take on Birmingham Phoenix in an exciting clash of The Hundred Men's Competition 2026. Catch all the action live, only on Sony LIV.",
+                "longDescription": "Trent Rockets take on London Spirit in an electrifying clash in The Hundred Men's Competition 2026, as two dynamic teams go head-to-head in a battle for early supremacy. Catch all the action live, only on Sony LIV.",
+                "shortDescription": "Trent Rockets take on London Spirit in an electrifying clash in The Hundred Men's Competition 2026, as two dynamic teams go head-to-head in a battle for early supremacy. Catch all the action live, only on Sony LIV.",
                 "isCopyProtected": false,
-                "contractStartDate": 1785070800000,
-                "contractEndDate": 1785099600000,
-                "episodeTitle": "Manchester Super Giants vs Birmingham Phoenix - 26 Jul 2026",
+                "contractStartDate": 1785083400000,
+                "contractEndDate": 1785112200000,
+                "episodeTitle": "Trent Rockets vs London Spirit - 26 Jul 2026",
                 "genres": [
                     "Cricket"
                 ],
-                "originalAirDate": 1785072600000,
+                "originalAirDate": 1785085200000,
                 "pcExtendedRatings": [],
                 "isOnAir": true,
                 "isEncrypted": false,
@@ -870,7 +658,7 @@
                 "isGeoBlocked": false,
                 "advertisingInfoList": [],
                 "emfAttributes": {
-                    "venue_name": "Emirates Old Trafford, Manchester, England.",
+                    "venue_name": "Trent Bridge, Nottingham",
                     "region_of_origin": "English",
                     "svod_advertising": "true",
                     "audio_languages": "ENG",
@@ -884,8 +672,8 @@
                     "advertising": "AD SUPPORTED",
                     "isdvr": "No",
                     "emaAttributes": {},
-                    "away_team": "Birmingham Phoenix",
-                    "tv_background_image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020770/1784660607776499_The_Hundred2026_mens_Manchester_Super_Giants_vs_Birmingham_Phoenix_21jul_tv_Bg.jpg",
+                    "away_team": "London Spirit",
+                    "tv_background_image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020770/1784662674176499_The_Hundred2026_mens_Trent_Rockets_vs_London_Spirit_21jul_tv_Bg.jpg",
                     "content_marquee_status": "false",
                     "country_rating": {
                         "3+": "BD,NP,MV,BT,LK,AF,PK,MM"
@@ -896,19 +684,19 @@
                     "value": "SVOD",
                     "is_audio_desc_available": false,
                     "target_impressions_per_week": 2000000,
-                    "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020770/1784660566319499_The_Hundred2026_mens_Manchester_Super_Giants_vs_Birmingham_Phoenix_21jul_landscape_thumb.jpg",
+                    "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020770/1784662637526499_The_Hundred2026_mens_Trent_Rockets_vs_London_Spirit_21jul_landscape_thumb.jpg",
                     "variant_asset_languages": [],
                     "broadcast_channel_hin": "सोनी स्पोर्ट्स तेन ५",
                     "ad_cluster_id": "ad_cluster_1",
                     "live_label_display": true,
-                    "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020770/1784660554085499_The_Hundred2026_mens_Manchester_Super_Giants_vs_Birmingham_Phoenix_21jul_live_portrait_thumb.jpg",
+                    "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020770/1784662599388499_The_Hundred2026_mens_Trent_Rockets_vs_London_Spirit_21jul_live_portrait_thumb.jpg",
                     "seo_tags": "cricket scoreboard,cricket scores,live cricket score,live score,cricket live,today match,cricket match,live cricket match,points table,upcoming cricket matches,cricket highlights,match schedules,match highlights,match updates,cricket fixtures,100 ball cricket,live match updates,match fixtures,live cricket highlights,cricket knockout,cricket group stage,rachin ravindra,joe root,noor ahmad,harry brook,will jacks,david warner,marcus stoinis,sam curran,max holden,oval invincibles men,london spirit men,southern brave men,birmingham phoenix men,manchester originals men,northern superchargers men,trent rockets men,welsh fire men,the hundred league 2026,the hundred league 2026 schedule,the hundred 2026 start date,the hundred teams 2026,the hundred 2026 players list,the hundred mens competition 2026,stream the hundred mens 2026,stream the hundred mens 2026 live,stream the hundred mens 2026 live online,stream the hundred mens 2026 online,the hundred 2026 online live,the hundred 2026 timetable,the hundred league 2026 live,the hundred league 2026 online,the hundred league 2026 online live,the hundred mens 2026,the hundred mens 2026 live,the hundred mens 2026 online,the hundred mens 2026 schedule,the hundred mens 2026 squad,watch the hundred league 2026,watch the hundred mens 2026,the hundred live score,the hundred 2026 schedule,the hundred score,the hundred scorecard,the hundred today match,the hundred points table,the hundred cricket 2026,the hundred highlights,the hundred match today,the hundred squads 2026,live cricket,today cricket match,cricket upcoming matches,cricket scorecard,cricket schedule,cricket points table,today live cricket,live cricket streaming,cricket players,cricket results,cricket teams,cricket latest news,cricket tournament,cricket streaming,cricket live updates,cricket leaderboard,english cricket league,watch cricket online,cricket standings,match replay,cricket latest results,full cricket match,cricket replay,professional cricket league,100 ball cricket league,Sunrisers Leeds,Manchester Super Giants,MI London,London Spirit,Birmingham Phoenix,Southern Brave,Welsh Fire,MI London Squad,Sunrisers Leeds Squad,Manchester Super Giants Squad,London Spirit Squad,Jacob Bethell,Joe Root,Finn Allen,Tim David,Harry Brook,Jamie Overton,Jofra Archer,Marco Jansen,Mitchell Marsh,Ryan Rickelton,Aiden Markram,Phil Salt,Rachin Ravindra,Rashid Khan,David Miller,Heinrich Klaasen,Jamie Smith,Jos Buttler,Will Jacks,Ben Duckett,Mitchell Santner,Nicholas Pooran,Marcus Stoinis,Noor Ahmad,Trent Boult,Chris Woakes,Sam Curran",
                     "Free_countries": "",
                     "overlay_visibility": "0",
                     "target_frequency_per_week": 3,
                     "SVOD_countries": "_bd,_np,_mv,_bt,_af,_lk,_pk,_mm",
                     "is_subtitle_cc_available": false,
-                    "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020770/1784660566319499_The_Hundred2026_mens_Manchester_Super_Giants_vs_Birmingham_Phoenix_21jul_landscape_thumb.jpg",
+                    "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020770/1784662637526499_The_Hundred2026_mens_Trent_Rockets_vs_London_Spirit_21jul_landscape_thumb.jpg",
                     "audio_language_list": [
                         {
                             "lang_code": "ENG",
@@ -916,7 +704,7 @@
                         }
                     ],
                     "Maximum_Audio_Quality": "STEREO",
-                    "home_team": "Manchester Super Giants",
+                    "home_team": "Trent Rockets",
                     "sub_license": "No",
                     "is_auto_play_trailer": true,
                     "integrated_splash_available": "Yes",
@@ -937,7 +725,7 @@
                 "ratingEligibility": true,
                 "ratingDisplay": false,
                 "titleBrief": "",
-                "baseContentId": 1090537311,
+                "baseContentId": 1090537310,
                 "isBaseAsset": true
             },
             "playback_info": {
@@ -947,7 +735,7 @@
                 "resultObj": {
                     "showPlayerStats": false,
                     "is_preview_enabled": false,
-                    "videoURL": "https://sonyeventsglobal.akamaized.net/hls/live/2022322/DAI18-HMEN/master.m3u8?hdnea=exp=1785093647~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=77e8b2bb89df1e5833f317816f1a6edbf4f54c0c88d59c3e5d28cae2398bd46f",
+                    "videoURL": "https://sonyeventsglobal.akamaized.net/hls/live/2022322/DAI18-WFML/master.m3u8?hdnea=exp=1785106231~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=33e2c4592a7f4f8914f443441e7a5285e2373590564f5c5c8c7d14c841b9d729",
                     "multiLanguageVideoURL": [],
                     "audioLanguages": [
                         {
@@ -1035,7 +823,7 @@
                     "multiAudioTrack": true,
                     "packId": "liv_premium_GP_1m"
                 },
-                "systemTime": 1785072047754
+                "systemTime": 1785084631954
             }
         },
         {
