@@ -2,19 +2,22 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 04:50:24 PM 26-07-2026
+# last_update: 05:20:22 PM 26-07-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090537305" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021054/1785022248690874_dc26_Jamshedpur_FC_vs_Defenders_FC_landscape.jpg" group-title="Football", Jamshedpur FC vs Defenders FC - 26 Jul 2026 | IndianOil Durand Cup 2026
 https://sonydaimenew.akamaized.net/hls/live/20000388/DC_Jamsh2607/ENG/master.m3u8?hdnea=exp=1785084628~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=0ff344f86758f1d1074b76a44972289469f734ee0498c4ece3a65c23b03125e4
 
-#EXTINF:-1 tvg-id="sonyliv-1090536268" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/thumbnail/1785062943928_1784647612769819_CWG26_Aquatics_pictogram_thumbnail.jpg" group-title="Aquatics", Men's 200m Backstroke - Aquatics - 26 Jul 2026 | Glasgow 2026 Commonwealth Games
+#EXTINF:-1 tvg-id="sonyliv-1090536387" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021066/1785054555845562_CWG26_GYMNASTICS_FINALS_MENS_ALL_AROUND_TAPAN_MOHANTY_landscape_thumb.jpg" group-title="Gymnastics", Men's All-Around - Gymnastics - 26 Jul 2026 | Glasgow 2026 Commonwealth Games
+https://sonydaimenew.akamaized.net/hls/live/20000393/CWG_Stre2607/ENG/master.m3u8?hdnea=exp=1785072035~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=cd88002622e1af6224b985c8116b7e7a12f5e31c1380f403b6f5aeda42cb4103
+
+#EXTINF:-1 tvg-id="sonyliv-1090536268" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/thumbnail/1785064566972_1784647612769819_CWG26_Aquatics_pictogram_thumbnail.jpg" group-title="Aquatics", Women's 100m Backstroke S9 - Aquatics - 26 Jul 2026 | Glasgow 2026 Commonwealth Games
 https://sonydaimenew.akamaized.net/hls/live/20000385/CWG_Stre2607/ENG/master.m3u8?hdnea=exp=1785077428~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=976a6c8e065f42e015ea97cc9ef77fdff145b2825c9ce6aec5d90056c096d3f6
 
-#EXTINF:-1 tvg-id="sonyliv-1090536386" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536386/thumbnail/1785062741545_1784647659853819_CWG26_Boxing_pictogram_thumbnail.jpg" group-title="Boxing", Keatlaretse Modise vs Greer Hall - Women's 54kg - Boxing - 26 Jul 2026 | Glasgow 2026 Commonwealth Games
+#EXTINF:-1 tvg-id="sonyliv-1090536386" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536386/thumbnail/1785064073332_1784647659853819_CWG26_Boxing_pictogram_thumbnail.jpg" group-title="Boxing", Ellis Trowbridge vs Rukmal Prasanna - Men's 55kg - Boxing - 26 Jul 2026 | Glasgow 2026 Commonwealth Games
 https://sonydaimenew.akamaized.net/hls/live/20000392/CWG_Stre2607/ENG/master.m3u8?hdnea=exp=1785072028~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=92da98e3ca4f3e6ea56cf7b29eaa1019b63e5b45dd95f50b5c17d70585d86968
 
-#EXTINF:-1 tvg-id="sonyliv-1090536387" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536387/thumbnail/1785056225971_1784647162182819_CWG26_Bowls_and_Para_Bowls_pictogram_thumbnail.jpg" group-title="Bowls and Para Bowls", Day 3 - 26 Jul 2026 | Glasgow 2026 Commonwealth Games
-https://sonydaimenew.akamaized.net/hls/live/20000393/CWG_Stre2607/ENG/master.m3u8?hdnea=exp=1785072035~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=cd88002622e1af6224b985c8116b7e7a12f5e31c1380f403b6f5aeda42cb4103
+#EXTINF:-1 tvg-id="sonyliv-1090536385" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/thumbnail/1785063248742_1784647646298819_CWG26_Basketball_pictogram_thumbnail.jpg" group-title="Basketball", Australia vs Cayman Islands - Women - Basketball - 26 Jul 2026 | Glasgow 2026 Commonwealth Games
+https://sonydaimenew.akamaized.net/hls/live/20000391/CWG_Stre2607/ENG/master.m3u8?hdnea=exp=1785086427~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=38c657d9239edcdac06db1c1a5891dea83f9943e5f4f18574b0f089c5ac4d6f5
 
 #EXTINF:-1 tvg-id="sonyliv-1090537307" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020770/1784660530614499_The_Hundred2026_womens_Manchester_Super_Giants_vs_Birmingham_Phoenix_21jul_landscape_thumb.jpg" group-title="Cricket", Manchester Super Giants vs Birmingham Phoenix - 26 Jul 2026 | The Hundred 2026 (Women's)
 https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-SLSB/master.m3u8?hdnea=exp=1785081032~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=46cd2812daae63bc1c3eac46531d1035438ef7b8c3cc84061c51ddd9f1820e2a
