@@ -2,18 +2,18 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 07:20:23 PM 26-07-2026
+# last_update: 07:50:24 PM 26-07-2026
 
-#EXTINF:-1 tvg-id="sonyliv-1090537305" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021054/1785022248690874_dc26_Jamshedpur_FC_vs_Defenders_FC_landscape.jpg" group-title="Football", Jamshedpur FC vs Defenders FC - 26 Jul 2026 | IndianOil Durand Cup 2026
-https://sonydaimenew.akamaized.net/hls/live/20000388/DC_Jamsh2607/ENG/master.m3u8?hdnea=exp=1785084628~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=0ff344f86758f1d1074b76a44972289469f734ee0498c4ece3a65c23b03125e4
+#EXTINF:-1 tvg-id="sonyliv-1090537309" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021054/1785022664513874_dc26_India_Army_FT_vs_Samaleswari_Sporting_landscape.jpg" group-title="Football", India Army FT vs Samaleswari Sporting - 26 Jul 2026 | IndianOil Durand Cup 2026
+https://sonydaimenew.akamaized.net/hls/live/20000390/IndiaArm2607/ENG/master.m3u8?hdnea=exp=1785095436~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=6f9aa21804e4dcde9b21088e6297e692fb801887c35c03fcee4acacf1203f80e
 
-#EXTINF:-1 tvg-id="sonyliv-1090536387" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021066/1785054555845562_CWG26_GYMNASTICS_FINALS_MENS_ALL_AROUND_TAPAN_MOHANTY_landscape_thumb.jpg" group-title="Gymnastics", Men's All-Around - Gymnastics - 26 Jul 2026 | Glasgow 2026 Commonwealth Games
-https://sonydaimenew.akamaized.net/hls/live/20000393/CWG_Stre2607/ENG/master.m3u8?hdnea=exp=1785093630~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=6cc3a829b02cf99b44f7314dbddc1b2fcda2aed6578c1650436e88a53dcf3d86
-
-#EXTINF:-1 tvg-id="sonyliv-1090536268" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/thumbnail/1785070889310_1784647646298819_CWG26_Basketball_pictogram_thumbnail.jpg" group-title="Basketball", England vs Canada - Wheelchair Men - Basketball - 26 Jul 2026 | Glasgow 2026 Commonwealth Games
+#EXTINF:-1 tvg-id="sonyliv-1090536268" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021047/1785018158879648_CWG_BOWLS_and_PARA_BOWLS_INDIA_vs_MALTA_landscape_thumb.jpg" group-title="Bowls and Para Bowls", Putul Sonowal vs Shaun James Parnis - Men's Singles - Bowls and Para Bowls - 26 Jul 2026 | Glasgow 2026 Commonwealth Games
 https://sonydaimenew.akamaized.net/hls/live/20000385/CWG_Stre2607/ENG/master.m3u8?hdnea=exp=1785093639~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=53d2eba5495f92d6e009b0649e1b0831f2602ff7887a97b2889636a260d61a8a
 
-#EXTINF:-1 tvg-id="sonyliv-1090536386" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536386/thumbnail/1785069730691_1784647659853819_CWG26_Boxing_pictogram_thumbnail.jpg" group-title="Boxing", Connor Campbell vs Jacob Cassar - Men's 65kg - Boxing - 26 Jul 2026 | Glasgow 2026 Commonwealth Games
+#EXTINF:-1 tvg-id="sonyliv-1090536387" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536387/thumbnail/1785073269946_1784647162182819_CWG26_Bowls_and_Para_Bowls_pictogram_thumbnail.jpg" group-title="Bowls and Para Bowls", Izzat Shameer Dzulkeple vs Anwar Hamada - Men's Singles - Bowls and Para Bowls - 26 Jul 2026 | Glasgow 2026 Commonwealth Games
+https://sonydaimenew.akamaized.net/hls/live/20000393/CWG_Stre2607/ENG/master.m3u8?hdnea=exp=1785093630~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=6cc3a829b02cf99b44f7314dbddc1b2fcda2aed6578c1650436e88a53dcf3d86
+
+#EXTINF:-1 tvg-id="sonyliv-1090536386" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536386/thumbnail/1785073268358_1784647162182819_CWG26_Bowls_and_Para_Bowls_pictogram_thumbnail.jpg" group-title="Bowls and Para Bowls", Gary Kelly vs Mitchell Graham - Men's Singles - Bowls and Para Bowls - 26 Jul 2026 | Glasgow 2026 Commonwealth Games
 https://sonydaimenew.akamaized.net/hls/live/20000392/CWG_Stre2607/ENG/master.m3u8?hdnea=exp=1785088724~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=ec02c0a460b528f9682b58661cedd039bde6aa2fdcfc91e3ba657e84e7ffc43e
 
 #EXTINF:-1 tvg-id="sonyliv-1090537311" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020770/1784660566319499_The_Hundred2026_mens_Manchester_Super_Giants_vs_Birmingham_Phoenix_21jul_landscape_thumb.jpg" group-title="Cricket", Manchester Super Giants vs Birmingham Phoenix - 26 Jul 2026 | The Hundred 2026
