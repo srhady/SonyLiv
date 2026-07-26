@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "12:20:23 AM 27-07-2026"
+        "last_update": "12:50:26 AM 27-07-2026"
     },
     "live_matches": [
         {
@@ -64,6 +64,7 @@
                     "venue_id": "75",
                     "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021051/1785019480396337_CWG_WEIGHTLIFTING_Raja_Muthupandi_landscape_thumb.jpg",
                     "variant_asset_languages": [],
+                    "broadcast_channel_hin": "लिव",
                     "ad_cluster_id": "ad_cluster_1",
                     "live_label_display": true,
                     "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021051/1785019431329337_CWG_WEIGHTLIFTING_Raja_Muthupandi_portrait_thumb.jpg",
@@ -271,6 +272,7 @@
                     "venue_id": "74",
                     "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536386/thumbnail/1785089675222_1784647659853819_CWG26_Boxing_pictogram_thumbnail.jpg",
                     "variant_asset_languages": [],
+                    "broadcast_channel_hin": "लिव",
                     "ad_cluster_id": "ad_cluster_1",
                     "live_label_display": true,
                     "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536386/portraitThumb/1785089674990_1784636551144819_CWG26_Boxing_pictogram_portrait_thumb.jpg",
@@ -638,12 +640,12 @@
                 "contentType": "VOD",
                 "contentSubtype": "LIVE_SPORT",
                 "title": "Glasgow 2026 Commonwealth Games",
-                "longDescription": "Watch all the exclusive action from the Aquatics in the Men's 100m Backstroke S9, LIVE on Sony LIV.",
-                "shortDescription": "Watch all the exclusive action from the Aquatics in the Men's 100m Backstroke S9, LIVE on Sony LIV.",
+                "longDescription": "Watch all the exclusive action from the Aquatics in the Men's 100m Butterfly, LIVE on Sony LIV.",
+                "shortDescription": "Watch all the exclusive action from the Aquatics in the Men's 100m Butterfly, LIVE on Sony LIV.",
                 "isCopyProtected": false,
                 "contractStartDate": 1785048600000,
                 "contractEndDate": 1785117000000,
-                "episodeTitle": "Men's 100m Backstroke S9 - Aquatics - 26 Jul 2026",
+                "episodeTitle": "Men's 100m Butterfly - Aquatics - 26 Jul 2026",
                 "genres": [
                     "Aquatics"
                 ],
@@ -672,22 +674,22 @@
                     "advertising": "AD SUPPORTED",
                     "isdvr": "No",
                     "emaAttributes": {},
-                    "tv_background_image": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/tvBackgroundImage/1785089811689_1784648387890819_CWG26_Aquatics_pictogram_tv_bg.jpg",
+                    "tv_background_image": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/tvBackgroundImage/1785090631179_1784648387890819_CWG26_Aquatics_pictogram_tv_bg.jpg",
                     "U": "IN",
                     "country_rating": {
                         "U": "IN",
                         "3+": "BD,NP,LK,PK,AF,BT,MV"
                     },
                     "3+": "BD,NP,LK,PK,AF,BT,MV",
-                    "player_name": "Christian Sadie, Sam Downie, Timothy Hodge, Liam Togher, Harrison Vig, Barry McClements, Reid Maxwell, Antwahn Boyce-Vaughan",
+                    "player_name": "Jacob Peters, Harrison Turner, Edward Mildred, Matthew Temple, Joshua Liendo, Ben Armbruster, Lewis Fraser, Chad le Clos",
                     "value": "SVOD",
                     "is_audio_desc_available": false,
                     "venue_id": "78",
-                    "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/thumbnail/1785089811615_1784647612769819_CWG26_Aquatics_pictogram_thumbnail.jpg",
+                    "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/thumbnail/1785090631104_1784647612769819_CWG26_Aquatics_pictogram_thumbnail.jpg",
                     "variant_asset_languages": [],
                     "ad_cluster_id": "ad_cluster_1",
                     "live_label_display": true,
-                    "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/portraitThumb/1785089811466_1784630204591819_CWG26_Aquatics_pictogram_portrait_thumb.jpg",
+                    "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/portraitThumb/1785090630949_1784630204591819_CWG26_Aquatics_pictogram_portrait_thumb.jpg",
                     "isSponsorAdAvailable": "true",
                     "dai_asset_key": "jIVNhfIrRHqtoYIcw8SMeQ",
                     "match_start_time": "1785051000",
@@ -697,7 +699,7 @@
                     "SVOD_countries": "_in,_bd,_np,_mv,_bt,_lk,_af,_pk",
                     "is_subtitle_cc_available": false,
                     "ssai_partners": "Google DAI",
-                    "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/landscapeThumb/1785089811537_1784647616274819_CWG26_Aquatics_pictogram_landscape_thumb.jpg",
+                    "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/landscapeThumb/1785090631034_1784647616274819_CWG26_Aquatics_pictogram_landscape_thumb.jpg",
                     "audio_language_list": [
                         {
                             "lang_code": "ENG",
