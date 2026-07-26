@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "12:50:26 AM 27-07-2026"
+        "last_update": "01:20:24 AM 27-07-2026"
     },
     "live_matches": [
         {
@@ -687,6 +687,7 @@
                     "venue_id": "78",
                     "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/thumbnail/1785090631104_1784647612769819_CWG26_Aquatics_pictogram_thumbnail.jpg",
                     "variant_asset_languages": [],
+                    "broadcast_channel_hin": "लिव",
                     "ad_cluster_id": "ad_cluster_1",
                     "live_label_display": true,
                     "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/portraitThumb/1785090630949_1784630204591819_CWG26_Aquatics_pictogram_portrait_thumb.jpg",
