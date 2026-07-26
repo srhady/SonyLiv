@@ -2,15 +2,15 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 06:20:23 PM 26-07-2026
+# last_update: 06:50:22 PM 26-07-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090537305" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021054/1785022248690874_dc26_Jamshedpur_FC_vs_Defenders_FC_landscape.jpg" group-title="Football", Jamshedpur FC vs Defenders FC - 26 Jul 2026 | IndianOil Durand Cup 2026
 https://sonydaimenew.akamaized.net/hls/live/20000388/DC_Jamsh2607/ENG/master.m3u8?hdnea=exp=1785084628~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=0ff344f86758f1d1074b76a44972289469f734ee0498c4ece3a65c23b03125e4
 
-#EXTINF:-1 tvg-id="sonyliv-1090536268" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/thumbnail/1785067713619_1784647646298819_CWG26_Basketball_pictogram_thumbnail.jpg" group-title="Basketball", Scotland vs Nigeria - Men - Basketball - 26 Jul 2026 | Glasgow 2026 Commonwealth Games
+#EXTINF:-1 tvg-id="sonyliv-1090536268" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/thumbnail/1785069257244_1784647646298819_CWG26_Basketball_pictogram_thumbnail.jpg" group-title="Basketball", Uganda vs Fiji - Women - Basketball - 26 Jul 2026 | Glasgow 2026 Commonwealth Games
 https://sonydaimenew.akamaized.net/hls/live/20000385/CWG_Stre2607/ENG/master.m3u8?hdnea=exp=1785077428~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=976a6c8e065f42e015ea97cc9ef77fdff145b2825c9ce6aec5d90056c096d3f6
 
-#EXTINF:-1 tvg-id="sonyliv-1090536386" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536386/thumbnail/1785067884825_1784647659853819_CWG26_Boxing_pictogram_thumbnail.jpg" group-title="Boxing", Ziggy Agathe vs James Paul - Men's 65kg - Boxing - 26 Jul 2026 | Glasgow 2026 Commonwealth Games
+#EXTINF:-1 tvg-id="sonyliv-1090536386" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536386/thumbnail/1785069730691_1784647659853819_CWG26_Boxing_pictogram_thumbnail.jpg" group-title="Boxing", Connor Campbell vs Jacob Cassar - Men's 65kg - Boxing - 26 Jul 2026 | Glasgow 2026 Commonwealth Games
 https://sonydaimenew.akamaized.net/hls/live/20000392/CWG_Stre2607/ENG/master.m3u8?hdnea=exp=1785088724~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=ec02c0a460b528f9682b58661cedd039bde6aa2fdcfc91e3ba657e84e7ffc43e
 
 #EXTINF:-1 tvg-id="sonyliv-1090536385" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/thumbnail/1785066305952_1784647162182819_CWG26_Bowls_and_Para_Bowls_pictogram_thumbnail.jpg" group-title="Bowls and Para Bowls", Sam Tolchard vs Robert Simpson - Men's Singles - Bowls and Para Bowls - 26 Jul 2026 | Glasgow 2026 Commonwealth Games
