@@ -2,16 +2,19 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 10:50:26 PM 26-07-2026
+# last_update: 11:20:24 PM 26-07-2026
+
+#EXTINF:-1 tvg-id="sonyliv-1090536268" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021049/1785018820020754_CWG_BOWLS_and_PARA_BOWLS_ENGLAND_vs_INDIA_landscape_thumb.jpg" group-title="Bowls and Para Bowls", England vs India - Women's Pairs - Bowls and Para Bowls - 26 Jul 2026 | Glasgow 2026 Commonwealth Games
+https://sonydaimenew.akamaized.net/hls/live/20000385/CWG_Stre2607/ENG/master.m3u8?hdnea=exp=1785108032~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=11afcf2ce16ec64f5b82aaf4d29be4220b4aba2bc1dc99ba37e7ca2a80ab377a
 
 #EXTINF:-1 tvg-id="sonyliv-1090536385" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/thumbnail/1785083544394_1784647162182819_CWG26_Bowls_and_Para_Bowls_pictogram_thumbnail.jpg" group-title="Bowls and Para Bowls", Ryan Bester vs Cecil Alexander - Men's Singles - Bowls and Para Bowls - 26 Jul 2026 | Glasgow 2026 Commonwealth Games
 https://sonydaimenew.akamaized.net/hls/live/20000391/CWG_Stre2607/ENG/master.m3u8?hdnea=exp=1785100832~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=9b5309233d0d52068485e864e9c46dbb2997585b2f756cdddf2889d9ca536632
 
-#EXTINF:-1 tvg-id="sonyliv-1090536386" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536386/thumbnail/1785083702417_1784647162182819_CWG26_Bowls_and_Para_Bowls_pictogram_thumbnail.jpg" group-title="Bowls and Para Bowls", South Africa vs Malta - Women's Pairs - Bowls and Para Bowls - 26 Jul 2026 | Glasgow 2026 Commonwealth Games
+#EXTINF:-1 tvg-id="sonyliv-1090536386" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536386/thumbnail/1785086085020_1784647659853819_CWG26_Boxing_pictogram_thumbnail.jpg" group-title="Boxing", Preeti Preeti vs Deborah Mtenje - Women's 54kg - Boxing - 26 Jul 2026 | Glasgow 2026 Commonwealth Games
 https://sonydaimenew.akamaized.net/hls/live/20000392/CWG_Stre2607/ENG/master.m3u8?hdnea=exp=1785104433~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=9315c36eb5babe02c0f64294cc305e738c7787db021525609fb59a4fa01cfa88
 
-#EXTINF:-1 tvg-id="sonyliv-1090536387" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536387/thumbnail/1785078015243_1784647811561819_CWG26_Netball_pictogram_thumbnail.jpg" group-title="Netball", South Africa vs Tonga - Netball - 26 Jul 2026 | Glasgow 2026 Commonwealth Games
-https://sonydaimenew.akamaized.net/hls/live/20000393/CWG_Stre2607/ENG/master.m3u8?hdnea=exp=1785093630~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=6cc3a829b02cf99b44f7314dbddc1b2fcda2aed6578c1650436e88a53dcf3d86
+#EXTINF:-1 tvg-id="sonyliv-1090536387" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536387/thumbnail/1785085676587_1784647785497819_CWG26_Gymnastics_pictogram_thumbnail.jpg" group-title="Gymnastics", Women's All-Around - Gymnastics - 26 Jul 2026 | Glasgow 2026 Commonwealth Games
+https://sonydaimenew.akamaized.net/hls/live/20000393/CWG_Stre2607/ENG/master.m3u8?hdnea=exp=1785108043~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=1f10e7bd3c6d7487e215f5033db5db9ab1166bd3539f1e95c75b8e453fab9d21
 
 #EXTINF:-1 tvg-id="sonyliv-1090537310" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020770/1784662637526499_The_Hundred2026_mens_Trent_Rockets_vs_London_Spirit_21jul_landscape_thumb.jpg" group-title="Cricket", Trent Rockets vs London Spirit - 26 Jul 2026 | The Hundred 2026
 https://sonyeventsglobal.akamaized.net/hls/live/2022322/DAI18-WFML/master.m3u8?hdnea=exp=1785106231~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=33e2c4592a7f4f8914f443441e7a5285e2373590564f5c5c8c7d14c841b9d729
