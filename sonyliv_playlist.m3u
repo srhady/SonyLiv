@@ -2,18 +2,18 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 01:20:24 AM 27-07-2026
+# last_update: 01:50:23 AM 27-07-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090536385" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021051/1785019480396337_CWG_WEIGHTLIFTING_Raja_Muthupandi_landscape_thumb.jpg" group-title="Weightlifting", Men's 65kg - Weightlifting - 26 Jul 2026 | Glasgow 2026 Commonwealth Games
-https://sonydaimenew.akamaized.net/hls/live/20000391/CWG_Stre2607/ENG/master.m3u8?hdnea=exp=1785100832~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=9b5309233d0d52068485e864e9c46dbb2997585b2f756cdddf2889d9ca536632
-
-#EXTINF:-1 tvg-id="sonyliv-1090536386" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536386/thumbnail/1785089675222_1784647659853819_CWG26_Boxing_pictogram_thumbnail.jpg" group-title="Boxing", Sumama Rehman vs Jadumani Singh Mandengbam - Men's 55kg - Boxing - 26 Jul 2026 | Glasgow 2026 Commonwealth Games
-https://sonydaimenew.akamaized.net/hls/live/20000392/CWG_Stre2607/ENG/master.m3u8?hdnea=exp=1785104433~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=9315c36eb5babe02c0f64294cc305e738c7787db021525609fb59a4fa01cfa88
+https://sonydaimenew.akamaized.net/hls/live/20000391/CWG_Stre2607/ENG/master.m3u8?hdnea=exp=1785117028~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=a1381a38311dab4394e59428a7792e50a26119673e0586f498cf1bce97c4deb9
 
 #EXTINF:-1 tvg-id="sonyliv-1090536387" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536387/thumbnail/1785085676587_1784647785497819_CWG26_Gymnastics_pictogram_thumbnail.jpg" group-title="Gymnastics", Women's All-Around - Gymnastics - 26 Jul 2026 | Glasgow 2026 Commonwealth Games
 https://sonydaimenew.akamaized.net/hls/live/20000393/CWG_Stre2607/ENG/master.m3u8?hdnea=exp=1785108043~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=1f10e7bd3c6d7487e215f5033db5db9ab1166bd3539f1e95c75b8e453fab9d21
 
-#EXTINF:-1 tvg-id="sonyliv-1090536268" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/thumbnail/1785090631104_1784647612769819_CWG26_Aquatics_pictogram_thumbnail.jpg" group-title="Aquatics", Men's 100m Butterfly - Aquatics - 26 Jul 2026 | Glasgow 2026 Commonwealth Games
+#EXTINF:-1 tvg-id="sonyliv-1090536386" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536386/thumbnail/1785089675222_1784647659853819_CWG26_Boxing_pictogram_thumbnail.jpg" group-title="Boxing", Boxing - 26 Jul 2026 | Glasgow 2026 Commonwealth Games
+https://sonydaimenew.akamaized.net/hls/live/20000392/CWG_Stre2607/ENG/master.m3u8?hdnea=exp=1785104433~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=9315c36eb5babe02c0f64294cc305e738c7787db021525609fb59a4fa01cfa88
+
+#EXTINF:-1 tvg-id="sonyliv-1090536268" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/thumbnail/1785090631104_1784647612769819_CWG26_Aquatics_pictogram_thumbnail.jpg" group-title="Aquatics", Aquatics - 26 Jul 2026 | Glasgow 2026 Commonwealth Games
 https://sonydaimenew.akamaized.net/hls/live/20000385/CWG_Stre2607/ENG/master.m3u8?hdnea=exp=1785111629~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=ec2b4a38fa089ddb419da0f5ecae6aff3a359777ae896dfcb2b632682bcaad3d
 
 #EXTINF:-1 tvg-id="sonyliv-1090537310" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020770/1784662637526499_The_Hundred2026_mens_Trent_Rockets_vs_London_Spirit_21jul_landscape_thumb.jpg" group-title="Cricket", Trent Rockets vs London Spirit - 26 Jul 2026 | The Hundred 2026
