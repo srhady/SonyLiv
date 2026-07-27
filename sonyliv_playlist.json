@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "01:50:23 PM 27-07-2026"
+        "last_update": "02:20:24 PM 27-07-2026"
     },
     "live_matches": [
         {
@@ -21,7 +21,7 @@
                 "isCopyProtected": false,
                 "contractStartDate": 1785136800000,
                 "contractEndDate": 1785205200000,
-                "episodeTitle": "Men's 71kg - Weightlifting - 27 July 2026",
+                "episodeTitle": "Men's 71kg - Weightlifting - 27 Jul 2026",
                 "genres": [
                     "Weightlifting"
                 ],
@@ -35,6 +35,7 @@
                 "isGeoBlocked": false,
                 "advertisingInfoList": [],
                 "emfAttributes": {
+                    "venue_name": "SEC Armadillo",
                     "region_of_origin": "English",
                     "svod_advertising": "true",
                     "audio_languages": "ENG",
@@ -49,7 +50,7 @@
                     "advertising": "AD SUPPORTED",
                     "isdvr": "No",
                     "emaAttributes": {},
-                    "tv_background_image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784647447699819_CWG26_Weightlifting_pictogram_tv_bg.jpg",
+                    "tv_background_image": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/tvBackgroundImage/1785140106960_1784647447699819_CWG26_Weightlifting_pictogram_tv_bg.jpg",
                     "U": "IN",
                     "country_rating": {
                         "U": "IN",
@@ -57,15 +58,15 @@
                     },
                     "3+": "BD,NP,LK,PK,AF,BT,MV",
                     "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020251/178291361564192_Commonwealth_Games_2026_GOB_Masthead_logo.png",
-                    "player_name": "Kaimauri Erati, Felevaa Tafi, Zach Snyman, Sandu Duthshan Jayawardha A Krunarathna C, Dimitris Minasidis, Apakuki Tabuwaiwai Wakanibua, Mohammad Nashrul Bin Haji Abu Bakar, Favour Omovigho Agboro, Morea Baru, Raja Muthupandi, Aznil Bin Bidin Muhamad",
+                    "player_name": "Ezekiel Moses, Matt Darsigny, Kester Loy, Harrison McGrogan, Jonathan Chin, John Lautafi Tafi, Corey Duncan, Edidiong Joseph Umoafia, Emmanuel Boateng, Indika Dissanayake Mudiyanselage",
                     "value": "SVOD",
                     "is_audio_desc_available": false,
-                    "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784647477192819_CWG26_Weightlifting_pictogram_thumbnail.jpg",
+                    "venue_id": "75",
+                    "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/thumbnail/1785140106858_1784647477192819_CWG26_Weightlifting_pictogram_thumbnail.jpg",
                     "variant_asset_languages": [],
-                    "broadcast_channel_hin": "लिव",
                     "ad_cluster_id": "ad_cluster_1",
                     "live_label_display": true,
-                    "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784637594434819_CWG26_Weightlifting_pictogram_portrait_thumb.jpg",
+                    "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/portraitThumb/1785140106647_1784637594434819_CWG26_Weightlifting_pictogram_portrait_thumb.jpg",
                     "isSponsorAdAvailable": "true",
                     "dai_asset_key": "pGJnk1s2SwyeM8pq_uT2_A",
                     "seo_tags": "Glasgow 2026 Commonwealth Games,Glasgow 2026,CWG 2026,Commonwealth Games 2026,Glasgow 2026 India squad,Indian athletes Commonwealth Games 2026,CWG 2026 India schedule,India at Glasgow 2026,Neeraj Chopra Glasgow 2026,Mirabai Chanu CWG 2026,Lovlina Borgohain Commonwealth Games,Praveen Chithravel triple jump Glasgow,Murali Sreeshankar CWG 2026,Parul Chaudhary Commonwealth Games,Pranati Nayak gymnastics Glasgow 2026,Rohit Yadav javelin CWG,Preeti Pawar boxing Glasgow,India medal contenders CWG 2026,Commonwealth Games 2026 live streaming India,Glasgow 2026 sports list,Indian weightlifting team CWG 2026,Indian athletics squad Glasgow 2026,Neeraj Chopra,Mirabai Chanu,Lovlina Borgohain,Praveen Chithravel,Murali Sreeshankar,Parul Chaudhary,Pranati Nayak,Rohit Yadav,Preeti Pawar",
@@ -74,7 +75,7 @@
                     "SVOD_countries": "_in,_bd,_np,_mv,_bt,_lk,_af,_pk",
                     "is_subtitle_cc_available": false,
                     "ssai_partners": "Google DAI",
-                    "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784647477192819_CWG26_Weightlifting_pictogram_thumbnail.jpg",
+                    "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/landscapeThumb/1785140106783_1784647474588819_CWG26_Weightlifting_pictogram_landscape_thumb.jpg",
                     "audio_language_list": [
                         {
                             "lang_code": "ENG",
@@ -85,6 +86,7 @@
                     "sub_license": "No",
                     "is_auto_play_trailer": true,
                     "integrated_splash_available": "Yes",
+                    "matchid": "",
                     "isDVR": false,
                     "isTimeLineMarker": false,
                     "isDownloadable": false,
