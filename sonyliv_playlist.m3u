@@ -2,18 +2,18 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 11:50:32 PM 27-07-2026
+# last_update: 12:20:27 AM 28-07-2026
 
-#EXTINF:-1 tvg-id="sonyliv-1090536387" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536387/thumbnail/1785174354286_1784647659853819_CWG26_Boxing_pictogram_thumbnail.jpg" group-title="Boxing", Mukelo Mncobi Dlamini vs Albert Ngulube - Men's 60kg - Boxing - 27 Jul 2026 | Glasgow 2026 Commonwealth Games
-https://sonydaimenew.akamaized.net/hls/live/20000388/CWG_Stre2707/ENG/master.m3u8?hdnea=exp=1785181848~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=b134c73f10eb41281c9d9afc1ec5200b7c29c7afa7cfe73d77bb9e42b6a83348
+#EXTINF:-1 tvg-id="sonyliv-1090536387" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536387/thumbnail/1785176271547_1784647659853819_CWG26_Boxing_pictogram_thumbnail.jpg" group-title="Boxing", Md Ruhin Reza vs Tryagain Morning Ndevelo - Men's 60kg - Boxing - 27 Jul 2026 | Glasgow 2026 Commonwealth Games
+https://sonydaimenew.akamaized.net/hls/live/20000388/CWG_Stre2707/ENG/master.m3u8?hdnea=exp=1785198031~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=327b6fb3c301256ccd6a0a81297cdfed2d28739d18acee6779622764d89ad526
 
 #EXTINF:-1 tvg-id="sonyliv-1090536268" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/thumbnail/1785173128209_1784647626419819_CWG26_Athletics_pictogram_thumbnail.jpg" group-title="Athletics", Men's High Jump - Athletics - 27 Jul 2026 | Glasgow 2026 Commonwealth Games
-https://sonydaimenew.akamaized.net/hls/live/20000291/CWG_Day42707/ENG/master.m3u8?hdnea=exp=1785181836~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=078efef4e750243cd9331f0eb3d1bee89ed579a4ce3e7550ba65df59d21d58d0
+https://sonydaimenew.akamaized.net/hls/live/20000291/CWG_Day42707/ENG/master.m3u8?hdnea=exp=1785198038~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=1e36401db97c2691dac5bf22e95b62c4d7f886fdb17cd7b61eae06cdd52b5e75
 
-#EXTINF:-1 tvg-id="sonyliv-1090536386" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536386/thumbnail/1785169722079_1784647162182819_CWG26_Bowls_and_Para_Bowls_pictogram_thumbnail.jpg" group-title="Bowls and Para Bowls", Frederrick Tafatu vs Harriman Yuen - Men's Singles - Bowls and Para Bowls - 27 Jul 2026 | Glasgow 2026 Commonwealth Games
-https://sonydaimenew.akamaized.net/hls/live/20000376/CWG_Stre2707/ENG/master.m3u8?hdnea=exp=1785181862~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=d35952568ab82def49cbe1a9dcf6307fa10527b64e838088aac11ca93c13ac9f
+#EXTINF:-1 tvg-id="sonyliv-1090536386" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536386/thumbnail/1785176143251_1784647626419819_CWG26_Athletics_pictogram_thumbnail.jpg" group-title="Athletics", Women's 800m - Athletics - 27 Jul 2026 | Glasgow 2026 Commonwealth Games
+https://sonydaimenew.akamaized.net/hls/live/20000376/CWG_Stre2707/ENG/master.m3u8?hdnea=exp=1785198049~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=3aa0d77206cdb5d5a69d58545b95294630e322c021f203fe8f887ff823913422
 
-#EXTINF:-1 tvg-id="sonyliv-1090536385" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/thumbnail/1785173842310_1784647646298819_CWG26_Basketball_pictogram_thumbnail.jpg" group-title="Basketball", England vs Tonga - Women - Basketball - 27 Jul 2026 | Glasgow 2026 Commonwealth Games
+#EXTINF:-1 tvg-id="sonyliv-1090536385" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/thumbnail/1785175457278_1784647646298819_CWG26_Basketball_pictogram_thumbnail.jpg" group-title="Basketball", Kenya vs Fiji - Men - Basketball - 27 Jul 2026 | Glasgow 2026 Commonwealth Games
 https://sonydaimenew.akamaized.net/hls/live/20000301/CWG_Stre2707/ENG/master.m3u8?hdnea=exp=1785190831~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=84b77c3d0c631f2d3ba439eedd86c9d8c23c29e4098b1744ab29bb634f101233
 
 #EXTINF:-1 tvg-id="sonyliv-1090537415" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020826/1784747387614115_The_Hundred2026_mens_Southern_Brave_vs_MI_London_landscape_thumb.jpg" group-title="Cricket", Southern Brave vs MI London - 27 Jul 2026 | The Hundred 2026

@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "11:50:32 PM 27-07-2026"
+        "last_update": "12:20:27 AM 28-07-2026"
     },
     "live_matches": [
         {
@@ -21,7 +21,7 @@
                 "isCopyProtected": false,
                 "contractStartDate": 1785142200000,
                 "contractEndDate": 1785210600000,
-                "episodeTitle": "Mukelo Mncobi Dlamini vs Albert Ngulube - Men's 60kg - Boxing - 27 Jul 2026",
+                "episodeTitle": "Md Ruhin Reza vs Tryagain Morning Ndevelo - Men's 60kg - Boxing - 27 Jul 2026",
                 "genres": [
                     "Boxing"
                 ],
@@ -50,7 +50,7 @@
                     "advertising": "AD SUPPORTED",
                     "isdvr": "No",
                     "emaAttributes": {},
-                    "tv_background_image": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536387/tvBackgroundImage/1785174354363_1784648168177819_CWG26_Boxing_pictogram_tv_bg.jpg",
+                    "tv_background_image": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536387/tvBackgroundImage/1785176271634_1784648168177819_CWG26_Boxing_pictogram_tv_bg.jpg",
                     "granular_access_configs": true,
                     "U": "IN",
                     "country_rating": {
@@ -59,15 +59,15 @@
                     },
                     "3+": "BD,NP,LK,PK,AF,BT,MV",
                     "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020251/178291361564192_Commonwealth_Games_2026_GOB_Masthead_logo.png",
-                    "player_name": "Mukelo Mncobi Dlamini, Albert Ngulube",
+                    "player_name": "Md Ruhin Reza, Tryagain Morning Ndevelo",
                     "value": "SVOD",
                     "is_audio_desc_available": false,
                     "venue_id": "74",
-                    "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536387/thumbnail/1785174354286_1784647659853819_CWG26_Boxing_pictogram_thumbnail.jpg",
+                    "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536387/thumbnail/1785176271547_1784647659853819_CWG26_Boxing_pictogram_thumbnail.jpg",
                     "variant_asset_languages": [],
                     "ad_cluster_id": "ad_cluster_1",
                     "live_label_display": true,
-                    "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536387/portraitThumb/1785174354113_1784636551144819_CWG26_Boxing_pictogram_portrait_thumb.jpg",
+                    "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536387/portraitThumb/1785176271316_1784636551144819_CWG26_Boxing_pictogram_portrait_thumb.jpg",
                     "isSponsorAdAvailable": "true",
                     "dai_asset_key": "UKiUA0aFQROkIxGC-UjBzw",
                     "seo_tags": "Glasgow 2026 Commonwealth Games,Glasgow 2026,CWG 2026,Commonwealth Games 2026,Glasgow 2026 India squad,Indian athletes Commonwealth Games 2026,CWG 2026 India schedule,India at Glasgow 2026,Neeraj Chopra Glasgow 2026,Mirabai Chanu CWG 2026,Lovlina Borgohain Commonwealth Games,Praveen Chithravel triple jump Glasgow,Murali Sreeshankar CWG 2026,Parul Chaudhary Commonwealth Games,Pranati Nayak gymnastics Glasgow 2026,Rohit Yadav javelin CWG,Preeti Pawar boxing Glasgow,India medal contenders CWG 2026,Commonwealth Games 2026 live streaming India,Glasgow 2026 sports list,Indian weightlifting team CWG 2026,Indian athletics squad Glasgow 2026,Neeraj Chopra,Mirabai Chanu,Lovlina Borgohain,Praveen Chithravel,Murali Sreeshankar,Parul Chaudhary,Pranati Nayak,Rohit Yadav,Preeti Pawar",
@@ -76,7 +76,7 @@
                     "SVOD_countries": "_in,_bd,_np,_mv,_bt,_lk,_af,_pk",
                     "is_subtitle_cc_available": false,
                     "ssai_partners": "Google DAI",
-                    "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536387/landscapeThumb/1785174354220_1784647663933819_CWG26_Boxing_pictogram_landscape_thumb.jpg",
+                    "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536387/landscapeThumb/1785176271449_1784647663933819_CWG26_Boxing_pictogram_landscape_thumb.jpg",
                     "audio_language_list": [
                         {
                             "lang_code": "ENG",
@@ -115,7 +115,7 @@
                 "resultObj": {
                     "showPlayerStats": false,
                     "is_preview_enabled": false,
-                    "videoURL": "https://sonydaimenew.akamaized.net/hls/live/20000388/CWG_Stre2707/ENG/master.m3u8?hdnea=exp=1785181848~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=b134c73f10eb41281c9d9afc1ec5200b7c29c7afa7cfe73d77bb9e42b6a83348",
+                    "videoURL": "https://sonydaimenew.akamaized.net/hls/live/20000388/CWG_Stre2707/ENG/master.m3u8?hdnea=exp=1785198031~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=327b6fb3c301256ccd6a0a81297cdfed2d28739d18acee6779622764d89ad526",
                     "multiLanguageVideoURL": [],
                     "audioLanguages": [
                         {
@@ -211,7 +211,7 @@
                     "multiAudioTrack": true,
                     "packId": "liv_premium_GP_1m"
                 },
-                "systemTime": 1785160248425
+                "systemTime": 1785176431475
             }
         },
         {
@@ -325,7 +325,7 @@
                 "resultObj": {
                     "showPlayerStats": false,
                     "is_preview_enabled": false,
-                    "videoURL": "https://sonydaimenew.akamaized.net/hls/live/20000291/CWG_Day42707/ENG/master.m3u8?hdnea=exp=1785181836~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=078efef4e750243cd9331f0eb3d1bee89ed579a4ce3e7550ba65df59d21d58d0",
+                    "videoURL": "https://sonydaimenew.akamaized.net/hls/live/20000291/CWG_Day42707/ENG/master.m3u8?hdnea=exp=1785198038~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=1e36401db97c2691dac5bf22e95b62c4d7f886fdb17cd7b61eae06cdd52b5e75",
                     "multiLanguageVideoURL": [],
                     "audioLanguages": [
                         {
@@ -421,7 +421,7 @@
                     "multiAudioTrack": true,
                     "packId": "liv_premium_GP_1m"
                 },
-                "systemTime": 1785160236415
+                "systemTime": 1785176438002
             }
         },
         {
@@ -434,14 +434,14 @@
                 "contentType": "VOD",
                 "contentSubtype": "LIVE_SPORT",
                 "title": "Glasgow 2026 Commonwealth Games",
-                "longDescription": "Watch all the exclusive action from the Bowls and Para Bowls in the Men's Singles, LIVE on Sony LIV.",
-                "shortDescription": "Watch all the exclusive action from the Bowls and Para Bowls in the Men's Singles, LIVE on Sony LIV.",
+                "longDescription": "Watch all the exclusive action from the Athletics in the Women's 800m, LIVE on Sony LIV.",
+                "shortDescription": "Watch all the exclusive action from the Athletics in the Women's 800m, LIVE on Sony LIV.",
                 "isCopyProtected": false,
                 "contractStartDate": 1785142200000,
                 "contractEndDate": 1785210600000,
-                "episodeTitle": "Frederrick Tafatu vs Harriman Yuen - Men's Singles - Bowls and Para Bowls - 27 Jul 2026",
+                "episodeTitle": "Women's 800m - Athletics - 27 Jul 2026",
                 "genres": [
-                    "Bowls and Para Bowls"
+                    "Athletics"
                 ],
                 "originalAirDate": 1785144000000,
                 "pcExtendedRatings": [],
@@ -453,7 +453,7 @@
                 "isGeoBlocked": false,
                 "advertisingInfoList": [],
                 "emfAttributes": {
-                    "venue_name": "SEC Hall 3 - Rink 4",
+                    "venue_name": "Track",
                     "region_of_origin": "English",
                     "svod_advertising": "true",
                     "audio_languages": "ENG",
@@ -468,7 +468,7 @@
                     "advertising": "AD SUPPORTED",
                     "isdvr": "No",
                     "emaAttributes": {},
-                    "tv_background_image": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536386/tvBackgroundImage/1785169722162_1784647341457819_CWG26_Bowls_and_Para_Bowls_pictogram_tv_bg.jpg",
+                    "tv_background_image": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536386/tvBackgroundImage/1785176143335_1784648226268819_CWG26_Athletics_pictogram_tv_bg.jpg",
                     "granular_access_configs": true,
                     "U": "IN",
                     "country_rating": {
@@ -477,16 +477,15 @@
                     },
                     "3+": "BD,NP,LK,PK,AF,BT,MV",
                     "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020251/178291361564192_Commonwealth_Games_2026_GOB_Masthead_logo.png",
-                    "player_name": "Frederrick Tafatu, Harriman Yuen",
+                    "player_name": "Oratile Nowe, Jane Kargbo, Fasuhaa Ahmed, Sarah Billings, Adelle Tracey, Janet Jepkemoi, Aaliyah Moore, Manqabang Tsibela",
                     "value": "SVOD",
                     "is_audio_desc_available": false,
-                    "venue_id": "69",
-                    "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536386/thumbnail/1785169722079_1784647162182819_CWG26_Bowls_and_Para_Bowls_pictogram_thumbnail.jpg",
+                    "venue_id": "40",
+                    "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536386/thumbnail/1785176143251_1784647626419819_CWG26_Athletics_pictogram_thumbnail.jpg",
                     "variant_asset_languages": [],
-                    "broadcast_channel_hin": "लिव",
                     "ad_cluster_id": "ad_cluster_1",
                     "live_label_display": true,
-                    "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536386/portraitThumb/1785169721896_1784635752092819_CWG26_Bowls_and_Para_Bowls_pictogram_portrait_thumb.jpg",
+                    "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536386/portraitThumb/1785176143067_1784635109073819_CWG26_Athletics_pictogram_portrait_thumb.jpg",
                     "isSponsorAdAvailable": "true",
                     "dai_asset_key": "_vGwQq9wQvW5ZbCYwvDhJw",
                     "seo_tags": "Glasgow 2026 Commonwealth Games,Glasgow 2026,CWG 2026,Commonwealth Games 2026,Glasgow 2026 India squad,Indian athletes Commonwealth Games 2026,CWG 2026 India schedule,India at Glasgow 2026,Neeraj Chopra Glasgow 2026,Mirabai Chanu CWG 2026,Lovlina Borgohain Commonwealth Games,Praveen Chithravel triple jump Glasgow,Murali Sreeshankar CWG 2026,Parul Chaudhary Commonwealth Games,Pranati Nayak gymnastics Glasgow 2026,Rohit Yadav javelin CWG,Preeti Pawar boxing Glasgow,India medal contenders CWG 2026,Commonwealth Games 2026 live streaming India,Glasgow 2026 sports list,Indian weightlifting team CWG 2026,Indian athletics squad Glasgow 2026,Neeraj Chopra,Mirabai Chanu,Lovlina Borgohain,Praveen Chithravel,Murali Sreeshankar,Parul Chaudhary,Pranati Nayak,Rohit Yadav,Preeti Pawar",
@@ -495,7 +494,7 @@
                     "SVOD_countries": "_in,_bd,_np,_mv,_bt,_lk,_af,_pk",
                     "is_subtitle_cc_available": false,
                     "ssai_partners": "Google DAI",
-                    "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536386/landscapeThumb/1785169722002_1784647154993819_CWG26_Bowls_and_Para_Bowls_pictogram_landscape_thumb.jpg",
+                    "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536386/landscapeThumb/1785176143179_1784647629918819_CWG26_Athletics_pictogram_landscape_thumb.jpg",
                     "audio_language_list": [
                         {
                             "lang_code": "ENG",
@@ -534,7 +533,7 @@
                 "resultObj": {
                     "showPlayerStats": false,
                     "is_preview_enabled": false,
-                    "videoURL": "https://sonydaimenew.akamaized.net/hls/live/20000376/CWG_Stre2707/ENG/master.m3u8?hdnea=exp=1785181862~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=d35952568ab82def49cbe1a9dcf6307fa10527b64e838088aac11ca93c13ac9f",
+                    "videoURL": "https://sonydaimenew.akamaized.net/hls/live/20000376/CWG_Stre2707/ENG/master.m3u8?hdnea=exp=1785198049~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=3aa0d77206cdb5d5a69d58545b95294630e322c021f203fe8f887ff823913422",
                     "multiLanguageVideoURL": [],
                     "audioLanguages": [
                         {
@@ -630,7 +629,7 @@
                     "multiAudioTrack": true,
                     "packId": "liv_premium_GP_1m"
                 },
-                "systemTime": 1785160262127
+                "systemTime": 1785176449008
             }
         },
         {
@@ -643,12 +642,12 @@
                 "contentType": "VOD",
                 "contentSubtype": "LIVE_SPORT",
                 "title": "Glasgow 2026 Commonwealth Games",
-                "longDescription": "Watch all the exclusive action from the Basketball in the Women, LIVE on Sony LIV.",
-                "shortDescription": "Watch all the exclusive action from the Basketball in the Women, LIVE on Sony LIV.",
+                "longDescription": "Watch all the exclusive action from the Basketball in the Men, LIVE on Sony LIV.",
+                "shortDescription": "Watch all the exclusive action from the Basketball in the Men, LIVE on Sony LIV.",
                 "isCopyProtected": false,
                 "contractStartDate": 1785136800000,
                 "contractEndDate": 1785205200000,
-                "episodeTitle": "England vs Tonga - Women - Basketball - 27 Jul 2026",
+                "episodeTitle": "Kenya vs Fiji - Men - Basketball - 27 Jul 2026",
                 "genres": [
                     "Basketball"
                 ],
@@ -677,7 +676,7 @@
                     "advertising": "AD SUPPORTED",
                     "isdvr": "No",
                     "emaAttributes": {},
-                    "tv_background_image": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/tvBackgroundImage/1785173842389_1784648201229819_CWG26_Basketball_pictogram_tv_bg.jpg",
+                    "tv_background_image": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/tvBackgroundImage/1785175457378_1784648201229819_CWG26_Basketball_pictogram_tv_bg.jpg",
                     "granular_access_configs": true,
                     "U": "IN",
                     "country_rating": {
@@ -689,21 +688,21 @@
                     "value": "SVOD",
                     "is_audio_desc_available": false,
                     "venue_id": "73",
-                    "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/thumbnail/1785173842310_1784647646298819_CWG26_Basketball_pictogram_thumbnail.jpg",
+                    "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/thumbnail/1785175457278_1784647646298819_CWG26_Basketball_pictogram_thumbnail.jpg",
                     "variant_asset_languages": [],
                     "ad_cluster_id": "ad_cluster_1",
                     "live_label_display": true,
-                    "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/portraitThumb/1785173842111_1784635657297819_CWG26_Basketball_pictogram_portrait_thumb.jpg",
+                    "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/portraitThumb/1785175456946_1784635657297819_CWG26_Basketball_pictogram_portrait_thumb.jpg",
                     "isSponsorAdAvailable": "true",
                     "dai_asset_key": "pGJnk1s2SwyeM8pq_uT2_A",
-                    "team": "England, Tonga",
+                    "team": "Kenya, Fiji",
                     "seo_tags": "Glasgow 2026 Commonwealth Games,Glasgow 2026,CWG 2026,Commonwealth Games 2026,Glasgow 2026 India squad,Indian athletes Commonwealth Games 2026,CWG 2026 India schedule,India at Glasgow 2026,Neeraj Chopra Glasgow 2026,Mirabai Chanu CWG 2026,Lovlina Borgohain Commonwealth Games,Praveen Chithravel triple jump Glasgow,Murali Sreeshankar CWG 2026,Parul Chaudhary Commonwealth Games,Pranati Nayak gymnastics Glasgow 2026,Rohit Yadav javelin CWG,Preeti Pawar boxing Glasgow,India medal contenders CWG 2026,Commonwealth Games 2026 live streaming India,Glasgow 2026 sports list,Indian weightlifting team CWG 2026,Indian athletics squad Glasgow 2026,Neeraj Chopra,Mirabai Chanu,Lovlina Borgohain,Praveen Chithravel,Murali Sreeshankar,Parul Chaudhary,Pranati Nayak,Rohit Yadav,Preeti Pawar",
                     "Free_countries": "",
                     "overlay_visibility": "0",
                     "SVOD_countries": "_in,_bd,_np,_mv,_bt,_lk,_af,_pk",
                     "is_subtitle_cc_available": false,
                     "ssai_partners": "Google DAI",
-                    "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/landscapeThumb/1785173842224_1784647649647819_CWG26_Basketball_pictogram_landscape_thumb.jpg",
+                    "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/landscapeThumb/1785175457184_1784647649647819_CWG26_Basketball_pictogram_landscape_thumb.jpg",
                     "audio_language_list": [
                         {
                             "lang_code": "ENG",
