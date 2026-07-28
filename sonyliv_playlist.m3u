@@ -2,12 +2,12 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 02:20:30 AM 29-07-2026
+# last_update: 02:50:27 AM 29-07-2026
 
-#EXTINF:-1 tvg-id="sonyliv-1090536268" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/thumbnail/1785269890710_1784647626419819_CWG26_Athletics_pictogram_thumbnail.jpg" group-title="Athletics", Men's 100m - Athletics - 28 Jul 2026 | Glasgow 2026 Commonwealth Games
+#EXTINF:-1 tvg-id="sonyliv-1090536268" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/thumbnail/1785271224892_1784647626419819_CWG26_Athletics_pictogram_thumbnail.jpg" group-title="Athletics", Women's 100m - Athletics - 28 Jul 2026 | Glasgow 2026 Commonwealth Games
 https://sonydaimenew.akamaized.net/hls/live/20000298/CWG_Stre2807/ENG/master.m3u8?hdnea=exp=1785280836~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=ff086bcd8dabcf1722164011f3afe1dd81adac5ee0f4ea7116345c40582f1d1b
 
-#EXTINF:-1 tvg-id="sonyliv-1090536385" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021200/1785182775423682_CWG_Boxing_QF_Kapil_Pokhariya_vs_Robert_McNulty_landscape_thumb.jpg" group-title="Boxing", Kapil Pokhariya vs Robert McNulty - Men's 90kg - Boxing - 28 Jul 2026 | Glasgow 2026 Commonwealth Games
+#EXTINF:-1 tvg-id="sonyliv-1090536385" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021229/1785221211017698_CWG_Bowls_and_Para_Bowls_Wales-V-India_landscape_thumb.jpg" group-title="Bowls and Para Bowls", Wales vs India - Bowls And Para Bowl - 28 Jul 2026 | Glasgow 2026 Commonwealth Games
 https://sonydaimenew.akamaized.net/hls/live/20000291/CWG_Stre2807/ENG/master.m3u8?hdnea=exp=1785277248~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=8ff9bdfbf931115832304a09527ed551f30287bec8322105bd8abb6f1f3459a3
 
 #EXTINF:-1 tvg-id="sonyliv-1090536386" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784647612769819_CWG26_Aquatics_pictogram_thumbnail.jpg" group-title="Aquatics", Aquatics - 28 Jul 2026 | Glasgow 2026 Commonwealth Games
@@ -15,6 +15,3 @@ https://sonydaimenew.akamaized.net/hls/live/20000389/CWG_Stre2807/ENG/master.m3u
 
 #EXTINF:-1 tvg-id="sonyliv-1090536387" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784647629918819_CWG26_Athletics_pictogram_landscape_thumb.jpg" group-title="Athletics", Athletics - 28 Jul 2026 | Glasgow 2026 Commonwealth Games
 https://sonydaimenew.akamaized.net/hls/live/20000301/CWG_Stre2807/ENG/master.m3u8?hdnea=exp=1785277239~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=895598e0a6572d7082de0e9549f626697295ff201a3564167f42f7c4f2ed2f7c
-
-#EXTINF:-1 tvg-id="sonyliv-1090537543" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020826/1784749613055115_The_Hundred2026_mens_Sunrisers_Leeds_vs_Manchester_Super_Giants_landscape_thumb.jpg" group-title="Cricket", Sunrisers Leeds vs Manchester Super Giants - 28 Jul 2026 | The Hundred 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2022322/DAI18-HMEN/master.m3u8?hdnea=exp=1785286235~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=ae01c7467cd5d04a860705d53e0f2c6d105d725b30ae958f2dc08a2d846a2d6a
