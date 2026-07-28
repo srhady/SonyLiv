@@ -2,16 +2,19 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 04:20:31 PM 28-07-2026
+# last_update: 05:20:28 PM 28-07-2026
 
-#EXTINF:-1 tvg-id="sonyliv-1090536385" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/thumbnail/1785228305745_1784647477192819_CWG26_Weightlifting_pictogram_thumbnail.jpg" group-title="Weightlifting", Men's 88kg - Weightlifting - 28 Jul 2026 | Glasgow 2026 Commonwealth Games
+#EXTINF:-1 tvg-id="sonyliv-1090537552" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021138/1785108351871195_DC26_TrauFC_vs_NerocaFC_27jul_landscape.jpg" group-title="Football", Trau FC vs Neroca FC - 28 Jul 2026 | IndianOil Durand Cup 2026
+https://sonydaimenew.akamaized.net/hls/live/20000295/Football2807/ENG/master.m3u8?hdnea=exp=1785259233~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=f99cc29ca10f3d166aae9481547c75413427c897d773ba8316faaf28cfa9a753
+
+#EXTINF:-1 tvg-id="sonyliv-1090536385" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/thumbnail/1785237141411_1784647659853819_CWG26_Boxing_pictogram_thumbnail.jpg" group-title="Boxing", Scarlett Savannah Delgado vs Greer Hall - Women's 54kg - Boxing - 28 Jul 2026 | Glasgow 2026 Commonwealth Games
 https://sonydaimenew.akamaized.net/hls/live/20000291/CWG_Stre2807/ENG/master.m3u8?hdnea=exp=1785246629~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=1838a7aa6009f1a2e604f73ac445dd8cb1c7eabed5a33e4531224fc92e03a586
 
-#EXTINF:-1 tvg-id="sonyliv-1090536386" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536386/thumbnail/1785233910282_1784647612769819_CWG26_Aquatics_pictogram_thumbnail.jpg" group-title="Aquatics", Women's 50m Freestyle - Aquatics - 28 Jul 2026 | Glasgow 2026 Commonwealth Games
+#EXTINF:-1 tvg-id="sonyliv-1090536386" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536386/thumbnail/1785237488558_1784647612769819_CWG26_Aquatics_pictogram_thumbnail.jpg" group-title="Aquatics", Men's 100m Backstroke - Aquatics - 28 Jul 2026 | Glasgow 2026 Commonwealth Games
 https://sonydaimenew.akamaized.net/hls/live/20000389/CWG_Stre2807/ENG/master.m3u8?hdnea=exp=1785250239~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=bf128efb80584e7ec189dfcf86883c5bd8360adb7e28cf20aa4753a8e2e3f763
 
-#EXTINF:-1 tvg-id="sonyliv-1090536268" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/thumbnail/1785233791192_1784647626419819_CWG26_Athletics_pictogram_thumbnail.jpg" group-title="Athletics", Men's 800m - Athletics - 28 Jul 2026 | Glasgow 2026 Commonwealth Games
+#EXTINF:-1 tvg-id="sonyliv-1090536268" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/thumbnail/1785237397827_1784647626419819_CWG26_Athletics_pictogram_thumbnail.jpg" group-title="Athletics", Men's 400m - Athletics - 28 Jul 2026 | Glasgow 2026 Commonwealth Games
 https://sonydaimenew.akamaized.net/hls/live/20000298/CWG_Stre2807/ENG/master.m3u8?hdnea=exp=1785250231~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=c0fd44664d98f8f77d6045d59b4e6085301a209acf606c30fd507305a0d77db9
 
-#EXTINF:-1 tvg-id="sonyliv-1090536387" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536387/thumbnail/1785230589419_1784647162182819_CWG26_Bowls_and_Para_Bowls_pictogram_thumbnail.jpg" group-title="Bowls and Para Bowls", Malaysia vs England - Women's Pairs - Bowls and Para Bowls - 28 Jul 2026 | Glasgow 2026 Commonwealth Games
+#EXTINF:-1 tvg-id="sonyliv-1090536387" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536387/thumbnail/1785235502103_1784647162182819_CWG26_Bowls_and_Para_Bowls_pictogram_thumbnail.jpg" group-title="Bowls and Para Bowls", Izzat Shameer Dzulkeple vs Sam Tolchard - Men's Singles - Bowls and Para Bowls - 28 Jul 2026 | Glasgow 2026 Commonwealth Games
 https://sonydaimenew.akamaized.net/hls/live/20000301/CWG_Stre2807/ENG/master.m3u8?hdnea=exp=1785246637~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=396f00c6a6b710a29b6f138744e36120c062246ab6e6987399a51b8f9d859657
