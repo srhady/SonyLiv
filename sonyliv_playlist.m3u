@@ -2,15 +2,12 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 07:20:27 PM 28-07-2026
+# last_update: 07:50:33 PM 28-07-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090537561" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020976/1784903883728198_Durand_cup_26_South-United-FC-vs-CISF-Protectors_landscape.jpg" group-title="Football", South United FC vs CISF Protectors  - 28 Jul 2026 | IndianOil Durand Cup 2026
 https://sonydaimenew.akamaized.net/hls/live/20000292/South_Un2807/ENG/master.m3u8?hdnea=exp=1785266432~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=1523895ab94e51ee55b718bf547843742d40aae7d56e38740fd9f5c9886dd37b
 
-#EXTINF:-1 tvg-id="sonyliv-1090537552" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021138/1785108351871195_DC26_TrauFC_vs_NerocaFC_27jul_landscape.jpg" group-title="Football", Trau FC vs Neroca FC - 28 Jul 2026 | IndianOil Durand Cup 2026
-https://sonydaimenew.akamaized.net/hls/live/20000295/Football2807/ENG/master.m3u8?hdnea=exp=1785259233~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=f99cc29ca10f3d166aae9481547c75413427c897d773ba8316faaf28cfa9a753
-
-#EXTINF:-1 tvg-id="sonyliv-1090536385" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/thumbnail/1785244112526_1784647659853819_CWG26_Boxing_pictogram_thumbnail.jpg" group-title="Boxing", Gabriel Labrie vs Jacob Cassar - Men's 65kg - Boxing - 28 Jul 2026 | Glasgow 2026 Commonwealth Games
+#EXTINF:-1 tvg-id="sonyliv-1090536385" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/thumbnail/1785245984623_1784647659853819_CWG26_Boxing_pictogram_thumbnail.jpg" group-title="Boxing", Jibril Muntari vs Garyn McAllister - Men's 90kg - Boxing - 28 Jul 2026 | Glasgow 2026 Commonwealth Games
 https://sonydaimenew.akamaized.net/hls/live/20000291/CWG_Stre2807/ENG/master.m3u8?hdnea=exp=1785261038~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=68b341c826890236b952ee5e1b0fef597088a632074ba6fe14b0a79e0861c40b
 
 #EXTINF:-1 tvg-id="sonyliv-1090536268" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/thumbnail/1785244500928_1784647477192819_CWG26_Weightlifting_pictogram_thumbnail.jpg" group-title="Weightlifting", Women's 63kg - Weightlifting - 28 Jul 2026 | Glasgow 2026 Commonwealth Games
