@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "05:50:30 PM 28-07-2026"
+        "last_update": "06:20:27 PM 28-07-2026"
     },
     "live_matches": [
         {
@@ -333,7 +333,7 @@
                 "resultObj": {
                     "showPlayerStats": false,
                     "is_preview_enabled": false,
-                    "videoURL": "https://sonydaimenew.akamaized.net/hls/live/20000301/CWG_Stre2807/ENG/master.m3u8?hdnea=exp=1785246637~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=396f00c6a6b710a29b6f138744e36120c062246ab6e6987399a51b8f9d859657",
+                    "videoURL": "https://sonydaimenew.akamaized.net/hls/live/20000301/CWG_Stre2807/ENG/master.m3u8?hdnea=exp=1785262831~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=673ba142c9ebf5184e0f5befbdd7f8a6d31b9729bd0333ba5ef4585c72557f69",
                     "multiLanguageVideoURL": [],
                     "audioLanguages": [
                         {
@@ -429,7 +429,7 @@
                     "multiAudioTrack": true,
                     "packId": "liv_premium_GP_1m"
                 },
-                "systemTime": 1785225037423
+                "systemTime": 1785241231117
             }
         },
         {
@@ -490,6 +490,7 @@
                     "venue_id": "78",
                     "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536386/thumbnail/1785239323215_1784647612769819_CWG26_Aquatics_pictogram_thumbnail.jpg",
                     "variant_asset_languages": [],
+                    "broadcast_channel_hin": "लिव",
                     "ad_cluster_id": "ad_cluster_1",
                     "live_label_display": true,
                     "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536386/portraitThumb/1785239323010_1784630204591819_CWG26_Aquatics_pictogram_portrait_thumb.jpg",
@@ -510,6 +511,7 @@
                         }
                     ],
                     "Maximum_Audio_Quality": "STEREO",
+                    "team_hin": "थे बहमास आइल ऑफ़ मन स्कॉटलैंड कनाडा जमैका साउथ अफ्रीका यूगांडा फिजी",
                     "sub_license": "No",
                     "is_auto_play_trailer": true,
                     "integrated_splash_available": "Yes",
@@ -650,12 +652,12 @@
                 "contentType": "VOD",
                 "contentSubtype": "LIVE_SPORT",
                 "title": "Glasgow 2026 Commonwealth Games",
-                "longDescription": "Watch all the exclusive action from the Boxing in the Women's 60kg, LIVE on Sony LIV.",
-                "shortDescription": "Watch all the exclusive action from the Boxing in the Women's 60kg, LIVE on Sony LIV.",
+                "longDescription": "Watch all the exclusive action from the Boxing in the Women's 65kg, LIVE on Sony LIV.",
+                "shortDescription": "Watch all the exclusive action from the Boxing in the Women's 65kg, LIVE on Sony LIV.",
                 "isCopyProtected": false,
                 "contractStartDate": 1785225000000,
                 "contractEndDate": 1785293400000,
-                "episodeTitle": "Rosemarion Otieno vs Marie-Bathoul Al-Ahmadieh - Women's 60kg - Boxing - 28 Jul 2026",
+                "episodeTitle": "Flora Loga vs Caitlin Rainey - Women's 65kg - Boxing - 28 Jul 2026",
                 "genres": [
                     "Boxing"
                 ],
@@ -684,7 +686,7 @@
                     "advertising": "AD SUPPORTED",
                     "isdvr": "No",
                     "emaAttributes": {},
-                    "tv_background_image": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/tvBackgroundImage/1785238993803_1784648168177819_CWG26_Boxing_pictogram_tv_bg.jpg",
+                    "tv_background_image": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/tvBackgroundImage/1785240903609_1784648168177819_CWG26_Boxing_pictogram_tv_bg.jpg",
                     "granular_access_configs": true,
                     "U": "IN",
                     "country_rating": {
@@ -693,15 +695,15 @@
                     },
                     "3+": "BD,NP,LK,PK,AF,BT,MV",
                     "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020251/178291361564192_Commonwealth_Games_2026_GOB_Masthead_logo.png",
-                    "player_name": "Rosemarion Otieno, Marie-Bathoul Al-Ahmadieh",
+                    "player_name": "Flora Loga, Caitlin Rainey",
                     "value": "SVOD",
                     "is_audio_desc_available": false,
                     "venue_id": "74",
-                    "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/thumbnail/1785238993732_1784647659853819_CWG26_Boxing_pictogram_thumbnail.jpg",
+                    "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/thumbnail/1785240903534_1784647659853819_CWG26_Boxing_pictogram_thumbnail.jpg",
                     "variant_asset_languages": [],
                     "ad_cluster_id": "ad_cluster_1",
                     "live_label_display": true,
-                    "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/portraitThumb/1785238993541_1784636551144819_CWG26_Boxing_pictogram_portrait_thumb.jpg",
+                    "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/portraitThumb/1785240903308_1784636551144819_CWG26_Boxing_pictogram_portrait_thumb.jpg",
                     "isSponsorAdAvailable": "true",
                     "dai_asset_key": "ahLdkaRoSWavrsFLPU8THA",
                     "seo_tags": "Glasgow 2026 Commonwealth Games,Glasgow 2026,CWG 2026,Commonwealth Games 2026,Glasgow 2026 India squad,Indian athletes Commonwealth Games 2026,CWG 2026 India schedule,India at Glasgow 2026,Neeraj Chopra Glasgow 2026,Mirabai Chanu CWG 2026,Lovlina Borgohain Commonwealth Games,Praveen Chithravel triple jump Glasgow,Murali Sreeshankar CWG 2026,Parul Chaudhary Commonwealth Games,Pranati Nayak gymnastics Glasgow 2026,Rohit Yadav javelin CWG,Preeti Pawar boxing Glasgow,India medal contenders CWG 2026,Commonwealth Games 2026 live streaming India,Glasgow 2026 sports list,Indian weightlifting team CWG 2026,Indian athletics squad Glasgow 2026,Neeraj Chopra,Mirabai Chanu,Lovlina Borgohain,Praveen Chithravel,Murali Sreeshankar,Parul Chaudhary,Pranati Nayak,Rohit Yadav,Preeti Pawar",
@@ -710,7 +712,7 @@
                     "SVOD_countries": "_in,_bd,_np,_mv,_bt,_lk,_af,_pk",
                     "is_subtitle_cc_available": false,
                     "ssai_partners": "Google DAI",
-                    "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/landscapeThumb/1785238993649_1784647663933819_CWG26_Boxing_pictogram_landscape_thumb.jpg",
+                    "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/landscapeThumb/1785240903446_1784647663933819_CWG26_Boxing_pictogram_landscape_thumb.jpg",
                     "audio_language_list": [
                         {
                             "lang_code": "ENG",
@@ -858,14 +860,14 @@
                 "contentType": "VOD",
                 "contentSubtype": "LIVE_SPORT",
                 "title": "Glasgow 2026 Commonwealth Games",
-                "longDescription": "Watch all the exclusive action from the Athletics in the Men's 400m, LIVE on Sony LIV.",
-                "shortDescription": "Watch all the exclusive action from the Athletics in the Men's 400m, LIVE on Sony LIV.",
+                "longDescription": "Watch all the exclusive action from the Gymnastics in the Men's Vault, LIVE on Sony LIV.",
+                "shortDescription": "Watch all the exclusive action from the Gymnastics in the Men's Vault, LIVE on Sony LIV.",
                 "isCopyProtected": false,
                 "contractStartDate": 1785227400000,
                 "contractEndDate": 1785295800000,
-                "episodeTitle": "Men's 400m - Athletics - 28 Jul 2026",
+                "episodeTitle": "Men's Vault - Gymnastics - 28 Jul 2026",
                 "genres": [
-                    "Athletics"
+                    "Gymnastics"
                 ],
                 "originalAirDate": 1785229200000,
                 "pcExtendedRatings": [],
@@ -877,7 +879,7 @@
                 "isGeoBlocked": false,
                 "advertisingInfoList": [],
                 "emfAttributes": {
-                    "venue_name": "Track",
+                    "venue_name": "Vault",
                     "region_of_origin": "English",
                     "svod_advertising": "true",
                     "audio_languages": "ENG",
@@ -892,7 +894,7 @@
                     "advertising": "AD SUPPORTED",
                     "isdvr": "No",
                     "emaAttributes": {},
-                    "tv_background_image": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/tvBackgroundImage/1785237397917_1784648226268819_CWG26_Athletics_pictogram_tv_bg.jpg",
+                    "tv_background_image": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/tvBackgroundImage/1785240173800_1784648097142819_CWG26_Gymnastics_pictogram_tv_bg.jpg",
                     "granular_access_configs": true,
                     "U": "IN",
                     "country_rating": {
@@ -900,16 +902,15 @@
                         "3+": "BD,NP,LK,PK,AF,BT,MV"
                     },
                     "3+": "BD,NP,LK,PK,AF,BT,MV",
-                    "player_name": "George Mutuku, Antonio Watson, Rajesh Ramesh, Riffath Adam, Austin Cole, Erick Okwii, Lerano Missick",
+                    "player_name": "Clayton Bell, James Hardy, Neofytos Kyriakou, Felix Dolci, Ewan McAteer, Kyriakos Markidis, Muhammad Sharul Aimy, Luke Whitehouse, Henry Lewis, Yogeshwar Singh, Connor Sullivan",
                     "value": "SVOD",
                     "is_audio_desc_available": false,
-                    "venue_id": "40",
-                    "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/thumbnail/1785237397827_1784647626419819_CWG26_Athletics_pictogram_thumbnail.jpg",
+                    "venue_id": "59",
+                    "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/thumbnail/1785240173704_1784647785497819_CWG26_Gymnastics_pictogram_thumbnail.jpg",
                     "variant_asset_languages": [],
-                    "broadcast_channel_hin": "लिव",
                     "ad_cluster_id": "ad_cluster_1",
                     "live_label_display": true,
-                    "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/portraitThumb/1785237397631_1784635109073819_CWG26_Athletics_pictogram_portrait_thumb.jpg",
+                    "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/portraitThumb/1785240173485_1784637024252819_CWG26_Gymnastics_pictogram_portrait_thumb.jpg",
                     "isSponsorAdAvailable": "true",
                     "dai_asset_key": "FRfpSr3uSzaIu94qoYoyaQ",
                     "match_start_time": "1785229200",
@@ -919,7 +920,7 @@
                     "SVOD_countries": "_in,_bd,_np,_mv,_bt,_lk,_af,_pk",
                     "is_subtitle_cc_available": false,
                     "ssai_partners": "Google DAI",
-                    "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/landscapeThumb/1785237397750_1784647629918819_CWG26_Athletics_pictogram_landscape_thumb.jpg",
+                    "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/landscapeThumb/1785240173621_1784647781782819_CWG26_Gymnastics_pictogram_landscape_thumb.jpg",
                     "audio_language_list": [
                         {
                             "lang_code": "ENG",
