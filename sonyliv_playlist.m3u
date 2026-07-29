@@ -2,15 +2,12 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 09:20:28 PM 29-07-2026
-
-#EXTINF:-1 tvg-id="sonyliv-1090537715" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020974/1784957872393125_Durand_cup_26_Indian-Air-Force-FT-vs-Defenders-FC_landscape_thumb.jpg" group-title="Football", Indian Air Force FT vs Defenders FC  - 29 Jul 2026 | IndianOil Durand Cup 2026
-https://sonydaimenew.akamaized.net/hls/live/20000296/Football2907/ENG/master.m3u8?hdnea=exp=1785352836~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=c03d5603d16969149b49e4ac8dc96d6a1f31b574163415b35550d1db9a0e0327
+# last_update: 09:50:30 PM 29-07-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090536268" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/thumbnail/1785338108048_1784647162182819_CWG26_Bowls_and_Para_Bowls_pictogram_thumbnail.jpg" group-title="Bowls and Para Bowls", Tayla Bruce vs Shauna O'Neill - Women's Singles - Bowls and Para Bowls - 29 Jul 2026 | Glasgow 2026 Commonwealth Games
 https://sonydaimenew.akamaized.net/hls/live/20000292/CWG_Stre2907/ENG/master.m3u8?hdnea=exp=1785351038~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=a59b2546a82cc027f1f2af041e6f2841ace670991ffcbbbc655b7576f7bd6cea
 
-#EXTINF:-1 tvg-id="sonyliv-1090536385" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784647154993819_CWG26_Bowls_and_Para_Bowls_pictogram_landscape_thumb.jpg" group-title="Bowls and Para Bowls", England vs Botswana - Men's Pairs - Bowls and Para Bowls - 29 Jul 2026 | Glasgow 2026 Commonwealth Games
+#EXTINF:-1 tvg-id="sonyliv-1090536385" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/thumbnail/1785339002366_1784647646298819_CWG26_Basketball_pictogram_thumbnail.jpg" group-title="Basketball", New Zealand vs Scotland - Men - Basketball - 29 Jul 2026 | Glasgow 2026 Commonwealth Games
 https://sonydaimenew.akamaized.net/hls/live/20000299/CWG_Stre2907/ENG/master.m3u8?hdnea=exp=1785351048~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=fcd8f97e9a6030861f0e8db3900dfde612eedbe31170d2f09f008042f090e8f5
 
 #EXTINF:-1 tvg-id="sonyliv-1090536386" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536386/thumbnail/1785338106889_1784647162182819_CWG26_Bowls_and_Para_Bowls_pictogram_thumbnail.jpg" group-title="Bowls and Para Bowls", India vs Namibia - Men's Pairs - Bowls and Para Bowls - 29 Jul 2026 | Glasgow 2026 Commonwealth Games
