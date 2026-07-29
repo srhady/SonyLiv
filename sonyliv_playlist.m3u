@@ -2,22 +2,19 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 10:20:25 PM 29-07-2026
+# last_update: 10:50:25 PM 29-07-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090536268" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/thumbnail/1785338108048_1784647162182819_CWG26_Bowls_and_Para_Bowls_pictogram_thumbnail.jpg" group-title="Bowls and Para Bowls", Tayla Bruce vs Shauna O'Neill - Women's Singles - Bowls and Para Bowls - 29 Jul 2026 | Glasgow 2026 Commonwealth Games
 https://sonydaimenew.akamaized.net/hls/live/20000292/CWG_Stre2907/ENG/master.m3u8?hdnea=exp=1785351038~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=a59b2546a82cc027f1f2af041e6f2841ace670991ffcbbbc655b7576f7bd6cea
 
-#EXTINF:-1 tvg-id="sonyliv-1090536385" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/thumbnail/1785340830807_1784647646298819_CWG26_Basketball_pictogram_thumbnail.jpg" group-title="Basketball", New Zealand vs Jamaica - Women - Basketball - 29 Jul 2026 | Glasgow 2026 Commonwealth Games
+#EXTINF:-1 tvg-id="sonyliv-1090536385" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/thumbnail/1785342607507_1784647646298819_CWG26_Basketball_pictogram_thumbnail.jpg" group-title="Basketball", Scotland vs Canada - Wheelchair Men - Basketball - 29 Jul 2026 | Glasgow 2026 Commonwealth Games
 https://sonydaimenew.akamaized.net/hls/live/20000299/CWG_Stre2907/ENG/master.m3u8?hdnea=exp=1785351048~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=fcd8f97e9a6030861f0e8db3900dfde612eedbe31170d2f09f008042f090e8f5
 
 #EXTINF:-1 tvg-id="sonyliv-1090536386" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536386/thumbnail/1785338106889_1784647162182819_CWG26_Bowls_and_Para_Bowls_pictogram_thumbnail.jpg" group-title="Bowls and Para Bowls", India vs Namibia - Men's Pairs - Bowls and Para Bowls - 29 Jul 2026 | Glasgow 2026 Commonwealth Games
 https://sonydaimenew.akamaized.net/hls/live/20000293/CWG_Stre2907/ENG/master.m3u8?hdnea=exp=1785354633~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=b49678f9dfbc842306985443764efbeb2adbfb4b4a7b14c93b7964672e1b152e
 
 #EXTINF:-1 tvg-id="sonyliv-1090536387" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536387/thumbnail/1785337214809_1784647811561819_CWG26_Netball_pictogram_thumbnail.jpg" group-title="Netball", England vs Tonga - Netball - Netball - 29 Jul 2026 | Glasgow 2026 Commonwealth Games
-https://sonydaimenew.akamaized.net/hls/live/20000295/CWG_Stre2907/ENG/master.m3u8?hdnea=exp=1785349231~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=d4f7b471c0816bf7f53e291292432dae4961285a8872b8ddf37261c006ed0f96
-
-#EXTINF:-1 tvg-id="sonyliv-1090537696" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020826/1784750006458115_The_Hundred2026_mens_Wels_Fire_vs_Trent_Rockets_landscape_thumb.jpg" group-title="Cricket", Welsh Fire vs Trent Rockets - 29 Jul 2026 | The Hundred 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2022322/DAI18-HMEN/master.m3u8?hdnea=exp=1785354641~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=3e0609cb62f89e47c5a5e9df09b1d8a2e38f27a0285ad3d150c5e6f2478134a0
+https://sonydaimenew.akamaized.net/hls/live/20000295/CWG_Stre2907/ENG/master.m3u8?hdnea=exp=1785365428~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=72c5fadde77d53ac787acb93f82d14c78a5c53d7a5e6641cd3a114429801d6f8
 
 #EXTINF:-1 tvg-id="sonyliv-1090537691" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020826/1784750912088115_The_Hundred2026_womens_MI_London_vs_London_Spirit_landscape_thumb.jpg" group-title="Cricket", MI London vs London Spirit - 29 Jul 2026 | The Hundred 2026 (Women's)
 https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-HWOM/master.m3u8?hdnea=exp=1785354649~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=cfb39e62dd6d13da6b3afcb173736e3925402e19056ceef245c278c78bc231d7
