@@ -3,29 +3,29 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "06:20:25 PM 30-07-2026"
+        "last_update": "06:50:26 PM 30-07-2026"
     },
     "live_matches": [
         {
             "match_info": {
-                "contentId": 1090537860,
-                "externalId": "1090537860",
+                "contentId": 1090537866,
+                "externalId": "1090537866",
                 "objectType": "VOD",
                 "isLive": true,
                 "objectSubtype": "LIVE_SPORT",
                 "contentType": "VOD",
                 "contentSubtype": "LIVE_SPORT",
                 "title": "IndianOil Durand Cup 2026",
-                "longDescription": "FC Raengdai face Indian Navy FT in a key IndianOil Durand Cup 2026 encounter. Catch all the action LIVE, only on Sony LIV. ",
-                "shortDescription": "FC Raengdai face Indian Navy FT in a key IndianOil Durand Cup 2026 encounter. Catch all the action LIVE, only on Sony LIV. ",
+                "longDescription": "Samaleswari Sporting take on Baghpat FC in an exciting IndianOil Durand Cup 2026 clash. Catch all the action LIVE, only on Sony LIV.",
+                "shortDescription": "Samaleswari Sporting take on Baghpat FC in an exciting IndianOil Durand Cup 2026 clash. Catch all the action LIVE, only on Sony LIV.",
                 "isCopyProtected": false,
-                "contractStartDate": 1785405000000,
-                "contractEndDate": 1785423600000,
-                "episodeTitle": "FC Raengdai vs Indian Navy FT  - 30 Jul 2026",
+                "contractStartDate": 1785415800000,
+                "contractEndDate": 1785434400000,
+                "episodeTitle": "Samaleswari Sporting vs Baghpat FC - 30 Jul 2026",
                 "genres": [
                     "Football"
                 ],
-                "originalAirDate": 1785406800000,
+                "originalAirDate": 1785417600000,
                 "pcExtendedRatings": [],
                 "isOnAir": true,
                 "isEncrypted": false,
@@ -38,24 +38,24 @@
                     "audio_languages": "ENG",
                     "snp_tags": "Suitable for all",
                     "packageid": "12m_mobile_saarc,Liv_Pre_Yupp,12m_saarc,1m_saarc,liv_premium_GP_1m,liv_premium_GP_1m_mobile,LIV_Pre_Mob_1M,liv_binge_1m",
-                    "masthead_logo_rectangualar": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021273/1785261355054763_DURAND_CUP_2026_Match_masthead_logo_rectangualar_950x570_FC_Raengdai_vs_Indian_Navy_FT_Live.png",
+                    "masthead_logo_rectangualar": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021273/1785261355293763_DURAND_CUP_2026_Match_masthead_logo_rectangualar_950x570_Samaleswari_Sporting_vs_Baghpat_FC_Live.png",
                     "Maximum_Resolution": "FULL_HD",
-                    "masthead_logo_v1": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021273/1785261355616763_DURAND_CUP_2026_Match_masthead_logo_V1_692x390_FC_Raengdai_vs_Indian_Navy_FT_Live.png",
+                    "masthead_logo_v1": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021273/1785261355927763_DURAND_CUP_2026_Match_masthead_logo_V1_692x390_Samaleswari_Sporting_vs_Baghpat_FC_Live.png",
                     "advertising": "AD SUPPORTED",
                     "emaAttributes": {},
                     "kids_safe": false,
-                    "tv_background_image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021307/1785285055954595_DC26_FC_Raengdai_vs_Indian_Navy_FT_tv_bg.jpg",
+                    "tv_background_image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020980/178496132338598_Durand_cup_26_Samaleswari-Sporting-vs-Baghpat-FC_tv_bg.jpg",
                     "content_marquee_status": "false",
                     "marquee_target_state": [],
-                    "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021273/1785261356088763_DURAND_CUP_2026_Match_masthead_mobile_v2_984x1182_FC_Raengdai_vs_Indian_Navy_FT.jpg",
-                    "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021307/1785285015370595_DC26_FC_Raengdai_vs_Indian_Navy_FT_landscape.jpg",
+                    "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021273/1785261356206763_DURAND_CUP_2026_Match_masthead_mobile_v2_984x1182_Samaleswari_Sporting_vs_Baghpat_FC.jpg",
+                    "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020980/178496130047498_Durand_cup_26_Samaleswari-Sporting-vs-Baghpat-FC_landscape_thumb.jpg",
                     "variant_asset_languages": [],
                     "broadcast_channel_hin": "सोनी स्पोर्ट्स तेन २",
                     "ad_cluster_id": "ad_cluster_1",
-                    "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021307/1785284977222595_DC26_FC_Raengdai_vs_Indian_Navy_FT_live_portrait_thumb.jpg",
+                    "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020980/178496126450598_Durand_cup_26_Samaleswari-Sporting-vs-Baghpat-FC_portrait_thumb.jpg",
                     "is_subtitle_cc_available": false,
                     "ssai_partners": "Google DAI",
-                    "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021307/1785285015370595_DC26_FC_Raengdai_vs_Indian_Navy_FT_landscape.jpg",
+                    "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020980/178496130047498_Durand_cup_26_Samaleswari-Sporting-vs-Baghpat-FC_landscape_thumb.jpg",
                     "audio_language_list": [
                         {
                             "lang_code": "ENG",
@@ -65,7 +65,7 @@
                     "Maximum_Audio_Quality": "STEREO",
                     "matchid": "",
                     "isTimeLineMarker_new": "true",
-                    "venue_name": "Khuman Lampak Main Stadium",
+                    "venue_name": "Vivekananda Yuba Bharati Krirangan",
                     "region_of_origin": "English",
                     "svod_advertising": "true",
                     "sub_category": "Sport",
@@ -73,30 +73,30 @@
                     "broadcast_channel": "Sony Sports Ten 2",
                     "Maximum_Video_Quality": "SDR",
                     "isdvr": "No",
-                    "away_team": "Indian Navy FT",
+                    "away_team": "Baghpat FC",
                     "U": "IN",
                     "country_rating": {
                         "U": "IN",
                         "3+": "BD,NP,LK,PK,AF,BT,MV"
                     },
                     "3+": "BD,NP,LK,PK,AF,BT,MV",
-                    "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021273/1785261354779763_DURAND_CUP_2026_Match_Masthead_logo_FC_Raengdai_vs_Indian_Navy_FT_Live.png",
+                    "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021273/1785261355411763_DURAND_CUP_2026_Match_Masthead_logo_Samaleswari_Sporting_vs_Baghpat_FC_Live.png",
                     "projected_max_concurrency": 100000,
                     "value": "SVOD",
                     "is_audio_desc_available": false,
                     "target_impressions_per_week": 2000000,
                     "live_label_display": true,
-                    "dai_asset_key": "ahLdkaRoSWavrsFLPU8THA",
-                    "match_start_time": "1785407400",
+                    "dai_asset_key": "pGJnk1s2SwyeM8pq_uT2_A",
+                    "match_start_time": "1785418200",
                     "seo_tags": "IndianOil Durand Cup 2026,football,Durand Cup,Durand Cup 2026 tickets,Durand Cup 2026 schedule,Asian football,Durand Cup 2026 highlights,Durand Cup 2026,durand cup,Durand Cup 2026 date,Durand Cup 2026 news,Durand Cup 2026 live,Durand Cup 2026 teams,Durand Cup 2026 venue,Durand Cup 2026 update,Durand Cup 2026 fixtures,Durand Cup 2026 all matches,Durand Cup 2026 new updates,Durand Cup 2026 latest news,Durand Cup 2026 team updates,where to watch Durand Cup 2026,Durand Cup fixtures 2026,Durand Cup 2026 starting date,Durand Cup 2026 latest updates",
                     "Free_countries": "",
                     "overlay_visibility": "0",
                     "target_frequency_per_week": 3,
                     "SVOD_countries": "_in,_lk,_mv,_np,_bd,_bt,_af,_pk",
-                    "home_team": "FC Raengdai",
+                    "home_team": "Samaleswari Sporting",
                     "is_auto_play_trailer": true,
                     "integrated_splash_available": "Yes",
-                    "masthead_large_v3": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021273/1785261354609763_DURAND_CUP_2026_Match_masthead_large_v3_3200x1800_FC_Raengdai_vs_Indian_Navy_FT.jpg",
+                    "masthead_large_v3": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021273/1785261354675763_DURAND_CUP_2026_Match_masthead_large_v3_3200x1800_Samaleswari_Sporting_vs_Baghpat_FC.jpg",
                     "isDVR": false,
                     "isTimeLineMarker": false,
                     "isDownloadable": false,
@@ -113,7 +113,7 @@
                 "ratingEligibility": true,
                 "ratingDisplay": false,
                 "titleBrief": "",
-                "baseContentId": 1090537860,
+                "baseContentId": 1090537866,
                 "isBaseAsset": true
             },
             "playback_info": {
@@ -123,7 +123,7 @@
                 "resultObj": {
                     "showPlayerStats": false,
                     "is_preview_enabled": false,
-                    "videoURL": "https://sonydaimenew.akamaized.net/hls/live/20000291/Football3007/ENG/master.m3u8?hdnea=exp=1785426628~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=5d2b806a3ceb0b8bea092e2d75b95bcdb7b54be726c495ca2fa45a4505aa7a06",
+                    "videoURL": "https://sonydaimenew.akamaized.net/hls/live/20000296/Football3007/ENG/master.m3u8?hdnea=exp=1785437430~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=bb1e8d80292144beeb41312698b200663658c9137b9bca9d43c4ec6f893290b5",
                     "multiLanguageVideoURL": [],
                     "audioLanguages": [
                         {
@@ -139,7 +139,7 @@
                     "posterURL": "",
                     "sprite_image_url": "",
                     "tv_sprite_image_url": "",
-                    "dai_asset_key": "jRQlKg2DQWa70jsLHUtxGA",
+                    "dai_asset_key": "O1T1FsBGRG-E3tKfjU-jnw",
                     "contextual_cue_point": {},
                     "cuepoints": [],
                     "isLive": true,
@@ -220,7 +220,7 @@
                     "multiAudioTrack": true,
                     "packId": "liv_premium_GP_1m"
                 },
-                "systemTime": 1785405028179
+                "systemTime": 1785415830262
             }
         },
         {
@@ -238,9 +238,9 @@
                 "isCopyProtected": false,
                 "contractStartDate": 1785399600000,
                 "contractEndDate": 1785464400000,
-                "episodeTitle": "Men's 400m - Athletics - 30 Jul 2026",
+                "episodeTitle": "Netball - 30 Jul 2026",
                 "genres": [
-                    "Athletics"
+                    "Netball"
                 ],
                 "originalAirDate": 1785401400000,
                 "pcExtendedRatings": [],
@@ -267,7 +267,7 @@
                     "advertising": "AD SUPPORTED",
                     "isdvr": "No",
                     "emaAttributes": {},
-                    "tv_background_image": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/tvBackgroundImage/1785413951331_1784648226268819_CWG26_Athletics_pictogram_tv_bg.jpg",
+                    "tv_background_image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784648041892819_CWG26_Netball_pictogram_tv_bg.jpg",
                     "granular_access_configs": true,
                     "U": "IN",
                     "country_rating": {
@@ -279,11 +279,11 @@
                     "value": "SVOD",
                     "is_audio_desc_available": false,
                     "venue_id": "40",
-                    "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/thumbnail/1785413951246_1784647626419819_CWG26_Athletics_pictogram_thumbnail.jpg",
+                    "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784647823735819_CWG26_Netball_pictogram_landscape_thumb.jpg",
                     "variant_asset_languages": [],
                     "ad_cluster_id": "ad_cluster_1",
                     "live_label_display": true,
-                    "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/portraitThumb/1785413951027_1784635109073819_CWG26_Athletics_pictogram_portrait_thumb.jpg",
+                    "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784637323747819_CWG26_Netball_pictogram_portrait_thumb.jpg",
                     "isSponsorAdAvailable": "true",
                     "dai_asset_key": "qnMAwRj7S8WFh8IOymEbTg",
                     "match_start_time": "1785401400",
@@ -293,7 +293,7 @@
                     "SVOD_countries": "_in,_bd,_np,_mv,_bt,_lk,_af,_pk",
                     "is_subtitle_cc_available": false,
                     "ssai_partners": "Google DAI",
-                    "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/landscapeThumb/1785413951166_1784647629918819_CWG26_Athletics_pictogram_landscape_thumb.jpg",
+                    "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784647823735819_CWG26_Netball_pictogram_landscape_thumb.jpg",
                     "audio_language_list": [
                         {
                             "lang_code": "ENG",
@@ -333,7 +333,7 @@
                 "resultObj": {
                     "showPlayerStats": false,
                     "is_preview_enabled": false,
-                    "videoURL": "https://sonydaimenew.akamaized.net/hls/live/20000386/CWG_Stre3007/ENG/master.m3u8?hdnea=exp=1785421231~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=57f638a6e10936cc5f65c8bbb1087c9282fe473810e25d14f529deff0ec4a27d",
+                    "videoURL": "https://sonydaimenew.akamaized.net/hls/live/20000386/CWG_Stre3007/ENG/master.m3u8?hdnea=exp=1785437438~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=e80b370b234b84f3b88acbe30c1b71c64d916b7337c776562ef679ee2e9f86dd",
                     "multiLanguageVideoURL": [],
                     "audioLanguages": [
                         {
@@ -429,7 +429,7 @@
                     "multiAudioTrack": true,
                     "packId": "liv_premium_GP_1m"
                 },
-                "systemTime": 1785399631268
+                "systemTime": 1785415838500
             }
         },
         {
@@ -652,14 +652,14 @@
                 "contentType": "VOD",
                 "contentSubtype": "LIVE_SPORT",
                 "title": "Glasgow 2026 Commonwealth Games",
-                "longDescription": "Watch all the exclusive action from the Athletics in the Men's Triple Jump, LIVE on Sony LIV.",
-                "shortDescription": "Watch all the exclusive action from the Athletics in the Men's Triple Jump, LIVE on Sony LIV.",
+                "longDescription": "Watch all the exclusive action from Glasgow 2026 Commonwealth Games, LIVE on Sony LIV.",
+                "shortDescription": "Watch all the exclusive action from Glasgow 2026 Commonwealth Games, LIVE on Sony LIV.",
                 "isCopyProtected": false,
                 "contractStartDate": 1785397800000,
                 "contractEndDate": 1785462600000,
-                "episodeTitle": "Men's Triple Jump - Athletics - 30 Jul 2026",
+                "episodeTitle": "Weightlifting - 30 Jul 2026",
                 "genres": [
-                    "Athletics"
+                    "Weightlifting"
                 ],
                 "originalAirDate": 1785399600000,
                 "pcExtendedRatings": [],
@@ -687,7 +687,7 @@
                     "advertising": "AD SUPPORTED",
                     "isdvr": "No",
                     "emaAttributes": {},
-                    "tv_background_image": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536386/tvBackgroundImage/1785410308982_1784648226268819_CWG26_Athletics_pictogram_tv_bg.jpg",
+                    "tv_background_image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784647447699819_CWG26_Weightlifting_pictogram_tv_bg.jpg",
                     "granular_access_configs": true,
                     "U": "IN",
                     "country_rating": {
@@ -700,12 +700,11 @@
                     "value": "SVOD",
                     "is_audio_desc_available": false,
                     "venue_id": "43",
-                    "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536386/thumbnail/1785410308887_1784647626419819_CWG26_Athletics_pictogram_thumbnail.jpg",
+                    "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784647477192819_CWG26_Weightlifting_pictogram_thumbnail.jpg",
                     "variant_asset_languages": [],
-                    "broadcast_channel_hin": "लिव",
                     "ad_cluster_id": "ad_cluster_1",
                     "live_label_display": true,
-                    "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536386/portraitThumb/1785410308720_1784635109073819_CWG26_Athletics_pictogram_portrait_thumb.jpg",
+                    "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784637594434819_CWG26_Weightlifting_pictogram_portrait_thumb.jpg",
                     "isSponsorAdAvailable": "true",
                     "dai_asset_key": "MddyccyuQ62_PRCt0Hlqqg",
                     "seo_tags": "Glasgow 2026 Commonwealth Games,Glasgow 2026,CWG 2026,Commonwealth Games 2026,Glasgow 2026 India squad,Indian athletes Commonwealth Games 2026,CWG 2026 India schedule,India at Glasgow 2026,Neeraj Chopra Glasgow 2026,Mirabai Chanu CWG 2026,Lovlina Borgohain Commonwealth Games,Praveen Chithravel triple jump Glasgow,Murali Sreeshankar CWG 2026,Parul Chaudhary Commonwealth Games,Pranati Nayak gymnastics Glasgow 2026,Rohit Yadav javelin CWG,Preeti Pawar boxing Glasgow,India medal contenders CWG 2026,Commonwealth Games 2026 live streaming India,Glasgow 2026 sports list,Indian weightlifting team CWG 2026,Indian athletics squad Glasgow 2026,Neeraj Chopra,Mirabai Chanu,Lovlina Borgohain,Praveen Chithravel,Murali Sreeshankar,Parul Chaudhary,Pranati Nayak,Rohit Yadav,Preeti Pawar",
@@ -714,7 +713,7 @@
                     "SVOD_countries": "_in,_bd,_np,_mv,_bt,_lk,_af,_pk",
                     "is_subtitle_cc_available": false,
                     "ssai_partners": "Google DAI",
-                    "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536386/landscapeThumb/1785410308810_1784647629918819_CWG26_Athletics_pictogram_landscape_thumb.jpg",
+                    "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784647477192819_CWG26_Weightlifting_pictogram_thumbnail.jpg",
                     "audio_language_list": [
                         {
                             "lang_code": "ENG",
@@ -962,7 +961,7 @@
                 "resultObj": {
                     "showPlayerStats": false,
                     "is_preview_enabled": false,
-                    "videoURL": "https://sonydaimenew.akamaized.net/hls/live/20000390/CWG_Stre3007/ENG/master.m3u8?hdnea=exp=1785421237~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=6d2c29da93f22324b218e6b16706231d99d7b855c6546aff7dd1f7f079fa679c",
+                    "videoURL": "https://sonydaimenew.akamaized.net/hls/live/20000390/CWG_Stre3007/ENG/master.m3u8?hdnea=exp=1785437445~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=5853fefe16d852107350eba86e40ac65dcf0e6820a31d9d95d81686dd858e189",
                     "multiLanguageVideoURL": [],
                     "audioLanguages": [
                         {
@@ -1058,7 +1057,7 @@
                     "multiAudioTrack": true,
                     "packId": "liv_premium_GP_1m"
                 },
-                "systemTime": 1785399637916
+                "systemTime": 1785415845327
             }
         }
     ]
