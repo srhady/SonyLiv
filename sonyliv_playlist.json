@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "06:50:26 PM 30-07-2026"
+        "last_update": "07:20:28 PM 30-07-2026"
     },
     "live_matches": [
         {
@@ -233,12 +233,12 @@
                 "contentType": "VOD",
                 "contentSubtype": "LIVE_SPORT",
                 "title": "Glasgow 2026 Commonwealth Games",
-                "longDescription": "Watch all the exclusive action from the Athletics in the Men's 400m, LIVE on Sony LIV.",
-                "shortDescription": "Watch all the exclusive action from the Athletics in the Men's 400m, LIVE on Sony LIV.",
+                "longDescription": "Watch all the exclusive action from the Netball in the Pool B, LIVE on Sony LIV.",
+                "shortDescription": "Watch all the exclusive action from the Netball in the Pool B, LIVE on Sony LIV.",
                 "isCopyProtected": false,
                 "contractStartDate": 1785399600000,
                 "contractEndDate": 1785464400000,
-                "episodeTitle": "Netball - 30 Jul 2026",
+                "episodeTitle": "New Zealand vs Trinidad and Tobago - Pool B - Netball - 30 Jul 2026",
                 "genres": [
                     "Netball"
                 ],
@@ -252,7 +252,7 @@
                 "isGeoBlocked": false,
                 "advertisingInfoList": [],
                 "emfAttributes": {
-                    "venue_name": "Track",
+                    "venue_name": "The Hydro",
                     "region_of_origin": "English",
                     "svod_advertising": "true",
                     "audio_languages": "ENG",
@@ -267,7 +267,7 @@
                     "advertising": "AD SUPPORTED",
                     "isdvr": "No",
                     "emaAttributes": {},
-                    "tv_background_image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784648041892819_CWG26_Netball_pictogram_tv_bg.jpg",
+                    "tv_background_image": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/tvBackgroundImage/1785416409676_1784648041892819_CWG26_Netball_pictogram_tv_bg.jpg",
                     "granular_access_configs": true,
                     "U": "IN",
                     "country_rating": {
@@ -275,25 +275,25 @@
                         "3+": "BD,NP,LK,PK,AF,BT,MV"
                     },
                     "3+": "BD,NP,LK,PK,AF,BT,MV",
-                    "player_name": "Michael Joseph, Desean Boyce, Amal Glasgow, Christopher Morales Williams, Thomas Reynolds, Kelvin Kiprotich Tonui, Muzala Samukonga, Delano Kennedy",
                     "value": "SVOD",
                     "is_audio_desc_available": false,
-                    "venue_id": "40",
-                    "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784647823735819_CWG26_Netball_pictogram_landscape_thumb.jpg",
+                    "venue_id": "77",
+                    "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/thumbnail/1785416409573_1784647811561819_CWG26_Netball_pictogram_thumbnail.jpg",
                     "variant_asset_languages": [],
                     "ad_cluster_id": "ad_cluster_1",
                     "live_label_display": true,
-                    "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784637323747819_CWG26_Netball_pictogram_portrait_thumb.jpg",
+                    "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/portraitThumb/1785416409311_1784637323747819_CWG26_Netball_pictogram_portrait_thumb.jpg",
                     "isSponsorAdAvailable": "true",
                     "dai_asset_key": "qnMAwRj7S8WFh8IOymEbTg",
                     "match_start_time": "1785401400",
+                    "team": "New Zealand, Trinidad and Tobago",
                     "seo_tags": "Glasgow 2026 Commonwealth Games,Glasgow 2026,CWG 2026,Commonwealth Games 2026,Glasgow 2026 India squad,Indian athletes Commonwealth Games 2026,CWG 2026 India schedule,India at Glasgow 2026,Neeraj Chopra Glasgow 2026,Mirabai Chanu CWG 2026,Lovlina Borgohain Commonwealth Games,Praveen Chithravel triple jump Glasgow,Murali Sreeshankar CWG 2026,Parul Chaudhary Commonwealth Games,Pranati Nayak gymnastics Glasgow 2026,Rohit Yadav javelin CWG,Preeti Pawar boxing Glasgow,India medal contenders CWG 2026,Commonwealth Games 2026 live streaming India,Glasgow 2026 sports list,Indian weightlifting team CWG 2026,Indian athletics squad Glasgow 2026,Neeraj Chopra,Mirabai Chanu,Lovlina Borgohain,Praveen Chithravel,Murali Sreeshankar,Parul Chaudhary,Pranati Nayak,Rohit Yadav,Preeti Pawar",
                     "Free_countries": "",
                     "overlay_visibility": "0",
                     "SVOD_countries": "_in,_bd,_np,_mv,_bt,_lk,_af,_pk",
                     "is_subtitle_cc_available": false,
                     "ssai_partners": "Google DAI",
-                    "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784647823735819_CWG26_Netball_pictogram_landscape_thumb.jpg",
+                    "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/landscapeThumb/1785416409471_1784647823735819_CWG26_Netball_pictogram_landscape_thumb.jpg",
                     "audio_language_list": [
                         {
                             "lang_code": "ENG",
@@ -652,12 +652,12 @@
                 "contentType": "VOD",
                 "contentSubtype": "LIVE_SPORT",
                 "title": "Glasgow 2026 Commonwealth Games",
-                "longDescription": "Watch all the exclusive action from Glasgow 2026 Commonwealth Games, LIVE on Sony LIV.",
-                "shortDescription": "Watch all the exclusive action from Glasgow 2026 Commonwealth Games, LIVE on Sony LIV.",
+                "longDescription": "Watch all the exclusive action from the Weightlifting in the Women's +86kg, LIVE on Sony LIV.",
+                "shortDescription": "Watch all the exclusive action from the Weightlifting in the Women's +86kg, LIVE on Sony LIV.",
                 "isCopyProtected": false,
                 "contractStartDate": 1785397800000,
                 "contractEndDate": 1785462600000,
-                "episodeTitle": "Weightlifting - 30 Jul 2026",
+                "episodeTitle": "Women's +86kg - Weightlifting - 30 Jul 2026",
                 "genres": [
                     "Weightlifting"
                 ],
@@ -671,7 +671,7 @@
                 "isGeoBlocked": false,
                 "advertisingInfoList": [],
                 "emfAttributes": {
-                    "venue_name": "Long Jump A",
+                    "venue_name": "SEC Armadillo",
                     "region_of_origin": "English",
                     "svod_advertising": "true",
                     "audio_languages": "ENG",
@@ -687,7 +687,7 @@
                     "advertising": "AD SUPPORTED",
                     "isdvr": "No",
                     "emaAttributes": {},
-                    "tv_background_image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784647447699819_CWG26_Weightlifting_pictogram_tv_bg.jpg",
+                    "tv_background_image": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536386/tvBackgroundImage/1785417305729_1784647447699819_CWG26_Weightlifting_pictogram_tv_bg.jpg",
                     "granular_access_configs": true,
                     "U": "IN",
                     "country_rating": {
@@ -696,15 +696,15 @@
                     },
                     "3+": "BD,NP,LK,PK,AF,BT,MV",
                     "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020251/178291361564192_Commonwealth_Games_2026_GOB_Masthead_logo.png",
-                    "player_name": "Ethan Olivier, Kevin Kemboi, Selva Prabhu Thirumaran, Jah-Nhai Perinchief, Praveen Chithravel, Jordan Scott, Derick Chiambah Gama, Isaac Kirwa Yego, Kelsey Daniel, Yeshan Wismitha Unagolla Dewage, Jordan Aki-Sawyerr, Adel Cupidon, Stafon Roach, Raymond Nkwemy Tchomfa, Gabriel Lee",
+                    "player_name": "Mata Noko McDonald, Etta Mae Love, Tui-Alofa Patolo, Tenganga Taunikarawa, Malia Timo, Martina Devi Maibam, Melissa Yee, Krystal Latoya Campbell, Iuniarra Sipaia, Siti Aqilah Farhana Draman, Emily Campbell",
                     "value": "SVOD",
                     "is_audio_desc_available": false,
-                    "venue_id": "43",
-                    "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784647477192819_CWG26_Weightlifting_pictogram_thumbnail.jpg",
+                    "venue_id": "75",
+                    "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536386/thumbnail/1785417305658_1784647477192819_CWG26_Weightlifting_pictogram_thumbnail.jpg",
                     "variant_asset_languages": [],
                     "ad_cluster_id": "ad_cluster_1",
                     "live_label_display": true,
-                    "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784637594434819_CWG26_Weightlifting_pictogram_portrait_thumb.jpg",
+                    "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536386/portraitThumb/1785417305448_1784637594434819_CWG26_Weightlifting_pictogram_portrait_thumb.jpg",
                     "isSponsorAdAvailable": "true",
                     "dai_asset_key": "MddyccyuQ62_PRCt0Hlqqg",
                     "seo_tags": "Glasgow 2026 Commonwealth Games,Glasgow 2026,CWG 2026,Commonwealth Games 2026,Glasgow 2026 India squad,Indian athletes Commonwealth Games 2026,CWG 2026 India schedule,India at Glasgow 2026,Neeraj Chopra Glasgow 2026,Mirabai Chanu CWG 2026,Lovlina Borgohain Commonwealth Games,Praveen Chithravel triple jump Glasgow,Murali Sreeshankar CWG 2026,Parul Chaudhary Commonwealth Games,Pranati Nayak gymnastics Glasgow 2026,Rohit Yadav javelin CWG,Preeti Pawar boxing Glasgow,India medal contenders CWG 2026,Commonwealth Games 2026 live streaming India,Glasgow 2026 sports list,Indian weightlifting team CWG 2026,Indian athletics squad Glasgow 2026,Neeraj Chopra,Mirabai Chanu,Lovlina Borgohain,Praveen Chithravel,Murali Sreeshankar,Parul Chaudhary,Pranati Nayak,Rohit Yadav,Preeti Pawar",
@@ -713,7 +713,7 @@
                     "SVOD_countries": "_in,_bd,_np,_mv,_bt,_lk,_af,_pk",
                     "is_subtitle_cc_available": false,
                     "ssai_partners": "Google DAI",
-                    "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784647477192819_CWG26_Weightlifting_pictogram_thumbnail.jpg",
+                    "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536386/landscapeThumb/1785417305588_1784647474588819_CWG26_Weightlifting_pictogram_landscape_thumb.jpg",
                     "audio_language_list": [
                         {
                             "lang_code": "ENG",
