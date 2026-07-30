@@ -2,19 +2,16 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 02:20:34 AM 31-07-2026
+# last_update: 02:50:36 AM 31-07-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090536386" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536386/thumbnail/1785441610000_1784647811561819_CWG26_Netball_pictogram_thumbnail.jpg" group-title="Netball", England vs South Africa - Pool A - Netball - 30 Jul 2026 | Glasgow 2026 Commonwealth Games
-https://sonydaimenew.akamaized.net/hls/live/20000389/CWG_Stre3007/ENG/master.m3u8?hdnea=exp=1785450036~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=c854f89396886934232e7359580261b5b8b68b3098ea656679eef8f1223183f4
+https://sonydaimenew.akamaized.net/hls/live/20000389/CWG_Stre3007/ENG/master.m3u8?hdnea=exp=1785466240~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=7071763e51c380eae2d1b50c5ff8c1f93fb803153f95f1f40fa5c442aeb55405
 
 #EXTINF:-1 tvg-id="sonyliv-1090536268" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/thumbnail/1785442743506_1784647626419819_CWG26_Athletics_pictogram_thumbnail.jpg" group-title="Athletics", Women's 5000m - Athletics - 30 Jul 2026 | Glasgow 2026 Commonwealth Games
 https://sonydaimenew.akamaized.net/hls/live/20000386/CWG_Stre3007/ENG/master.m3u8?hdnea=exp=1785453638~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=05bf0ac1a9f84aed6248cede05f9e1f4ec1dd32faaf866755b7cea396567dc35
 
 #EXTINF:-1 tvg-id="sonyliv-1090536385" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/thumbnail/1785439969529_1784647626419819_CWG26_Athletics_pictogram_thumbnail.jpg" group-title="Athletics", Women's Discus Throw - Athletics - 30 Jul 2026 | Glasgow 2026 Commonwealth Games
-https://sonydaimenew.akamaized.net/hls/live/20000387/CWG_Stre3007/ENG/master.m3u8?hdnea=exp=1785451830~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=a86fdaa632fde80d790297364a48f9a4765db42a9d37b31d993beff9d9a87c71
+https://sonydaimenew.akamaized.net/hls/live/20000387/CWG_Stre3007/ENG/master.m3u8?hdnea=exp=1785466247~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=f0ea32fcc13973dd390b9cc3cfe193b439b5eff4a7f4c6a6bbc10ad4182ce25f
 
 #EXTINF:-1 tvg-id="sonyliv-1090536387" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536387/thumbnail/1785440108066_1784647162182819_CWG26_Bowls_and_Para_Bowls_pictogram_thumbnail.jpg" group-title="Bowls and Para Bowls", Scotland vs New Zealand - Women's Pairs - Bowls and Para Bowls - 30 Jul 2026 | Glasgow 2026 Commonwealth Games
 https://sonydaimenew.akamaized.net/hls/live/20000390/CWG_Stre3007/ENG/master.m3u8?hdnea=exp=1785453645~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=9aace87c4de7b47b6ea334b5fb6750feff69a9cc15d2059e0f237eba4b8659f3
-
-#EXTINF:-1 tvg-id="sonyliv-1090537855" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020826/1784751259599115_The_Hundred2026_mens_Southern_Brave_vs_Birmingham_Phoenix_landscape_thumb.jpg" group-title="Cricket", Southern Brave vs Birmingham Phoenix - 30 Jul 2026 | The Hundred 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2022322/DAI18-HMEN/master.m3u8?hdnea=exp=1785453654~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=8f53cacd349aff45451a2a3d2b9901ef86630dcbcd83c52dd91e1ed8b1e773df
