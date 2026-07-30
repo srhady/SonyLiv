@@ -2,18 +2,18 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 01:50:24 AM 31-07-2026
+# last_update: 02:20:34 AM 31-07-2026
 
-#EXTINF:-1 tvg-id="sonyliv-1090536386" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021380/1785357847723917_CWG_Weightlifting_LOVEPREET_SINGH_landscape_thumb.jpg" group-title="Weightlifting", Men's +110kg - Weightlifting - 30 Jul 2026 | Glasgow 2026 Commonwealth Games
+#EXTINF:-1 tvg-id="sonyliv-1090536386" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536386/thumbnail/1785441610000_1784647811561819_CWG26_Netball_pictogram_thumbnail.jpg" group-title="Netball", England vs South Africa - Pool A - Netball - 30 Jul 2026 | Glasgow 2026 Commonwealth Games
 https://sonydaimenew.akamaized.net/hls/live/20000389/CWG_Stre3007/ENG/master.m3u8?hdnea=exp=1785450036~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=c854f89396886934232e7359580261b5b8b68b3098ea656679eef8f1223183f4
 
-#EXTINF:-1 tvg-id="sonyliv-1090536268" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/thumbnail/1785440682033_1784647626419819_CWG26_Athletics_pictogram_thumbnail.jpg" group-title="Athletics", Men's 800m - Athletics - 30 Jul 2026 | Glasgow 2026 Commonwealth Games
+#EXTINF:-1 tvg-id="sonyliv-1090536268" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/thumbnail/1785442743506_1784647626419819_CWG26_Athletics_pictogram_thumbnail.jpg" group-title="Athletics", Women's 5000m - Athletics - 30 Jul 2026 | Glasgow 2026 Commonwealth Games
 https://sonydaimenew.akamaized.net/hls/live/20000386/CWG_Stre3007/ENG/master.m3u8?hdnea=exp=1785453638~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=05bf0ac1a9f84aed6248cede05f9e1f4ec1dd32faaf866755b7cea396567dc35
 
 #EXTINF:-1 tvg-id="sonyliv-1090536385" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/thumbnail/1785439969529_1784647626419819_CWG26_Athletics_pictogram_thumbnail.jpg" group-title="Athletics", Women's Discus Throw - Athletics - 30 Jul 2026 | Glasgow 2026 Commonwealth Games
 https://sonydaimenew.akamaized.net/hls/live/20000387/CWG_Stre3007/ENG/master.m3u8?hdnea=exp=1785451830~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=a86fdaa632fde80d790297364a48f9a4765db42a9d37b31d993beff9d9a87c71
 
-#EXTINF:-1 tvg-id="sonyliv-1090536387" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536387/thumbnail/1785440108066_1784647162182819_CWG26_Bowls_and_Para_Bowls_pictogram_thumbnail.jpg" group-title="Bowls and Para Bowls", Fiji vs Pakistan - Men's Pairs - Bowls and Para Bowls - 30 Jul 2026 | Glasgow 2026 Commonwealth Games
+#EXTINF:-1 tvg-id="sonyliv-1090536387" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536387/thumbnail/1785440108066_1784647162182819_CWG26_Bowls_and_Para_Bowls_pictogram_thumbnail.jpg" group-title="Bowls and Para Bowls", Scotland vs New Zealand - Women's Pairs - Bowls and Para Bowls - 30 Jul 2026 | Glasgow 2026 Commonwealth Games
 https://sonydaimenew.akamaized.net/hls/live/20000390/CWG_Stre3007/ENG/master.m3u8?hdnea=exp=1785453645~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=9aace87c4de7b47b6ea334b5fb6750feff69a9cc15d2059e0f237eba4b8659f3
 
 #EXTINF:-1 tvg-id="sonyliv-1090537855" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020826/1784751259599115_The_Hundred2026_mens_Southern_Brave_vs_Birmingham_Phoenix_landscape_thumb.jpg" group-title="Cricket", Southern Brave vs Birmingham Phoenix - 30 Jul 2026 | The Hundred 2026
