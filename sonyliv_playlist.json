@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "05:50:31 PM 30-07-2026"
+        "last_update": "06:20:25 PM 30-07-2026"
     },
     "live_matches": [
         {
@@ -233,12 +233,12 @@
                 "contentType": "VOD",
                 "contentSubtype": "LIVE_SPORT",
                 "title": "Glasgow 2026 Commonwealth Games",
-                "longDescription": "Watch all the exclusive action from the Athletics in the Women's 400m, LIVE on Sony LIV.",
-                "shortDescription": "Watch all the exclusive action from the Athletics in the Women's 400m, LIVE on Sony LIV.",
+                "longDescription": "Watch all the exclusive action from the Athletics in the Men's 400m, LIVE on Sony LIV.",
+                "shortDescription": "Watch all the exclusive action from the Athletics in the Men's 400m, LIVE on Sony LIV.",
                 "isCopyProtected": false,
                 "contractStartDate": 1785399600000,
                 "contractEndDate": 1785464400000,
-                "episodeTitle": "Women's 400m - Athletics - 30 Jul 2026",
+                "episodeTitle": "Men's 400m - Athletics - 30 Jul 2026",
                 "genres": [
                     "Athletics"
                 ],
@@ -267,7 +267,7 @@
                     "advertising": "AD SUPPORTED",
                     "isdvr": "No",
                     "emaAttributes": {},
-                    "tv_background_image": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/tvBackgroundImage/1785411925937_1784648226268819_CWG26_Athletics_pictogram_tv_bg.jpg",
+                    "tv_background_image": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/tvBackgroundImage/1785413951331_1784648226268819_CWG26_Athletics_pictogram_tv_bg.jpg",
                     "granular_access_configs": true,
                     "U": "IN",
                     "country_rating": {
@@ -275,15 +275,15 @@
                         "3+": "BD,NP,LK,PK,AF,BT,MV"
                     },
                     "3+": "BD,NP,LK,PK,AF,BT,MV",
-                    "player_name": "Caitlyn Bobb, Mauren Akiiki Banura, Patience Okon George, Esther Elo Joseph, Obakeng Kamberuka, Mercy Adongo Oketch, Yemi Mary John, Shana Kaye Anderson",
+                    "player_name": "Michael Joseph, Desean Boyce, Amal Glasgow, Christopher Morales Williams, Thomas Reynolds, Kelvin Kiprotich Tonui, Muzala Samukonga, Delano Kennedy",
                     "value": "SVOD",
                     "is_audio_desc_available": false,
                     "venue_id": "40",
-                    "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/thumbnail/1785411925860_1784647626419819_CWG26_Athletics_pictogram_thumbnail.jpg",
+                    "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/thumbnail/1785413951246_1784647626419819_CWG26_Athletics_pictogram_thumbnail.jpg",
                     "variant_asset_languages": [],
                     "ad_cluster_id": "ad_cluster_1",
                     "live_label_display": true,
-                    "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/portraitThumb/1785411925658_1784635109073819_CWG26_Athletics_pictogram_portrait_thumb.jpg",
+                    "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/portraitThumb/1785413951027_1784635109073819_CWG26_Athletics_pictogram_portrait_thumb.jpg",
                     "isSponsorAdAvailable": "true",
                     "dai_asset_key": "qnMAwRj7S8WFh8IOymEbTg",
                     "match_start_time": "1785401400",
@@ -293,7 +293,7 @@
                     "SVOD_countries": "_in,_bd,_np,_mv,_bt,_lk,_af,_pk",
                     "is_subtitle_cc_available": false,
                     "ssai_partners": "Google DAI",
-                    "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/landscapeThumb/1785411925765_1784647629918819_CWG26_Athletics_pictogram_landscape_thumb.jpg",
+                    "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/landscapeThumb/1785413951166_1784647629918819_CWG26_Athletics_pictogram_landscape_thumb.jpg",
                     "audio_language_list": [
                         {
                             "lang_code": "ENG",
@@ -490,6 +490,7 @@
                     "venue_id": "66",
                     "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/thumbnail/1785411903485_1784647162182819_CWG26_Bowls_and_Para_Bowls_pictogram_thumbnail.jpg",
                     "variant_asset_languages": [],
+                    "broadcast_channel_hin": "लिव",
                     "ad_cluster_id": "ad_cluster_1",
                     "live_label_display": true,
                     "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/portraitThumb/1785411903265_1784635752092819_CWG26_Bowls_and_Para_Bowls_pictogram_portrait_thumb.jpg",
@@ -510,6 +511,7 @@
                         }
                     ],
                     "Maximum_Audio_Quality": "STEREO",
+                    "team_hin": "मलेशिया निउए",
                     "sub_license": "No",
                     "is_auto_play_trailer": true,
                     "integrated_splash_available": "Yes",
@@ -541,7 +543,7 @@
                 "resultObj": {
                     "showPlayerStats": false,
                     "is_preview_enabled": false,
-                    "videoURL": "https://sonydaimenew.akamaized.net/hls/live/20000387/CWG_Stre3007/ENG/master.m3u8?hdnea=exp=1785417631~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=c3617ced2807f37b1ba2c4c9acdff9a174ebb32ba1305076c8947f4fdbcd10d6",
+                    "videoURL": "https://sonydaimenew.akamaized.net/hls/live/20000387/CWG_Stre3007/ENG/master.m3u8?hdnea=exp=1785435631~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=ff15f7820261e18976daa92eaab42a1f958a6ecb23162baed6d91934f814f059",
                     "multiLanguageVideoURL": [],
                     "audioLanguages": [
                         {
@@ -637,7 +639,7 @@
                     "multiAudioTrack": true,
                     "packId": "liv_premium_GP_1m"
                 },
-                "systemTime": 1785396031615
+                "systemTime": 1785414031579
             }
         },
         {
@@ -909,6 +911,7 @@
                     "venue_id": "69",
                     "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536387/thumbnail/1785411954612_1784647162182819_CWG26_Bowls_and_Para_Bowls_pictogram_thumbnail.jpg",
                     "variant_asset_languages": [],
+                    "broadcast_channel_hin": "लिव",
                     "ad_cluster_id": "ad_cluster_1",
                     "live_label_display": true,
                     "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536387/portraitThumb/1785411954396_1784635752092819_CWG26_Bowls_and_Para_Bowls_pictogram_portrait_thumb.jpg",
