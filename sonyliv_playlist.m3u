@@ -2,10 +2,7 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 09:20:28 PM 30-07-2026
-
-#EXTINF:-1 tvg-id="sonyliv-1090537866" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020980/178496130047498_Durand_cup_26_Samaleswari-Sporting-vs-Baghpat-FC_landscape_thumb.jpg" group-title="Football", Samaleswari Sporting vs Baghpat FC - 30 Jul 2026 | IndianOil Durand Cup 2026
-https://sonydaimenew.akamaized.net/hls/live/20000296/Football3007/ENG/master.m3u8?hdnea=exp=1785437430~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=bb1e8d80292144beeb41312698b200663658c9137b9bca9d43c4ec6f893290b5
+# last_update: 09:50:29 PM 30-07-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090536268" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/thumbnail/1785423608503_1784647811561819_CWG26_Netball_pictogram_thumbnail.jpg" group-title="Netball", Australia vs Northern Ireland - Pool A - Netball - 30 Jul 2026 | Glasgow 2026 Commonwealth Games
 https://sonydaimenew.akamaized.net/hls/live/20000386/CWG_Stre3007/ENG/master.m3u8?hdnea=exp=1785437438~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=e80b370b234b84f3b88acbe30c1b71c64d916b7337c776562ef679ee2e9f86dd
@@ -13,10 +10,10 @@ https://sonydaimenew.akamaized.net/hls/live/20000386/CWG_Stre3007/ENG/master.m3u
 #EXTINF:-1 tvg-id="sonyliv-1090536385" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/thumbnail/1785424646244_1784647162182819_CWG26_Bowls_and_Para_Bowls_pictogram_thumbnail.jpg" group-title="Bowls and Para Bowls", Emma Firyana Saroji vs Nayanmoni Saikia - Women's Singles - Bowls and Para Bowls - 30 Jul 2026 | Glasgow 2026 Commonwealth Games
 https://sonydaimenew.akamaized.net/hls/live/20000387/CWG_Stre3007/ENG/master.m3u8?hdnea=exp=1785435631~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=ff15f7820261e18976daa92eaab42a1f958a6ecb23162baed6d91934f814f059
 
-#EXTINF:-1 tvg-id="sonyliv-1090536386" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784647474588819_CWG26_Weightlifting_pictogram_landscape_thumb.jpg" group-title="Weightlifting", Women's +86kg - Weightlifting - 30 Jul 2026 | Glasgow 2026 Commonwealth Games
+#EXTINF:-1 tvg-id="sonyliv-1090536386" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536386/thumbnail/1785424978399_1784647162182819_CWG26_Bowls_and_Para_Bowls_pictogram_thumbnail.jpg" group-title="Bowls and Para Bowls", Ellen Fife vs Connie-Leigh Rixon - Women's Singles - Bowls and Para Bowls - 30 Jul 2026 | Glasgow 2026 Commonwealth Games
 https://sonydaimenew.akamaized.net/hls/live/20000389/CWG_Stre3007/ENG/master.m3u8?hdnea=exp=1785433838~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=f21c89577fe5526b3aa5604e590f5cc7e590a9d519616798cf01158dae0d3636
 
-#EXTINF:-1 tvg-id="sonyliv-1090536387" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536387/thumbnail/1785424330093_1784647770880819_CWG26_Cycling_pictogram_thumbnail.jpg" group-title="Cycling", Men's Tandem B 1000m Time Trial - Cycling - 30 Jul 2026 | Glasgow 2026 Commonwealth Games
+#EXTINF:-1 tvg-id="sonyliv-1090536387" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536387/thumbnail/1785426189136_1784647770880819_CWG26_Cycling_pictogram_thumbnail.jpg" group-title="Cycling", Women's Tandem B Sprint - Cycling - 30 Jul 2026 | Glasgow 2026 Commonwealth Games
 https://sonydaimenew.akamaized.net/hls/live/20000390/CWG_Stre3007/ENG/master.m3u8?hdnea=exp=1785437445~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=5853fefe16d852107350eba86e40ac65dcf0e6820a31d9d95d81686dd858e189
 
 #EXTINF:-1 tvg-id="sonyliv-1090537849" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020826/1784751252313115_The_Hundred2026_womens_Southern_Brave_vs_Birmingham_Phoenix_landscape_thumb.jpg" group-title="Cricket", Southern Brave vs Birmingham Phoenix - 30 Jul 2026 | The Hundred 2026 (Women's)
