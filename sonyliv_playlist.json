@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "01:50:25 AM 01-08-2026"
+        "last_update": "02:20:29 AM 01-08-2026"
     },
     "live_matches": [
         {
@@ -16,12 +16,12 @@
                 "contentType": "VOD",
                 "contentSubtype": "LIVE_SPORT",
                 "title": "Glasgow 2026 Commonwealth Games",
-                "longDescription": "Watch all the exclusive action from the Boxing in the Men's 60kg, LIVE on Sony LIV.",
-                "shortDescription": "Watch all the exclusive action from the Boxing in the Men's 60kg, LIVE on Sony LIV.",
+                "longDescription": "Watch all the exclusive action from the Boxing in the Men's 90+kg, LIVE on Sony LIV.",
+                "shortDescription": "Watch all the exclusive action from the Boxing in the Men's 90+kg, LIVE on Sony LIV.",
                 "isCopyProtected": false,
                 "contractStartDate": 1785481500000,
                 "contractEndDate": 1785557700000,
-                "episodeTitle": "Jude Gallagher vs Tryagain Morning Ndevelo - Men's 60kg - Boxing - 31 Jul 2026",
+                "episodeTitle": "Narender Narender vs Nigel Paul - Men's 90+kg - Boxing - 31 Jul 2026",
                 "genres": [
                     "Boxing"
                 ],
@@ -40,22 +40,21 @@
                     "packageid": "12m_mobile_saarc,Liv_Pre_Yupp,12m_saarc,1m_saarc,liv_premium_GP_1m,liv_premium_GP_1m_mobile,LIV_Pre_Mob_1M,liv_binge_1m",
                     "masthead_logo_rectangualar": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536386/mastheadLogoRectangualar/178291361572592_Commonwealth_Games_2026_GOB_masthead_logo_rectangualar_950x570_LIVE.png",
                     "Maximum_Resolution": "FULL_HD",
-                    "masthead_logo_v1": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021488/1785310988992675_CWG_day8_live_27july_Masthead_logo_v1.png",
+                    "masthead_logo_v1": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021400/1785366357223496_CWG26_Day8_Live_masthead_logo_v1.png",
                     "advertising": "AD SUPPORTED",
                     "emaAttributes": {},
-                    "tv_background_image": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536386/tvBackgroundImage/1785526714561_1784648168177819_CWG26_Boxing_pictogram_tv_bg.jpg",
+                    "tv_background_image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021462/1785442389212873_CWG_Boxing_SemiFinal_NARENDER_vs_NIGEL_tv_bg.jpg",
                     "granular_access_configs": true,
-                    "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021546/1785519944273689_CWG_31st_July_FixturesV9_live_Combo_masthead_mobile_v2.jpg",
-                    "player_name": "Jude Gallagher, Tryagain Morning Ndevelo",
+                    "player_name": "Narender Narender, Nigel Paul",
                     "venue_id": "74",
-                    "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536386/thumbnail/1785526714470_1784647659853819_CWG26_Boxing_pictogram_thumbnail.jpg",
+                    "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021404/1785367845582494_CWG26_generic_day8_landscape_thumb.jpg",
                     "variant_asset_languages": [],
                     "ad_cluster_id": "ad_cluster_1",
-                    "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536386/portraitThumb/1785526714267_1784636551144819_CWG26_Boxing_pictogram_portrait_thumb.jpg",
+                    "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021404/1785367959986494_CWG26_generic_day8_portrait_thumb.jpg",
                     "isSponsorAdAvailable": "true",
                     "is_subtitle_cc_available": false,
                     "ssai_partners": "Google DAI",
-                    "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536386/landscapeThumb/1785526714386_1784647663933819_CWG26_Boxing_pictogram_landscape_thumb.jpg",
+                    "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021404/1785367845582494_CWG26_generic_day8_landscape_thumb.jpg",
                     "audio_language_list": [
                         {
                             "lang_code": "ENG",
@@ -92,7 +91,6 @@
                     "SVOD_countries": "_in,_bd,_np,_mv,_bt,_lk,_af,_pk",
                     "is_auto_play_trailer": true,
                     "integrated_splash_available": "Yes",
-                    "masthead_large_v3": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021546/1785519958401689_CWG_31st_July_FixturesV9_live_Combo_masthead_large_v3.jpg",
                     "isDVR": false,
                     "isTimeLineMarker": false,
                     "isDownloadable": false,
@@ -120,7 +118,7 @@
                 "resultObj": {
                     "showPlayerStats": false,
                     "is_preview_enabled": false,
-                    "videoURL": "https://sonydaimenew.akamaized.net/hls/live/20000301/CWG_STre3107/ENG/master.m3u8?hdnea=exp=1785534642~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=46e278be42bdc675e6fbb784c8c1c7e950ff331bfca205b692b78fceeaf16b5f",
+                    "videoURL": "https://sonydaimenew.akamaized.net/hls/live/20000301/CWG_STre3107/ENG/master.m3u8?hdnea=exp=1785550833~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=8ddb25d69033e17730c48acba33ae4a1d847a7755c8cc36a53a30c23ba0bc8d0",
                     "multiLanguageVideoURL": [],
                     "audioLanguages": [
                         {
@@ -216,7 +214,7 @@
                     "multiAudioTrack": true,
                     "packId": "liv_premium_GP_1m"
                 },
-                "systemTime": 1785513042704
+                "systemTime": 1785529233663
             }
         },
         {
@@ -229,12 +227,12 @@
                 "contentType": "VOD",
                 "contentSubtype": "LIVE_SPORT",
                 "title": "Glasgow 2026 Commonwealth Games",
-                "longDescription": "Watch all the exclusive action from the Athletics in the Women's 800m, LIVE on Sony LIV.",
-                "shortDescription": "Watch all the exclusive action from the Athletics in the Women's 800m, LIVE on Sony LIV.",
+                "longDescription": "Watch all the exclusive action from the Athletics in the Men's 400m Hurdles, LIVE on Sony LIV.",
+                "shortDescription": "Watch all the exclusive action from the Athletics in the Men's 400m Hurdles, LIVE on Sony LIV.",
                 "isCopyProtected": false,
                 "contractStartDate": 1785486000000,
                 "contractEndDate": 1785558000000,
-                "episodeTitle": "Women's 800m - Athletics - 31 Jul 2026",
+                "episodeTitle": "Men's 400m Hurdles - Athletics - 31 Jul 2026",
                 "genres": [
                     "Athletics"
                 ],
@@ -263,7 +261,7 @@
                     "advertising": "AD SUPPORTED",
                     "isdvr": "No",
                     "emaAttributes": {},
-                    "tv_background_image": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/tvBackgroundImage/1785525851165_1784648226268819_CWG26_Athletics_pictogram_tv_bg.jpg",
+                    "tv_background_image": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/tvBackgroundImage/1785528006840_1784648226268819_CWG26_Athletics_pictogram_tv_bg.jpg",
                     "granular_access_configs": true,
                     "U": "IN",
                     "country_rating": {
@@ -271,16 +269,15 @@
                         "3+": "BD,NP,LK,PK,AF,BT,MV"
                     },
                     "3+": "BD,NP,LK,PK,AF,BT,MV",
-                    "player_name": "Rachel Klopfenstein, Kelly-Ann Beckford, Shafiqua Maloney, Sarah Billings, Georgia Hunter Bell, Oratile Nowe, Lilian Odira, Isabelle Boffey",
+                    "player_name": "Yashas Palaksha, Santhosh Kumar Tamilarasan, Dennick Luke, Alastair Chalmers, Seamus Derbyshire, Ezekiel Nathaniel, Jake Minshull, Assinie Wilson",
                     "value": "SVOD",
                     "is_audio_desc_available": false,
                     "venue_id": "40",
-                    "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/thumbnail/1785525851088_1784647626419819_CWG26_Athletics_pictogram_thumbnail.jpg",
+                    "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784647626419819_CWG26_Athletics_pictogram_thumbnail.jpg",
                     "variant_asset_languages": [],
-                    "broadcast_channel_hin": "लिव",
                     "ad_cluster_id": "ad_cluster_1",
                     "live_label_display": true,
-                    "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/portraitThumb/1785525850887_1784635109073819_CWG26_Athletics_pictogram_portrait_thumb.jpg",
+                    "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/portraitThumb/1785528006578_1784635109073819_CWG26_Athletics_pictogram_portrait_thumb.jpg",
                     "isSponsorAdAvailable": "true",
                     "dai_asset_key": "pGJnk1s2SwyeM8pq_uT2_A",
                     "seo_tags": "Glasgow 2026 Commonwealth Games,Glasgow 2026,CWG 2026,Commonwealth Games 2026,Glasgow 2026 India squad,Indian athletes Commonwealth Games 2026,CWG 2026 India schedule,India at Glasgow 2026,Neeraj Chopra Glasgow 2026,Mirabai Chanu CWG 2026,Lovlina Borgohain Commonwealth Games,Praveen Chithravel triple jump Glasgow,Murali Sreeshankar CWG 2026,Parul Chaudhary Commonwealth Games,Pranati Nayak gymnastics Glasgow 2026,Rohit Yadav javelin CWG,Preeti Pawar boxing Glasgow,India medal contenders CWG 2026,Commonwealth Games 2026 live streaming India,Glasgow 2026 sports list,Indian weightlifting team CWG 2026,Indian athletics squad Glasgow 2026,Neeraj Chopra,Mirabai Chanu,Lovlina Borgohain,Praveen Chithravel,Murali Sreeshankar,Parul Chaudhary,Pranati Nayak,Rohit Yadav,Preeti Pawar",
@@ -289,7 +286,7 @@
                     "SVOD_countries": "_in,_bd,_np,_mv,_bt,_lk,_af,_pk",
                     "is_subtitle_cc_available": false,
                     "ssai_partners": "Google DAI",
-                    "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/landscapeThumb/1785525851005_1784647629918819_CWG26_Athletics_pictogram_landscape_thumb.jpg",
+                    "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784647626419819_CWG26_Athletics_pictogram_thumbnail.jpg",
                     "audio_language_list": [
                         {
                             "lang_code": "ENG",
@@ -486,6 +483,7 @@
                     "venue_id": "66",
                     "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/thumbnail/1785526805827_1784647162182819_CWG26_Bowls_and_Para_Bowls_pictogram_thumbnail.jpg",
                     "variant_asset_languages": [],
+                    "broadcast_channel_hin": "लिव",
                     "ad_cluster_id": "ad_cluster_1",
                     "live_label_display": true,
                     "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/portraitThumb/1785526805505_1784635752092819_CWG26_Bowls_and_Para_Bowls_pictogram_portrait_thumb.jpg",

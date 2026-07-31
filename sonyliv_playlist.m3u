@@ -2,12 +2,12 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 01:50:25 AM 01-08-2026
+# last_update: 02:20:29 AM 01-08-2026
 
-#EXTINF:-1 tvg-id="sonyliv-1090536386" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536386/thumbnail/1785526714470_1784647659853819_CWG26_Boxing_pictogram_thumbnail.jpg" group-title="Boxing", Jude Gallagher vs Tryagain Morning Ndevelo - Men's 60kg - Boxing - 31 Jul 2026 | Glasgow 2026 Commonwealth Games
-https://sonydaimenew.akamaized.net/hls/live/20000301/CWG_STre3107/ENG/master.m3u8?hdnea=exp=1785534642~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=46e278be42bdc675e6fbb784c8c1c7e950ff331bfca205b692b78fceeaf16b5f
+#EXTINF:-1 tvg-id="sonyliv-1090536386" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021404/1785367845582494_CWG26_generic_day8_landscape_thumb.jpg" group-title="Boxing", Narender Narender vs Nigel Paul - Men's 90+kg - Boxing - 31 Jul 2026 | Glasgow 2026 Commonwealth Games
+https://sonydaimenew.akamaized.net/hls/live/20000301/CWG_STre3107/ENG/master.m3u8?hdnea=exp=1785550833~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=8ddb25d69033e17730c48acba33ae4a1d847a7755c8cc36a53a30c23ba0bc8d0
 
-#EXTINF:-1 tvg-id="sonyliv-1090536268" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/thumbnail/1785525851088_1784647626419819_CWG26_Athletics_pictogram_thumbnail.jpg" group-title="Athletics", Women's 800m - Athletics - 31 Jul 2026 | Glasgow 2026 Commonwealth Games
+#EXTINF:-1 tvg-id="sonyliv-1090536268" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784647626419819_CWG26_Athletics_pictogram_thumbnail.jpg" group-title="Athletics", Men's 400m Hurdles - Athletics - 31 Jul 2026 | Glasgow 2026 Commonwealth Games
 https://sonydaimenew.akamaized.net/hls/live/20000296/CWG_Stre3107/ENG/master.m3u8?hdnea=exp=1785540030~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=05efe01303fbde596b2be16819de4c3b2188324851a61bc0b22cd8e45e652e73
 
 #EXTINF:-1 tvg-id="sonyliv-1090536385" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/thumbnail/1785526805827_1784647162182819_CWG26_Bowls_and_Para_Bowls_pictogram_thumbnail.jpg" group-title="Bowls and Para Bowls", Ali Merrien vs Tayla Bruce - Women's Singles - Bowls and Para Bowls - 31 Jul 2026 | Glasgow 2026 Commonwealth Games
