@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "05:50:25 PM 31-07-2026"
+        "last_update": "06:20:32 PM 31-07-2026"
     },
     "live_matches": [
         {
@@ -282,6 +282,7 @@
                     "team_hin": "वेल्स मलेशिया",
                     "sub_license": "No",
                     "matchid": "",
+                    "isTimeLineMarker_new": "true",
                     "venue_name": "SEC Hall 3 - Rink 4",
                     "region_of_origin": "English",
                     "svod_advertising": "true",
@@ -653,12 +654,12 @@
                 "contentType": "VOD",
                 "contentSubtype": "LIVE_SPORT",
                 "title": "Glasgow 2026 Commonwealth Games",
-                "longDescription": "Watch all the exclusive action from the Bowls and Para Bowls in the Men's Pairs, LIVE on Sony LIV.",
-                "shortDescription": "Watch all the exclusive action from the Bowls and Para Bowls in the Men's Pairs, LIVE on Sony LIV.",
+                "longDescription": "Watch all the exclusive action from Glasgow 2026 Commonwealth Games, LIVE on Sony LIV.",
+                "shortDescription": "Watch all the exclusive action from Glasgow 2026 Commonwealth Games, LIVE on Sony LIV.",
                 "isCopyProtected": false,
                 "contractStartDate": 1785482400000,
                 "contractEndDate": 1785554400000,
-                "episodeTitle": "India vs Falkland Islands - Men's Pairs - Bowls and Para Bowls - 31 Jul 2026",
+                "episodeTitle": "Judo - Repechage - 31 Jul 2026",
                 "genres": [
                     "Bowls and Para Bowls"
                 ],
@@ -687,7 +688,7 @@
                     "advertising": "AD SUPPORTED",
                     "isdvr": "No",
                     "emaAttributes": {},
-                    "tv_background_image": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/tvBackgroundImage/1785498309292_1784647341457819_CWG26_Bowls_and_Para_Bowls_pictogram_tv_bg.jpg",
+                    "tv_background_image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784648069618819_CWG26_Judo_pictogram_tv_bg.jpg",
                     "granular_access_configs": true,
                     "U": "IN",
                     "country_rating": {
@@ -699,11 +700,11 @@
                     "value": "SVOD",
                     "is_audio_desc_available": false,
                     "venue_id": "68",
-                    "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/thumbnail/1785498309200_1784647162182819_CWG26_Bowls_and_Para_Bowls_pictogram_thumbnail.jpg",
+                    "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784647795900819_CWG26_Judo_pictogram_landscape_thumb.jpg",
                     "variant_asset_languages": [],
                     "ad_cluster_id": "ad_cluster_1",
                     "live_label_display": true,
-                    "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/portraitThumb/1785498308977_1784635752092819_CWG26_Bowls_and_Para_Bowls_pictogram_portrait_thumb.jpg",
+                    "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784637191637819_CWG26_Judo_pictogram_portrait_thumb.jpg",
                     "isSponsorAdAvailable": "true",
                     "dai_asset_key": "_wNibTTjRKGbTJkQbT7_mQ",
                     "team": "India, Falkland Islands",
@@ -713,7 +714,7 @@
                     "SVOD_countries": "_in,_bd,_np,_mv,_bt,_lk,_af,_pk",
                     "is_subtitle_cc_available": false,
                     "ssai_partners": "Google DAI",
-                    "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/landscapeThumb/1785498309125_1784647154993819_CWG26_Bowls_and_Para_Bowls_pictogram_landscape_thumb.jpg",
+                    "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784647795900819_CWG26_Judo_pictogram_landscape_thumb.jpg",
                     "audio_language_list": [
                         {
                             "lang_code": "ENG",
@@ -908,11 +909,12 @@
                     "value": "SVOD",
                     "is_audio_desc_available": false,
                     "venue_id": "70",
-                    "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021495/1785490497111182_CWG26_TRACK_CYCLING_MENS_ELIMINATION_DINESH_KUMAR_HARSHVEER_SINGH_heat1_landscape_thumb.jpg",
+                    "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021503/1785498799033874_CWG26_TRACK_CYCLING_MENS_ELIMINATION_DINESH_KUMAR_HARSHVEER_SINGH_heat1r_landscape_thumb.jpg",
                     "variant_asset_languages": [],
+                    "broadcast_channel_hin": "लिव",
                     "ad_cluster_id": "ad_cluster_1",
                     "live_label_display": true,
-                    "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021495/1785490565656182_CWG26_TRACK_CYCLING_MENS_ELIMINATION_DINESH_KUMAR_HARSHVEER_SINGH_heat1_live_portrait_thumb.jpg",
+                    "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021503/1785498870698874_CWG26_TRACK_CYCLING_MENS_ELIMINATION_DINESH_KUMAR_HARSHVEER_SINGH_heat1_live_portrait_thumb.jpg",
                     "isSponsorAdAvailable": "true",
                     "dai_asset_key": "LA0EX6hcTYS2k4VVDy3k2A",
                     "seo_tags": "Glasgow 2026 Commonwealth Games,Glasgow 2026,CWG 2026,Commonwealth Games 2026,Glasgow 2026 India squad,Indian athletes Commonwealth Games 2026,CWG 2026 India schedule,India at Glasgow 2026,Neeraj Chopra Glasgow 2026,Mirabai Chanu CWG 2026,Lovlina Borgohain Commonwealth Games,Praveen Chithravel triple jump Glasgow,Murali Sreeshankar CWG 2026,Parul Chaudhary Commonwealth Games,Pranati Nayak gymnastics Glasgow 2026,Rohit Yadav javelin CWG,Preeti Pawar boxing Glasgow,India medal contenders CWG 2026,Commonwealth Games 2026 live streaming India,Glasgow 2026 sports list,Indian weightlifting team CWG 2026,Indian athletics squad Glasgow 2026,Neeraj Chopra,Mirabai Chanu,Lovlina Borgohain,Praveen Chithravel,Murali Sreeshankar,Parul Chaudhary,Pranati Nayak,Rohit Yadav,Preeti Pawar",
@@ -921,7 +923,7 @@
                     "SVOD_countries": "_in,_bd,_np,_mv,_bt,_lk,_af,_pk",
                     "is_subtitle_cc_available": false,
                     "ssai_partners": "Google DAI",
-                    "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021495/1785490497111182_CWG26_TRACK_CYCLING_MENS_ELIMINATION_DINESH_KUMAR_HARSHVEER_SINGH_heat1_landscape_thumb.jpg",
+                    "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021503/1785498799033874_CWG26_TRACK_CYCLING_MENS_ELIMINATION_DINESH_KUMAR_HARSHVEER_SINGH_heat1r_landscape_thumb.jpg",
                     "audio_language_list": [
                         {
                             "lang_code": "ENG",
