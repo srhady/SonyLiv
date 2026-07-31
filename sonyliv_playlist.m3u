@@ -2,19 +2,19 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 06:20:32 PM 31-07-2026
+# last_update: 06:50:31 PM 31-07-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090537988" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021307/1785285459561595_DC26_Shillong_Lajong_FC_vs_Nongkseh_SS_and_CC_landscape.jpg" group-title="Football", Shillong Lajong FC vs Nongkseh SS &CC  - 31 Jul 2026 | IndianOil Durand Cup 2026
 https://sonydaimenew.akamaized.net/hls/live/20000292/Football3107/ENG/master.m3u8?hdnea=exp=1785514832~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=5feed312f484542f4213d3e14cbad4426705205f07b8a24681dd90f73c4664bb
 
-#EXTINF:-1 tvg-id="sonyliv-1090536386" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784647795900819_CWG26_Judo_pictogram_landscape_thumb.jpg" group-title="Bowls and Para Bowls", Judo - Quarterfinals - 31 Jul 2026 | Glasgow 2026 Commonwealth Games
+#EXTINF:-1 tvg-id="sonyliv-1090536386" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784647795900819_CWG26_Judo_pictogram_landscape_thumb.jpg" group-title="Bowls and Para Bowls", Judo - Repechage - Mat 1 - 31 Jul 2026 | Glasgow 2026 Commonwealth Games
 https://sonydaimenew.akamaized.net/hls/live/20000301/CWG_STre3107/ENG/master.m3u8?hdnea=exp=1785520230~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=6225c29c8d2a786cf073f823e26cb8005a703e0e5e85f94e688de613a2b9ed65
 
 #EXTINF:-1 tvg-id="sonyliv-1090536268" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/thumbnail/1785496965681_1784647626419819_CWG26_Athletics_pictogram_thumbnail.jpg" group-title="Athletics", Men's Decathlon - Athletics - 31 Jul 2026 | Glasgow 2026 Commonwealth Games
-https://sonydaimenew.akamaized.net/hls/live/20000296/CWG_Stre3107/ENG/master.m3u8?hdnea=exp=1785507639~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=852ec4062b4efc49a07079470af5e4558ba4592ef7c6885ab8f18dc414b50cd1
+https://sonydaimenew.akamaized.net/hls/live/20000296/CWG_Stre3107/ENG/master.m3u8?hdnea=exp=1785523836~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=aa3a1bbc56a763e990bd751a0359ee24d0bc1db1a29871800424ca88c60df2e6
 
-#EXTINF:-1 tvg-id="sonyliv-1090536385" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784647795900819_CWG26_Judo_pictogram_landscape_thumb.jpg" group-title="Bowls and Para Bowls", Judo - Repechage - 31 Jul 2026 | Glasgow 2026 Commonwealth Games
+#EXTINF:-1 tvg-id="sonyliv-1090536385" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784647795900819_CWG26_Judo_pictogram_landscape_thumb.jpg" group-title="Bowls and Para Bowls", Judo - Repechage - Mat 2 - 31 Jul 2026 | Glasgow 2026 Commonwealth Games
 https://sonydaimenew.akamaized.net/hls/live/20000291/CWG_Stre3107/ENG/master.m3u8?hdnea=exp=1785520239~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=2c38a12e1b510d9a78872fdfef3420af11e0d53f41ddc561a698f19090ef7927
 
 #EXTINF:-1 tvg-id="sonyliv-1090536387" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021503/1785498799033874_CWG26_TRACK_CYCLING_MENS_ELIMINATION_DINESH_KUMAR_HARSHVEER_SINGH_heat1r_landscape_thumb.jpg" group-title="Cycling", Men's 4000m Ind. Pursuit - Cycling - 31 Jul 2026 | Glasgow 2026 Commonwealth Games
-https://sonydaimenew.akamaized.net/hls/live/20000295/CWG_Stre3107/ENG/master.m3u8?hdnea=exp=1785507645~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=908470857613d75e7e27d6c162a574ccd720e2d0535eff1a75833c257bea2f59
+https://sonydaimenew.akamaized.net/hls/live/20000295/CWG_Stre3107/ENG/master.m3u8?hdnea=exp=1785523846~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=7533b7c6736bc1d84895e338caca519b4557d3a0cc7099af4bc688b3d5921774

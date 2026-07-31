@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "06:20:32 PM 31-07-2026"
+        "last_update": "06:50:31 PM 31-07-2026"
     },
     "live_matches": [
         {
@@ -238,7 +238,7 @@
                 "isCopyProtected": false,
                 "contractStartDate": 1785481500000,
                 "contractEndDate": 1785557700000,
-                "episodeTitle": "Judo - Quarterfinals - 31 Jul 2026",
+                "episodeTitle": "Judo - Repechage - Mat 1 - 31 Jul 2026",
                 "genres": [
                     "Bowls and Para Bowls"
                 ],
@@ -265,7 +265,6 @@
                     "venue_id": "69",
                     "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784647795900819_CWG26_Judo_pictogram_landscape_thumb.jpg",
                     "variant_asset_languages": [],
-                    "broadcast_channel_hin": "लिव",
                     "ad_cluster_id": "ad_cluster_1",
                     "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784637191637819_CWG26_Judo_pictogram_portrait_thumb.jpg",
                     "isSponsorAdAvailable": "true",
@@ -279,7 +278,6 @@
                         }
                     ],
                     "Maximum_Audio_Quality": "STEREO",
-                    "team_hin": "वेल्स मलेशिया",
                     "sub_license": "No",
                     "matchid": "",
                     "isTimeLineMarker_new": "true",
@@ -545,7 +543,7 @@
                 "resultObj": {
                     "showPlayerStats": false,
                     "is_preview_enabled": false,
-                    "videoURL": "https://sonydaimenew.akamaized.net/hls/live/20000296/CWG_Stre3107/ENG/master.m3u8?hdnea=exp=1785507639~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=852ec4062b4efc49a07079470af5e4558ba4592ef7c6885ab8f18dc414b50cd1",
+                    "videoURL": "https://sonydaimenew.akamaized.net/hls/live/20000296/CWG_Stre3107/ENG/master.m3u8?hdnea=exp=1785523836~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=aa3a1bbc56a763e990bd751a0359ee24d0bc1db1a29871800424ca88c60df2e6",
                     "multiLanguageVideoURL": [],
                     "audioLanguages": [
                         {
@@ -641,7 +639,7 @@
                     "multiAudioTrack": true,
                     "packId": "liv_premium_GP_1m"
                 },
-                "systemTime": 1785486039583
+                "systemTime": 1785502236514
             }
         },
         {
@@ -659,7 +657,7 @@
                 "isCopyProtected": false,
                 "contractStartDate": 1785482400000,
                 "contractEndDate": 1785554400000,
-                "episodeTitle": "Judo - Repechage - 31 Jul 2026",
+                "episodeTitle": "Judo - Repechage - Mat 2 - 31 Jul 2026",
                 "genres": [
                     "Bowls and Para Bowls"
                 ],
@@ -962,7 +960,7 @@
                 "resultObj": {
                     "showPlayerStats": false,
                     "is_preview_enabled": false,
-                    "videoURL": "https://sonydaimenew.akamaized.net/hls/live/20000295/CWG_Stre3107/ENG/master.m3u8?hdnea=exp=1785507645~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=908470857613d75e7e27d6c162a574ccd720e2d0535eff1a75833c257bea2f59",
+                    "videoURL": "https://sonydaimenew.akamaized.net/hls/live/20000295/CWG_Stre3107/ENG/master.m3u8?hdnea=exp=1785523846~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=7533b7c6736bc1d84895e338caca519b4557d3a0cc7099af4bc688b3d5921774",
                     "multiLanguageVideoURL": [],
                     "audioLanguages": [
                         {
@@ -1058,7 +1056,7 @@
                     "multiAudioTrack": true,
                     "packId": "liv_premium_GP_1m"
                 },
-                "systemTime": 1785486045688
+                "systemTime": 1785502246586
             }
         }
     ]
