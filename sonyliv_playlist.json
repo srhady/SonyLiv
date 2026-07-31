@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "11:20:24 PM 31-07-2026"
+        "last_update": "11:50:31 PM 31-07-2026"
     },
     "live_matches": [
         {
@@ -21,7 +21,7 @@
                 "isCopyProtected": false,
                 "contractStartDate": 1785481500000,
                 "contractEndDate": 1785557700000,
-                "episodeTitle": "Marie Begue vs Donne Breytenbach - Women -57 kg - Judo - 31 Jul 2026",
+                "episodeTitle": "Acelya Toprak vs Yamini Mourya - Women -57 kg - Judo - 31 Jul 2026",
                 "genres": [
                     "Judo"
                 ],
@@ -40,21 +40,22 @@
                     "packageid": "12m_mobile_saarc,Liv_Pre_Yupp,12m_saarc,1m_saarc,liv_premium_GP_1m,liv_premium_GP_1m_mobile,LIV_Pre_Mob_1M,liv_binge_1m",
                     "masthead_logo_rectangualar": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536386/mastheadLogoRectangualar/178291361572592_Commonwealth_Games_2026_GOB_masthead_logo_rectangualar_950x570_LIVE.png",
                     "Maximum_Resolution": "FULL_HD",
-                    "masthead_logo_v1": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021012/1784985931661612_CWG_Day5_Live_masthead_logo_v1.png",
+                    "masthead_logo_v1": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021488/1785310988992675_CWG_day8_live_27july_Masthead_logo_v1.png",
                     "advertising": "AD SUPPORTED",
                     "emaAttributes": {},
-                    "tv_background_image": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536386/tvBackgroundImage/1785518215594_1784648069618819_CWG26_Judo_pictogram_tv_bg.jpg",
+                    "tv_background_image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021543/1785518863842563_CWG_31st_July_FixturesV8_live_Combo_tv_bg.jpg",
                     "granular_access_configs": true,
-                    "player_name": "Marie Begue, Donne Breytenbach",
+                    "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021543/1785518848702563_CWG_31st_July_FixturesV8_live_Combo_masthead_mobile_v2.jpg",
+                    "player_name": "Acelya Toprak, Yamini Mourya",
                     "venue_id": "64",
-                    "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536386/thumbnail/1785518215515_1784647799948819_CWG26_Judo_pictogram_thumbnail.jpg",
+                    "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536386/thumbnail/1785518734529_1784647799948819_CWG26_Judo_pictogram_thumbnail.jpg",
                     "variant_asset_languages": [],
                     "ad_cluster_id": "ad_cluster_1",
-                    "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536386/portraitThumb/1785518215336_1784637191637819_CWG26_Judo_pictogram_portrait_thumb.jpg",
+                    "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536386/portraitThumb/1785518734348_1784637191637819_CWG26_Judo_pictogram_portrait_thumb.jpg",
                     "isSponsorAdAvailable": "true",
                     "is_subtitle_cc_available": false,
                     "ssai_partners": "Google DAI",
-                    "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536386/landscapeThumb/1785518215441_1784647795900819_CWG26_Judo_pictogram_landscape_thumb.jpg",
+                    "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536386/landscapeThumb/1785518734454_1784647795900819_CWG26_Judo_pictogram_landscape_thumb.jpg",
                     "audio_language_list": [
                         {
                             "lang_code": "ENG",
@@ -91,6 +92,7 @@
                     "SVOD_countries": "_in,_bd,_np,_mv,_bt,_lk,_af,_pk",
                     "is_auto_play_trailer": true,
                     "integrated_splash_available": "Yes",
+                    "masthead_large_v3": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021543/1785518855445563_CWG_31st_July_FixturesV8_live_Combo_masthead_large_v3.jpg",
                     "isDVR": false,
                     "isTimeLineMarker": false,
                     "isDownloadable": false,
@@ -645,12 +647,12 @@
                 "contentType": "VOD",
                 "contentSubtype": "LIVE_SPORT",
                 "title": "Glasgow 2026 Commonwealth Games",
-                "longDescription": "Watch all the exclusive action from the Cycling in the Women's 10km Scratch Race, LIVE on Sony LIV.",
-                "shortDescription": "Watch all the exclusive action from the Cycling in the Women's 10km Scratch Race, LIVE on Sony LIV.",
+                "longDescription": "Watch all the exclusive action from the Cycling in the Men's Keirin, LIVE on Sony LIV.",
+                "shortDescription": "Watch all the exclusive action from the Cycling in the Men's Keirin, LIVE on Sony LIV.",
                 "isCopyProtected": false,
                 "contractStartDate": 1785486000000,
                 "contractEndDate": 1785558000000,
-                "episodeTitle": "Women's 10km Scratch Race - Cycling - 31 Jul 2026",
+                "episodeTitle": "Men's Keirin - Cycling - 31 Jul 2026",
                 "genres": [
                     "Cycling"
                 ],
@@ -679,7 +681,7 @@
                     "advertising": "AD SUPPORTED",
                     "isdvr": "No",
                     "emaAttributes": {},
-                    "tv_background_image": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536387/tvBackgroundImage/1785517591505_1784648141586819_CWG26_Cycling_pictogram_tv_bg.jpg",
+                    "tv_background_image": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536387/tvBackgroundImage/1785519873812_1784648141586819_CWG26_Cycling_pictogram_tv_bg.jpg",
                     "granular_access_configs": true,
                     "U": "IN",
                     "country_rating": {
@@ -688,15 +690,15 @@
                     },
                     "3+": "BD,NP,LK,PK,AF,BT,MV",
                     "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020251/178291361564192_Commonwealth_Games_2026_GOB_Masthead_logo.png",
-                    "player_name": "Samantha Donnelly, Prudence Fowler, S'annara Grove, Elizabeth le Min Liau, Ally Maree Wollaston, Esther Wong, Alexandra Volstad, Madelaine Leech, Erin Boothman, Maggie Coles-Lyster, Abigail Miller, Neah Evans, Anna Morris, Georgia Baker, Sophie Edwards, Alyssa Polites, Valencia Tan, Emma Jeffers, Erin Creighton, Carys Lloyd, Kate Richardson, Sophie Lewis, Megan Barker",
+                    "player_name": "Daniel James Barber, Leigh Hoffman, Tyler Rorke, Harry Ledingham-Horn, Muhammad Shah Firdaus Sahrom, Jonah Jenkins",
                     "value": "SVOD",
                     "is_audio_desc_available": false,
                     "venue_id": "70",
-                    "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536387/thumbnail/1785517591432_1784647770880819_CWG26_Cycling_pictogram_thumbnail.jpg",
+                    "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536387/thumbnail/1785519873741_1784647770880819_CWG26_Cycling_pictogram_thumbnail.jpg",
                     "variant_asset_languages": [],
                     "ad_cluster_id": "ad_cluster_1",
                     "live_label_display": true,
-                    "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536387/portraitThumb/1785517591264_1784636656040819_CWG26_Cycling_pictogram_portrait_thumb.jpg",
+                    "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536387/portraitThumb/1785519873583_1784636656040819_CWG26_Cycling_pictogram_portrait_thumb.jpg",
                     "isSponsorAdAvailable": "true",
                     "dai_asset_key": "LA0EX6hcTYS2k4VVDy3k2A",
                     "seo_tags": "Glasgow 2026 Commonwealth Games,Glasgow 2026,CWG 2026,Commonwealth Games 2026,Glasgow 2026 India squad,Indian athletes Commonwealth Games 2026,CWG 2026 India schedule,India at Glasgow 2026,Neeraj Chopra Glasgow 2026,Mirabai Chanu CWG 2026,Lovlina Borgohain Commonwealth Games,Praveen Chithravel triple jump Glasgow,Murali Sreeshankar CWG 2026,Parul Chaudhary Commonwealth Games,Pranati Nayak gymnastics Glasgow 2026,Rohit Yadav javelin CWG,Preeti Pawar boxing Glasgow,India medal contenders CWG 2026,Commonwealth Games 2026 live streaming India,Glasgow 2026 sports list,Indian weightlifting team CWG 2026,Indian athletics squad Glasgow 2026,Neeraj Chopra,Mirabai Chanu,Lovlina Borgohain,Praveen Chithravel,Murali Sreeshankar,Parul Chaudhary,Pranati Nayak,Rohit Yadav,Preeti Pawar",
@@ -705,7 +707,7 @@
                     "SVOD_countries": "_in,_bd,_np,_mv,_bt,_lk,_af,_pk",
                     "is_subtitle_cc_available": false,
                     "ssai_partners": "Google DAI",
-                    "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536387/landscapeThumb/1785517591359_1784647774216819_CWG26_Cycling_pictogram_landscape_thumb.jpg",
+                    "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536387/landscapeThumb/1785519873678_1784647774216819_CWG26_Cycling_pictogram_landscape_thumb.jpg",
                     "audio_language_list": [
                         {
                             "lang_code": "ENG",
