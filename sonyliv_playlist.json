@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "09:20:26 PM 31-07-2026"
+        "last_update": "09:50:35 PM 31-07-2026"
     },
     "live_matches": [
         {
@@ -233,12 +233,12 @@
                 "contentType": "VOD",
                 "contentSubtype": "LIVE_SPORT",
                 "title": "Glasgow 2026 Commonwealth Games",
-                "longDescription": "Watch all the exclusive action from the Judo in the Women -48 kg, LIVE on Sony LIV.",
-                "shortDescription": "Watch all the exclusive action from the Judo in the Women -48 kg, LIVE on Sony LIV.",
+                "longDescription": "Watch all the exclusive action from the Judo in the Men -60 kg, LIVE on Sony LIV.",
+                "shortDescription": "Watch all the exclusive action from the Judo in the Men -60 kg, LIVE on Sony LIV.",
                 "isCopyProtected": false,
                 "contractStartDate": 1785481500000,
                 "contractEndDate": 1785557700000,
-                "episodeTitle": "Asmita Dey vs Heidi Quach - Women -48 kg - Judo - 31 Jul 2026",
+                "episodeTitle": "Harsh Singh vs Joshua Katz - Men -60 kg - Judo - 31 Jul 2026",
                 "genres": [
                     "Judo"
                 ],
@@ -260,18 +260,18 @@
                     "masthead_logo_v1": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021012/1784985931661612_CWG_Day5_Live_masthead_logo_v1.png",
                     "advertising": "AD SUPPORTED",
                     "emaAttributes": {},
-                    "tv_background_image": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536386/tvBackgroundImage/1785510625126_1784648069618819_CWG26_Judo_pictogram_tv_bg.jpg",
+                    "tv_background_image": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536386/tvBackgroundImage/1785512299910_1784648069618819_CWG26_Judo_pictogram_tv_bg.jpg",
                     "granular_access_configs": true,
-                    "player_name": "Asmita Dey, Heidi Quach",
+                    "player_name": "Harsh Singh, Joshua Katz",
                     "venue_id": "64",
-                    "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536386/thumbnail/1785510625057_1784647799948819_CWG26_Judo_pictogram_thumbnail.jpg",
+                    "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536386/thumbnail/1785512299828_1784647799948819_CWG26_Judo_pictogram_thumbnail.jpg",
                     "variant_asset_languages": [],
                     "ad_cluster_id": "ad_cluster_1",
-                    "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536386/portraitThumb/1785510624868_1784637191637819_CWG26_Judo_pictogram_portrait_thumb.jpg",
+                    "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536386/portraitThumb/1785512299563_1784637191637819_CWG26_Judo_pictogram_portrait_thumb.jpg",
                     "isSponsorAdAvailable": "true",
                     "is_subtitle_cc_available": false,
                     "ssai_partners": "Google DAI",
-                    "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536386/landscapeThumb/1785510624984_1784647795900819_CWG26_Judo_pictogram_landscape_thumb.jpg",
+                    "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536386/landscapeThumb/1785512299702_1784647795900819_CWG26_Judo_pictogram_landscape_thumb.jpg",
                     "audio_language_list": [
                         {
                             "lang_code": "ENG",
@@ -335,7 +335,7 @@
                 "resultObj": {
                     "showPlayerStats": false,
                     "is_preview_enabled": false,
-                    "videoURL": "https://sonydaimenew.akamaized.net/hls/live/20000301/CWG_STre3107/ENG/master.m3u8?hdnea=exp=1785520230~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=6225c29c8d2a786cf073f823e26cb8005a703e0e5e85f94e688de613a2b9ed65",
+                    "videoURL": "https://sonydaimenew.akamaized.net/hls/live/20000301/CWG_STre3107/ENG/master.m3u8?hdnea=exp=1785534642~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=46e278be42bdc675e6fbb784c8c1c7e950ff331bfca205b692b78fceeaf16b5f",
                     "multiLanguageVideoURL": [],
                     "audioLanguages": [
                         {
@@ -431,7 +431,7 @@
                     "multiAudioTrack": true,
                     "packId": "liv_premium_GP_1m"
                 },
-                "systemTime": 1785498630401
+                "systemTime": 1785513042704
             }
         },
         {
@@ -491,6 +491,7 @@
                     "venue_id": "77",
                     "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/thumbnail/1785510028836_1784647811561819_CWG26_Netball_pictogram_thumbnail.jpg",
                     "variant_asset_languages": [],
+                    "broadcast_channel_hin": "लिव",
                     "ad_cluster_id": "ad_cluster_1",
                     "live_label_display": true,
                     "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/portraitThumb/1785510028656_1784637323747819_CWG26_Netball_pictogram_portrait_thumb.jpg",
@@ -511,6 +512,7 @@
                         }
                     ],
                     "Maximum_Audio_Quality": "STEREO",
+                    "team_hin": "साउथ अफ्रीका यूगांडा",
                     "sub_license": "No",
                     "is_auto_play_trailer": true,
                     "integrated_splash_available": "Yes",
@@ -651,12 +653,12 @@
                 "contentType": "VOD",
                 "contentSubtype": "LIVE_SPORT",
                 "title": "Glasgow 2026 Commonwealth Games",
-                "longDescription": "Watch all the exclusive action from the Boxing in the Men's 70kg, LIVE on Sony LIV.",
-                "shortDescription": "Watch all the exclusive action from the Boxing in the Men's 70kg, LIVE on Sony LIV.",
+                "longDescription": "Watch all the exclusive action from the Boxing in the Men's 90kg, LIVE on Sony LIV.",
+                "shortDescription": "Watch all the exclusive action from the Boxing in the Men's 90kg, LIVE on Sony LIV.",
                 "isCopyProtected": false,
                 "contractStartDate": 1785482400000,
                 "contractEndDate": 1785554400000,
-                "episodeTitle": "Sonny Kerr vs Jon McConnell - Men's 70kg - Boxing - 31 Jul 2026",
+                "episodeTitle": "Isaac Okoh vs Robert McNulty - Men's 90kg - Boxing - 31 Jul 2026",
                 "genres": [
                     "Boxing"
                 ],
@@ -685,7 +687,7 @@
                     "advertising": "AD SUPPORTED",
                     "isdvr": "No",
                     "emaAttributes": {},
-                    "tv_background_image": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/tvBackgroundImage/1785510832172_1784648168177819_CWG26_Boxing_pictogram_tv_bg.jpg",
+                    "tv_background_image": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/tvBackgroundImage/1785512657565_1784648168177819_CWG26_Boxing_pictogram_tv_bg.jpg",
                     "granular_access_configs": true,
                     "U": "IN",
                     "country_rating": {
@@ -694,15 +696,15 @@
                     },
                     "3+": "BD,NP,LK,PK,AF,BT,MV",
                     "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020251/178291361564192_Commonwealth_Games_2026_GOB_Masthead_logo.png",
-                    "player_name": "Sonny Kerr, Jon McConnell",
+                    "player_name": "Isaac Okoh, Robert McNulty",
                     "value": "SVOD",
                     "is_audio_desc_available": false,
                     "venue_id": "74",
-                    "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/thumbnail/1785510832070_1784647659853819_CWG26_Boxing_pictogram_thumbnail.jpg",
+                    "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/thumbnail/1785512657489_1784647659853819_CWG26_Boxing_pictogram_thumbnail.jpg",
                     "variant_asset_languages": [],
                     "ad_cluster_id": "ad_cluster_1",
                     "live_label_display": true,
-                    "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/portraitThumb/1785510831840_1784636551144819_CWG26_Boxing_pictogram_portrait_thumb.jpg",
+                    "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/portraitThumb/1785512657283_1784636551144819_CWG26_Boxing_pictogram_portrait_thumb.jpg",
                     "isSponsorAdAvailable": "true",
                     "dai_asset_key": "_wNibTTjRKGbTJkQbT7_mQ",
                     "seo_tags": "Glasgow 2026 Commonwealth Games,Glasgow 2026,CWG 2026,Commonwealth Games 2026,Glasgow 2026 India squad,Indian athletes Commonwealth Games 2026,CWG 2026 India schedule,India at Glasgow 2026,Neeraj Chopra Glasgow 2026,Mirabai Chanu CWG 2026,Lovlina Borgohain Commonwealth Games,Praveen Chithravel triple jump Glasgow,Murali Sreeshankar CWG 2026,Parul Chaudhary Commonwealth Games,Pranati Nayak gymnastics Glasgow 2026,Rohit Yadav javelin CWG,Preeti Pawar boxing Glasgow,India medal contenders CWG 2026,Commonwealth Games 2026 live streaming India,Glasgow 2026 sports list,Indian weightlifting team CWG 2026,Indian athletics squad Glasgow 2026,Neeraj Chopra,Mirabai Chanu,Lovlina Borgohain,Praveen Chithravel,Murali Sreeshankar,Parul Chaudhary,Pranati Nayak,Rohit Yadav,Preeti Pawar",
@@ -711,7 +713,7 @@
                     "SVOD_countries": "_in,_bd,_np,_mv,_bt,_lk,_af,_pk",
                     "is_subtitle_cc_available": false,
                     "ssai_partners": "Google DAI",
-                    "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/landscapeThumb/1785510831957_1784647663933819_CWG26_Boxing_pictogram_landscape_thumb.jpg",
+                    "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/landscapeThumb/1785512657379_1784647663933819_CWG26_Boxing_pictogram_landscape_thumb.jpg",
                     "audio_language_list": [
                         {
                             "lang_code": "ENG",
@@ -750,7 +752,7 @@
                 "resultObj": {
                     "showPlayerStats": false,
                     "is_preview_enabled": false,
-                    "videoURL": "https://sonydaimenew.akamaized.net/hls/live/20000291/CWG_Stre3107/ENG/master.m3u8?hdnea=exp=1785520239~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=2c38a12e1b510d9a78872fdfef3420af11e0d53f41ddc561a698f19090ef7927",
+                    "videoURL": "https://sonydaimenew.akamaized.net/hls/live/20000291/CWG_Stre3107/ENG/master.m3u8?hdnea=exp=1785534651~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=f77a8673bd73b577048d0424c2727acfe6e8a6578368e6f050e20af20f5584bc",
                     "multiLanguageVideoURL": [],
                     "audioLanguages": [
                         {
@@ -846,7 +848,7 @@
                     "multiAudioTrack": true,
                     "packId": "liv_premium_GP_1m"
                 },
-                "systemTime": 1785498639222
+                "systemTime": 1785513051170
             }
         },
         {
@@ -859,12 +861,12 @@
                 "contentType": "VOD",
                 "contentSubtype": "LIVE_SPORT",
                 "title": "Glasgow 2026 Commonwealth Games",
-                "longDescription": "Watch all the exclusive action from the Cycling in the Men's Keirin, LIVE on Sony LIV.",
-                "shortDescription": "Watch all the exclusive action from the Cycling in the Men's Keirin, LIVE on Sony LIV.",
+                "longDescription": "Watch all the exclusive action from the Cycling in the Women's 4000m Ind. Pursuit, LIVE on Sony LIV.",
+                "shortDescription": "Watch all the exclusive action from the Cycling in the Women's 4000m Ind. Pursuit, LIVE on Sony LIV.",
                 "isCopyProtected": false,
                 "contractStartDate": 1785486000000,
                 "contractEndDate": 1785558000000,
-                "episodeTitle": "Men's Keirin - Cycling - 31 Jul 2026",
+                "episodeTitle": "Josie Knight vs Anna Morris - Women's 4000m Ind. Pursuit - Cycling - 31 Jul 2026",
                 "genres": [
                     "Cycling"
                 ],
@@ -893,7 +895,7 @@
                     "advertising": "AD SUPPORTED",
                     "isdvr": "No",
                     "emaAttributes": {},
-                    "tv_background_image": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536387/tvBackgroundImage/1785511065291_1784648141586819_CWG26_Cycling_pictogram_tv_bg.jpg",
+                    "tv_background_image": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536387/tvBackgroundImage/1785512486803_1784648141586819_CWG26_Cycling_pictogram_tv_bg.jpg",
                     "granular_access_configs": true,
                     "U": "IN",
                     "country_rating": {
@@ -902,15 +904,15 @@
                     },
                     "3+": "BD,NP,LK,PK,AF,BT,MV",
                     "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020251/178291361564192_Commonwealth_Games_2026_GOB_Masthead_logo.png",
-                    "player_name": "Tayte Ryan, Hamish Turnbull, Jemsh Singh Keithellakpam, Muhammad Shah Firdaus Sahrom, Njisane Phillip, Jonah Jenkins",
+                    "player_name": "Josie Knight, Anna Morris",
                     "value": "SVOD",
                     "is_audio_desc_available": false,
                     "venue_id": "70",
-                    "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536387/thumbnail/1785511065217_1784647770880819_CWG26_Cycling_pictogram_thumbnail.jpg",
+                    "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536387/thumbnail/1785512486700_1784647770880819_CWG26_Cycling_pictogram_thumbnail.jpg",
                     "variant_asset_languages": [],
                     "ad_cluster_id": "ad_cluster_1",
                     "live_label_display": true,
-                    "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536387/portraitThumb/1785511065056_1784636656040819_CWG26_Cycling_pictogram_portrait_thumb.jpg",
+                    "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536387/portraitThumb/1785512486484_1784636656040819_CWG26_Cycling_pictogram_portrait_thumb.jpg",
                     "isSponsorAdAvailable": "true",
                     "dai_asset_key": "LA0EX6hcTYS2k4VVDy3k2A",
                     "seo_tags": "Glasgow 2026 Commonwealth Games,Glasgow 2026,CWG 2026,Commonwealth Games 2026,Glasgow 2026 India squad,Indian athletes Commonwealth Games 2026,CWG 2026 India schedule,India at Glasgow 2026,Neeraj Chopra Glasgow 2026,Mirabai Chanu CWG 2026,Lovlina Borgohain Commonwealth Games,Praveen Chithravel triple jump Glasgow,Murali Sreeshankar CWG 2026,Parul Chaudhary Commonwealth Games,Pranati Nayak gymnastics Glasgow 2026,Rohit Yadav javelin CWG,Preeti Pawar boxing Glasgow,India medal contenders CWG 2026,Commonwealth Games 2026 live streaming India,Glasgow 2026 sports list,Indian weightlifting team CWG 2026,Indian athletics squad Glasgow 2026,Neeraj Chopra,Mirabai Chanu,Lovlina Borgohain,Praveen Chithravel,Murali Sreeshankar,Parul Chaudhary,Pranati Nayak,Rohit Yadav,Preeti Pawar",
@@ -919,7 +921,7 @@
                     "SVOD_countries": "_in,_bd,_np,_mv,_bt,_lk,_af,_pk",
                     "is_subtitle_cc_available": false,
                     "ssai_partners": "Google DAI",
-                    "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536387/landscapeThumb/1785511065151_1784647774216819_CWG26_Cycling_pictogram_landscape_thumb.jpg",
+                    "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536387/landscapeThumb/1785512486625_1784647774216819_CWG26_Cycling_pictogram_landscape_thumb.jpg",
                     "audio_language_list": [
                         {
                             "lang_code": "ENG",
