@@ -2,22 +2,16 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 09:50:35 PM 31-07-2026
+# last_update: 10:50:25 PM 31-07-2026
 
-#EXTINF:-1 tvg-id="sonyliv-1090537993" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020980/178496069558598_Durand_cup_26_East-Bengal-FC-vs-CISF-Protectors_landscape_thumb.jpg" group-title="Football", East Bengal FC vs CISF Protectors - 31 Jul 2026 | IndianOil Durand Cup 2026
-https://sonydaimenew.akamaized.net/hls/live/20000293/Football3107/ENG/master.m3u8?hdnea=exp=1785525638~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=799b592574f0fade873042034e520e638912e2c6907d76a3515cad5f60b4b766
-
-#EXTINF:-1 tvg-id="sonyliv-1090536386" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536386/thumbnail/1785512299828_1784647799948819_CWG26_Judo_pictogram_thumbnail.jpg" group-title="Judo", Harsh Singh vs Joshua Katz - Men -60 kg - Judo - 31 Jul 2026 | Glasgow 2026 Commonwealth Games
+#EXTINF:-1 tvg-id="sonyliv-1090536386" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536386/thumbnail/1785516337161_1784647799948819_CWG26_Judo_pictogram_thumbnail.jpg" group-title="Judo", Vas Middleton vs Petros Christodoulides - Men -66 kg - Judo - 31 Jul 2026 | Glasgow 2026 Commonwealth Games
 https://sonydaimenew.akamaized.net/hls/live/20000301/CWG_STre3107/ENG/master.m3u8?hdnea=exp=1785534642~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=46e278be42bdc675e6fbb784c8c1c7e950ff331bfca205b692b78fceeaf16b5f
 
-#EXTINF:-1 tvg-id="sonyliv-1090536268" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/thumbnail/1785510028836_1784647811561819_CWG26_Netball_pictogram_thumbnail.jpg" group-title="Netball", South Africa vs Uganda - Classification Match 5-6 - Netball - 31 Jul 2026 | Glasgow 2026 Commonwealth Games
+#EXTINF:-1 tvg-id="sonyliv-1090536268" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/thumbnail/1785510028836_1784647811561819_CWG26_Netball_pictogram_thumbnail.jpg" group-title="Netball", Day 8 - 31 Jul 2026 | Glasgow 2026 Commonwealth Games
 https://sonydaimenew.akamaized.net/hls/live/20000296/CWG_Stre3107/ENG/master.m3u8?hdnea=exp=1785523836~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=aa3a1bbc56a763e990bd751a0359ee24d0bc1db1a29871800424ca88c60df2e6
 
-#EXTINF:-1 tvg-id="sonyliv-1090536385" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/thumbnail/1785512657489_1784647659853819_CWG26_Boxing_pictogram_thumbnail.jpg" group-title="Boxing", Isaac Okoh vs Robert McNulty - Men's 90kg - Boxing - 31 Jul 2026 | Glasgow 2026 Commonwealth Games
+#EXTINF:-1 tvg-id="sonyliv-1090536385" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/thumbnail/1785512657489_1784647659853819_CWG26_Boxing_pictogram_thumbnail.jpg" group-title="Boxing", Day 8 - 31 Jul 2026 | Glasgow 2026 Commonwealth Games
 https://sonydaimenew.akamaized.net/hls/live/20000291/CWG_Stre3107/ENG/master.m3u8?hdnea=exp=1785534651~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=f77a8673bd73b577048d0424c2727acfe6e8a6578368e6f050e20af20f5584bc
 
-#EXTINF:-1 tvg-id="sonyliv-1090536387" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536387/thumbnail/1785512486700_1784647770880819_CWG26_Cycling_pictogram_thumbnail.jpg" group-title="Cycling", Josie Knight vs Anna Morris - Women's 4000m Ind. Pursuit - Cycling - 31 Jul 2026 | Glasgow 2026 Commonwealth Games
+#EXTINF:-1 tvg-id="sonyliv-1090536387" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536387/thumbnail/1785516342574_1784647770880819_CWG26_Cycling_pictogram_thumbnail.jpg" group-title="Cycling", Women's Sprint - Cycling - 31 Jul 2026 | Glasgow 2026 Commonwealth Games
 https://sonydaimenew.akamaized.net/hls/live/20000295/CWG_Stre3107/ENG/master.m3u8?hdnea=exp=1785523846~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=7533b7c6736bc1d84895e338caca519b4557d3a0cc7099af4bc688b3d5921774
-
-#EXTINF:-1 tvg-id="sonyliv-1090537978" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020826/1784751443391115_The_Hundred2026_womens_Manchester_Super_Giants_vs_Trent_Rockets_landscape_thumb.jpg" group-title="Cricket", Manchester Super Giants vs Trent Rockets - 31 Jul 2026 | The Hundred 2026 (Women's)
-https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-HWOM/master.m3u8?hdnea=exp=1785528093~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=eda7dbeffa427797efcd02a426322144723c7ca5df8f8a81436111f603b5dc55
