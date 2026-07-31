@@ -2,21 +2,21 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 08:50:26 PM 31-07-2026
+# last_update: 09:20:26 PM 31-07-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090537993" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020980/178496069558598_Durand_cup_26_East-Bengal-FC-vs-CISF-Protectors_landscape_thumb.jpg" group-title="Football", East Bengal FC vs CISF Protectors - 31 Jul 2026 | IndianOil Durand Cup 2026
 https://sonydaimenew.akamaized.net/hls/live/20000293/Football3107/ENG/master.m3u8?hdnea=exp=1785525638~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=799b592574f0fade873042034e520e638912e2c6907d76a3515cad5f60b4b766
 
-#EXTINF:-1 tvg-id="sonyliv-1090536386" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536386/thumbnail/1785506401013_1784647162182819_CWG26_Bowls_and_Para_Bowls_pictogram_thumbnail.jpg" group-title="Bowls and Para Bowls", Amy Williams vs Caroline Whitehead - Women's Singles - Bowls and Para Bowls - 31 Jul 2026 | Glasgow 2026 Commonwealth Games
+#EXTINF:-1 tvg-id="sonyliv-1090536386" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536386/thumbnail/1785510625057_1784647799948819_CWG26_Judo_pictogram_thumbnail.jpg" group-title="Judo", Asmita Dey vs Heidi Quach - Women -48 kg - Judo - 31 Jul 2026 | Glasgow 2026 Commonwealth Games
 https://sonydaimenew.akamaized.net/hls/live/20000301/CWG_STre3107/ENG/master.m3u8?hdnea=exp=1785520230~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=6225c29c8d2a786cf073f823e26cb8005a703e0e5e85f94e688de613a2b9ed65
 
-#EXTINF:-1 tvg-id="sonyliv-1090536268" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784647823735819_CWG26_Netball_pictogram_landscape_thumb.jpg" group-title="Athletics", Malawi vs Scotland - Classification Match 7-8 - Netball - 31 Jul 2026 | Glasgow 2026 Commonwealth Games
+#EXTINF:-1 tvg-id="sonyliv-1090536268" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/thumbnail/1785510028836_1784647811561819_CWG26_Netball_pictogram_thumbnail.jpg" group-title="Netball", South Africa vs Uganda - Classification Match 5-6 - Netball - 31 Jul 2026 | Glasgow 2026 Commonwealth Games
 https://sonydaimenew.akamaized.net/hls/live/20000296/CWG_Stre3107/ENG/master.m3u8?hdnea=exp=1785523836~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=aa3a1bbc56a763e990bd751a0359ee24d0bc1db1a29871800424ca88c60df2e6
 
-#EXTINF:-1 tvg-id="sonyliv-1090536385" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/thumbnail/1785508053954_1784647659853819_CWG26_Boxing_pictogram_thumbnail.jpg" group-title="Boxing", Jadumani Singh vs Philip Pumulo - Men's 55kg - Boxing - 31 Jul 2026 | Glasgow 2026 Commonwealth Games
+#EXTINF:-1 tvg-id="sonyliv-1090536385" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/thumbnail/1785510832070_1784647659853819_CWG26_Boxing_pictogram_thumbnail.jpg" group-title="Boxing", Sonny Kerr vs Jon McConnell - Men's 70kg - Boxing - 31 Jul 2026 | Glasgow 2026 Commonwealth Games
 https://sonydaimenew.akamaized.net/hls/live/20000291/CWG_Stre3107/ENG/master.m3u8?hdnea=exp=1785520239~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=2c38a12e1b510d9a78872fdfef3420af11e0d53f41ddc561a698f19090ef7927
 
-#EXTINF:-1 tvg-id="sonyliv-1090536387" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536387/thumbnail/1785506124149_1784647162182819_CWG26_Bowls_and_Para_Bowls_pictogram_thumbnail.jpg" group-title="Bowls and Para Bowls", Scotland vs England - Para Women's Pairs B6-B8 - Bowls and Para Bowls - 31 Jul 2026 | Glasgow 2026 Commonwealth Games
+#EXTINF:-1 tvg-id="sonyliv-1090536387" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536387/thumbnail/1785511065217_1784647770880819_CWG26_Cycling_pictogram_thumbnail.jpg" group-title="Cycling", Men's Keirin - Cycling - 31 Jul 2026 | Glasgow 2026 Commonwealth Games
 https://sonydaimenew.akamaized.net/hls/live/20000295/CWG_Stre3107/ENG/master.m3u8?hdnea=exp=1785523846~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=7533b7c6736bc1d84895e338caca519b4557d3a0cc7099af4bc688b3d5921774
 
 #EXTINF:-1 tvg-id="sonyliv-1090537978" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020826/1784751443391115_The_Hundred2026_womens_Manchester_Super_Giants_vs_Trent_Rockets_landscape_thumb.jpg" group-title="Cricket", Manchester Super Giants vs Trent Rockets - 31 Jul 2026 | The Hundred 2026 (Women's)
