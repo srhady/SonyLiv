@@ -3,9 +3,226 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "03:50:24 PM 01-08-2026"
+        "last_update": "04:20:26 PM 01-08-2026"
     },
     "live_matches": [
+        {
+            "match_info": {
+                "contentId": 1090538130,
+                "externalId": "1090538130",
+                "objectType": "VOD",
+                "isLive": true,
+                "objectSubtype": "LIVE_SPORT",
+                "contentType": "VOD",
+                "contentSubtype": "LIVE_SPORT",
+                "title": "IndianOil Durand Cup 2026",
+                "longDescription": "North East United FC face Bodoland FC in a key IndianOil Durand Cup 2026 encounter. Catch all the action LIVE, only on Sony LIV.",
+                "shortDescription": "North East United FC face Bodoland FC in a key IndianOil Durand Cup 2026 encounter. Catch all the action LIVE, only on Sony LIV.",
+                "isCopyProtected": false,
+                "contractStartDate": 1785577800000,
+                "contractEndDate": 1785597600000,
+                "episodeTitle": "North East United FC vs Bodoland FC  - 1 Aug 2026",
+                "genres": [
+                    "Football"
+                ],
+                "originalAirDate": 1785579600000,
+                "pcExtendedRatings": [],
+                "isOnAir": true,
+                "isEncrypted": false,
+                "pcVodLabel": "3+",
+                "duration": 0,
+                "language": "ENG",
+                "isGeoBlocked": false,
+                "advertisingInfoList": [],
+                "emfAttributes": {
+                    "audio_languages": "ENG",
+                    "snp_tags": "Suitable for all",
+                    "packageid": "12m_mobile_saarc,Liv_Pre_Yupp,12m_saarc,1m_saarc,liv_premium_GP_1m,liv_premium_GP_1m_mobile,LIV_Pre_Mob_1M,liv_binge_1m",
+                    "masthead_logo_rectangualar": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021273/1785261355231763_DURAND_CUP_2026_Match_masthead_logo_rectangualar_950x570_North_East_United_FC_vs_Bodoland_FC_Live.png",
+                    "Maximum_Resolution": "FULL_HD",
+                    "masthead_logo_v1": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021273/1785261355849763_DURAND_CUP_2026_Match_masthead_logo_V1_692x390_North_East_United_FC_vs_Bodoland_FC_Live.png",
+                    "advertising": "AD SUPPORTED",
+                    "emaAttributes": {},
+                    "kids_safe": false,
+                    "tv_background_image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021464/1785440687188793_DC26_North_East_United_FC_vs_Bodoland_FC_tv_bg.jpg",
+                    "content_marquee_status": "false",
+                    "marquee_target_state": [],
+                    "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021273/1785261356177763_DURAND_CUP_2026_Match_masthead_mobile_v2_984x1182_North_East_United_FC_vs_Bodoland_FC.jpg",
+                    "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021464/1785440662088793_DC26_North_East_United_FC_vs_Bodoland_FC_landscape.jpg",
+                    "variant_asset_languages": [],
+                    "broadcast_channel_hin": "सोनी स्पोर्ट्स तेन २",
+                    "ad_cluster_id": "ad_cluster_1",
+                    "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021464/1785440622679793_DC26_North_East_United_FC_vs_Bodoland_FC_live_portrait_thumb.jpg",
+                    "is_subtitle_cc_available": false,
+                    "ssai_partners": "Google DAI",
+                    "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021464/1785440662088793_DC26_North_East_United_FC_vs_Bodoland_FC_landscape.jpg",
+                    "audio_language_list": [
+                        {
+                            "lang_code": "ENG",
+                            "lang_label": "English"
+                        }
+                    ],
+                    "Maximum_Audio_Quality": "STEREO",
+                    "matchid": "",
+                    "isTimeLineMarker_new": "true",
+                    "venue_name": "Indira Gandhi Athletic Stadium",
+                    "region_of_origin": "English",
+                    "svod_advertising": "true",
+                    "sub_category": "Sport",
+                    "is_multi_track_per_language_available": false,
+                    "broadcast_channel": "Sony Sports Ten 2",
+                    "Maximum_Video_Quality": "SDR",
+                    "isdvr": "No",
+                    "away_team": "Bodoland FC",
+                    "U": "IN",
+                    "country_rating": {
+                        "U": "IN",
+                        "3+": "BD,NP,LK,PK,AF,BT,MV"
+                    },
+                    "3+": "BD,NP,LK,PK,AF,BT,MV",
+                    "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021273/1785261354939763_DURAND_CUP_2026_Match_Masthead_logo_North_East_United_FC_vs_Bodoland_FC_Live.png",
+                    "projected_max_concurrency": 100000,
+                    "value": "SVOD",
+                    "is_audio_desc_available": false,
+                    "target_impressions_per_week": 2000000,
+                    "live_label_display": true,
+                    "dai_asset_key": "kLLXpEquS0Wj3_WTm-URPw",
+                    "match_start_time": "1785579600",
+                    "seo_tags": "IndianOil Durand Cup 2026,football,Durand Cup,Durand Cup 2026 tickets,Durand Cup 2026 schedule,Asian football,Durand Cup 2026 highlights,Durand Cup 2026,durand cup,Durand Cup 2026 date,Durand Cup 2026 news,Durand Cup 2026 live,Durand Cup 2026 teams,Durand Cup 2026 venue,Durand Cup 2026 update,Durand Cup 2026 fixtures,Durand Cup 2026 all matches,Durand Cup 2026 new updates,Durand Cup 2026 latest news,Durand Cup 2026 team updates,where to watch Durand Cup 2026,Durand Cup fixtures 2026,Durand Cup 2026 starting date,Durand Cup 2026 latest updates",
+                    "Free_countries": "",
+                    "overlay_visibility": "0",
+                    "target_frequency_per_week": 3,
+                    "SVOD_countries": "_in,_lk,_mv,_np,_bd,_bt,_af,_pk",
+                    "home_team": "North East United FC",
+                    "is_auto_play_trailer": true,
+                    "integrated_splash_available": "Yes",
+                    "masthead_large_v3": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021273/1785261354659763_DURAND_CUP_2026_Match_masthead_large_v3_3200x1800_North_East_United_FC_vs_Bodoland_FC.jpg",
+                    "isDVR": false,
+                    "isTimeLineMarker": false,
+                    "isDownloadable": false,
+                    "is_preview_enabled": false,
+                    "sprite_image_url": "",
+                    "tv_sprite_image_url": "",
+                    "tl_marker": "",
+                    "icon_on_asset": {
+                        "play_focus_icon": "https://origin-staticv2.sonyliv.com/UI_icons/spotlight/focus_play_icon.png",
+                        "play_normal_icon": "https://origin-staticv2.sonyliv.com/UI_icons/spotlight/non_focused_play_icon.png"
+                    }
+                },
+                "isADVAllowed": false,
+                "ratingEligibility": true,
+                "ratingDisplay": false,
+                "titleBrief": "",
+                "baseContentId": 1090538130,
+                "isBaseAsset": true
+            },
+            "playback_info": {
+                "resultCode": "OK",
+                "message": "",
+                "errorDescription": "200-10000",
+                "resultObj": {
+                    "showPlayerStats": false,
+                    "is_preview_enabled": false,
+                    "videoURL": "https://sonydaimenew.akamaized.net/hls/live/20000299/Football0108/ENG/master.m3u8?hdnea=exp=1785599430~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=d238714318de1f36ac1da29b230d7c892ab1ee0860d36132cb396de3aebc21de",
+                    "multiLanguageVideoURL": [],
+                    "audioLanguages": [
+                        {
+                            "audioLanguageName": "ENG",
+                            "audioLanguageLabel": "English"
+                        }
+                    ],
+                    "trailer_url": "",
+                    "subtitle": [],
+                    "isEncrypted": false,
+                    "isDVR": false,
+                    "isDownloadable": false,
+                    "posterURL": "",
+                    "sprite_image_url": "",
+                    "tv_sprite_image_url": "",
+                    "dai_asset_key": "x1UGIh46R2y6NXA09SUPQw",
+                    "contextual_cue_point": {},
+                    "cuepoints": [],
+                    "isLive": true,
+                    "country_rating": {
+                        "U": "IN",
+                        "3+": "BD,NP,LK,PK,AF,BT,MV"
+                    },
+                    "dai_asset_key_hlsfp": "",
+                    "dai_asset_key_wm": "",
+                    "Maximum_Video_Quality": "SDR",
+                    "Maximum_Audio_Quality": "STEREO",
+                    "Maximum_Resolution": "FULL_HD",
+                    "isWatermarked": "false",
+                    "watermark_partner": "",
+                    "upfrontAudio": true,
+                    "pcVodLabel": "3+",
+                    "promotionUrl": "",
+                    "hasPromotion": false,
+                    "contentProvider": "DURAND FOOTBALL TOURNAMENT SOCIETY",
+                    "sony_match_id": "",
+                    "tl_marker": "",
+                    "checksum": "",
+                    "kid_mss": "",
+                    "parentId": "1700001471",
+                    "selectedLanguage": {
+                        "lang_label": "English",
+                        "lang_code": "ENG",
+                        "lang_type": "main",
+                        "lang_identifier": ""
+                    },
+                    "originalLanguage": {
+                        "lang_label": "English",
+                        "lang_code": "eng",
+                        "lang_type": "main",
+                        "lang_identifier": ""
+                    },
+                    "stateLanguage": {},
+                    "isFirstVideoPlayedInDevice": false,
+                    "targetedDelivery": {
+                        "td_server_hints": {
+                            "pip_bw_initial": 800000,
+                            "pip_bw_max": 7000000,
+                            "pip_live_initial_buffer": 8,
+                            "pip_live_target_latency": 10,
+                            "analytics_expt_id": "9UexVSmNVs"
+                        }
+                    },
+                    "parents": [
+                        {
+                            "parentId": 1590016397,
+                            "parentType": "BUNDLE",
+                            "parentSubType": "MATCH_TYPE"
+                        },
+                        {
+                            "parentId": 1700001471,
+                            "parentType": "GROUP_OF_BUNDLES",
+                            "parentSubType": "TOURNAMENT"
+                        }
+                    ],
+                    "additionalDataJson": {
+                        "adServer": "GAM",
+                        "ad_stack": "DAI-IMA",
+                        "audioCodec": "AAC",
+                        "audio_quality": "STEREO",
+                        "enc_format": "HLS",
+                        "fps": 25,
+                        "isDaiKey": true,
+                        "partners": [
+                            "ALL"
+                        ],
+                        "resolution": "SD",
+                        "videoCodec": "H264",
+                        "video_quality": "SDR"
+                    },
+                    "LA_Details": {},
+                    "is_audio_desc_available": false,
+                    "is_multi_track_per_language_available": false,
+                    "multiAudioTrack": true,
+                    "packId": "liv_premium_GP_1m"
+                },
+                "systemTime": 1785577830685
+            }
+        },
         {
             "match_info": {
                 "contentId": 1090536386,
@@ -16,14 +233,14 @@
                 "contentType": "VOD",
                 "contentSubtype": "LIVE_SPORT",
                 "title": "Glasgow 2026 Commonwealth Games",
-                "longDescription": "Watch all the exclusive action from the Bowls and Para Bowls in the Men's Pairs, LIVE on Sony LIV.",
-                "shortDescription": "Watch all the exclusive action from the Bowls and Para Bowls in the Men's Pairs, LIVE on Sony LIV.",
+                "longDescription": "Watch all the exclusive action from the Boxing in the Women's 57kg, LIVE on Sony LIV.",
+                "shortDescription": "Watch all the exclusive action from the Boxing in the Women's 57kg, LIVE on Sony LIV.",
                 "isCopyProtected": false,
                 "contractStartDate": 1785567000000,
                 "contractEndDate": 1785633600000,
-                "episodeTitle": "Australia vs New Zealand - Men's Pairs - Bowls and Para Bowls - 1 Aug 2026",
+                "episodeTitle": "Michaela Walsh vs Jaismine Jaismine - Women's 57kg - Boxing - 1 Aug 2026",
                 "genres": [
-                    "Bowls and Para Bowls"
+                    "Boxing"
                 ],
                 "originalAirDate": 1785568800000,
                 "pcExtendedRatings": [],
@@ -35,7 +252,7 @@
                 "isGeoBlocked": false,
                 "advertisingInfoList": [],
                 "emfAttributes": {
-                    "venue_name": "SEC Hall 3 - Rink 1",
+                    "venue_name": "SEC Hall 5",
                     "region_of_origin": "English",
                     "svod_advertising": "true",
                     "audio_languages": "ENG",
@@ -50,7 +267,7 @@
                     "advertising": "AD SUPPORTED",
                     "isdvr": "No",
                     "emaAttributes": {},
-                    "tv_background_image": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536386/tvBackgroundImage/1785574097964_1784647341457819_CWG26_Bowls_and_Para_Bowls_pictogram_tv_bg.jpg",
+                    "tv_background_image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021583/1785530958732298_CWG_Boxing_Final_MICHAELA_WALSH_vs_JAISMINE_LAMBORIA_tv_bg.jpg",
                     "granular_access_configs": true,
                     "U": "IN",
                     "country_rating": {
@@ -59,25 +276,24 @@
                     },
                     "3+": "BD,NP,LK,PK,AF,BT,MV",
                     "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020251/178291361564192_Commonwealth_Games_2026_GOB_Masthead_logo.png",
+                    "player_name": "Michaela Walsh, Jaismine Jaismine",
                     "value": "SVOD",
                     "is_audio_desc_available": false,
-                    "venue_id": "66",
-                    "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536386/thumbnail/1785574097877_1784647162182819_CWG26_Bowls_and_Para_Bowls_pictogram_thumbnail.jpg",
+                    "venue_id": "74",
+                    "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021583/1785530835032298_CWG_Boxing_Final_MICHAELA_WALSH_vs_JAISMINE_LAMBORIA_landscape_thumb.jpg",
                     "variant_asset_languages": [],
-                    "broadcast_channel_hin": "लिव",
                     "ad_cluster_id": "ad_cluster_1",
                     "live_label_display": true,
-                    "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536386/portraitThumb/1785574097643_1784635752092819_CWG26_Bowls_and_Para_Bowls_pictogram_portrait_thumb.jpg",
+                    "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021583/1785530742279298_CWG_Boxing_Final_MICHAELA_WALSH_vs_JAISMINE_LAMBORIA_portrait_thumb.jpg",
                     "isSponsorAdAvailable": "true",
                     "dai_asset_key": "gCbFB2FiSbO9XPsh832aaw",
-                    "team": "Australia, New Zealand",
                     "seo_tags": "Glasgow 2026 Commonwealth Games,Glasgow 2026,CWG 2026,Commonwealth Games 2026,Glasgow 2026 India squad,Indian athletes Commonwealth Games 2026,CWG 2026 India schedule,India at Glasgow 2026,Neeraj Chopra Glasgow 2026,Mirabai Chanu CWG 2026,Lovlina Borgohain Commonwealth Games,Praveen Chithravel triple jump Glasgow,Murali Sreeshankar CWG 2026,Parul Chaudhary Commonwealth Games,Pranati Nayak gymnastics Glasgow 2026,Rohit Yadav javelin CWG,Preeti Pawar boxing Glasgow,India medal contenders CWG 2026,Commonwealth Games 2026 live streaming India,Glasgow 2026 sports list,Indian weightlifting team CWG 2026,Indian athletics squad Glasgow 2026,Neeraj Chopra,Mirabai Chanu,Lovlina Borgohain,Praveen Chithravel,Murali Sreeshankar,Parul Chaudhary,Pranati Nayak,Rohit Yadav,Preeti Pawar",
                     "Free_countries": "",
                     "overlay_visibility": "0",
                     "SVOD_countries": "_in,_bd,_np,_mv,_bt,_lk,_af,_pk",
                     "is_subtitle_cc_available": false,
                     "ssai_partners": "Google DAI",
-                    "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536386/landscapeThumb/1785574097765_1784647154993819_CWG26_Bowls_and_Para_Bowls_pictogram_landscape_thumb.jpg",
+                    "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021583/1785530835032298_CWG_Boxing_Final_MICHAELA_WALSH_vs_JAISMINE_LAMBORIA_landscape_thumb.jpg",
                     "audio_language_list": [
                         {
                             "lang_code": "ENG",
@@ -85,7 +301,6 @@
                         }
                     ],
                     "Maximum_Audio_Quality": "STEREO",
-                    "team_hin": "ऑस्ट्रेलिया नई ज़ीलैण्ड",
                     "sub_license": "No",
                     "is_auto_play_trailer": true,
                     "integrated_splash_available": "Yes",
@@ -274,6 +489,7 @@
                     "venue_id": "40",
                     "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021594/1785570206145495_CWG_Athletics-WOMENS-10000m-RACE-WALK-FINAL-RAVEENA-PRIYANKA_landscape_thumb.jpg",
                     "variant_asset_languages": [],
+                    "broadcast_channel_hin": "लिव",
                     "ad_cluster_id": "ad_cluster_1",
                     "live_label_display": true,
                     "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021594/1785570196195495_CWG_Athletics-WOMENS-10000m-RACE-WALK-FINAL-RAVEENA-PRIYANKA_live_portrait_thumb.jpg",
@@ -644,14 +860,14 @@
                 "contentType": "VOD",
                 "contentSubtype": "LIVE_SPORT",
                 "title": "Glasgow 2026 Commonwealth Games",
-                "longDescription": "Watch all the exclusive action from the Bowls and Para Bowls in the Men's Pairs, LIVE on Sony LIV.",
-                "shortDescription": "Watch all the exclusive action from the Bowls and Para Bowls in the Men's Pairs, LIVE on Sony LIV.",
+                "longDescription": "Watch all the exclusive action from the Judo in the Men -73 kg, LIVE on Sony LIV.",
+                "shortDescription": "Watch all the exclusive action from the Judo in the Men -73 kg, LIVE on Sony LIV.",
                 "isCopyProtected": false,
                 "contractStartDate": 1785567000000,
                 "contractEndDate": 1785633600000,
-                "episodeTitle": "Men's Sprint Qualifying - Cycling - 1 Aug 2026",
+                "episodeTitle": "Oliver Short vs Hamray Temaki - Men -73 kg - Judo - 1 Aug 2026",
                 "genres": [
-                    "Cycling"
+                    "Judo"
                 ],
                 "originalAirDate": 1785568800000,
                 "pcExtendedRatings": [],
@@ -663,7 +879,7 @@
                 "isGeoBlocked": false,
                 "advertisingInfoList": [],
                 "emfAttributes": {
-                    "venue_name": "SEC Hall 3 - Rink 4",
+                    "venue_name": "SEC Hall 4 - Mat 2",
                     "region_of_origin": "English",
                     "svod_advertising": "true",
                     "audio_languages": "ENG",
@@ -678,7 +894,7 @@
                     "advertising": "AD SUPPORTED",
                     "isdvr": "No",
                     "emaAttributes": {},
-                    "tv_background_image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784648141586819_CWG26_Cycling_pictogram_tv_bg.jpg",
+                    "tv_background_image": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536387/tvBackgroundImage/1785579549637_1784648069618819_CWG26_Judo_pictogram_tv_bg.jpg",
                     "granular_access_configs": true,
                     "U": "IN",
                     "country_rating": {
@@ -687,25 +903,24 @@
                     },
                     "3+": "BD,NP,LK,PK,AF,BT,MV",
                     "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020251/178291361564192_Commonwealth_Games_2026_GOB_Masthead_logo.png",
+                    "player_name": "Oliver Short, Hamray Temaki",
                     "value": "SVOD",
                     "is_audio_desc_available": false,
-                    "venue_id": "69",
-                    "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784647774216819_CWG26_Cycling_pictogram_landscape_thumb.jpg",
+                    "venue_id": "65",
+                    "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536387/thumbnail/1785579549509_1784647799948819_CWG26_Judo_pictogram_thumbnail.jpg",
                     "variant_asset_languages": [],
-                    "broadcast_channel_hin": "लिव",
                     "ad_cluster_id": "ad_cluster_1",
                     "live_label_display": true,
-                    "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784636656040819_CWG26_Cycling_pictogram_portrait_thumb.jpg",
+                    "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536387/portraitThumb/1785579549298_1784637191637819_CWG26_Judo_pictogram_portrait_thumb.jpg",
                     "isSponsorAdAvailable": "true",
                     "dai_asset_key": "ZMFBc1qcRkWntfsGJ-QzUg",
-                    "team": "Scotland, South Africa",
                     "seo_tags": "Glasgow 2026 Commonwealth Games,Glasgow 2026,CWG 2026,Commonwealth Games 2026,Glasgow 2026 India squad,Indian athletes Commonwealth Games 2026,CWG 2026 India schedule,India at Glasgow 2026,Neeraj Chopra Glasgow 2026,Mirabai Chanu CWG 2026,Lovlina Borgohain Commonwealth Games,Praveen Chithravel triple jump Glasgow,Murali Sreeshankar CWG 2026,Parul Chaudhary Commonwealth Games,Pranati Nayak gymnastics Glasgow 2026,Rohit Yadav javelin CWG,Preeti Pawar boxing Glasgow,India medal contenders CWG 2026,Commonwealth Games 2026 live streaming India,Glasgow 2026 sports list,Indian weightlifting team CWG 2026,Indian athletics squad Glasgow 2026,Neeraj Chopra,Mirabai Chanu,Lovlina Borgohain,Praveen Chithravel,Murali Sreeshankar,Parul Chaudhary,Pranati Nayak,Rohit Yadav,Preeti Pawar",
                     "Free_countries": "",
                     "overlay_visibility": "0",
                     "SVOD_countries": "_in,_bd,_np,_mv,_bt,_lk,_af,_pk",
                     "is_subtitle_cc_available": false,
                     "ssai_partners": "Google DAI",
-                    "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784647774216819_CWG26_Cycling_pictogram_landscape_thumb.jpg",
+                    "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536387/landscapeThumb/1785579549422_1784647795900819_CWG26_Judo_pictogram_landscape_thumb.jpg",
                     "audio_language_list": [
                         {
                             "lang_code": "ENG",
@@ -713,7 +928,6 @@
                         }
                     ],
                     "Maximum_Audio_Quality": "STEREO",
-                    "team_hin": "स्कॉटलैंड साउथ अफ्रीका",
                     "sub_license": "No",
                     "is_auto_play_trailer": true,
                     "integrated_splash_available": "Yes",
@@ -846,223 +1060,6 @@
         },
         {
             "match_info": {
-                "contentId": 1090538130,
-                "externalId": "1090538130",
-                "objectType": "VOD",
-                "isLive": true,
-                "objectSubtype": "LIVE_SPORT",
-                "contentType": "VOD",
-                "contentSubtype": "LIVE_SPORT",
-                "title": "IndianOil Durand Cup 2026",
-                "longDescription": "North East United FC face Bodoland FC in a key IndianOil Durand Cup 2026 encounter. Catch all the action LIVE, only on Sony LIV.",
-                "shortDescription": "North East United FC face Bodoland FC in a key IndianOil Durand Cup 2026 encounter. Catch all the action LIVE, only on Sony LIV.",
-                "isCopyProtected": false,
-                "contractStartDate": 1785577800000,
-                "contractEndDate": 1785597600000,
-                "episodeTitle": "North East United FC vs Bodoland FC  - 1 Aug 2026",
-                "genres": [
-                    "Football"
-                ],
-                "originalAirDate": 1785579600000,
-                "pcExtendedRatings": [],
-                "isOnAir": true,
-                "isEncrypted": false,
-                "pcVodLabel": "3+",
-                "duration": 0,
-                "language": "ENG",
-                "isGeoBlocked": false,
-                "advertisingInfoList": [],
-                "emfAttributes": {
-                    "audio_languages": "ENG",
-                    "snp_tags": "Suitable for all",
-                    "packageid": "12m_mobile_saarc,Liv_Pre_Yupp,12m_saarc,1m_saarc,liv_premium_GP_1m,liv_premium_GP_1m_mobile,LIV_Pre_Mob_1M,liv_binge_1m",
-                    "masthead_logo_rectangualar": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021273/1785261355231763_DURAND_CUP_2026_Match_masthead_logo_rectangualar_950x570_North_East_United_FC_vs_Bodoland_FC_Live.png",
-                    "Maximum_Resolution": "FULL_HD",
-                    "masthead_logo_v1": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021273/1785261355849763_DURAND_CUP_2026_Match_masthead_logo_V1_692x390_North_East_United_FC_vs_Bodoland_FC_Live.png",
-                    "advertising": "AD SUPPORTED",
-                    "emaAttributes": {},
-                    "kids_safe": false,
-                    "tv_background_image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021464/1785440687188793_DC26_North_East_United_FC_vs_Bodoland_FC_tv_bg.jpg",
-                    "content_marquee_status": "false",
-                    "marquee_target_state": [],
-                    "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021273/1785261356177763_DURAND_CUP_2026_Match_masthead_mobile_v2_984x1182_North_East_United_FC_vs_Bodoland_FC.jpg",
-                    "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021464/1785440662088793_DC26_North_East_United_FC_vs_Bodoland_FC_landscape.jpg",
-                    "variant_asset_languages": [],
-                    "broadcast_channel_hin": "सोनी स्पोर्ट्स तेन २",
-                    "ad_cluster_id": "ad_cluster_1",
-                    "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021464/1785440622679793_DC26_North_East_United_FC_vs_Bodoland_FC_live_portrait_thumb.jpg",
-                    "is_subtitle_cc_available": false,
-                    "ssai_partners": "Google DAI",
-                    "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021464/1785440662088793_DC26_North_East_United_FC_vs_Bodoland_FC_landscape.jpg",
-                    "audio_language_list": [
-                        {
-                            "lang_code": "ENG",
-                            "lang_label": "English"
-                        }
-                    ],
-                    "Maximum_Audio_Quality": "STEREO",
-                    "matchid": "",
-                    "isTimeLineMarker_new": "true",
-                    "venue_name": "Indira Gandhi Athletic Stadium",
-                    "region_of_origin": "English",
-                    "svod_advertising": "true",
-                    "sub_category": "Sport",
-                    "is_multi_track_per_language_available": false,
-                    "broadcast_channel": "Sony Sports Ten 2",
-                    "Maximum_Video_Quality": "SDR",
-                    "isdvr": "No",
-                    "away_team": "Bodoland FC",
-                    "U": "IN",
-                    "country_rating": {
-                        "U": "IN",
-                        "3+": "BD,NP,LK,PK,AF,BT,MV"
-                    },
-                    "3+": "BD,NP,LK,PK,AF,BT,MV",
-                    "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021273/1785261354939763_DURAND_CUP_2026_Match_Masthead_logo_North_East_United_FC_vs_Bodoland_FC_Live.png",
-                    "projected_max_concurrency": 100000,
-                    "value": "SVOD",
-                    "is_audio_desc_available": false,
-                    "target_impressions_per_week": 2000000,
-                    "live_label_display": true,
-                    "dai_asset_key": "kLLXpEquS0Wj3_WTm-URPw",
-                    "match_start_time": "1785579600",
-                    "seo_tags": "IndianOil Durand Cup 2026,football,Durand Cup,Durand Cup 2026 tickets,Durand Cup 2026 schedule,Asian football,Durand Cup 2026 highlights,Durand Cup 2026,durand cup,Durand Cup 2026 date,Durand Cup 2026 news,Durand Cup 2026 live,Durand Cup 2026 teams,Durand Cup 2026 venue,Durand Cup 2026 update,Durand Cup 2026 fixtures,Durand Cup 2026 all matches,Durand Cup 2026 new updates,Durand Cup 2026 latest news,Durand Cup 2026 team updates,where to watch Durand Cup 2026,Durand Cup fixtures 2026,Durand Cup 2026 starting date,Durand Cup 2026 latest updates",
-                    "Free_countries": "",
-                    "overlay_visibility": "0",
-                    "target_frequency_per_week": 3,
-                    "SVOD_countries": "_in,_lk,_mv,_np,_bd,_bt,_af,_pk",
-                    "home_team": "North East United FC",
-                    "is_auto_play_trailer": true,
-                    "integrated_splash_available": "Yes",
-                    "masthead_large_v3": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021273/1785261354659763_DURAND_CUP_2026_Match_masthead_large_v3_3200x1800_North_East_United_FC_vs_Bodoland_FC.jpg",
-                    "isDVR": false,
-                    "isTimeLineMarker": false,
-                    "isDownloadable": false,
-                    "is_preview_enabled": false,
-                    "sprite_image_url": "",
-                    "tv_sprite_image_url": "",
-                    "tl_marker": "",
-                    "icon_on_asset": {
-                        "play_focus_icon": "https://origin-staticv2.sonyliv.com/UI_icons/spotlight/focus_play_icon.png",
-                        "play_normal_icon": "https://origin-staticv2.sonyliv.com/UI_icons/spotlight/non_focused_play_icon.png"
-                    }
-                },
-                "isADVAllowed": false,
-                "ratingEligibility": true,
-                "ratingDisplay": false,
-                "titleBrief": "",
-                "baseContentId": 1090538130,
-                "isBaseAsset": true
-            },
-            "playback_info": {
-                "resultCode": "OK",
-                "message": "",
-                "errorDescription": "200-10000",
-                "resultObj": {
-                    "showPlayerStats": false,
-                    "is_preview_enabled": false,
-                    "videoURL": "https://sonydaimenew.akamaized.net/hls/live/20000299/Football0108/ENG/master.m3u8?hdnea=exp=1785599430~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=d238714318de1f36ac1da29b230d7c892ab1ee0860d36132cb396de3aebc21de",
-                    "multiLanguageVideoURL": [],
-                    "audioLanguages": [
-                        {
-                            "audioLanguageName": "ENG",
-                            "audioLanguageLabel": "English"
-                        }
-                    ],
-                    "trailer_url": "",
-                    "subtitle": [],
-                    "isEncrypted": false,
-                    "isDVR": false,
-                    "isDownloadable": false,
-                    "posterURL": "",
-                    "sprite_image_url": "",
-                    "tv_sprite_image_url": "",
-                    "dai_asset_key": "x1UGIh46R2y6NXA09SUPQw",
-                    "contextual_cue_point": {},
-                    "cuepoints": [],
-                    "isLive": true,
-                    "country_rating": {
-                        "U": "IN",
-                        "3+": "BD,NP,LK,PK,AF,BT,MV"
-                    },
-                    "dai_asset_key_hlsfp": "",
-                    "dai_asset_key_wm": "",
-                    "Maximum_Video_Quality": "SDR",
-                    "Maximum_Audio_Quality": "STEREO",
-                    "Maximum_Resolution": "FULL_HD",
-                    "isWatermarked": "false",
-                    "watermark_partner": "",
-                    "upfrontAudio": true,
-                    "pcVodLabel": "3+",
-                    "promotionUrl": "",
-                    "hasPromotion": false,
-                    "contentProvider": "DURAND FOOTBALL TOURNAMENT SOCIETY",
-                    "sony_match_id": "",
-                    "tl_marker": "",
-                    "checksum": "",
-                    "kid_mss": "",
-                    "parentId": "1700001471",
-                    "selectedLanguage": {
-                        "lang_label": "English",
-                        "lang_code": "ENG",
-                        "lang_type": "main",
-                        "lang_identifier": ""
-                    },
-                    "originalLanguage": {
-                        "lang_label": "English",
-                        "lang_code": "eng",
-                        "lang_type": "main",
-                        "lang_identifier": ""
-                    },
-                    "stateLanguage": {},
-                    "isFirstVideoPlayedInDevice": false,
-                    "targetedDelivery": {
-                        "td_server_hints": {
-                            "pip_bw_initial": 800000,
-                            "pip_bw_max": 7000000,
-                            "pip_live_initial_buffer": 8,
-                            "pip_live_target_latency": 10,
-                            "analytics_expt_id": "9UexVSmNVs"
-                        }
-                    },
-                    "parents": [
-                        {
-                            "parentId": 1590016397,
-                            "parentType": "BUNDLE",
-                            "parentSubType": "MATCH_TYPE"
-                        },
-                        {
-                            "parentId": 1700001471,
-                            "parentType": "GROUP_OF_BUNDLES",
-                            "parentSubType": "TOURNAMENT"
-                        }
-                    ],
-                    "additionalDataJson": {
-                        "adServer": "GAM",
-                        "ad_stack": "DAI-IMA",
-                        "audioCodec": "AAC",
-                        "audio_quality": "STEREO",
-                        "enc_format": "HLS",
-                        "fps": 25,
-                        "isDaiKey": true,
-                        "partners": [
-                            "ALL"
-                        ],
-                        "resolution": "SD",
-                        "videoCodec": "H264",
-                        "video_quality": "SDR"
-                    },
-                    "LA_Details": {},
-                    "is_audio_desc_available": false,
-                    "is_multi_track_per_language_available": false,
-                    "multiAudioTrack": true,
-                    "packId": "liv_premium_GP_1m"
-                },
-                "systemTime": 1785577830685
-            }
-        },
-        {
-            "match_info": {
                 "contentId": 1090538123,
                 "externalId": "1090538123",
                 "objectType": "VOD",
@@ -1162,7 +1159,101 @@
                 "isBaseAsset": true
             },
             "playback_info": {
-                "error": "HTTP Error 403: Forbidden"
+                "resultCode": "OK",
+                "message": "",
+                "errorDescription": "200-10000",
+                "resultObj": {
+                    "showPlayerStats": false,
+                    "is_preview_enabled": false,
+                    "videoURL": "https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-SLSB/master.m3u8?hdnea=exp=1785601231~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=b4bb1f37b01e2cf27775a96353ab7f725df994e7562f6dd2cc555713dfc5f302",
+                    "multiLanguageVideoURL": [],
+                    "audioLanguages": [
+                        {
+                            "audioLanguageName": "ENG",
+                            "audioLanguageLabel": "English"
+                        }
+                    ],
+                    "trailer_url": "",
+                    "subtitle": [],
+                    "isEncrypted": false,
+                    "isDVR": false,
+                    "isDownloadable": false,
+                    "posterURL": "",
+                    "sprite_image_url": "",
+                    "tv_sprite_image_url": "",
+                    "dai_asset_key": "",
+                    "contextual_cue_point": {},
+                    "cuepoints": [],
+                    "isLive": true,
+                    "country_rating": {
+                        "3+": "BD,NP,MV,BT,LK,AF,PK,MM"
+                    },
+                    "dai_asset_key_hlsfp": "",
+                    "dai_asset_key_wm": "",
+                    "Maximum_Video_Quality": "SDR",
+                    "Maximum_Audio_Quality": "STEREO",
+                    "Maximum_Resolution": "FULL_HD",
+                    "isWatermarked": "false",
+                    "watermark_partner": "",
+                    "upfrontAudio": true,
+                    "pcVodLabel": "3+",
+                    "promotionUrl": "",
+                    "hasPromotion": false,
+                    "contentProvider": "ENGLAND AND WALES CRICKET",
+                    "sony_match_id": "",
+                    "tl_marker": "",
+                    "checksum": "",
+                    "kid_mss": "",
+                    "parentId": "1700001268",
+                    "selectedLanguage": {
+                        "lang_label": "English",
+                        "lang_code": "ENG",
+                        "lang_type": "main",
+                        "lang_identifier": ""
+                    },
+                    "originalLanguage": {
+                        "lang_label": "English",
+                        "lang_code": "eng",
+                        "lang_type": "main",
+                        "lang_identifier": ""
+                    },
+                    "stateLanguage": {},
+                    "isFirstVideoPlayedInDevice": false,
+                    "adstack": "DAI-IMA",
+                    "targetedDelivery": {
+                        "td_server_hints": {
+                            "pip_bw_initial": 800000,
+                            "pip_bw_max": 7000000,
+                            "pip_vod_prefetch": 30,
+                            "pip_vod_initial_buffer_mb": 11,
+                            "pip_vod_initial_buffer_sec": 12,
+                            "pip_vod_max_buffer_mb": 79,
+                            "pip_vod_max_buffer_sec": 90,
+                            "pip_live_initial_buffer": 8,
+                            "pip_live_target_latency": 10,
+                            "analytics_expt_id": "middleware"
+                        }
+                    },
+                    "parents": [
+                        {
+                            "parentId": 1590016400,
+                            "parentType": "BUNDLE",
+                            "parentSubType": "MATCH_TYPE"
+                        },
+                        {
+                            "parentId": 1700001268,
+                            "parentType": "GROUP_OF_BUNDLES",
+                            "parentSubType": "TOURNAMENT"
+                        }
+                    ],
+                    "additionalDataJson": {},
+                    "LA_Details": {},
+                    "is_audio_desc_available": false,
+                    "is_multi_track_per_language_available": false,
+                    "multiAudioTrack": true,
+                    "packId": "liv_premium_GP_1m"
+                },
+                "systemTime": 1785579631299
             }
         }
     ]
