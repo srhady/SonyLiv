@@ -2,22 +2,22 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 04:50:27 PM 01-08-2026
+# last_update: 05:50:22 PM 01-08-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090538130" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021464/1785440662088793_DC26_North_East_United_FC_vs_Bodoland_FC_landscape.jpg" group-title="Football", North East United FC vs Bodoland FC  - 1 Aug 2026 | IndianOil Durand Cup 2026
 https://sonydaimenew.akamaized.net/hls/live/20000299/Football0108/ENG/master.m3u8?hdnea=exp=1785599430~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=d238714318de1f36ac1da29b230d7c892ab1ee0860d36132cb396de3aebc21de
 
-#EXTINF:-1 tvg-id="sonyliv-1090536386" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536386/thumbnail/1785580772015_1784647659853819_CWG26_Boxing_pictogram_thumbnail.jpg" group-title="Boxing", Kaci Rock vs Sacha Hickey - Women's 65kg - Boxing - 1 Aug 2026 | Glasgow 2026 Commonwealth Games
-https://sonydaimenew.akamaized.net/hls/live/20000378/CWG_Stre0108/ENG/master.m3u8?hdnea=exp=1785588636~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=263329c93774b7da54be23674a0f60a827d86ef836213d58c7795ece248439e4
+#EXTINF:-1 tvg-id="sonyliv-1090536386" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536386/thumbnail/1785584278027_1784647659853819_CWG26_Boxing_pictogram_thumbnail.jpg" group-title="Boxing", Jacob Cassar vs Patris Mughalzai - Men's 65kg - Boxing - 1 Aug 2026 | Glasgow 2026 Commonwealth Games
+https://sonydaimenew.akamaized.net/hls/live/20000378/CWG_Stre0108/ENG/master.m3u8?hdnea=exp=1785606628~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=b5b4575b2ae61f921beb073f9c8391fa2ab30e2626d4487e9d5aac99874a78cf
 
-#EXTINF:-1 tvg-id="sonyliv-1090536268" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/thumbnail/1785581105874_1784647626419819_CWG26_Athletics_pictogram_thumbnail.jpg" group-title="Athletics", Men's Discus Throw - Athletics - 1 Aug 2026 | Glasgow 2026 Commonwealth Games
+#EXTINF:-1 tvg-id="sonyliv-1090536268" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/thumbnail/1785584650986_1784647626419819_CWG26_Athletics_pictogram_thumbnail.jpg" group-title="Athletics", Women's 4 x 100m Relay - Athletics - 1 Aug 2026 | Glasgow 2026 Commonwealth Games
 https://sonydaimenew.akamaized.net/hls/live/20000400/CWG_Stre0108/ENG/master.m3u8?hdnea=exp=1785595839~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=8ca5f0447ea53fb78c5ea165be5e232e35cf3bc3777466ff11334d812f50070d
 
-#EXTINF:-1 tvg-id="sonyliv-1090536385" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021601/1785574635010396_CWG_BOWLS_ENGLAND-v-INDIA_live_landscape_thumb.jpg" group-title="Bowls and Para Bowls", England vs India - Men's Pairs - Bowls and Para Bowls - 1 Aug 2026 | Glasgow 2026 Commonwealth Games
+#EXTINF:-1 tvg-id="sonyliv-1090536385" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/thumbnail/1785584743880_1784647770880819_CWG26_Cycling_pictogram_thumbnail.jpg" group-title="Cycling", Men's Sprint - Cycling - 1 Aug 2026 | Glasgow 2026 Commonwealth Games
 https://sonydaimenew.akamaized.net/hls/live/20000401/CWG_Stre0108/ENG/master.m3u8?hdnea=exp=1785597633~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=c406f5a1107fac7edc151f639a7addaa80a674f102f4a3b014b3449ac973b682
 
-#EXTINF:-1 tvg-id="sonyliv-1090536387" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536387/thumbnail/1785581249359_1784647799948819_CWG26_Judo_pictogram_thumbnail.jpg" group-title="Judo", Charlie Thibault vs Zubeda Talikaza - Women -70 kg - Judo - 1 Aug 2026 | Glasgow 2026 Commonwealth Games
-https://sonydaimenew.akamaized.net/hls/live/20000392/CWG_Stre0108/ENG/master.m3u8?hdnea=exp=1785588646~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=3fdc643b38f6927c5ed2a6054f20e0597214f2a48cfeed1fe8455a7e8f667337
+#EXTINF:-1 tvg-id="sonyliv-1090536387" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536387/thumbnail/1785584940978_1784647799948819_CWG26_Judo_pictogram_thumbnail.jpg" group-title="Judo", Aoife Coughlan vs Holly Devall - Women -70 kg - Judo - 1 Aug 2026 | Glasgow 2026 Commonwealth Games
+https://sonydaimenew.akamaized.net/hls/live/20000392/CWG_Stre0108/ENG/master.m3u8?hdnea=exp=1785606639~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=dd808a0c913dce1d70627f5fc9a81b5e92bca64af9a0a2bdecf6f8fe1fdb9fc5
 
 #EXTINF:-1 tvg-id="sonyliv-1090538123" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021140/178511054675131_The_Hundred2026_womens_Birmingham_Phoenix_vs_Welsh_Fire_landscape_thumb.jpg" group-title="Cricket", Birmingham Phoenix vs Welsh Fire - 1 Aug 2026 | The Hundred 2026 (Women's)
 https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-SLSB/master.m3u8?hdnea=exp=1785601231~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=b4bb1f37b01e2cf27775a96353ab7f725df994e7562f6dd2cc555713dfc5f302

@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "04:50:27 PM 01-08-2026"
+        "last_update": "05:50:22 PM 01-08-2026"
     },
     "live_matches": [
         {
@@ -233,12 +233,12 @@
                 "contentType": "VOD",
                 "contentSubtype": "LIVE_SPORT",
                 "title": "Glasgow 2026 Commonwealth Games",
-                "longDescription": "Watch all the exclusive action from the Boxing in the Women's 65kg, LIVE on Sony LIV.",
-                "shortDescription": "Watch all the exclusive action from the Boxing in the Women's 65kg, LIVE on Sony LIV.",
+                "longDescription": "Watch all the exclusive action from the Boxing in the Men's 65kg, LIVE on Sony LIV.",
+                "shortDescription": "Watch all the exclusive action from the Boxing in the Men's 65kg, LIVE on Sony LIV.",
                 "isCopyProtected": false,
                 "contractStartDate": 1785567000000,
                 "contractEndDate": 1785633600000,
-                "episodeTitle": "Kaci Rock vs Sacha Hickey - Women's 65kg - Boxing - 1 Aug 2026",
+                "episodeTitle": "Jacob Cassar vs Patris Mughalzai - Men's 65kg - Boxing - 1 Aug 2026",
                 "genres": [
                     "Boxing"
                 ],
@@ -267,7 +267,7 @@
                     "advertising": "AD SUPPORTED",
                     "isdvr": "No",
                     "emaAttributes": {},
-                    "tv_background_image": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536386/tvBackgroundImage/1785580772091_1784648168177819_CWG26_Boxing_pictogram_tv_bg.jpg",
+                    "tv_background_image": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536386/tvBackgroundImage/1785584278118_1784648168177819_CWG26_Boxing_pictogram_tv_bg.jpg",
                     "granular_access_configs": true,
                     "U": "IN",
                     "country_rating": {
@@ -276,15 +276,15 @@
                     },
                     "3+": "BD,NP,LK,PK,AF,BT,MV",
                     "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020251/178291361564192_Commonwealth_Games_2026_GOB_Masthead_logo.png",
-                    "player_name": "Kaci Rock, Sacha Hickey",
+                    "player_name": "Jacob Cassar, Patris Mughalzai",
                     "value": "SVOD",
                     "is_audio_desc_available": false,
                     "venue_id": "74",
-                    "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536386/thumbnail/1785580772015_1784647659853819_CWG26_Boxing_pictogram_thumbnail.jpg",
+                    "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536386/thumbnail/1785584278027_1784647659853819_CWG26_Boxing_pictogram_thumbnail.jpg",
                     "variant_asset_languages": [],
                     "ad_cluster_id": "ad_cluster_1",
                     "live_label_display": true,
-                    "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536386/portraitThumb/1785580771766_1784636551144819_CWG26_Boxing_pictogram_portrait_thumb.jpg",
+                    "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536386/portraitThumb/1785584277840_1784636551144819_CWG26_Boxing_pictogram_portrait_thumb.jpg",
                     "isSponsorAdAvailable": "true",
                     "dai_asset_key": "gCbFB2FiSbO9XPsh832aaw",
                     "seo_tags": "Glasgow 2026 Commonwealth Games,Glasgow 2026,CWG 2026,Commonwealth Games 2026,Glasgow 2026 India squad,Indian athletes Commonwealth Games 2026,CWG 2026 India schedule,India at Glasgow 2026,Neeraj Chopra Glasgow 2026,Mirabai Chanu CWG 2026,Lovlina Borgohain Commonwealth Games,Praveen Chithravel triple jump Glasgow,Murali Sreeshankar CWG 2026,Parul Chaudhary Commonwealth Games,Pranati Nayak gymnastics Glasgow 2026,Rohit Yadav javelin CWG,Preeti Pawar boxing Glasgow,India medal contenders CWG 2026,Commonwealth Games 2026 live streaming India,Glasgow 2026 sports list,Indian weightlifting team CWG 2026,Indian athletics squad Glasgow 2026,Neeraj Chopra,Mirabai Chanu,Lovlina Borgohain,Praveen Chithravel,Murali Sreeshankar,Parul Chaudhary,Pranati Nayak,Rohit Yadav,Preeti Pawar",
@@ -293,7 +293,7 @@
                     "SVOD_countries": "_in,_bd,_np,_mv,_bt,_lk,_af,_pk",
                     "is_subtitle_cc_available": false,
                     "ssai_partners": "Google DAI",
-                    "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536386/landscapeThumb/1785580771878_1784647663933819_CWG26_Boxing_pictogram_landscape_thumb.jpg",
+                    "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536386/landscapeThumb/1785584277948_1784647663933819_CWG26_Boxing_pictogram_landscape_thumb.jpg",
                     "audio_language_list": [
                         {
                             "lang_code": "ENG",
@@ -332,7 +332,7 @@
                 "resultObj": {
                     "showPlayerStats": false,
                     "is_preview_enabled": false,
-                    "videoURL": "https://sonydaimenew.akamaized.net/hls/live/20000378/CWG_Stre0108/ENG/master.m3u8?hdnea=exp=1785588636~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=263329c93774b7da54be23674a0f60a827d86ef836213d58c7795ece248439e4",
+                    "videoURL": "https://sonydaimenew.akamaized.net/hls/live/20000378/CWG_Stre0108/ENG/master.m3u8?hdnea=exp=1785606628~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=b5b4575b2ae61f921beb073f9c8391fa2ab30e2626d4487e9d5aac99874a78cf",
                     "multiLanguageVideoURL": [],
                     "audioLanguages": [
                         {
@@ -428,7 +428,7 @@
                     "multiAudioTrack": true,
                     "packId": "liv_premium_GP_1m"
                 },
-                "systemTime": 1785567036476
+                "systemTime": 1785585028023
             }
         },
         {
@@ -441,12 +441,12 @@
                 "contentType": "VOD",
                 "contentSubtype": "LIVE_SPORT",
                 "title": "Glasgow 2026 Commonwealth Games",
-                "longDescription": "Watch all the exclusive action from the Athletics in the Men's Discus Throw, LIVE on Sony LIV.",
-                "shortDescription": "Watch all the exclusive action from the Athletics in the Men's Discus Throw, LIVE on Sony LIV.",
+                "longDescription": "Watch all the exclusive action from the Athletics in the Women's 4 x 100m Relay, LIVE on Sony LIV.",
+                "shortDescription": "Watch all the exclusive action from the Athletics in the Women's 4 x 100m Relay, LIVE on Sony LIV.",
                 "isCopyProtected": false,
                 "contractStartDate": 1785572400000,
                 "contractEndDate": 1785639000000,
-                "episodeTitle": "Men's Discus Throw - Athletics - 1 Aug 2026",
+                "episodeTitle": "Women's 4 x 100m Relay - Athletics - 1 Aug 2026",
                 "genres": [
                     "Athletics"
                 ],
@@ -460,7 +460,7 @@
                 "isGeoBlocked": false,
                 "advertisingInfoList": [],
                 "emfAttributes": {
-                    "venue_name": "Long Throws",
+                    "venue_name": "Track",
                     "region_of_origin": "English",
                     "svod_advertising": "true",
                     "audio_languages": "ENG",
@@ -475,7 +475,7 @@
                     "advertising": "AD SUPPORTED",
                     "isdvr": "No",
                     "emaAttributes": {},
-                    "tv_background_image": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/tvBackgroundImage/1785581106011_1784648226268819_CWG26_Athletics_pictogram_tv_bg.jpg",
+                    "tv_background_image": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/tvBackgroundImage/1785584651051_1784648226268819_CWG26_Athletics_pictogram_tv_bg.jpg",
                     "granular_access_configs": true,
                     "U": "IN",
                     "country_rating": {
@@ -483,25 +483,25 @@
                         "3+": "BD,NP,LK,PK,AF,BT,MV"
                     },
                     "3+": "BD,NP,LK,PK,AF,BT,MV",
-                    "player_name": "Christopher Sophie, Fedrick Dacres, Lawrence Okoye, Alex Rose, Muhammad Irfan Shamsuddin, Ralford Mullings, Ryan Williams, Tayjo Oppong-Adjei, Penisimani Taeiloa, Iosif Michalis Papa, Nicholas Percy, Matthew Denny, Lucien Wangba",
                     "value": "SVOD",
                     "is_audio_desc_available": false,
-                    "venue_id": "51",
-                    "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/thumbnail/1785581105874_1784647626419819_CWG26_Athletics_pictogram_thumbnail.jpg",
+                    "venue_id": "40",
+                    "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/thumbnail/1785584650986_1784647626419819_CWG26_Athletics_pictogram_thumbnail.jpg",
                     "variant_asset_languages": [],
                     "ad_cluster_id": "ad_cluster_1",
                     "live_label_display": true,
-                    "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/portraitThumb/1785581105627_1784635109073819_CWG26_Athletics_pictogram_portrait_thumb.jpg",
+                    "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/portraitThumb/1785584650808_1784635109073819_CWG26_Athletics_pictogram_portrait_thumb.jpg",
                     "isSponsorAdAvailable": "true",
                     "dai_asset_key": "HhloUHqYTTysVJ6-K-Qmjg",
                     "match_start_time": "1785574200",
+                    "team": "Singapore, Jamaica, England, Nigeria, Maldives, The Gambia",
                     "seo_tags": "Glasgow 2026 Commonwealth Games,Glasgow 2026,CWG 2026,Commonwealth Games 2026,Glasgow 2026 India squad,Indian athletes Commonwealth Games 2026,CWG 2026 India schedule,India at Glasgow 2026,Neeraj Chopra Glasgow 2026,Mirabai Chanu CWG 2026,Lovlina Borgohain Commonwealth Games,Praveen Chithravel triple jump Glasgow,Murali Sreeshankar CWG 2026,Parul Chaudhary Commonwealth Games,Pranati Nayak gymnastics Glasgow 2026,Rohit Yadav javelin CWG,Preeti Pawar boxing Glasgow,India medal contenders CWG 2026,Commonwealth Games 2026 live streaming India,Glasgow 2026 sports list,Indian weightlifting team CWG 2026,Indian athletics squad Glasgow 2026,Neeraj Chopra,Mirabai Chanu,Lovlina Borgohain,Praveen Chithravel,Murali Sreeshankar,Parul Chaudhary,Pranati Nayak,Rohit Yadav,Preeti Pawar",
                     "Free_countries": "",
                     "overlay_visibility": "0",
                     "SVOD_countries": "_in,_bd,_np,_mv,_bt,_lk,_af,_pk",
                     "is_subtitle_cc_available": false,
                     "ssai_partners": "Google DAI",
-                    "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/landscapeThumb/1785581105748_1784647629918819_CWG26_Athletics_pictogram_landscape_thumb.jpg",
+                    "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/landscapeThumb/1785584650907_1784647629918819_CWG26_Athletics_pictogram_landscape_thumb.jpg",
                     "audio_language_list": [
                         {
                             "lang_code": "ENG",
@@ -650,14 +650,14 @@
                 "contentType": "VOD",
                 "contentSubtype": "LIVE_SPORT",
                 "title": "Glasgow 2026 Commonwealth Games",
-                "longDescription": "Watch all the exclusive action from the Bowls and Para Bowls in the Men's Pairs, LIVE on Sony LIV.",
-                "shortDescription": "Watch all the exclusive action from the Bowls and Para Bowls in the Men's Pairs, LIVE on Sony LIV.",
+                "longDescription": "Watch all the exclusive action from the Cycling in the Men's Sprint, LIVE on Sony LIV.",
+                "shortDescription": "Watch all the exclusive action from the Cycling in the Men's Sprint, LIVE on Sony LIV.",
                 "isCopyProtected": false,
                 "contractStartDate": 1785572400000,
                 "contractEndDate": 1785639000000,
-                "episodeTitle": "England vs India - Men's Pairs - Bowls and Para Bowls - 1 Aug 2026",
+                "episodeTitle": "Men's Sprint - Cycling - 1 Aug 2026",
                 "genres": [
-                    "Bowls and Para Bowls"
+                    "Cycling"
                 ],
                 "originalAirDate": 1785574200000,
                 "pcExtendedRatings": [],
@@ -669,7 +669,7 @@
                 "isGeoBlocked": false,
                 "advertisingInfoList": [],
                 "emfAttributes": {
-                    "venue_name": "SEC Hall 3 - Rink 1",
+                    "venue_name": "Sir Chris Hoy Velodrome",
                     "region_of_origin": "English",
                     "svod_advertising": "true",
                     "audio_languages": "ENG",
@@ -684,7 +684,7 @@
                     "advertising": "AD SUPPORTED",
                     "isdvr": "No",
                     "emaAttributes": {},
-                    "tv_background_image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021601/1785574730111396_CWG_BOWLS_ENGLAND-v-INDIA_live_tv_bg.jpg",
+                    "tv_background_image": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/tvBackgroundImage/1785584743954_1784648141586819_CWG26_Cycling_pictogram_tv_bg.jpg",
                     "granular_access_configs": true,
                     "U": "IN",
                     "country_rating": {
@@ -695,22 +695,21 @@
                     "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020251/178291361564192_Commonwealth_Games_2026_GOB_Masthead_logo.png",
                     "value": "SVOD",
                     "is_audio_desc_available": false,
-                    "venue_id": "66",
-                    "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021601/1785574635010396_CWG_BOWLS_ENGLAND-v-INDIA_live_landscape_thumb.jpg",
+                    "venue_id": "70",
+                    "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/thumbnail/1785584743880_1784647770880819_CWG26_Cycling_pictogram_thumbnail.jpg",
                     "variant_asset_languages": [],
                     "ad_cluster_id": "ad_cluster_1",
                     "live_label_display": true,
-                    "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021601/1785574626045396_CWG_BOWLS_ENGLAND-v-INDIA_live_portrait_thumb.jpg",
+                    "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/portraitThumb/1785584743683_1784636656040819_CWG26_Cycling_pictogram_portrait_thumb.jpg",
                     "isSponsorAdAvailable": "true",
                     "dai_asset_key": "gvTL_75mSaiKQGj6u8tWBw",
-                    "team": "England, India",
                     "seo_tags": "Glasgow 2026 Commonwealth Games,Glasgow 2026,CWG 2026,Commonwealth Games 2026,Glasgow 2026 India squad,Indian athletes Commonwealth Games 2026,CWG 2026 India schedule,India at Glasgow 2026,Neeraj Chopra Glasgow 2026,Mirabai Chanu CWG 2026,Lovlina Borgohain Commonwealth Games,Praveen Chithravel triple jump Glasgow,Murali Sreeshankar CWG 2026,Parul Chaudhary Commonwealth Games,Pranati Nayak gymnastics Glasgow 2026,Rohit Yadav javelin CWG,Preeti Pawar boxing Glasgow,India medal contenders CWG 2026,Commonwealth Games 2026 live streaming India,Glasgow 2026 sports list,Indian weightlifting team CWG 2026,Indian athletics squad Glasgow 2026,Neeraj Chopra,Mirabai Chanu,Lovlina Borgohain,Praveen Chithravel,Murali Sreeshankar,Parul Chaudhary,Pranati Nayak,Rohit Yadav,Preeti Pawar",
                     "Free_countries": "",
                     "overlay_visibility": "0",
                     "SVOD_countries": "_in,_bd,_np,_mv,_bt,_lk,_af,_pk",
                     "is_subtitle_cc_available": false,
                     "ssai_partners": "Google DAI",
-                    "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021601/1785574635010396_CWG_BOWLS_ENGLAND-v-INDIA_live_landscape_thumb.jpg",
+                    "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/landscapeThumb/1785584743800_1784647774216819_CWG26_Cycling_pictogram_landscape_thumb.jpg",
                     "audio_language_list": [
                         {
                             "lang_code": "ENG",
@@ -863,7 +862,7 @@
                 "isCopyProtected": false,
                 "contractStartDate": 1785567000000,
                 "contractEndDate": 1785633600000,
-                "episodeTitle": "Charlie Thibault vs Zubeda Talikaza - Women -70 kg - Judo - 1 Aug 2026",
+                "episodeTitle": "Aoife Coughlan vs Holly Devall - Women -70 kg - Judo - 1 Aug 2026",
                 "genres": [
                     "Judo"
                 ],
@@ -877,7 +876,7 @@
                 "isGeoBlocked": false,
                 "advertisingInfoList": [],
                 "emfAttributes": {
-                    "venue_name": "SEC Hall 4 - Mat 2",
+                    "venue_name": "SEC Hall 4 - Mat 1",
                     "region_of_origin": "English",
                     "svod_advertising": "true",
                     "audio_languages": "ENG",
@@ -892,7 +891,7 @@
                     "advertising": "AD SUPPORTED",
                     "isdvr": "No",
                     "emaAttributes": {},
-                    "tv_background_image": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536387/tvBackgroundImage/1785581249434_1784648069618819_CWG26_Judo_pictogram_tv_bg.jpg",
+                    "tv_background_image": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536387/tvBackgroundImage/1785584941043_1784648069618819_CWG26_Judo_pictogram_tv_bg.jpg",
                     "granular_access_configs": true,
                     "U": "IN",
                     "country_rating": {
@@ -901,15 +900,15 @@
                     },
                     "3+": "BD,NP,LK,PK,AF,BT,MV",
                     "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020251/178291361564192_Commonwealth_Games_2026_GOB_Masthead_logo.png",
-                    "player_name": "Charlie Thibault, Zubeda Talikaza",
+                    "player_name": "Aoife Coughlan, Holly Devall",
                     "value": "SVOD",
                     "is_audio_desc_available": false,
-                    "venue_id": "65",
-                    "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536387/thumbnail/1785581249359_1784647799948819_CWG26_Judo_pictogram_thumbnail.jpg",
+                    "venue_id": "64",
+                    "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536387/thumbnail/1785584940978_1784647799948819_CWG26_Judo_pictogram_thumbnail.jpg",
                     "variant_asset_languages": [],
                     "ad_cluster_id": "ad_cluster_1",
                     "live_label_display": true,
-                    "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536387/portraitThumb/1785581249153_1784637191637819_CWG26_Judo_pictogram_portrait_thumb.jpg",
+                    "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536387/portraitThumb/1785584940831_1784637191637819_CWG26_Judo_pictogram_portrait_thumb.jpg",
                     "isSponsorAdAvailable": "true",
                     "dai_asset_key": "ZMFBc1qcRkWntfsGJ-QzUg",
                     "seo_tags": "Glasgow 2026 Commonwealth Games,Glasgow 2026,CWG 2026,Commonwealth Games 2026,Glasgow 2026 India squad,Indian athletes Commonwealth Games 2026,CWG 2026 India schedule,India at Glasgow 2026,Neeraj Chopra Glasgow 2026,Mirabai Chanu CWG 2026,Lovlina Borgohain Commonwealth Games,Praveen Chithravel triple jump Glasgow,Murali Sreeshankar CWG 2026,Parul Chaudhary Commonwealth Games,Pranati Nayak gymnastics Glasgow 2026,Rohit Yadav javelin CWG,Preeti Pawar boxing Glasgow,India medal contenders CWG 2026,Commonwealth Games 2026 live streaming India,Glasgow 2026 sports list,Indian weightlifting team CWG 2026,Indian athletics squad Glasgow 2026,Neeraj Chopra,Mirabai Chanu,Lovlina Borgohain,Praveen Chithravel,Murali Sreeshankar,Parul Chaudhary,Pranati Nayak,Rohit Yadav,Preeti Pawar",
@@ -918,7 +917,7 @@
                     "SVOD_countries": "_in,_bd,_np,_mv,_bt,_lk,_af,_pk",
                     "is_subtitle_cc_available": false,
                     "ssai_partners": "Google DAI",
-                    "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536387/landscapeThumb/1785581249269_1784647795900819_CWG26_Judo_pictogram_landscape_thumb.jpg",
+                    "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536387/landscapeThumb/1785584940904_1784647795900819_CWG26_Judo_pictogram_landscape_thumb.jpg",
                     "audio_language_list": [
                         {
                             "lang_code": "ENG",
@@ -957,7 +956,7 @@
                 "resultObj": {
                     "showPlayerStats": false,
                     "is_preview_enabled": false,
-                    "videoURL": "https://sonydaimenew.akamaized.net/hls/live/20000392/CWG_Stre0108/ENG/master.m3u8?hdnea=exp=1785588646~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=3fdc643b38f6927c5ed2a6054f20e0597214f2a48cfeed1fe8455a7e8f667337",
+                    "videoURL": "https://sonydaimenew.akamaized.net/hls/live/20000392/CWG_Stre0108/ENG/master.m3u8?hdnea=exp=1785606639~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=dd808a0c913dce1d70627f5fc9a81b5e92bca64af9a0a2bdecf6f8fe1fdb9fc5",
                     "multiLanguageVideoURL": [],
                     "audioLanguages": [
                         {
@@ -1053,7 +1052,7 @@
                     "multiAudioTrack": true,
                     "packId": "liv_premium_GP_1m"
                 },
-                "systemTime": 1785567046291
+                "systemTime": 1785585039145
             }
         },
         {
