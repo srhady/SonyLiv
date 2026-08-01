@@ -2,15 +2,15 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 02:20:26 AM 02-08-2026
+# last_update: 02:50:27 AM 02-08-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090536386" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784647154993819_CWG26_Bowls_and_Para_Bowls_pictogram_landscape_thumb.jpg" group-title="Bowls and Para Bowls", Scotland vs Australia - Bowls And Para Bowls - 1 Aug 2026 | Glasgow 2026 Commonwealth Games
 https://sonydaimenew.akamaized.net/hls/live/20000378/CWG_Stre0108/ENG/master.m3u8?hdnea=exp=1785624645~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=01460152bd262616e3989b42ad94b345ba12db39727c17b95b352e77a816d9c5
 
-#EXTINF:-1 tvg-id="sonyliv-1090536268" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/thumbnail/1785614288225_1784647626419819_CWG26_Athletics_pictogram_thumbnail.jpg" group-title="Athletics", Men's One Mile - Athletics - 1 Aug 2026 | Glasgow 2026 Commonwealth Games
+#EXTINF:-1 tvg-id="sonyliv-1090536268" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/thumbnail/1785617112555_1784647626419819_CWG26_Athletics_pictogram_thumbnail.jpg" group-title="Athletics", Women's One Mile - Athletics - 1 Aug 2026 | Glasgow 2026 Commonwealth Games
 https://sonydaimenew.akamaized.net/hls/live/20000400/CWG_Stre0108/ENG/master.m3u8?hdnea=exp=1785628232~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=9eb2a6e9b008279cf2a735b6f0a7925586d177616540c95ebb7b10eb230b8228
 
-#EXTINF:-1 tvg-id="sonyliv-1090536385" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021585/1785546383720269_CWG26_athletics_MENS_POLE_VAULT_FINAL_KULDEEP_and_DEV_MEENA_landscape_thumb.jpg" group-title="Athletics", Men's Pole Vault - Final - Athletics - 1 Aug 2026 | Glasgow 2026 Commonwealth Games
+#EXTINF:-1 tvg-id="sonyliv-1090536385" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784647629918819_CWG26_Athletics_pictogram_landscape_thumb.jpg" group-title="Athletics", Day 9 - 1 Aug 2026 | Glasgow 2026 Commonwealth Games
 https://sonydaimenew.akamaized.net/hls/live/20000401/CWG_Stre0108/ENG/master.m3u8?hdnea=exp=1785628242~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=ebcfe9080f72ad62482c11a8ea1e8f2aa149650b6245e7395e6c889be260e779
 
 #EXTINF:-1 tvg-id="sonyliv-1090536387" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784647154993819_CWG26_Bowls_and_Para_Bowls_pictogram_landscape_thumb.jpg" group-title="Bowls and Para Bowls", England vs Norfolk Island - 1 Aug 2026 | Glasgow 2026 Commonwealth Games
