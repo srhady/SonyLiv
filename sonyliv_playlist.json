@@ -3,226 +3,9 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "01:20:34 AM 02-08-2026"
+        "last_update": "01:50:26 AM 02-08-2026"
     },
     "live_matches": [
-        {
-            "match_info": {
-                "contentId": 1090538222,
-                "externalId": "1090538222",
-                "objectType": "VOD",
-                "isLive": true,
-                "objectSubtype": "LIVE_SPORT",
-                "contentType": "VOD",
-                "contentSubtype": "LIVE_SPORT",
-                "title": "UFC Fight Night - Medic vs Rodriguez",
-                "longDescription": "UFC Fight Night: Medic vs Rodriguez promises an electrifying welterweight clash as Serbia's rising star Uroš Medić takes on seasoned veteran Daniel Rodriguez in a pivotal main event that could shake up the division rankings. Tune in to catch all the action from UFC Fight Night, LIVE on Sony LIV.",
-                "shortDescription": "UFC Fight Night: Medic vs Rodriguez promises an electrifying welterweight clash as Serbia's rising star Uroš Medić takes on seasoned veteran Daniel Rodriguez in a pivotal main event that could shake up the division rankings. Tune in to catch all the action from UFC Fight Night, LIVE on Sony LIV.",
-                "isCopyProtected": false,
-                "contractStartDate": 1785601800000,
-                "contractEndDate": 1785623400000,
-                "episodeTitle": "UFC Fight Night - Medic vs Rodriguez - 1 Aug 2026",
-                "genres": [
-                    "Fight Sports"
-                ],
-                "originalAirDate": 1785603600000,
-                "pcExtendedRatings": [],
-                "isOnAir": true,
-                "isEncrypted": false,
-                "pcVodLabel": "16+",
-                "duration": 0,
-                "language": "ENG",
-                "isGeoBlocked": false,
-                "advertisingInfoList": [],
-                "emfAttributes": {
-                    "A": "IN",
-                    "region_of_origin": "English",
-                    "svod_advertising": "true",
-                    "audio_languages": "ENG,HIN",
-                    "sub_category": "Sport",
-                    "snp_tags": "Strong language,Blood",
-                    "is_multi_track_per_language_available": false,
-                    "packageid": "12m_mobile_saarc,Liv_Pre_Yupp,12m_saarc,1m_saarc,liv_premium_GP_1m,liv_premium_GP_1m_mobile,LIV_Pre_Mob_1M,liv_binge_1m",
-                    "masthead_logo_rectangualar": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021514/1785503370684470_UFC_Fight_Night_Medic_vs_Rodriguez_masthead_logo_rectangualar_950x570_LIVE.png",
-                    "Maximum_Video_Quality": "SDR",
-                    "Maximum_Resolution": "FULL_HD",
-                    "broadcast_channel": "Sony Sports Ten 2",
-                    "masthead_logo_v1": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021514/1785503370798470_UFC_Fight_Night_Medic_vs_Rodriguez_masthead_logo_V1_692x390_LIVE.png",
-                    "advertising": "AD SUPPORTED",
-                    "emaAttributes": {},
-                    "tv_background_image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021597/1785571365527789_UFC_Fight_Night_Medic_vs_Rodriguez_tv_bg.jpg",
-                    "country_rating": {
-                        "A": "IN",
-                        "16+": "BD,NP,MV,BT,LK,AF,PK"
-                    },
-                    "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021514/1785503370634470_UFC_Fight_Night_Medic_vs_Rodriguez_Masthead_Logo_LIVE.png",
-                    "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021514/1785503370855470_UFC_Fight_Night_Medic_vs_Rodriguez_masthead_mobile_v2_984x1182.jpg",
-                    "value": "SVOD",
-                    "is_audio_desc_available": false,
-                    "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021597/1785571950848789_UFC_Fight_Night_Medic_vs_Rodriguez_landscape_thumb.jpg",
-                    "variant_asset_languages": [
-                        "HIN"
-                    ],
-                    "broadcast_channel_hin": "सोनी स्पोर्ट्स तेन २",
-                    "16+": "BD,NP,MV,BT,LK,AF,PK",
-                    "live_label_display": true,
-                    "ad_cluster_id": "ad_cluster_1",
-                    "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021597/1785571539318789_UFC_Fight_Night_Medic_vs_Rodriguez_portrait_thumb.jpg",
-                    "dai_asset_key": "J-ja2NK2SuCVkKU7LkDVIQ",
-                    "seo_tags": "UFC Fight Night,UFC Fight,UFC Fight upcoming,upcoming UFC events,UFC Fight schedule,UFC fights dates,UFC Fight Night schedule,UFC match live,watch UFC online,upcoming UFC Fight events,UFC Fight Night 2026 schedule,UFC Fight Night replay,watch UFC Fight Night online,Adesanya vs Pyfer,UFC Fight Night Adesanya vs Pyfer,UFC Adesanya vs Pyfer,live UFC Fight Night streaming,UFC Fight Night match highlights,UFC latest match results,watch Adesanya vs Pyfer live,watch UFC Fight Night Adesanya vs Pyfer,martial arts,fight night,combat sports,UFC Fight today,action sports,UFC live stream,UFC Fight Night results,UFC tonight fighters,sports entertainment,UFC main event,watch UFC live,UFC Fight Night live,sports highlights,UFC fight live stream,UFC upcoming main events,UFC live stream now,Israel Adesanya UFC,Joe Pyfer UFC,Adesanya UFC,Pyfer MMA,UFC Fight Night 2026,UFC fight replays,UFC Fight Night highlights,UFC Fight Night matches,UFC match timings,middleweight fight,UFC co-main event,UFC prelims,MMA fight card,UFC full card,UFC fighters lineup,UFC Vegas event,mixed martial arts,UFC bout order,UFC main card,UFC prelim card,striking specialists,knockout power,UFC rising contenders,MMA showdown,UFC event coverage",
-                    "Free_countries": "",
-                    "overlay_visibility": "0",
-                    "SVOD_countries": "_bd,_np,_mv,_bt,_lk,_af,_pk,_in",
-                    "is_subtitle_cc_available": false,
-                    "ssai_partners": "Google DAI",
-                    "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021597/1785571950848789_UFC_Fight_Night_Medic_vs_Rodriguez_landscape_thumb.jpg",
-                    "Maximum_Audio_Quality": "STEREO",
-                    "audio_language_list": [
-                        {
-                            "lang_code": "ENG",
-                            "lang_label": "English"
-                        },
-                        {
-                            "lang_code": "HIN",
-                            "lang_label": "Hindi"
-                        }
-                    ],
-                    "sub_license": "No",
-                    "is_auto_play_trailer": true,
-                    "integrated_splash_available": "Yes",
-                    "masthead_large_v3": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021514/1785503370575470_UFC_Fight_Night_Medic_vs_Rodriguez_masthead_large_v3_3200x1800.jpg",
-                    "isTimeLineMarker_new": "false",
-                    "isDVR": false,
-                    "isTimeLineMarker": false,
-                    "isDownloadable": false,
-                    "is_preview_enabled": false,
-                    "sprite_image_url": "",
-                    "tv_sprite_image_url": "",
-                    "kids_safe": false,
-                    "tl_marker": "",
-                    "icon_on_asset": {
-                        "play_focus_icon": "https://origin-staticv2.sonyliv.com/UI_icons/spotlight/focus_play_icon.png",
-                        "play_normal_icon": "https://origin-staticv2.sonyliv.com/UI_icons/spotlight/non_focused_play_icon.png"
-                    }
-                },
-                "isADVAllowed": false,
-                "ratingEligibility": true,
-                "ratingDisplay": false,
-                "titleBrief": "",
-                "baseContentId": 1090538222,
-                "isBaseAsset": true
-            },
-            "playback_info": {
-                "resultCode": "OK",
-                "message": "",
-                "errorDescription": "200-10000",
-                "resultObj": {
-                    "showPlayerStats": false,
-                    "is_preview_enabled": false,
-                    "videoURL": "https://sonydaimenew.akamaized.net/hls/live/20000394/UFC_Figh0108/ENG/master.m3u8?hdnea=exp=1785624635~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=d12d17127d7f43e991a7bf37e246adfd37b160dc8bf4357449c6395692628608",
-                    "multiLanguageVideoURL": [],
-                    "audioLanguages": [
-                        {
-                            "audioLanguageName": "ENG",
-                            "audioLanguageLabel": "English"
-                        },
-                        {
-                            "audioLanguageName": "HIN",
-                            "audioLanguageLabel": "Hindi"
-                        }
-                    ],
-                    "trailer_url": "",
-                    "subtitle": [],
-                    "isEncrypted": false,
-                    "isDVR": false,
-                    "isDownloadable": false,
-                    "posterURL": "",
-                    "sprite_image_url": "",
-                    "tv_sprite_image_url": "",
-                    "dai_asset_key": "dlFHQ9DxTiaLDNUFMkYxmQ",
-                    "contextual_cue_point": {},
-                    "cuepoints": [],
-                    "isLive": true,
-                    "country_rating": {
-                        "A": "IN",
-                        "16+": "BD,NP,MV,BT,LK,AF,PK"
-                    },
-                    "dai_asset_key_hlsfp": "",
-                    "dai_asset_key_wm": "",
-                    "Maximum_Video_Quality": "SDR",
-                    "Maximum_Audio_Quality": "STEREO",
-                    "Maximum_Resolution": "FULL_HD",
-                    "isWatermarked": "false",
-                    "watermark_partner": "",
-                    "upfrontAudio": true,
-                    "pcVodLabel": "16+",
-                    "promotionUrl": "",
-                    "hasPromotion": false,
-                    "contentProvider": "UFC",
-                    "sony_match_id": "",
-                    "tl_marker": "",
-                    "checksum": "",
-                    "kid_mss": "",
-                    "parentId": "1700000192",
-                    "selectedLanguage": {
-                        "lang_label": "English",
-                        "lang_code": "ENG",
-                        "lang_type": "main",
-                        "lang_identifier": ""
-                    },
-                    "originalLanguage": {
-                        "lang_label": "English",
-                        "lang_code": "eng",
-                        "lang_type": "main",
-                        "lang_identifier": ""
-                    },
-                    "stateLanguage": {},
-                    "isFirstVideoPlayedInDevice": false,
-                    "targetedDelivery": {
-                        "td_server_hints": {
-                            "pip_bw_initial": 800000,
-                            "pip_bw_max": 7000000,
-                            "pip_live_initial_buffer": 8,
-                            "pip_live_target_latency": 10,
-                            "analytics_expt_id": "9UexVSmNVs"
-                        }
-                    },
-                    "parents": [
-                        {
-                            "parentId": 1590016424,
-                            "parentType": "BUNDLE",
-                            "parentSubType": "STAGE"
-                        },
-                        {
-                            "parentId": 1700000192,
-                            "parentType": "GROUP_OF_BUNDLES",
-                            "parentSubType": "TOURNAMENT"
-                        }
-                    ],
-                    "additionalDataJson": {
-                        "adServer": "GAM",
-                        "ad_stack": "DAI-IMA",
-                        "audioCodec": "AAC",
-                        "audio_quality": "STEREO",
-                        "enc_format": "HLS",
-                        "fps": 25,
-                        "isDaiKey": true,
-                        "partners": [
-                            "ALL"
-                        ],
-                        "resolution": "SD",
-                        "videoCodec": "H264",
-                        "video_quality": "SDR"
-                    },
-                    "LA_Details": {},
-                    "is_audio_desc_available": false,
-                    "is_multi_track_per_language_available": false,
-                    "multiAudioTrack": true,
-                    "packId": "liv_premium_GP_1m"
-                },
-                "systemTime": 1785603035238
-            }
-        },
         {
             "match_info": {
                 "contentId": 1090536386,
@@ -233,14 +16,14 @@
                 "contentType": "VOD",
                 "contentSubtype": "LIVE_SPORT",
                 "title": "Glasgow 2026 Commonwealth Games",
-                "longDescription": "Watch all the exclusive action from Boxing finals at Glasgow 2026 Commonwealth Games, LIVE on Sony LIV.",
-                "shortDescription": "Watch all the exclusive action from Boxing finals at Glasgow 2026 Commonwealth Games, LIVE on Sony LIV.",
+                "longDescription": "Watch all the exclusive action from the Glasgow 2026 Commonwealth Games, LIVE on Sony LIV.",
+                "shortDescription": "Watch all the exclusive action from the Glasgow 2026 Commonwealth Games, LIVE on Sony LIV.",
                 "isCopyProtected": false,
                 "contractStartDate": 1785567000000,
                 "contractEndDate": 1785633600000,
-                "episodeTitle": "Day 9 - 1 Aug 2026",
+                "episodeTitle": "Scotland vs Australia - Bowls And Para Bowls - 1 Aug 2026",
                 "genres": [
-                    "Boxing"
+                    "Bowls and Para Bowls"
                 ],
                 "originalAirDate": 1785568800000,
                 "pcExtendedRatings": [],
@@ -267,7 +50,7 @@
                     "advertising": "AD SUPPORTED",
                     "isdvr": "No",
                     "emaAttributes": {},
-                    "tv_background_image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784648168177819_CWG26_Boxing_pictogram_tv_bg.jpg",
+                    "tv_background_image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784647341457819_CWG26_Bowls_and_Para_Bowls_pictogram_tv_bg.jpg",
                     "granular_access_configs": true,
                     "U": "IN",
                     "country_rating": {
@@ -279,12 +62,11 @@
                     "value": "SVOD",
                     "is_audio_desc_available": false,
                     "venue_id": "66",
-                    "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784647663933819_CWG26_Boxing_pictogram_landscape_thumb.jpg",
+                    "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784647154993819_CWG26_Bowls_and_Para_Bowls_pictogram_landscape_thumb.jpg",
                     "variant_asset_languages": [],
-                    "broadcast_channel_hin": "लिव",
                     "ad_cluster_id": "ad_cluster_1",
                     "live_label_display": true,
-                    "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784636551144819_CWG26_Boxing_pictogram_portrait_thumb.jpg",
+                    "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784635752092819_CWG26_Bowls_and_Para_Bowls_pictogram_portrait_thumb.jpg",
                     "isSponsorAdAvailable": "true",
                     "dai_asset_key": "gCbFB2FiSbO9XPsh832aaw",
                     "team": "Scotland, Australia",
@@ -294,7 +76,7 @@
                     "SVOD_countries": "_in,_bd,_np,_mv,_bt,_lk,_af,_pk",
                     "is_subtitle_cc_available": false,
                     "ssai_partners": "Google DAI",
-                    "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784647663933819_CWG26_Boxing_pictogram_landscape_thumb.jpg",
+                    "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784647154993819_CWG26_Bowls_and_Para_Bowls_pictogram_landscape_thumb.jpg",
                     "audio_language_list": [
                         {
                             "lang_code": "ENG",
@@ -302,7 +84,6 @@
                         }
                     ],
                     "Maximum_Audio_Quality": "STEREO",
-                    "team_hin": "स्कॉटलैंड ऑस्ट्रेलिया",
                     "sub_license": "No",
                     "is_auto_play_trailer": true,
                     "integrated_splash_available": "Yes",
@@ -443,12 +224,12 @@
                 "contentType": "VOD",
                 "contentSubtype": "LIVE_SPORT",
                 "title": "Glasgow 2026 Commonwealth Games",
-                "longDescription": "Watch all the exclusive action from the Athletics in the Men's 4 x 100m Relay, LIVE on Sony LIV.",
-                "shortDescription": "Watch all the exclusive action from the Athletics in the Men's 4 x 100m Relay, LIVE on Sony LIV.",
+                "longDescription": "Watch all the exclusive action from the Athletics in the Women's 4 x 100m Relay, LIVE on Sony LIV.",
+                "shortDescription": "Watch all the exclusive action from the Athletics in the Women's 4 x 100m Relay, LIVE on Sony LIV.",
                 "isCopyProtected": false,
                 "contractStartDate": 1785572400000,
                 "contractEndDate": 1785639000000,
-                "episodeTitle": "Men's 4 x 100m Relay - Athletics - 1 Aug 2026",
+                "episodeTitle": "Women's 4 x 100m Relay - Athletics - 1 Aug 2026",
                 "genres": [
                     "Athletics"
                 ],
@@ -462,23 +243,44 @@
                 "isGeoBlocked": false,
                 "advertisingInfoList": [],
                 "emfAttributes": {
+                    "audio_languages": "ENG",
+                    "snp_tags": "Suitable for all",
+                    "packageid": "12m_mobile_saarc,Liv_Pre_Yupp,12m_saarc,1m_saarc,liv_premium_GP_1m,liv_premium_GP_1m_mobile,LIV_Pre_Mob_1M,liv_binge_1m",
+                    "masthead_logo_rectangualar": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/mastheadLogoRectangualar/178291361572592_Commonwealth_Games_2026_GOB_masthead_logo_rectangualar_950x570_LIVE.png",
+                    "Maximum_Resolution": "FULL_HD",
+                    "advertising": "AD SUPPORTED",
+                    "emaAttributes": {},
+                    "tv_background_image": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/tvBackgroundImage/1785612372468_1784648226268819_CWG26_Athletics_pictogram_tv_bg.jpg",
+                    "granular_access_configs": true,
+                    "venue_id": "40",
+                    "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/thumbnail/1785612372390_1784647626419819_CWG26_Athletics_pictogram_thumbnail.jpg",
+                    "variant_asset_languages": [],
+                    "broadcast_channel_hin": "लिव",
+                    "ad_cluster_id": "ad_cluster_1",
+                    "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/portraitThumb/1785612372186_1784635109073819_CWG26_Athletics_pictogram_portrait_thumb.jpg",
+                    "isSponsorAdAvailable": "true",
+                    "is_subtitle_cc_available": false,
+                    "ssai_partners": "Google DAI",
+                    "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/landscapeThumb/1785612372300_1784647629918819_CWG26_Athletics_pictogram_landscape_thumb.jpg",
+                    "audio_language_list": [
+                        {
+                            "lang_code": "ENG",
+                            "lang_label": "English"
+                        }
+                    ],
+                    "Maximum_Audio_Quality": "STEREO",
+                    "team_hin": "थे गैम्बिया स्कॉटलैंड इंग्लैंड नाइजीरिया कनाडा त्रिनिदाद एंड टोबैगो जमैका ऑस्ट्रेलिया",
+                    "sub_license": "No",
+                    "matchid": "",
+                    "isTimeLineMarker_new": "true",
                     "venue_name": "Track",
                     "region_of_origin": "English",
                     "svod_advertising": "true",
-                    "audio_languages": "ENG",
                     "sub_category": "Sport",
-                    "snp_tags": "Suitable for all",
                     "is_multi_track_per_language_available": false,
-                    "packageid": "12m_mobile_saarc,Liv_Pre_Yupp,12m_saarc,1m_saarc,liv_premium_GP_1m,liv_premium_GP_1m_mobile,LIV_Pre_Mob_1M,liv_binge_1m",
-                    "masthead_logo_rectangualar": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/mastheadLogoRectangualar/178291361572592_Commonwealth_Games_2026_GOB_masthead_logo_rectangualar_950x570_LIVE.png",
                     "broadcast_channel": "LIV",
                     "Maximum_Video_Quality": "SDR",
-                    "Maximum_Resolution": "FULL_HD",
-                    "advertising": "AD SUPPORTED",
                     "isdvr": "No",
-                    "emaAttributes": {},
-                    "tv_background_image": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/tvBackgroundImage/1785611714371_1784648226268819_CWG26_Athletics_pictogram_tv_bg.jpg",
-                    "granular_access_configs": true,
                     "U": "IN",
                     "country_rating": {
                         "U": "IN",
@@ -487,35 +289,16 @@
                     "3+": "BD,NP,LK,PK,AF,BT,MV",
                     "value": "SVOD",
                     "is_audio_desc_available": false,
-                    "venue_id": "40",
-                    "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/thumbnail/1785611714281_1784647626419819_CWG26_Athletics_pictogram_thumbnail.jpg",
-                    "variant_asset_languages": [],
-                    "ad_cluster_id": "ad_cluster_1",
                     "live_label_display": true,
-                    "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/portraitThumb/1785611714066_1784635109073819_CWG26_Athletics_pictogram_portrait_thumb.jpg",
-                    "isSponsorAdAvailable": "true",
                     "dai_asset_key": "HhloUHqYTTysVJ6-K-Qmjg",
                     "match_start_time": "1785574200",
-                    "team": "Kenya, Jamaica, England, Canada, Nigeria, South Africa, Ghana, Australia",
+                    "team": "The Gambia, Scotland, England, Nigeria, Canada, Trinidad and Tobago, Jamaica, Australia",
                     "seo_tags": "Glasgow 2026 Commonwealth Games,Glasgow 2026,CWG 2026,Commonwealth Games 2026,Glasgow 2026 India squad,Indian athletes Commonwealth Games 2026,CWG 2026 India schedule,India at Glasgow 2026,Neeraj Chopra Glasgow 2026,Mirabai Chanu CWG 2026,Lovlina Borgohain Commonwealth Games,Praveen Chithravel triple jump Glasgow,Murali Sreeshankar CWG 2026,Parul Chaudhary Commonwealth Games,Pranati Nayak gymnastics Glasgow 2026,Rohit Yadav javelin CWG,Preeti Pawar boxing Glasgow,India medal contenders CWG 2026,Commonwealth Games 2026 live streaming India,Glasgow 2026 sports list,Indian weightlifting team CWG 2026,Indian athletics squad Glasgow 2026,Neeraj Chopra,Mirabai Chanu,Lovlina Borgohain,Praveen Chithravel,Murali Sreeshankar,Parul Chaudhary,Pranati Nayak,Rohit Yadav,Preeti Pawar",
                     "Free_countries": "",
                     "overlay_visibility": "0",
                     "SVOD_countries": "_in,_bd,_np,_mv,_bt,_lk,_af,_pk",
-                    "is_subtitle_cc_available": false,
-                    "ssai_partners": "Google DAI",
-                    "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/landscapeThumb/1785611714198_1784647629918819_CWG26_Athletics_pictogram_landscape_thumb.jpg",
-                    "audio_language_list": [
-                        {
-                            "lang_code": "ENG",
-                            "lang_label": "English"
-                        }
-                    ],
-                    "Maximum_Audio_Quality": "STEREO",
-                    "sub_license": "No",
                     "is_auto_play_trailer": true,
                     "integrated_splash_available": "Yes",
-                    "matchid": "",
-                    "isTimeLineMarker_new": "true",
                     "isDVR": false,
                     "isTimeLineMarker": false,
                     "isDownloadable": false,
@@ -861,12 +644,12 @@
                 "contentType": "VOD",
                 "contentSubtype": "LIVE_SPORT",
                 "title": "Glasgow 2026 Commonwealth Games",
-                "longDescription": "Watch all the exclusive action from the Judo in the Men -90 kg, LIVE on Sony LIV.",
-                "shortDescription": "Watch all the exclusive action from the Judo in the Men -90 kg, LIVE on Sony LIV.",
+                "longDescription": "Watch all the exclusive action from Glasgow 2026 Commonwealth Games, LIVE on Sony LIV.",
+                "shortDescription": "Watch all the exclusive action from Glasgow 2026 Commonwealth Games, LIVE on Sony LIV.",
                 "isCopyProtected": false,
                 "contractStartDate": 1785567000000,
                 "contractEndDate": 1785633600000,
-                "episodeTitle": "Day 9 - 1 Aug 2026",
+                "episodeTitle": "England vs Norfolk Island - 1 Aug 2026",
                 "genres": [
                     "Bowls and Para Bowls"
                 ],
@@ -910,7 +693,6 @@
                     "venue_id": "64",
                     "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784647154993819_CWG26_Bowls_and_Para_Bowls_pictogram_landscape_thumb.jpg",
                     "variant_asset_languages": [],
-                    "broadcast_channel_hin": "लिव",
                     "ad_cluster_id": "ad_cluster_1",
                     "live_label_display": true,
                     "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784635752092819_CWG26_Bowls_and_Para_Bowls_pictogram_portrait_thumb.jpg",
@@ -1058,204 +840,6 @@
                     "packId": "liv_premium_GP_1m"
                 },
                 "systemTime": 1785603054744
-            }
-        },
-        {
-            "match_info": {
-                "contentId": 1090538129,
-                "externalId": "1090538129",
-                "objectType": "VOD",
-                "isLive": true,
-                "objectSubtype": "LIVE_SPORT",
-                "contentType": "VOD",
-                "contentSubtype": "LIVE_SPORT",
-                "title": "The Hundred 2026",
-                "longDescription": "London Spirit take on Southern Brave in an exciting clash of The Hundred Men’s Competition 2026. Catch all the action live, only on Sony LIV.",
-                "shortDescription": "London Spirit take on Southern Brave in an exciting clash of The Hundred Men’s Competition 2026. Catch all the action live, only on Sony LIV.",
-                "isCopyProtected": false,
-                "contractStartDate": 1785601800000,
-                "contractEndDate": 1785630600000,
-                "episodeTitle": "London Spirit vs Southern Brave - 1 Aug 2026",
-                "genres": [
-                    "Cricket"
-                ],
-                "originalAirDate": 1785603600000,
-                "pcExtendedRatings": [],
-                "isOnAir": true,
-                "isEncrypted": false,
-                "pcVodLabel": "3+",
-                "duration": 0,
-                "language": "ENG",
-                "isGeoBlocked": false,
-                "advertisingInfoList": [],
-                "emfAttributes": {
-                    "venue_name": "Lord's, London",
-                    "region_of_origin": "English",
-                    "svod_advertising": "true",
-                    "audio_languages": "ENG",
-                    "sub_category": "Sport",
-                    "snp_tags": "Suitable for all",
-                    "is_multi_track_per_language_available": false,
-                    "packageid": "12m_mobile_saarc,Liv_Pre_Yupp,12m_saarc,1m_saarc,liv_premium_GP_1m,liv_premium_GP_1m_mobile,LIV_Pre_Mob_1M,liv_binge_1m",
-                    "broadcast_channel": "Sony Sports Ten 5",
-                    "Maximum_Video_Quality": "SDR",
-                    "Maximum_Resolution": "FULL_HD",
-                    "advertising": "AD SUPPORTED",
-                    "isdvr": "No",
-                    "emaAttributes": {},
-                    "away_team": "Southern Brave",
-                    "tv_background_image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021140/178511085920431_The_Hundred2026_mens_London_Spirit_vs_Southern_Brave_tv_Bg.jpg",
-                    "content_marquee_status": "false",
-                    "country_rating": {
-                        "3+": "BD,NP,MV,BT,LK,AF,PK,MM"
-                    },
-                    "3+": "BD,NP,MV,BT,LK,AF,PK,MM",
-                    "marquee_target_state": [],
-                    "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000009146/1758606495748941_UEL25_26_GENERIC_Masthead_logo_LIVE1.png",
-                    "projected_max_concurrency": 100000,
-                    "value": "SVOD",
-                    "is_audio_desc_available": false,
-                    "target_impressions_per_week": 2000000,
-                    "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021140/178511082211931_The_Hundred2026_mens_London_Spirit_vs_Southern_Brave_landscape_thumb.jpg",
-                    "variant_asset_languages": [],
-                    "broadcast_channel_hin": "सोनी स्पोर्ट्स तेन ५",
-                    "ad_cluster_id": "ad_cluster_1",
-                    "live_label_display": true,
-                    "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021140/178511078056331_The_Hundred2026_mens_London_Spirit_vs_Southern_Brave_live_portrait_thumb.jpg",
-                    "seo_tags": "cricket scoreboard,cricket scores,live cricket score,live score,cricket live,today match,cricket match,live cricket match,points table,upcoming cricket matches,cricket highlights,match schedules,match highlights,match updates,cricket fixtures,100 ball cricket,live match updates,match fixtures,live cricket highlights,cricket knockout,cricket group stage,rachin ravindra,joe root,noor ahmad,harry brook,will jacks,david warner,marcus stoinis,sam curran,max holden,oval invincibles men,london spirit men,southern brave men,birmingham phoenix men,manchester originals men,northern superchargers men,trent rockets men,welsh fire men,the hundred league 2026,the hundred league 2026 schedule,the hundred 2026 start date,the hundred teams 2026,the hundred 2026 players list,the hundred mens competition 2026,stream the hundred mens 2026,stream the hundred mens 2026 live,stream the hundred mens 2026 live online,stream the hundred mens 2026 online,the hundred 2026 online live,the hundred 2026 timetable,the hundred league 2026 live,the hundred league 2026 online,the hundred league 2026 online live,the hundred mens 2026,the hundred mens 2026 live,the hundred mens 2026 online,the hundred mens 2026 schedule,the hundred mens 2026 squad,watch the hundred league 2026,watch the hundred mens 2026,the hundred live score,the hundred 2026 schedule,the hundred score,the hundred scorecard,the hundred today match,the hundred points table,the hundred cricket 2026,the hundred highlights,the hundred match today,the hundred squads 2026,live cricket,today cricket match,cricket upcoming matches,cricket scorecard,cricket schedule,cricket points table,today live cricket,live cricket streaming,cricket players,cricket results,cricket teams,cricket latest news,cricket tournament,cricket streaming,cricket live updates,cricket leaderboard,english cricket league,watch cricket online,cricket standings,match replay,cricket latest results,full cricket match,cricket replay,professional cricket league,100 ball cricket league,Sunrisers Leeds,Manchester Super Giants,MI London,London Spirit,Birmingham Phoenix,Southern Brave,Welsh Fire,MI London Squad,Sunrisers Leeds Squad,Manchester Super Giants Squad,London Spirit Squad,Jacob Bethell,Joe Root,Finn Allen,Tim David,Harry Brook,Jamie Overton,Jofra Archer,Marco Jansen,Mitchell Marsh,Ryan Rickelton,Aiden Markram,Phil Salt,Rachin Ravindra,Rashid Khan,David Miller,Heinrich Klaasen,Jamie Smith,Jos Buttler,Will Jacks,Ben Duckett,Mitchell Santner,Nicholas Pooran,Marcus Stoinis,Noor Ahmad,Trent Boult,Chris Woakes,Sam Curran",
-                    "Free_countries": "",
-                    "overlay_visibility": "0",
-                    "target_frequency_per_week": 3,
-                    "SVOD_countries": "_bd,_np,_mv,_bt,_af,_lk,_pk,_mm",
-                    "is_subtitle_cc_available": false,
-                    "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021140/178511082211931_The_Hundred2026_mens_London_Spirit_vs_Southern_Brave_landscape_thumb.jpg",
-                    "audio_language_list": [
-                        {
-                            "lang_code": "ENG",
-                            "lang_label": "English"
-                        }
-                    ],
-                    "Maximum_Audio_Quality": "STEREO",
-                    "home_team": "London Spirit",
-                    "sub_license": "No",
-                    "is_auto_play_trailer": true,
-                    "integrated_splash_available": "Yes",
-                    "isDVR": false,
-                    "isTimeLineMarker": false,
-                    "isDownloadable": false,
-                    "is_preview_enabled": false,
-                    "sprite_image_url": "",
-                    "tv_sprite_image_url": "",
-                    "kids_safe": false,
-                    "tl_marker": "",
-                    "icon_on_asset": {
-                        "play_focus_icon": "https://origin-staticv2.sonyliv.com/UI_icons/spotlight/focus_play_icon.png",
-                        "play_normal_icon": "https://origin-staticv2.sonyliv.com/UI_icons/spotlight/non_focused_play_icon.png"
-                    }
-                },
-                "isADVAllowed": false,
-                "ratingEligibility": true,
-                "ratingDisplay": false,
-                "titleBrief": "",
-                "baseContentId": 1090538129,
-                "isBaseAsset": true
-            },
-            "playback_info": {
-                "resultCode": "OK",
-                "message": "",
-                "errorDescription": "200-10000",
-                "resultObj": {
-                    "showPlayerStats": false,
-                    "is_preview_enabled": false,
-                    "videoURL": "https://sonyeventsglobal.akamaized.net/hls/live/2022322/DAI18-WFML/master.m3u8?hdnea=exp=1785624662~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=b903539d51b387139d920355e68ebf045a96f96f5f9e080b7b2c666fbe4ccf1b",
-                    "multiLanguageVideoURL": [],
-                    "audioLanguages": [
-                        {
-                            "audioLanguageName": "ENG",
-                            "audioLanguageLabel": "English"
-                        }
-                    ],
-                    "trailer_url": "",
-                    "subtitle": [],
-                    "isEncrypted": false,
-                    "isDVR": false,
-                    "isDownloadable": false,
-                    "posterURL": "",
-                    "sprite_image_url": "",
-                    "tv_sprite_image_url": "",
-                    "dai_asset_key": "",
-                    "contextual_cue_point": {},
-                    "cuepoints": [],
-                    "isLive": true,
-                    "country_rating": {
-                        "3+": "BD,NP,MV,BT,LK,AF,PK,MM"
-                    },
-                    "dai_asset_key_hlsfp": "",
-                    "dai_asset_key_wm": "",
-                    "Maximum_Video_Quality": "SDR",
-                    "Maximum_Audio_Quality": "STEREO",
-                    "Maximum_Resolution": "FULL_HD",
-                    "isWatermarked": "false",
-                    "watermark_partner": "",
-                    "upfrontAudio": true,
-                    "pcVodLabel": "3+",
-                    "promotionUrl": "",
-                    "hasPromotion": false,
-                    "contentProvider": "ENGLAND AND WALES CRICKET",
-                    "sony_match_id": "",
-                    "tl_marker": "",
-                    "checksum": "",
-                    "kid_mss": "",
-                    "parentId": "1700001267",
-                    "selectedLanguage": {
-                        "lang_label": "English",
-                        "lang_code": "ENG",
-                        "lang_type": "main",
-                        "lang_identifier": ""
-                    },
-                    "originalLanguage": {
-                        "lang_label": "English",
-                        "lang_code": "eng",
-                        "lang_type": "main",
-                        "lang_identifier": ""
-                    },
-                    "stateLanguage": {},
-                    "isFirstVideoPlayedInDevice": false,
-                    "adstack": "DAI-IMA",
-                    "targetedDelivery": {
-                        "td_server_hints": {
-                            "pip_bw_initial": 800000,
-                            "pip_bw_max": 7000000,
-                            "pip_vod_prefetch": 30,
-                            "pip_vod_initial_buffer_mb": 11,
-                            "pip_vod_initial_buffer_sec": 12,
-                            "pip_vod_max_buffer_mb": 79,
-                            "pip_vod_max_buffer_sec": 90,
-                            "pip_live_initial_buffer": 8,
-                            "pip_live_target_latency": 10,
-                            "analytics_expt_id": "middleware"
-                        }
-                    },
-                    "parents": [
-                        {
-                            "parentId": 1590016401,
-                            "parentType": "BUNDLE",
-                            "parentSubType": "MATCH_TYPE"
-                        },
-                        {
-                            "parentId": 1700001267,
-                            "parentType": "GROUP_OF_BUNDLES",
-                            "parentSubType": "TOURNAMENT"
-                        }
-                    ],
-                    "additionalDataJson": {},
-                    "LA_Details": {},
-                    "is_audio_desc_available": false,
-                    "is_multi_track_per_language_available": false,
-                    "multiAudioTrack": true,
-                    "packId": "liv_premium_GP_1m"
-                },
-                "systemTime": 1785603062882
             }
         }
     ]
