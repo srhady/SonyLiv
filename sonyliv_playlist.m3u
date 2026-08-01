@@ -2,21 +2,21 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 12:20:32 AM 02-08-2026
+# last_update: 12:50:28 AM 02-08-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090538222" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021597/1785571950848789_UFC_Fight_Night_Medic_vs_Rodriguez_landscape_thumb.jpg" group-title="Fight Sports", UFC Fight Night - Medic vs Rodriguez - 1 Aug 2026 | UFC Fight Night - Medic vs Rodriguez
 https://sonydaimenew.akamaized.net/hls/live/20000394/UFC_Figh0108/ENG/master.m3u8?hdnea=exp=1785624635~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=d12d17127d7f43e991a7bf37e246adfd37b160dc8bf4357449c6395692628608
 
-#EXTINF:-1 tvg-id="sonyliv-1090536386" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021583/1785540234771298_CWG_Boxing_Final_Narender_vs_Damar_Thomas_landscape_thumb.jpg" group-title="Boxing", Narender vs Damar Thomas - Men's 90 kg - Boxing - Final - 1 Aug 2026 | Glasgow 2026 Commonwealth Games
+#EXTINF:-1 tvg-id="sonyliv-1090536386" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784647663933819_CWG26_Boxing_pictogram_landscape_thumb.jpg" group-title="Boxing", Day 9 - 1 Aug 2026 | Glasgow 2026 Commonwealth Games
 https://sonydaimenew.akamaized.net/hls/live/20000378/CWG_Stre0108/ENG/master.m3u8?hdnea=exp=1785624645~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=01460152bd262616e3989b42ad94b345ba12db39727c17b95b352e77a816d9c5
 
-#EXTINF:-1 tvg-id="sonyliv-1090536268" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784647629918819_CWG26_Athletics_pictogram_landscape_thumb.jpg" group-title="Athletics", Women's Long Jump - Athletics - 1 Aug 2026 | Glasgow 2026 Commonwealth Games
+#EXTINF:-1 tvg-id="sonyliv-1090536268" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536268/thumbnail/1785609956591_1784647626419819_CWG26_Athletics_pictogram_thumbnail.jpg" group-title="Athletics", Men's 5000m - Athletics - 1 Aug 2026 | Glasgow 2026 Commonwealth Games
 https://sonydaimenew.akamaized.net/hls/live/20000400/CWG_Stre0108/ENG/master.m3u8?hdnea=exp=1785628232~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=9eb2a6e9b008279cf2a735b6f0a7925586d177616540c95ebb7b10eb230b8228
 
 #EXTINF:-1 tvg-id="sonyliv-1090536385" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021585/1785546383720269_CWG26_athletics_MENS_POLE_VAULT_FINAL_KULDEEP_and_DEV_MEENA_landscape_thumb.jpg" group-title="Athletics", Men's Pole Vault - Final - Athletics - 1 Aug 2026 | Glasgow 2026 Commonwealth Games
 https://sonydaimenew.akamaized.net/hls/live/20000401/CWG_Stre0108/ENG/master.m3u8?hdnea=exp=1785628242~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=ebcfe9080f72ad62482c11a8ea1e8f2aa149650b6245e7395e6c889be260e779
 
-#EXTINF:-1 tvg-id="sonyliv-1090536387" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536387/thumbnail/1785606049983_1784647799948819_CWG26_Judo_pictogram_thumbnail.jpg" group-title="Judo", Judo - Medal Ceremony - 1 Aug 2026 | Glasgow 2026 Commonwealth Games
+#EXTINF:-1 tvg-id="sonyliv-1090536387" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784647154993819_CWG26_Bowls_and_Para_Bowls_pictogram_landscape_thumb.jpg" group-title="Bowls and Para Bowls", Day 9 - 1 Aug 2026 | Glasgow 2026 Commonwealth Games
 https://sonydaimenew.akamaized.net/hls/live/20000392/CWG_Stre0108/ENG/master.m3u8?hdnea=exp=1785624654~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=f8409a4be3cb2a4fb6375cbd4b56803b094ceabcda6647163f8c7b741ea41014
 
 #EXTINF:-1 tvg-id="sonyliv-1090538129" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021140/178511082211931_The_Hundred2026_mens_London_Spirit_vs_Southern_Brave_landscape_thumb.jpg" group-title="Cricket", London Spirit vs Southern Brave - 1 Aug 2026 | The Hundred 2026
