@@ -2,21 +2,21 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 04:50:31 PM 02-08-2026
+# last_update: 05:20:28 PM 02-08-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090538314" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021473/1785447790990491_dc26_Mohammedan_SC_vs_Samaleswari_Sporting_landscape.jpg" group-title="Football", Mohammedan SC vs Samaleswari Sporting  - 2 Aug 2026 | IndianOil Durand Cup 2026
 https://sonydaimenew.akamaized.net/hls/live/20000291/Football0208/ENG/master.m3u8?hdnea=exp=1785685833~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=fde6ca34197ee230e992a888794a81cacbce9d941cca859f0b1a742c038ed6b1
 
-#EXTINF:-1 tvg-id="sonyliv-1090536386" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536386/thumbnail/1785662563110_1784647162182819_CWG26_Bowls_and_Para_Bowls_pictogram_thumbnail.jpg" group-title="Bowls and Para Bowls", New Zealand vs Australia - Para Women's Pairs B6-B8 - Bowls and Para Bowls - 2 Aug 2026 | Glasgow 2026 Commonwealth Games
+#EXTINF:-1 tvg-id="sonyliv-1090536386" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536386/thumbnail/1785668095535_1784647162182819_CWG26_Bowls_and_Para_Bowls_pictogram_thumbnail.jpg" group-title="Bowls and Para Bowls", Australia vs New Zealand - Para Men's Pairs B6-B8 - Bowls and Para Bowls - 2 Aug 2026 | Glasgow 2026 Commonwealth Games
 https://sonydaimenew.akamaized.net/hls/live/20000296/CWG_Stre0208/ENG/master.m3u8?hdnea=exp=1785676831~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=f21126a6ce189ee05229846190b61947e8288793a4ac05f5bd410fef91fa37bb
 
-#EXTINF:-1 tvg-id="sonyliv-1090536268" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784647799948819_CWG26_Judo_pictogram_thumbnail.jpg" group-title="Judo", Judo - Quarterfinals - 2 Aug 2026 | Glasgow 2026 Commonwealth Games
+#EXTINF:-1 tvg-id="sonyliv-1090536268" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000020764/1784647799948819_CWG26_Judo_pictogram_thumbnail.jpg" group-title="Judo", Judo - Semi-Final - 2 Aug 2026 | Glasgow 2026 Commonwealth Games
 https://sonydaimenew.akamaized.net/hls/live/20000295/CWG_Stre0208/ENG/master.m3u8?hdnea=exp=1785680437~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=2e57c3297cee025871c40ef989cef5fa18e42671b5ff980fffc61ec7b1b48ad5
 
-#EXTINF:-1 tvg-id="sonyliv-1090536385" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/thumbnail/1785667628214_1784647799948819_CWG26_Judo_pictogram_thumbnail.jpg" group-title="Judo", Gregor Miller vs Gerard Takayawa - Men +100 kg - Judo - 2 Aug 2026 | Glasgow 2026 Commonwealth Games
+#EXTINF:-1 tvg-id="sonyliv-1090536385" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536385/thumbnail/1785669393863_1784647799948819_CWG26_Judo_pictogram_thumbnail.jpg" group-title="Judo", Kayhan Ozcicek-Takagi vs John Messe A Bessong - Men +100 kg - Judo - 2 Aug 2026 | Glasgow 2026 Commonwealth Games
 https://sonydaimenew.akamaized.net/hls/live/20000301/CWG_Stre0208/ENG/master.m3u8?hdnea=exp=1785676842~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=0e55d3b7eb2086018928e2187821812a79cb13ea920f307663ed3f94640bcde1
 
-#EXTINF:-1 tvg-id="sonyliv-1090536387" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021691/1785628142137863_CWG26_CYCLING_MENS_1000M_TIME_TRIAL_FINAL_RONALDO_SINGH_landscape_thumb.jpg" group-title="Cycling", Men's 1000m Time Trial - Cycling - 2 Aug 2026 | Glasgow 2026 Commonwealth Games
+#EXTINF:-1 tvg-id="sonyliv-1090536387" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090536387/thumbnail/1785669426462_1784647770880819_CWG26_Cycling_pictogram_thumbnail.jpg" group-title="Cycling", Women's Keirin - Cycling - 2 Aug 2026 | Glasgow 2026 Commonwealth Games
 https://sonydaimenew.akamaized.net/hls/live/20000299/CWG_Stre0208/ENG/master.m3u8?hdnea=exp=1785676855~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=a1e331effe4b8a2bb1a3420c34230254bc0f68c77fd790649ecc911dedd3dfc2
 
 #EXTINF:-1 tvg-id="sonyliv-1090538304" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021140/178511100207431_The_Hundred2026_womens_Trent_Rockets_vs_Sunrisers_Leeds_landscape_thumb.jpg" group-title="Cricket", Trent Rockets vs Sunrisers Leeds - 2 Aug 2026 | The Hundred 2026 (Women's)
