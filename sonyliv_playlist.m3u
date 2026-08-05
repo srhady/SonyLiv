@@ -2,10 +2,16 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 07:20:27 PM 05-08-2026
+# last_update: 07:50:29 PM 05-08-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090538625" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021747/1785707218265385_DC26_India_Army_FT_vs_Baghpat_FC_landscape_thumb.jpg" group-title="Football", India Army FT vs Baghpat FC - 5 Aug 2026 | IndianOil Durand Cup 2026
 https://sonydaimenew.akamaized.net/hls/live/20000292/Football0508/ENG/master.m3u8?hdnea=exp=1785957634~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=a2605169be69ebad66585b3aa26921704ec232a1720e0a262e7115d5f51098e2
 
 #EXTINF:-1 tvg-id="sonyliv-1090538638" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021796/178586061322053_Vitality_Mixed_Disability_1st_T20i_England_vs_India_landscape_thumb.jpg" group-title="Cricket", England vs India - 1st T20I - 5 Aug 2026 | Vitality Mixed Disability IT20 series
 https://sonydaimenew.akamaized.net/hls/live/20000301/Cricket_0508/ENG/master.m3u8?hdnea=exp=1785957645~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=bb4f7fc241f16140e4dd1030531bc668fe6a8fb128ee1574b16f96f294540405
+
+#EXTINF:-1 tvg-id="sonyliv-1090538632" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021140/178511176060631_The_Hundred2026_mens_Manchester_Super_Giants_vs_Welsh_Fire_landscape_thumb.jpg" group-title="Cricket", Manchester Super Giants vs Welsh Fire - 5 Aug 2026 | The Hundred 2026
+https://sonyeventsglobal.akamaized.net/hls/live/2022322/DAI18-HMEN/master.m3u8?hdnea=exp=1785959434~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=15633e402da39f4a689bcdb9b7d9e3dd55e0ef656ea43320fb30c495bd1efa4f
+
+#EXTINF:-1 tvg-id="sonyliv-1090538636" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021140/178511202234131_The_Hundred2026_wimens_Trent_Rockets_vs_Birmingham_Phoenix_landscape_thumb.jpg" group-title="Cricket", Trent Rockets vs Birmingham Phoenix - 5 Aug 2026 | The Hundred 2026 (Women's)
+https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-WTRBP/master.m3u8?hdnea=exp=1785959443~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=7ffbe6cfab971f6029245425d5346c824aa886db04b4faf53d83da2462fb874a
