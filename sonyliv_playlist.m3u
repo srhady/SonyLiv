@@ -2,4 +2,7 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 03:20:27 PM 06-08-2026
+# last_update: 03:50:28 PM 06-08-2026
+
+#EXTINF:-1 tvg-id="sonyliv-1090538663" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021747/1785707368420385_DC26_Bodoland_FC_vs_FC1_landscape_thumb.jpg" group-title="Football", Bodoland FC vs FC 1 - 6 Aug 2026 | IndianOil Durand Cup 2026
+https://sonydaimenew.akamaized.net/hls/live/20000291/football0608/ENG/master.m3u8?hdnea=exp=1786031434~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=865f5fd23581a0501c9c3ff7b5a4c20414d075fcc1bd83e23e4b8d55b3a975e1
