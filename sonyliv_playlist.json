@@ -3,29 +3,29 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "06:20:27 PM 06-08-2026"
+        "last_update": "06:50:26 PM 06-08-2026"
     },
     "live_matches": [
         {
             "match_info": {
-                "contentId": 1090538663,
-                "externalId": "1090538663",
+                "contentId": 1090538662,
+                "externalId": "1090538662",
                 "objectType": "VOD",
                 "isLive": true,
                 "objectSubtype": "LIVE_SPORT",
                 "contentType": "VOD",
                 "contentSubtype": "LIVE_SPORT",
                 "title": "IndianOil Durand Cup 2026",
-                "longDescription": "Bodoland FC face FC 1 in an exciting IndianOil Durand Cup 2026 clash. Catch every moment of the action LIVE, only on Sony LIV.",
-                "shortDescription": "Bodoland FC face FC 1 in an exciting IndianOil Durand Cup 2026 clash. Catch every moment of the action LIVE, only on Sony LIV.",
+                "longDescription": "Nongkseh SS&CC take on Langsning FC in an exciting IndianOil Durand Cup 2026 clash. Catch every moment of the action LIVE, only on Sony LIV.",
+                "shortDescription": "Nongkseh SS&CC take on Langsning FC in an exciting IndianOil Durand Cup 2026 clash. Catch every moment of the action LIVE, only on Sony LIV.",
                 "isCopyProtected": false,
-                "contractStartDate": 1786009800000,
-                "contractEndDate": 1786027800000,
-                "episodeTitle": "Bodoland FC vs FC 1 - 6 Aug 2026",
+                "contractStartDate": 1786020600000,
+                "contractEndDate": 1786038600000,
+                "episodeTitle": "Nongkseh SS&CC vs Langsning FC - 6 Aug 2026",
                 "genres": [
                     "Football"
                 ],
-                "originalAirDate": 1786011600000,
+                "originalAirDate": 1786022400000,
                 "pcExtendedRatings": [],
                 "isOnAir": true,
                 "isEncrypted": false,
@@ -38,24 +38,24 @@
                     "audio_languages": "ENG",
                     "snp_tags": "Suitable for all",
                     "packageid": "12m_mobile_saarc,Liv_Pre_Yupp,12m_saarc,1m_saarc,liv_premium_GP_1m,liv_premium_GP_1m_mobile,LIV_Pre_Mob_1M,liv_binge_1m",
-                    "masthead_logo_rectangualar": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021756/1785766300164331_DURAND_CUP_2026_Match_masthead_logo_rectangualar_950x570_Bodoland_FC_vs_FC1_LIVE.png",
+                    "masthead_logo_rectangualar": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021756/1785766300536331_DURAND_CUP_2026_Match_masthead_logo_rectangualar_950x570_Nongkseh_SS_CC_vs_Langsning_FC_LIVE.png",
                     "Maximum_Resolution": "FULL_HD",
-                    "masthead_logo_v1": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021756/1785766300595331_DURAND_CUP_2026_Match_masthead_logo_V1_692x390_Bodoland_FC_vs_FC1_LIVE.png",
+                    "masthead_logo_v1": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021756/1785766300892331_DURAND_CUP_2026_Match_masthead_logo_V1_692x390_Nongkseh_SS_CC_vs_Langsning_FC_LIVE.png",
                     "advertising": "AD SUPPORTED",
                     "emaAttributes": {},
                     "kids_safe": false,
-                    "tv_background_image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021747/1785707420527385_DC26_Bodoland_FC_vs_FC1_tv_bg.jpg",
+                    "tv_background_image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021747/1785707512250385_DC26_Nongkseh_SSCC_vs_Langsning_FC_tv_bg.jpg",
                     "content_marquee_status": false,
                     "marquee_target_state": [],
-                    "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021756/1785766300931331_DURAND_CUP_2026_Match_masthead_mobile_v2_984x1182_Bodoland_FC_vs_FC-1.jpg",
-                    "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021747/1785707368420385_DC26_Bodoland_FC_vs_FC1_landscape_thumb.jpg",
+                    "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021756/1785766301043331_DURAND_CUP_2026_Match_masthead_mobile_v2_984x1182_Nongkseh_SS_CC_vs_Langsning_FC.jpg",
+                    "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021747/1785707491192385_DC26_Nongkseh_SSCC_vs_Langsning_FC_landscape_thumb.jpg",
                     "variant_asset_languages": [],
                     "broadcast_channel_hin": "सोनी स्पोर्ट्स तेन २",
                     "ad_cluster_id": "ad_cluster_1",
-                    "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021747/1785707341124385_DC26_Bodoland_FC_vs_FC1_live_portrait_thumb.jpg",
+                    "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021747/1785707467559385_DC26_Nongkseh_SSCC_vs_Langsning_FC_live_portrait_thumb.jpg",
                     "is_subtitle_cc_available": false,
                     "ssai_partners": "Google DAI",
-                    "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021747/1785707368420385_DC26_Bodoland_FC_vs_FC1_landscape_thumb.jpg",
+                    "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021747/1785707491192385_DC26_Nongkseh_SSCC_vs_Langsning_FC_landscape_thumb.jpg",
                     "audio_language_list": [
                         {
                             "lang_code": "ENG",
@@ -64,7 +64,7 @@
                     ],
                     "Maximum_Audio_Quality": "STEREO",
                     "matchid": "",
-                    "venue_name": "Indira Gandhi Athletic Stadium",
+                    "venue_name": "Jawaharlal Nehru Stadium",
                     "region_of_origin": "English",
                     "svod_advertising": "true",
                     "sub_category": "Sport",
@@ -72,29 +72,29 @@
                     "broadcast_channel": "Sony Sports Ten 2",
                     "Maximum_Video_Quality": "SDR",
                     "isdvr": "No",
-                    "away_team": "FC 1",
+                    "away_team": "Langsning FC",
                     "U": "IN",
                     "country_rating": {
                         "U": "IN",
                         "3+": "BD,NP,LK,PK,AF,BT,MV"
                     },
                     "3+": "BD,NP,LK,PK,AF,BT,MV",
-                    "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021756/1785766299730331_DURAND_CUP_2026_Match_Masthead_logo_Bodoland_FC_vs_FC1_LIVE.png",
+                    "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021756/1785766300084331_DURAND_CUP_2026_Match_Masthead_logo_Nongkseh_SS_CC_vs_Langsning_FC_LIVE.png",
                     "projected_max_concurrency": 100000,
                     "value": "SVOD",
                     "is_audio_desc_available": false,
                     "target_impressions_per_week": 2000000,
                     "live_label_display": true,
-                    "dai_asset_key": "ahLdkaRoSWavrsFLPU8THA",
+                    "dai_asset_key": "X9tnEM9wQHKUIX6nWcZ4TA",
                     "seo_tags": "IndianOil Durand Cup 2026,football,Durand Cup,Durand Cup 2026 tickets,Durand Cup 2026 schedule,Asian football,Durand Cup 2026 highlights,Durand Cup 2026,durand cup,Durand Cup 2026 date,Durand Cup 2026 news,Durand Cup 2026 live,Durand Cup 2026 teams,Durand Cup 2026 venue,Durand Cup 2026 update,Durand Cup 2026 fixtures,Durand Cup 2026 all matches,Durand Cup 2026 new updates,Durand Cup 2026 latest news,Durand Cup 2026 team updates,where to watch Durand Cup 2026,Durand Cup fixtures 2026,Durand Cup 2026 starting date,Durand Cup 2026 latest updates",
                     "Free_countries": "",
                     "overlay_visibility": "0",
                     "target_frequency_per_week": 3,
                     "SVOD_countries": "_in,_lk,_mv,_np,_bd,_bt,_af,_pk",
-                    "home_team": "Bodoland FC ",
+                    "home_team": "Nongkseh SS&CC",
                     "is_auto_play_trailer": true,
                     "integrated_splash_available": "Yes",
-                    "masthead_large_v3": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021756/1785766299534331_DURAND_CUP_2026_Match_masthead_large_v3_3200x1800_Bodoland_FC_vs_FC-1.jpg",
+                    "masthead_large_v3": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021756/1785766299664331_DURAND_CUP_2026_Match_masthead_large_v3_3200x1800_Nongkseh_SS_CC_vs_Langsning_FC.jpg",
                     "isDVR": false,
                     "isTimeLineMarker": false,
                     "isDownloadable": false,
@@ -111,7 +111,7 @@
                 "ratingEligibility": true,
                 "ratingDisplay": false,
                 "titleBrief": "",
-                "baseContentId": 1090538663,
+                "baseContentId": 1090538662,
                 "isBaseAsset": true
             },
             "playback_info": {
@@ -121,7 +121,7 @@
                 "resultObj": {
                     "showPlayerStats": false,
                     "is_preview_enabled": false,
-                    "videoURL": "https://sonydaimenew.akamaized.net/hls/live/20000291/football0608/ENG/master.m3u8?hdnea=exp=1786031434~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=865f5fd23581a0501c9c3ff7b5a4c20414d075fcc1bd83e23e4b8d55b3a975e1",
+                    "videoURL": "https://sonydaimenew.akamaized.net/hls/live/20000292/football0608/ENG/master.m3u8?hdnea=exp=1786042233~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=2461f067e2c49b20bc16e37a878371e403a7e262b9dd75a3e3e66a682e838495",
                     "multiLanguageVideoURL": [],
                     "audioLanguages": [
                         {
@@ -137,7 +137,7 @@
                     "posterURL": "",
                     "sprite_image_url": "",
                     "tv_sprite_image_url": "",
-                    "dai_asset_key": "jRQlKg2DQWa70jsLHUtxGA",
+                    "dai_asset_key": "8EM-MlH-S-6dmV7SK2YPnA",
                     "contextual_cue_point": {},
                     "cuepoints": [],
                     "isLive": true,
@@ -218,7 +218,7 @@
                     "multiAudioTrack": true,
                     "packId": "liv_premium_GP_1m"
                 },
-                "systemTime": 1786009834229
+                "systemTime": 1786020633380
             }
         }
     ]
