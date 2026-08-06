@@ -2,10 +2,10 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 09:20:44 PM 06-08-2026
+# last_update: 01:13:27 AM 07-08-2026
 
-#EXTINF:-1 tvg-id="sonyliv-1090538662" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021747/1785707491192385_DC26_Nongkseh_SSCC_vs_Langsning_FC_landscape_thumb.jpg" group-title="Football", Nongkseh SS&CC vs Langsning FC - 6 Aug 2026 | IndianOil Durand Cup 2026
-https://sonydaimenew.akamaized.net/hls/live/20000292/football0608/ENG/master.m3u8?hdnea=exp=1786042233~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=2461f067e2c49b20bc16e37a878371e403a7e262b9dd75a3e3e66a682e838495
+#EXTINF:-1 tvg-id="sonyliv-1090538665" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021408/1785344926007191_The_Hundred2026_mens_London_Spirit_vs_MI_London_landscape_thumb.jpg" group-title="Cricket", London Spirit vs MI London - 6 Aug 2026 | The Hundred 2026
+https://sonyeventsglobal.akamaized.net/hls/live/2022322/DAI18-HMEN/master.m3u8?hdnea=exp=1786065211~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=f111e841cdbf7d79ebb247bc20493190aae375f5a419d3a6d6e26c4e9da90e85
 
-#EXTINF:-1 tvg-id="sonyliv-1090538664" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021408/1785344919988191_The_Hundred2026_womens_London_Spirit_vs_MI_London_landscape_thumb.jpg" group-title="Cricket", London Spirit vs MI London - 6 Aug 2026 | The Hundred 2026 (Women's)
-https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-HWOM/master.m3u8?hdnea=exp=1786045829~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=4b94f328b7bfd9cf91c12f36a2297951bc7039db0353316f300742a4c88984e4
+#EXTINF:-1 tvg-id="sonyliv-1090538666" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021454/1785437316423954_LIV_Golf_New_York_day1_landscape_thumb.jpg" group-title="Golf", New York - Day 1 - 6 Aug 2026 | LIV Golf
+https://sonydaimenew.akamaized.net/hls/live/20000293/Golf_LIV0608/ENG/master.m3u8?hdnea=exp=1786065223~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=965490851701dd8975348da08c80c84344f7e9878f3216fec6d6f5939a39e6d4
