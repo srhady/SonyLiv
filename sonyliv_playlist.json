@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "08:50:25 PM 07-08-2026"
+        "last_update": "09:20:34 PM 07-08-2026"
     },
     "live_matches": [
         {
@@ -686,6 +686,7 @@
                     "is_audio_desc_available": false,
                     "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021454/1785437512018954_LIV_Golf_New_York_day2_landscape_thumb.jpg",
                     "variant_asset_languages": [],
+                    "broadcast_channel_hin": "लिव",
                     "ad_cluster_id": "ad_cluster_1",
                     "live_label_display": true,
                     "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021454/1785437444533954_LIV_Golf_New_York_day2_live_portrait_thumb.jpg",
