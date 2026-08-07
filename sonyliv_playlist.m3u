@@ -2,7 +2,7 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 08:20:37 PM 07-08-2026
+# last_update: 08:50:25 PM 07-08-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090538724" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021747/1785707723503385_DC26_East_Bengal_FC_vs_South_United_FC_landscape_thumb.jpg" group-title="Football", East Bengal FC vs South United FC - 7 Aug 2026 | IndianOil Durand Cup 2026
 https://sonydaimenew.akamaized.net/hls/live/20000296/Football0708/ENG/master.m3u8?hdnea=exp=1786128637~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=cfd9f580a4812d08788013df1ac73b662725a28e8b5b05a482da01d9b8012ea5
@@ -12,3 +12,6 @@ https://sonydaimenew.akamaized.net/hls/live/20000291/Cricket_0708/ENG/master.m3u
 
 #EXTINF:-1 tvg-id="sonyliv-1090538725" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021408/1785345492958191_The_Hundred2026_womens_Birmingham_Phoenix_vs_Sunrisers_Leeds_landscape_thumb.jpg" group-title="Cricket", Birmingham Phoenix vs Sunrisers Leeds - 7 Aug 2026 | The Hundred 2026 (Women's)
 https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-HWOM/master.m3u8?hdnea=exp=1786132233~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=083793c1d5fb910f8578ebf3fc94039f5578edf0bcfd79df999f4fea889b7d52
+
+#EXTINF:-1 tvg-id="sonyliv-1090538745" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021454/1785437512018954_LIV_Golf_New_York_day2_landscape_thumb.jpg" group-title="Golf", New York - Day 2 - 7 Aug 2026 | LIV Golf
+https://sonydaimenew.akamaized.net/hls/live/20000297/Golf_New0708/ENG/master.m3u8?hdnea=exp=1786135830~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=676c7f166b84eb046c3fb2948b5a3c12e88f9b410e2d326029dee5c6aa451676
