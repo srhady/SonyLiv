@@ -2,13 +2,16 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 09:50:29 PM 07-08-2026
+# last_update: 10:20:27 PM 07-08-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090538734" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021845/178600775209347_Vitality_Mixed_Disability_2nd_T20i_England_vs_India_landscape_thumb.jpg" group-title="Cricket", England vs India - 2nd T20I - 7 Aug 2026 | Vitality Mixed Disability IT20 series
 https://sonydaimenew.akamaized.net/hls/live/20000291/Cricket_0708/ENG/master.m3u8?hdnea=exp=1786130433~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=652f9d6f4ee74bdf3e659efdbd8b436252388406dbde9db232dfe36e69fe272d
 
 #EXTINF:-1 tvg-id="sonyliv-1090538725" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021408/1785345492958191_The_Hundred2026_womens_Birmingham_Phoenix_vs_Sunrisers_Leeds_landscape_thumb.jpg" group-title="Cricket", Birmingham Phoenix vs Sunrisers Leeds - 7 Aug 2026 | The Hundred 2026 (Women's)
 https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-HWOM/master.m3u8?hdnea=exp=1786132233~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=083793c1d5fb910f8578ebf3fc94039f5578edf0bcfd79df999f4fea889b7d52
+
+#EXTINF:-1 tvg-id="sonyliv-1090538732" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021408/1785345485508191_The_Hundred2026_mens_Birmingham_Phoenix_vs_Sunrisers_Leeds_landscape_thumb.jpg" group-title="Cricket", Birmingham Phoenix vs Sunrisers Leeds - 7 Aug 2026 | The Hundred 2026
+https://sonyeventsglobal.akamaized.net/hls/live/2022322/DAI18-HMEN/master.m3u8?hdnea=exp=1786141234~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=e493927419a20c4103f04205dfeb6dd3e28372f2b72634415ebf996084968591
 
 #EXTINF:-1 tvg-id="sonyliv-1090538745" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021454/1785437512018954_LIV_Golf_New_York_day2_landscape_thumb.jpg" group-title="Golf", New York - Day 2 - 7 Aug 2026 | LIV Golf
 https://sonydaimenew.akamaized.net/hls/live/20000297/Golf_New0708/ENG/master.m3u8?hdnea=exp=1786135830~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=676c7f166b84eb046c3fb2948b5a3c12e88f9b410e2d326029dee5c6aa451676
