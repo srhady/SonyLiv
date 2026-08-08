@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "10:20:28 AM 08-08-2026"
+        "last_update": "10:50:22 AM 08-08-2026"
     },
     "live_matches": [
         {
@@ -66,6 +66,7 @@
                     "target_impressions_per_week": 2000000,
                     "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021915/1786127924679710_SLvsIND_warm_up_match_day2_landscape_thumb.jpg",
                     "variant_asset_languages": [],
+                    "broadcast_channel_hin": "सोनी स्पोर्ट्स तेन ५",
                     "live_label_display": true,
                     "ad_cluster_id": "ad_cluster_1",
                     "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021915/1786126812573710_SLvsIND_warm_up_match_day2_portrait_thumb.jpg",
