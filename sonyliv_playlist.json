@@ -3,7 +3,252 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "05:20:28 AM 09-08-2026"
+        "last_update": "05:50:25 AM 09-08-2026"
     },
-    "live_matches": []
+    "live_matches": [
+        {
+            "match_info": {
+                "contentId": 1090538872,
+                "externalId": "1090538872",
+                "objectType": "VOD",
+                "isLive": true,
+                "objectSubtype": "LIVE_SPORT",
+                "contentType": "VOD",
+                "contentSubtype": "LIVE_SPORT",
+                "title": "UFC Fight Night - Gamrot vs Salkilld",
+                "longDescription": "UFC Fight Night: Gamrot vs Salkilld promises an exciting lightweight clash as veteran contender Mateusz Gamrot faces rising prospect Ludovit Salkilld in a pivotal matchup. Catch all the action from UFC Fight Night, LIVE on Sony LIV.",
+                "shortDescription": "UFC Fight Night: Gamrot vs Salkilld promises an exciting lightweight clash as veteran contender Mateusz Gamrot faces rising prospect Ludovit Salkilld in a pivotal matchup. Catch all the action from UFC Fight Night, LIVE on Sony LIV.",
+                "isCopyProtected": false,
+                "contractStartDate": 1786231800000,
+                "contractEndDate": 1786253400000,
+                "episodeTitle": "UFC Fight Night - Gamrot vs Salkilld - 9 Aug 2026",
+                "genres": [
+                    "Fight Sports"
+                ],
+                "originalAirDate": 1786233600000,
+                "pcExtendedRatings": [],
+                "isOnAir": true,
+                "isEncrypted": false,
+                "pcVodLabel": "16+",
+                "duration": 0,
+                "language": "ENG",
+                "isGeoBlocked": false,
+                "advertisingInfoList": [],
+                "emfAttributes": {
+                    "A": "IN",
+                    "region_of_origin": "English",
+                    "svod_advertising": "true",
+                    "audio_languages": "ENG,HIN,TAM,TEL,KAN",
+                    "sub_category": "Sport",
+                    "snp_tags": "Strong language,Blood",
+                    "is_multi_track_per_language_available": false,
+                    "packageid": "12m_mobile_saarc,Liv_Pre_Yupp,12m_saarc,1m_saarc,liv_premium_GP_1m,liv_premium_GP_1m_mobile,LIV_Pre_Mob_1M,liv_binge_1m",
+                    "masthead_logo_rectangualar": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021913/1786106690000583_UFC_Fight_Night_Gamrot_vs_Salkilld_masthead_logo_rectangualar_950x570_LIVE.png",
+                    "Maximum_Video_Quality": "SDR",
+                    "Maximum_Resolution": "FULL_HD",
+                    "broadcast_channel": "Sony Sports Ten 2",
+                    "masthead_logo_v1": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021913/1786106690000583_UFC_Fight_Night_Gamrot_vs_Salkilld_masthead_logo_V1_692x390_LIVE.png",
+                    "advertising": "AD SUPPORTED",
+                    "emaAttributes": {},
+                    "tv_background_image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021914/1786106690000608_UFC_Fight_Night_Gamrot_vs_Salkilld_tv_bg.jpg",
+                    "country_rating": {
+                        "A": "IN",
+                        "16+": "BD,NP,MV,BT,LK,AF,PK"
+                    },
+                    "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021913/1786106690000583_UFC_Fight_Night_Gamrot_vs_Salkilld_Masthead_Logo_LIVE.png",
+                    "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021913/1786106690000583_UFC_Fight_Night_Gamrot_vs_Salkilld_masthead_mobile_v2_984x1182.jpg",
+                    "value": "SVOD",
+                    "is_audio_desc_available": false,
+                    "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021904/1786116618352658_UFC_Fight_Night_Gamrot_vs_Salkilld_landscape_thumb.jpg",
+                    "variant_asset_languages": [
+                        "HIN",
+                        "TAM",
+                        "TEL",
+                        "KAN"
+                    ],
+                    "broadcast_channel_hin": "सोनी स्पोर्ट्स तेन २",
+                    "16+": "BD,NP,MV,BT,LK,AF,PK",
+                    "live_label_display": true,
+                    "ad_cluster_id": "ad_cluster_1",
+                    "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021904/1786114456637658_UFC_Fight_Night_Gamrot_vs_Salkilld_live_portrait_thumb.jpg",
+                    "dai_asset_key": "9IQ8sp3pTamM6sPXOtXnKw",
+                    "seo_tags": "UFC Fight Night,UFC Fight,UFC Fight upcoming,upcoming UFC events,UFC Fight schedule,UFC fights dates,UFC Fight Night schedule,UFC match live,watch UFC online,upcoming UFC Fight events,UFC Fight Night 2026 schedule,UFC Fight Night replay,watch UFC Fight Night online,Adesanya vs Pyfer,UFC Fight Night Adesanya vs Pyfer,UFC Adesanya vs Pyfer,live UFC Fight Night streaming,UFC Fight Night match highlights,UFC latest match results,watch Adesanya vs Pyfer live,watch UFC Fight Night Adesanya vs Pyfer,martial arts,fight night,combat sports,UFC Fight today,action sports,UFC live stream,UFC Fight Night results,UFC tonight fighters,sports entertainment,UFC main event,watch UFC live,UFC Fight Night live,sports highlights,UFC fight live stream,UFC upcoming main events,UFC live stream now,Israel Adesanya UFC,Joe Pyfer UFC,Adesanya UFC,Pyfer MMA,UFC Fight Night 2026,UFC fight replays,UFC Fight Night highlights,UFC Fight Night matches,UFC match timings,middleweight fight,UFC co-main event,UFC prelims,MMA fight card,UFC full card,UFC fighters lineup,UFC Vegas event,mixed martial arts,UFC bout order,UFC main card,UFC prelim card,striking specialists,knockout power,UFC rising contenders,MMA showdown,UFC event coverage",
+                    "Free_countries": "",
+                    "overlay_visibility": "0",
+                    "SVOD_countries": "_bd,_np,_mv,_bt,_lk,_af,_pk,_in",
+                    "is_subtitle_cc_available": false,
+                    "ssai_partners": "Google DAI",
+                    "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021904/1786116618352658_UFC_Fight_Night_Gamrot_vs_Salkilld_landscape_thumb.jpg",
+                    "Maximum_Audio_Quality": "STEREO",
+                    "audio_language_list": [
+                        {
+                            "lang_code": "ENG",
+                            "lang_label": "English"
+                        },
+                        {
+                            "lang_code": "HIN",
+                            "lang_label": "Hindi"
+                        },
+                        {
+                            "lang_code": "TAM",
+                            "lang_label": "Tamil"
+                        },
+                        {
+                            "lang_code": "TEL",
+                            "lang_label": "Telugu"
+                        },
+                        {
+                            "lang_code": "KAN",
+                            "lang_label": "Kannada"
+                        }
+                    ],
+                    "sub_license": "No",
+                    "is_auto_play_trailer": true,
+                    "integrated_splash_available": "Yes",
+                    "masthead_large_v3": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021913/1786106690000583_UFC_Fight_Night_Gamrot_vs_Salkilld_masthead_large_v3_3200x1800.jpg",
+                    "isTimeLineMarker_new": "false",
+                    "isDVR": false,
+                    "isTimeLineMarker": false,
+                    "isDownloadable": false,
+                    "is_preview_enabled": false,
+                    "sprite_image_url": "",
+                    "tv_sprite_image_url": "",
+                    "kids_safe": false,
+                    "tl_marker": "",
+                    "icon_on_asset": {
+                        "play_focus_icon": "https://origin-staticv2.sonyliv.com/UI_icons/spotlight/focus_play_icon.png",
+                        "play_normal_icon": "https://origin-staticv2.sonyliv.com/UI_icons/spotlight/non_focused_play_icon.png"
+                    }
+                },
+                "isADVAllowed": false,
+                "ratingEligibility": true,
+                "ratingDisplay": false,
+                "titleBrief": "",
+                "baseContentId": 1090538872,
+                "isBaseAsset": true
+            },
+            "playback_info": {
+                "resultCode": "OK",
+                "message": "",
+                "errorDescription": "200-10000",
+                "resultObj": {
+                    "showPlayerStats": false,
+                    "is_preview_enabled": false,
+                    "videoURL": "https://sonydaimenew.akamaized.net/hls/live/20000301/UFC_UFC_0808/ENG/master.m3u8?hdnea=exp=1786254629~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=5ed4b8577fce295cbb70e87de97c23916d79bb934d33ddeaaa7d0d70c9faf45c",
+                    "multiLanguageVideoURL": [],
+                    "audioLanguages": [
+                        {
+                            "audioLanguageName": "ENG",
+                            "audioLanguageLabel": "English"
+                        },
+                        {
+                            "audioLanguageName": "HIN",
+                            "audioLanguageLabel": "Hindi"
+                        },
+                        {
+                            "audioLanguageName": "TEL",
+                            "audioLanguageLabel": "Telugu"
+                        },
+                        {
+                            "audioLanguageName": "TAM",
+                            "audioLanguageLabel": "Tamil"
+                        },
+                        {
+                            "audioLanguageName": "KAN",
+                            "audioLanguageLabel": "Kannada"
+                        }
+                    ],
+                    "trailer_url": "",
+                    "subtitle": [],
+                    "isEncrypted": false,
+                    "isDVR": false,
+                    "isDownloadable": false,
+                    "posterURL": "",
+                    "sprite_image_url": "",
+                    "tv_sprite_image_url": "",
+                    "dai_asset_key": "RpCQLLgCS26DWzSio-apSA",
+                    "contextual_cue_point": {},
+                    "cuepoints": [],
+                    "isLive": true,
+                    "country_rating": {
+                        "A": "IN",
+                        "16+": "BD,NP,MV,BT,LK,AF,PK"
+                    },
+                    "dai_asset_key_hlsfp": "",
+                    "dai_asset_key_wm": "",
+                    "Maximum_Video_Quality": "SDR",
+                    "Maximum_Audio_Quality": "STEREO",
+                    "Maximum_Resolution": "FULL_HD",
+                    "isWatermarked": "false",
+                    "watermark_partner": "",
+                    "upfrontAudio": true,
+                    "pcVodLabel": "16+",
+                    "promotionUrl": "",
+                    "hasPromotion": false,
+                    "contentProvider": "UFC",
+                    "sony_match_id": "",
+                    "tl_marker": "",
+                    "checksum": "",
+                    "kid_mss": "",
+                    "parentId": "1700000192",
+                    "selectedLanguage": {
+                        "lang_label": "English",
+                        "lang_code": "ENG",
+                        "lang_type": "main",
+                        "lang_identifier": ""
+                    },
+                    "originalLanguage": {
+                        "lang_label": "English",
+                        "lang_code": "eng",
+                        "lang_type": "main",
+                        "lang_identifier": ""
+                    },
+                    "stateLanguage": {},
+                    "isFirstVideoPlayedInDevice": false,
+                    "targetedDelivery": {
+                        "td_server_hints": {
+                            "pip_bw_initial": 800000,
+                            "pip_bw_max": 7000000,
+                            "pip_live_initial_buffer": 8,
+                            "pip_live_target_latency": 10,
+                            "analytics_expt_id": "9UexVSmNVs"
+                        }
+                    },
+                    "parents": [
+                        {
+                            "parentId": 1590016437,
+                            "parentType": "BUNDLE",
+                            "parentSubType": "STAGE"
+                        },
+                        {
+                            "parentId": 1700000192,
+                            "parentType": "GROUP_OF_BUNDLES",
+                            "parentSubType": "TOURNAMENT"
+                        }
+                    ],
+                    "additionalDataJson": {
+                        "adServer": "GAM",
+                        "ad_stack": "DAI-IMA",
+                        "audioCodec": "AAC",
+                        "audio_quality": "STEREO",
+                        "enc_format": "HLS",
+                        "fps": 25,
+                        "isDaiKey": true,
+                        "partners": [
+                            "ALL"
+                        ],
+                        "resolution": "SD",
+                        "videoCodec": "H264",
+                        "video_quality": "SDR"
+                    },
+                    "LA_Details": {},
+                    "is_audio_desc_available": false,
+                    "is_multi_track_per_language_available": false,
+                    "multiAudioTrack": true,
+                    "packId": "liv_premium_GP_1m"
+                },
+                "systemTime": 1786233029612
+            }
+        }
+    ]
 }
