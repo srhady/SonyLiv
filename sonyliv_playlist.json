@@ -3,230 +3,29 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "06:20:23 PM 08-08-2026"
+        "last_update": "06:50:25 PM 08-08-2026"
     },
     "live_matches": [
         {
             "match_info": {
-                "contentId": 1090538801,
-                "externalId": "1090538801",
-                "objectType": "VOD",
-                "isLive": true,
-                "objectSubtype": "LIVE_SPORT",
-                "contentType": "VOD",
-                "contentSubtype": "LIVE_SPORT",
-                "title": "India Tour of Sri Lanka 2026",
-                "longDescription": "Day 2 of India's warm-up clash against Sri Lanka XI promises crucial game time as players look to build momentum and sharpen their red-ball skills ahead of the Test series. Catch all the action LIVE on Sony LIV.",
-                "shortDescription": "Day 2 of India's warm-up clash against Sri Lanka XI promises crucial game time as players look to build momentum and sharpen their red-ball skills ahead of the Test series. Catch all the action LIVE on Sony LIV.",
-                "isCopyProtected": false,
-                "contractStartDate": 1786161000000,
-                "contractEndDate": 1786204200000,
-                "episodeTitle": "Day 2 - SLC XI vs IND - Warm-Up Match - 8 Aug 2026",
-                "genres": [
-                    "Cricket"
-                ],
-                "originalAirDate": 1786162800000,
-                "pcExtendedRatings": [],
-                "isOnAir": true,
-                "isEncrypted": false,
-                "pcVodLabel": "3+",
-                "duration": 0,
-                "language": "ENG",
-                "isGeoBlocked": false,
-                "advertisingInfoList": [],
-                "emfAttributes": {
-                    "venue_name": "Nondescripts Cricket Club Ground, Colombo",
-                    "region_of_origin": "English",
-                    "svod_advertising": "true",
-                    "audio_languages": "ENG",
-                    "sub_category": "Sport",
-                    "snp_tags": "Suitable for all",
-                    "is_multi_track_per_language_available": false,
-                    "packageid": "12m_mobile_saarc,Liv_Pre_Yupp,12m_saarc,1m_saarc,liv_premium_GP_1m,liv_premium_GP_1m_mobile,LIV_Pre_Mob_1M,liv_binge_1m",
-                    "masthead_logo_rectangualar": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021863/1786025076431853_SLvsIND_warm-upmatch_day2_live_Masthead_logo_rectangular.png",
-                    "broadcast_channel": "Sony Sports Ten 5",
-                    "Maximum_Video_Quality": "SDR",
-                    "Maximum_Resolution": "FULL_HD",
-                    "masthead_logo_v1": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021863/1786025179065853_SLvsIND_warm-upmatch_day2_live_Masthead_logo_v1.png",
-                    "advertising": "AD SUPPORTED",
-                    "isdvr": "No",
-                    "emaAttributes": {},
-                    "away_team": "India",
-                    "tv_background_image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021915/1786128006911710_SLvsIND_warm_up_match_tv_bg.jpg",
-                    "content_marquee_status": false,
-                    "country_rating": {
-                        "3+": "AF,AX,AL,DZ,AS,AD,AO,AI,AQ,AG,AR,AM,AW,AU,AT,AZ,BS,BH,BD,BB,BY,BE,BZ,BJ,BM,BT,BO,BQ,BA,BW,BV,BR,IO,BN,BG,BF,BI,KH,CM,CA,CV,KY,CF,TD,CL,CN,CX,CC,CO,KM,CG,CD,CK,CR,CI,HR,CU,CW,CY,CZ,DK,DJ,DM,DO,EC,EG,SV,GQ,ER,EE,ET,FK,FO,FJ,FI,FR,GF,PF,TF,GA,GM,GE,DE,GH,GI,GR,GL,GD,GP,GU,GT,GG,GN,GW,GY,HT,HM,HN,HK,HU,IS,ID,IR,IQ,IE,IM,IL,IT,JM,JP,JE,JO,KZ,KE,KI,KP,KR,XK,KW,KG,LA,LV,LB,LS,LR,LY,LI,LT,LU,MO,MG,MW,MY,MV,ML,MT,MH,MQ,MR,MU,YT,MX,FM,MD,MC,MN,ME,MS,MA,MZ,MM,NA,NR,NP,NL,NC,NZ,NI,NE,NG,NU,NF,MP,NO,OM,PK,PW,PS,PA,PG,PY,PE,PH,PN,PL,PT,PR,QA,MK,RE,RO,RU,RW,BL,SH,KN,LC,MF,PM,VC,WS,SM,ST,SA,SN,RS,SC,SL,SG,SX,SK,SI,SB,SO,ZA,GS,SS,ES,SD,SR,SJ,SZ,SE,CH,SY,TW,TJ,TZ,TH,TL,TG,TK,TO,TT,TN,TR,TM,TC,TV,UG,UA,AE,GB,UM,US,UY,UZ,VU,VA,VE,VN,VG,VI,WF,EH,YE,ZM,ZW"
-                    },
-                    "3+": "AF,AX,AL,DZ,AS,AD,AO,AI,AQ,AG,AR,AM,AW,AU,AT,AZ,BS,BH,BD,BB,BY,BE,BZ,BJ,BM,BT,BO,BQ,BA,BW,BV,BR,IO,BN,BG,BF,BI,KH,CM,CA,CV,KY,CF,TD,CL,CN,CX,CC,CO,KM,CG,CD,CK,CR,CI,HR,CU,CW,CY,CZ,DK,DJ,DM,DO,EC,EG,SV,GQ,ER,EE,ET,FK,FO,FJ,FI,FR,GF,PF,TF,GA,GM,GE,DE,GH,GI,GR,GL,GD,GP,GU,GT,GG,GN,GW,GY,HT,HM,HN,HK,HU,IS,ID,IR,IQ,IE,IM,IL,IT,JM,JP,JE,JO,KZ,KE,KI,KP,KR,XK,KW,KG,LA,LV,LB,LS,LR,LY,LI,LT,LU,MO,MG,MW,MY,MV,ML,MT,MH,MQ,MR,MU,YT,MX,FM,MD,MC,MN,ME,MS,MA,MZ,MM,NA,NR,NP,NL,NC,NZ,NI,NE,NG,NU,NF,MP,NO,OM,PK,PW,PS,PA,PG,PY,PE,PH,PN,PL,PT,PR,QA,MK,RE,RO,RU,RW,BL,SH,KN,LC,MF,PM,VC,WS,SM,ST,SA,SN,RS,SC,SL,SG,SX,SK,SI,SB,SO,ZA,GS,SS,ES,SD,SR,SJ,SZ,SE,CH,SY,TW,TJ,TZ,TH,TL,TG,TK,TO,TT,TN,TR,TM,TC,TV,UG,UA,AE,GB,UM,US,UY,UZ,VU,VA,VE,VN,VG,VI,WF,EH,YE,ZM,ZW",
-                    "marquee_target_state": [],
-                    "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021882/1786078823205452_SLvsIND_warmup_match1_masthead_mobile_v2.jpg",
-                    "projected_max_concurrency": 100000,
-                    "value": "SVOD",
-                    "is_audio_desc_available": false,
-                    "target_impressions_per_week": 2000000,
-                    "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021915/1786127924679710_SLvsIND_warm_up_match_day2_landscape_thumb.jpg",
-                    "variant_asset_languages": [],
-                    "broadcast_channel_hin": "सोनी स्पोर्ट्स तेन ५",
-                    "live_label_display": true,
-                    "ad_cluster_id": "ad_cluster_1",
-                    "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021915/1786126812573710_SLvsIND_warm_up_match_day2_portrait_thumb.jpg",
-                    "seo_tags": "India VS Srilanka T20,India Srilanka T20 series,india cricket schedule,india match schedule,sri lanka series,indian cricket t20 match,india cricket schedule 2024,india series,sri lanka match,india t20 matches schedule,team sri lanka,sri lanka cricket team,india's t20 schedule,india cricket time table match,sri lanka cricket matches,india t20 series,t20 series india,sri lanka upcoming match,india t20 fixtures,sri lanka t20 match,india t20 matches date,team india tour,India Srilanka ODI,India Srilanka ODI series,india upcoming odi series,india upcoming one day series,sri lanka cricket fixtures,india cricket series schedule,India Srilanka ODI replay,Sri Lanka Vs India live,Sri Lanka Vs India,Sri Lanka Vs India live streaming,Sri Lanka Vs India,live cricket streaming,watch cricket live,SL Vs IND,India's upcoming matches,india match,International cricket,india series,international cricket upcoming matches,t20 india match,cricket match,icc matches,cricket international match,test match,upcoming india's cricket matches,icc india,t20i matches,cricket test,cricket india,international cricket fixtures,cricket fixtures,cricket match today india,icc india match,icc t20 world,icc international cricket,india international matches,cricket series india,twenty20 international cricket,One Day International series,upcoming odi series of india,Rinku Singh,Riyan Parag,Ruturaj Gaikwad,Shubman Gill,Yashasvi Jaiswal,Abhishek Sharma,Shivam Dube,Washington Sundar,Dhruv Jurel,Sanju Samson,Avesh Khan,Khaleel Ahmed,Mukesh Kumar,Ravi Bishnoi,Tushar Deshpande,India Srilanka ODI,India Srilanka ODI series,india cricket schedule,india match schedule,team sri lanka,sri lanka cricket team,india upcoming odi series,india upcoming one day series,sri lanka cricket fixtures,india cricket series schedule,India's upcoming matches,india match,International cricket,india series,international cricket upcoming matches,cricket match,icc matches,cricket international match,upcoming india's cricket matches,icc india,cricket india,international cricket fixtures,cricket international match,cricket fixtures,cricket match today india,icc india match,icc international cricket,india international matches,cricket series india,One Day International series,upcoming odi series of india",
-                    "Free_countries": "",
-                    "overlay_visibility": "0",
-                    "target_frequency_per_week": 3,
-                    "SVOD_countries": "_af,_ax,_al,_dz,_as,_ad,_ao,_ai,_aq,_ag,_ar,_am,_aw,_au,_at,_az,_bs,_bh,_bd,_bb,_by,_be,_bz,_bj,_bm,_bt,_bo,_bq,_ba,_bw,_bv,_br,_io,_bn,_bg,_bf,_bi,_kh,_cm,_ca,_cv,_ky,_cf,_td,_cl,_cn,_cx,_cc,_co,_km,_cg,_cd,_ck,_cr,_ci,_hr,_cu,_cw,_cy,_cz,_dk,_dj,_dm,_do,_ec,_eg,_sv,_gq,_er,_ee,_et,_fk,_fo,_fj,_fi,_fr,_gf,_pf,_tf,_ga,_gm,_ge,_de,_gh,_gi,_gr,_gl,_gd,_gp,_gu,_gt,_gg,_gn,_gw,_gy,_ht,_hm,_hn,_hk,_hu,_is,_id,_ir,_iq,_ie,_im,_il,_it,_jm,_jp,_je,_jo,_kz,_ke,_ki,_kp,_kr,_xk,_kw,_kg,_la,_lv,_lb,_ls,_lr,_ly,_li,_lt,_lu,_mo,_mg,_mw,_my,_mv,_ml,_mt,_mh,_mq,_mr,_mu,_yt,_mx,_fm,_md,_mc,_mn,_me,_ms,_ma,_mz,_mm,_na,_nr,_np,_nl,_nc,_nz,_ni,_ne,_ng,_nu,_nf,_mp,_no,_om,_pk,_pw,_ps,_pa,_pg,_py,_pe,_ph,_pn,_pl,_pt,_pr,_qa,_mk,_re,_ro,_ru,_rw,_bl,_sh,_kn,_lc,_mf,_pm,_vc,_ws,_sm,_st,_sa,_sn,_rs,_sc,_sl,_sg,_sx,_sk,_si,_sb,_so,_za,_gs,_ss,_es,_sd,_sr,_sj,_sz,_se,_ch,_sy,_tw,_tj,_tz,_th,_tl,_tg,_tk,_to,_tt,_tn,_tr,_tm,_tc,_tv,_ug,_ua,_ae,_gb,_um,_us,_uy,_uz,_vu,_va,_ve,_vn,_vg,_vi,_wf,_eh,_ye,_zm,_zw",
-                    "is_subtitle_cc_available": false,
-                    "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021915/1786127924679710_SLvsIND_warm_up_match_day2_landscape_thumb.jpg",
-                    "audio_language_list": [
-                        {
-                            "lang_code": "ENG",
-                            "lang_label": "English"
-                        }
-                    ],
-                    "Maximum_Audio_Quality": "STEREO",
-                    "home_team": "Sri Lanka",
-                    "sub_license": "Yes",
-                    "is_auto_play_trailer": true,
-                    "integrated_splash_available": "Yes",
-                    "masthead_large_v3": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021882/1786078726763452_SLvsIND_warmup_match1_masthead_large_v3.jpg",
-                    "isDVR": false,
-                    "isTimeLineMarker": false,
-                    "isDownloadable": false,
-                    "is_preview_enabled": false,
-                    "sprite_image_url": "",
-                    "tv_sprite_image_url": "",
-                    "kids_safe": false,
-                    "tl_marker": "",
-                    "icon_on_asset": {
-                        "play_focus_icon": "https://origin-staticv2.sonyliv.com/UI_icons/spotlight/focus_play_icon.png",
-                        "play_normal_icon": "https://origin-staticv2.sonyliv.com/UI_icons/spotlight/non_focused_play_icon.png"
-                    }
-                },
-                "isADVAllowed": false,
-                "ratingEligibility": true,
-                "ratingDisplay": false,
-                "titleBrief": "",
-                "baseContentId": 1090538801,
-                "isBaseAsset": true
-            },
-            "playback_info": {
-                "resultCode": "OK",
-                "message": "",
-                "errorDescription": "200-10000",
-                "resultObj": {
-                    "showPlayerStats": false,
-                    "is_preview_enabled": false,
-                    "videoURL": "https://sonyeventsglobal.akamaized.net/hls/live/2022322/DAI18-INDSL/master.m3u8?hdnea=exp=1786213228~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=4ed9b32e12662697b500ca4b98128b25641f3034de6310ebfa9dac77ef38e883",
-                    "multiLanguageVideoURL": [],
-                    "audioLanguages": [
-                        {
-                            "audioLanguageName": "ENG",
-                            "audioLanguageLabel": "English"
-                        }
-                    ],
-                    "trailer_url": "",
-                    "subtitle": [],
-                    "isEncrypted": false,
-                    "isDVR": false,
-                    "isDownloadable": false,
-                    "posterURL": "",
-                    "sprite_image_url": "",
-                    "tv_sprite_image_url": "",
-                    "dai_asset_key": "",
-                    "contextual_cue_point": {},
-                    "cuepoints": [],
-                    "isLive": true,
-                    "country_rating": {
-                        "3+": "AF,AX,AL,DZ,AS,AD,AO,AI,AQ,AG,AR,AM,AW,AU,AT,AZ,BS,BH,BD,BB,BY,BE,BZ,BJ,BM,BT,BO,BQ,BA,BW,BV,BR,IO,BN,BG,BF,BI,KH,CM,CA,CV,KY,CF,TD,CL,CN,CX,CC,CO,KM,CG,CD,CK,CR,CI,HR,CU,CW,CY,CZ,DK,DJ,DM,DO,EC,EG,SV,GQ,ER,EE,ET,FK,FO,FJ,FI,FR,GF,PF,TF,GA,GM,GE,DE,GH,GI,GR,GL,GD,GP,GU,GT,GG,GN,GW,GY,HT,HM,HN,HK,HU,IS,ID,IR,IQ,IE,IM,IL,IT,JM,JP,JE,JO,KZ,KE,KI,KP,KR,XK,KW,KG,LA,LV,LB,LS,LR,LY,LI,LT,LU,MO,MG,MW,MY,MV,ML,MT,MH,MQ,MR,MU,YT,MX,FM,MD,MC,MN,ME,MS,MA,MZ,MM,NA,NR,NP,NL,NC,NZ,NI,NE,NG,NU,NF,MP,NO,OM,PK,PW,PS,PA,PG,PY,PE,PH,PN,PL,PT,PR,QA,MK,RE,RO,RU,RW,BL,SH,KN,LC,MF,PM,VC,WS,SM,ST,SA,SN,RS,SC,SL,SG,SX,SK,SI,SB,SO,ZA,GS,SS,ES,SD,SR,SJ,SZ,SE,CH,SY,TW,TJ,TZ,TH,TL,TG,TK,TO,TT,TN,TR,TM,TC,TV,UG,UA,AE,GB,UM,US,UY,UZ,VU,VA,VE,VN,VG,VI,WF,EH,YE,ZM,ZW"
-                    },
-                    "dai_asset_key_hlsfp": "",
-                    "dai_asset_key_wm": "",
-                    "Maximum_Video_Quality": "SDR",
-                    "Maximum_Audio_Quality": "STEREO",
-                    "Maximum_Resolution": "FULL_HD",
-                    "isWatermarked": "false",
-                    "watermark_partner": "",
-                    "upfrontAudio": false,
-                    "pcVodLabel": "3+",
-                    "promotionUrl": "",
-                    "hasPromotion": false,
-                    "contentProvider": "Sri Lanka Cricket",
-                    "sony_match_id": "",
-                    "tl_marker": "",
-                    "checksum": "",
-                    "kid_mss": "",
-                    "parentId": "1700000759",
-                    "selectedLanguage": {
-                        "lang_label": "English",
-                        "lang_code": "ENG",
-                        "lang_type": "main",
-                        "lang_identifier": ""
-                    },
-                    "originalLanguage": {
-                        "lang_label": "English",
-                        "lang_code": "eng",
-                        "lang_type": "main",
-                        "lang_identifier": ""
-                    },
-                    "stateLanguage": {},
-                    "isFirstVideoPlayedInDevice": false,
-                    "adstack": "DAI-IMA",
-                    "targetedDelivery": {
-                        "td_server_hints": {
-                            "pip_bw_initial": 800000,
-                            "pip_bw_max": 7000000,
-                            "pip_vod_prefetch": 30,
-                            "pip_vod_initial_buffer_mb": 11,
-                            "pip_vod_initial_buffer_sec": 12,
-                            "pip_vod_max_buffer_mb": 79,
-                            "pip_vod_max_buffer_sec": 90,
-                            "pip_live_initial_buffer": 8,
-                            "pip_live_target_latency": 10,
-                            "analytics_expt_id": "middleware"
-                        }
-                    },
-                    "parents": [
-                        {
-                            "parentId": 1590016434,
-                            "parentType": "BUNDLE",
-                            "parentSubType": "MATCH_TYPE"
-                        },
-                        {
-                            "parentId": 1700000759,
-                            "parentType": "GROUP_OF_BUNDLES",
-                            "parentSubType": "TOURNAMENT"
-                        }
-                    ],
-                    "additionalDataJson": {},
-                    "LA_Details": {},
-                    "is_audio_desc_available": false,
-                    "is_multi_track_per_language_available": false,
-                    "multiAudioTrack": true,
-                    "packId": "liv_premium_GP_1m"
-                },
-                "systemTime": 1786191628685
-            }
-        },
-        {
-            "match_info": {
-                "contentId": 1090538814,
-                "externalId": "1090538814",
+                "contentId": 1090538815,
+                "externalId": "1090538815",
                 "objectType": "VOD",
                 "isLive": true,
                 "objectSubtype": "LIVE_SPORT",
                 "contentType": "VOD",
                 "contentSubtype": "LIVE_SPORT",
                 "title": "IndianOil Durand Cup 2026",
-                "longDescription": "Shillong Lajong FC take on Mumbay FC in a crucial IndianOil Durand Cup 2026 encounter. Catch all the action LIVE, only on Sony LIV.",
-                "shortDescription": "Shillong Lajong FC take on Mumbay FC in a crucial IndianOil Durand Cup 2026 encounter. Catch all the action LIVE, only on Sony LIV.",
+                "longDescription": "North East United FC face Karbi Anglong Morning Star FC in a high-stakes IndianOil Durand Cup 2026 showdown. Watch the action unfold LIVE, only on Sony LIV.",
+                "shortDescription": "North East United FC face Karbi Anglong Morning Star FC in a high-stakes IndianOil Durand Cup 2026 showdown. Watch the action unfold LIVE, only on Sony LIV.",
                 "isCopyProtected": false,
-                "contractStartDate": 1786182600000,
-                "contractEndDate": 1786200600000,
-                "episodeTitle": "Shillong Lajong FC vs Mumbay FC - 8 Aug 2026",
+                "contractStartDate": 1786193400000,
+                "contractEndDate": 1786211400000,
+                "episodeTitle": "North East United FC vs Karbi Anglong Morning Star FC - 8 Aug 2026",
                 "genres": [
                     "Football"
                 ],
-                "originalAirDate": 1786184400000,
+                "originalAirDate": 1786195200000,
                 "pcExtendedRatings": [],
                 "isOnAir": true,
                 "isEncrypted": false,
@@ -239,24 +38,24 @@
                     "audio_languages": "ENG",
                     "snp_tags": "Suitable for all",
                     "packageid": "12m_mobile_saarc,Liv_Pre_Yupp,12m_saarc,1m_saarc,liv_premium_GP_1m,liv_premium_GP_1m_mobile,LIV_Pre_Mob_1M,liv_binge_1m",
-                    "masthead_logo_rectangualar": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021885/1786087275165361_DURAND_CUP_2026_Match_masthead_logo_rectangualar_950x570_Shillong_Lajong_FC_vs_Mumbay_FC_LIVE.png",
+                    "masthead_logo_rectangualar": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021885/1786087274980361_DURAND_CUP_2026_Match_masthead_logo_rectangualar_950x570_North_East_United_FC_vs_Karbi_Anglong_Morning_Star_FC_LIVE.png",
                     "Maximum_Resolution": "FULL_HD",
-                    "masthead_logo_v1": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021885/1786087275945361_DURAND_CUP_2026_Match_masthead_logo_V1_692x390_Shillong_Lajong_FC_vs_Mumbay_FC_LIVE.png",
+                    "masthead_logo_v1": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021885/1786087275765361_DURAND_CUP_2026_Match_masthead_logo_V1_692x390_North_East_United_FC_vs_Karbi_Anglong_Morning_Star_FC_LIVE.png",
                     "advertising": "AD SUPPORTED",
                     "emaAttributes": {},
                     "kids_safe": false,
-                    "tv_background_image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021747/1785707897408385_DC26_Shillong_Lajong_FC_vs_Mumbay_FC_tv_bg.jpg",
+                    "tv_background_image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021747/1785708048565385_DC26_North_East_United_FC_vs_Karbi_Anglong_Morning_Star_FC_tv_bg.jpg",
                     "content_marquee_status": false,
                     "marquee_target_state": [],
-                    "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021885/1786087276160361_DURAND_CUP_2026_Match_masthead_mobile_v2_984x1182_Shillong_Lajong_FC_vs_Mumbay_FC.jpg",
-                    "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021747/1785707863353385_DC26_Shillong_Lajong_FC_vs_Mumbay_FC_landscape_thumb.jpg",
+                    "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021885/1786087276085361_DURAND_CUP_2026_Match_masthead_mobile_v2_984x1182_North_East_United_FC_vs_Karbi_Anglong_Morning_Star_FC.jpg",
+                    "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021747/1785708004800385_DC26_North_East_United_FC_vs_Karbi_Anglong_Morning_Star_FC_landscape_thumb.jpg",
                     "variant_asset_languages": [],
                     "broadcast_channel_hin": "सोनी स्पोर्ट्स तेन २",
                     "ad_cluster_id": "ad_cluster_1",
-                    "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021747/1785707846051385_DC26_Shillong_Lajong_FC_vs_Mumbay_FC_live_portrait_thumb.jpg",
+                    "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021747/1785707969404385_DC26_North_East_United_FC_vs_Karbi_Anglong_Morning_Star_FC_live_portrait_thumb.jpg",
                     "is_subtitle_cc_available": false,
                     "ssai_partners": "Google DAI",
-                    "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021747/1785707863353385_DC26_Shillong_Lajong_FC_vs_Mumbay_FC_landscape_thumb.jpg",
+                    "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021747/1785708004800385_DC26_North_East_United_FC_vs_Karbi_Anglong_Morning_Star_FC_landscape_thumb.jpg",
                     "audio_language_list": [
                         {
                             "lang_code": "ENG",
@@ -265,7 +64,8 @@
                     ],
                     "Maximum_Audio_Quality": "STEREO",
                     "matchid": "",
-                    "venue_name": "Jawaharlal Nehru Stadium, Shillong",
+                    "isTimeLineMarker_new": "true",
+                    "venue_name": "Indira Gandhi Athletic Stadium",
                     "region_of_origin": "English",
                     "svod_advertising": "true",
                     "sub_category": "Sport",
@@ -273,29 +73,30 @@
                     "broadcast_channel": "Sony Sports Ten 2",
                     "Maximum_Video_Quality": "SDR",
                     "isdvr": "No",
-                    "away_team": "Mumbay FC",
+                    "away_team": "Karbi Anglong Morning Star FC",
                     "U": "IN",
                     "country_rating": {
                         "U": "IN",
                         "3+": "BD,NP,LK,PK,AF,BT,MV"
                     },
                     "3+": "BD,NP,LK,PK,AF,BT,MV",
-                    "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021885/1786087275515361_DURAND_CUP_2026_Match_Masthead_logo_Shillong_Lajong_FC_vs_Mumbay_FC_LIVE.png",
+                    "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021885/1786087274785361_DURAND_CUP_2026_Match_Masthead_logo_North_East_United_FC_vs_Karbi_Anglong_Morning_Star_FC_LIVE.png",
                     "projected_max_concurrency": 100000,
                     "value": "SVOD",
                     "is_audio_desc_available": false,
                     "target_impressions_per_week": 2000000,
                     "live_label_display": true,
-                    "dai_asset_key": "TciBRxSYRBCqEX-pWbqvdg",
+                    "dai_asset_key": "fNwNyRsSQLOQ45LFUyTx2g",
+                    "match_start_time": "1786193400",
                     "seo_tags": "IndianOil Durand Cup 2026,football,Durand Cup,Durand Cup 2026 tickets,Durand Cup 2026 schedule,Asian football,Durand Cup 2026 highlights,Durand Cup 2026,durand cup,Durand Cup 2026 date,Durand Cup 2026 news,Durand Cup 2026 live,Durand Cup 2026 teams,Durand Cup 2026 venue,Durand Cup 2026 update,Durand Cup 2026 fixtures,Durand Cup 2026 all matches,Durand Cup 2026 new updates,Durand Cup 2026 latest news,Durand Cup 2026 team updates,where to watch Durand Cup 2026,Durand Cup fixtures 2026,Durand Cup 2026 starting date,Durand Cup 2026 latest updates",
                     "Free_countries": "",
                     "overlay_visibility": "0",
                     "target_frequency_per_week": 3,
                     "SVOD_countries": "_in,_lk,_mv,_np,_bd,_bt,_af,_pk",
-                    "home_team": "Shillong Lajong FC",
+                    "home_team": "North East United FC",
                     "is_auto_play_trailer": true,
                     "integrated_splash_available": "Yes",
-                    "masthead_large_v3": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021885/1786087274605361_DURAND_CUP_2026_Match_masthead_large_v3_3200x1800_Shillong_Lajong_FC_vs_Mumbay_FC.jpg",
+                    "masthead_large_v3": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021885/1786087274545361_DURAND_CUP_2026_Match_masthead_large_v3_3200x1800_North_East_United_FC_vs_Karbi_Anglong_Morning_Star_FC.jpg",
                     "isDVR": false,
                     "isTimeLineMarker": false,
                     "isDownloadable": false,
@@ -312,7 +113,7 @@
                 "ratingEligibility": true,
                 "ratingDisplay": false,
                 "titleBrief": "",
-                "baseContentId": 1090538814,
+                "baseContentId": 1090538815,
                 "isBaseAsset": true
             },
             "playback_info": {
@@ -322,7 +123,7 @@
                 "resultObj": {
                     "showPlayerStats": false,
                     "is_preview_enabled": false,
-                    "videoURL": "https://sonydaimenew.akamaized.net/hls/live/20000293/Football0808/ENG/master.m3u8?hdnea=exp=1786204232~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=8c2affb19d78d6f919901fd3976f895a6ec47e635387a66973d4271f7ddb1402",
+                    "videoURL": "https://sonydaimenew.akamaized.net/hls/live/20000299/Football0808/ENG/master.m3u8?hdnea=exp=1786215030~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=19f34240485016411e9efb049db30b67adaa455a49076417791eaa59f02c02bc",
                     "multiLanguageVideoURL": [],
                     "audioLanguages": [
                         {
@@ -338,7 +139,7 @@
                     "posterURL": "",
                     "sprite_image_url": "",
                     "tv_sprite_image_url": "",
-                    "dai_asset_key": "ZJng4rSzSzKMaHFvzlAmZA",
+                    "dai_asset_key": "PNQ2pTbfQTm6PFZsIMhncQ",
                     "contextual_cue_point": {},
                     "cuepoints": [],
                     "isLive": true,
@@ -419,204 +220,7 @@
                     "multiAudioTrack": true,
                     "packId": "liv_premium_GP_1m"
                 },
-                "systemTime": 1786182632471
-            }
-        },
-        {
-            "match_info": {
-                "contentId": 1090538808,
-                "externalId": "1090538808",
-                "objectType": "VOD",
-                "isLive": true,
-                "objectSubtype": "LIVE_SPORT",
-                "contentType": "VOD",
-                "contentSubtype": "LIVE_SPORT",
-                "title": "The Hundred 2026 (Women's)",
-                "longDescription": "MI London face Trent Rockets in a blockbuster The Hundred Women 2026 showdown. Watch all the action unfold LIVE, only on Sony LIV.",
-                "shortDescription": "MI London face Trent Rockets in a blockbuster The Hundred Women 2026 showdown. Watch all the action unfold LIVE, only on Sony LIV.",
-                "isCopyProtected": false,
-                "contractStartDate": 1786181400000,
-                "contractEndDate": 1786210200000,
-                "episodeTitle": "MI London vs Trent Rockets - 8 Aug 2026",
-                "genres": [
-                    "Cricket"
-                ],
-                "originalAirDate": 1786183200000,
-                "pcExtendedRatings": [],
-                "isOnAir": true,
-                "isEncrypted": false,
-                "pcVodLabel": "3+",
-                "duration": 0,
-                "language": "ENG",
-                "isGeoBlocked": false,
-                "advertisingInfoList": [],
-                "emfAttributes": {
-                    "venue_name": "Kennington Oval, London",
-                    "region_of_origin": "English",
-                    "svod_advertising": "true",
-                    "audio_languages": "ENG",
-                    "sub_category": "Sport",
-                    "snp_tags": "Suitable for all",
-                    "is_multi_track_per_language_available": false,
-                    "packageid": "12m_mobile_saarc,Liv_Pre_Yupp,12m_saarc,1m_saarc,liv_premium_GP_1m,liv_premium_GP_1m_mobile,LIV_Pre_Mob_1M,liv_binge_1m",
-                    "broadcast_channel": "Sony Sports Ten 5",
-                    "Maximum_Video_Quality": "SDR",
-                    "Maximum_Resolution": "FULL_HD",
-                    "advertising": "AD SUPPORTED",
-                    "isdvr": "No",
-                    "emaAttributes": {},
-                    "kids_safe": true,
-                    "away_team": "Trent Rockets",
-                    "tv_background_image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021449/178543350623355_the_hundred_womens_MI_London_vs_Trent_Rockets_tv_Bg.jpg",
-                    "content_marquee_status": false,
-                    "country_rating": {
-                        "3+": "BD,NP,MV,BT,LK,AF,PK,MM"
-                    },
-                    "3+": "BD,NP,MV,BT,LK,AF,PK,MM",
-                    "marquee_target_state": [],
-                    "projected_max_concurrency": 100000,
-                    "value": "SVOD",
-                    "is_audio_desc_available": false,
-                    "target_impressions_per_week": 2000000,
-                    "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021449/178543357553055_the_hundred_womens_MI_London_vs_Trent_Rockets_landscape_thumb.jpg",
-                    "variant_asset_languages": [],
-                    "broadcast_channel_hin": "सोनी स्पोर्ट्स तेन ५",
-                    "live_label_display": true,
-                    "ad_cluster_id": "ad_cluster_1",
-                    "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021449/178543240466255_the_hundred_womens_MI_London_vs_Trent_Rockets_live_portrait_thumb.jpg",
-                    "seo_tags": "watch women’s cricket live,SonyLIV The Hundred stream,match highlights,women’s cricket schedule,Smriti Mandhana live,Nat Sciver-Brunt Hundred,Harmanpreet Kaur match,Sophie Ecclestone bowling,Tammy Beaumont batting,Oval Invincibles women,Manchester Originals women,Birmingham Phoenix women,Trent Rockets women,London Spirit women,Welsh Fire women,cricket on mobile,Smart TV cricket stream,HD women’s cricket,free cricket stream,SonyLIV app cricket,women’s match today,The Hundred teams,watch cricket online,women’s cricket stars,tournament 2025,SonyLIV live coverage,cricket streaming app,match timings,SonyLIV cricket content,The Hundred Women's live,women's cricket live streaming,watch The Hundred online,SonyLIV cricket,The Hundred Women 2026,the hundred league 2026,the hundred women live score,the hundred women's live,the hundred women 2026 schedule,the hundred league 2026 schedule,the hundred women 2026,the hundred women score,the hundred women scorecard,the hundred women's schedule,live cricket score,live score,cricket live,cricket scoreboard,cricket scores,today match,cricket match,live cricket match,women cricket,points table,women's cricket live,women cricket live,women cricket live score,upcoming cricket matches,today women's cricket match,women cricket score,match schedules,women cricket teams,cricket highlights,women cricket match today,women cricket today,english women's cricket,match updates,cricket fixtures,women cricket schedule,women cricket points table,live women cricket match,live match updates,women cricket players,match fixtures,100 ball cricket,women cricket scorecard,women cricket league,women's cricket highlights,women cricket highlights,cricket knockout,women cricket results,women cricket tournament,live women's cricket streaming,women cricket fixtures,women cricket standings,women cricket latest news,Smriti Mandhana,Jemimah Rodrigues,Harmanpreet Kaur,Ellyse Perry,Richa Ghosh,Lauren Bell,Laura Wolvaardt,Amelia Kerr,Sophie Devine,Phoebe Litchfield,Marizanne Kapp,Beth Mooney,Georgia Voll,Grace Harris,Meg Lanning,Charlie Dean,Sophie Ecclestone,Annabel Sutherland,Hayley Matthews,Amy Jones,Georgia Wareham,Danni Wyatt Hodge,Alice Capsey,Shabnim Ismail,Deandra Dottin,Kathryn Bryce,Sarah Glenn,Mahika Gaur,Tammy Beaumont,Danielle Gibson",
-                    "Free_countries": "",
-                    "overlay_visibility": "0",
-                    "target_frequency_per_week": 3,
-                    "SVOD_countries": "_bd,_np,_mv,_bt,_lk,_af,_pk,_mm",
-                    "is_subtitle_cc_available": false,
-                    "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021449/178543357553055_the_hundred_womens_MI_London_vs_Trent_Rockets_landscape_thumb.jpg",
-                    "audio_language_list": [
-                        {
-                            "lang_code": "ENG",
-                            "lang_label": "English"
-                        }
-                    ],
-                    "Maximum_Audio_Quality": "STEREO",
-                    "home_team": "MI London",
-                    "sub_license": "No",
-                    "is_auto_play_trailer": true,
-                    "integrated_splash_available": "Yes",
-                    "isDVR": false,
-                    "isTimeLineMarker": false,
-                    "isDownloadable": false,
-                    "is_preview_enabled": false,
-                    "sprite_image_url": "",
-                    "tv_sprite_image_url": "",
-                    "tl_marker": "",
-                    "icon_on_asset": {
-                        "play_focus_icon": "https://origin-staticv2.sonyliv.com/UI_icons/spotlight/focus_play_icon.png",
-                        "play_normal_icon": "https://origin-staticv2.sonyliv.com/UI_icons/spotlight/non_focused_play_icon.png"
-                    }
-                },
-                "isADVAllowed": false,
-                "ratingEligibility": true,
-                "ratingDisplay": false,
-                "titleBrief": "",
-                "baseContentId": 1090538808,
-                "isBaseAsset": true
-            },
-            "playback_info": {
-                "resultCode": "OK",
-                "message": "",
-                "errorDescription": "200-10000",
-                "resultObj": {
-                    "showPlayerStats": false,
-                    "is_preview_enabled": false,
-                    "videoURL": "https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-WTRBP/master.m3u8?hdnea=exp=1786204239~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=9babefab0320475510893f052adaa7048429072a6621d0d98cd1ee9a0dd63052",
-                    "multiLanguageVideoURL": [],
-                    "audioLanguages": [
-                        {
-                            "audioLanguageName": "ENG",
-                            "audioLanguageLabel": "English"
-                        }
-                    ],
-                    "trailer_url": "",
-                    "subtitle": [],
-                    "isEncrypted": false,
-                    "isDVR": false,
-                    "isDownloadable": false,
-                    "posterURL": "",
-                    "sprite_image_url": "",
-                    "tv_sprite_image_url": "",
-                    "dai_asset_key": "",
-                    "contextual_cue_point": {},
-                    "cuepoints": [],
-                    "isLive": true,
-                    "country_rating": {
-                        "3+": "BD,NP,MV,BT,LK,AF,PK,MM"
-                    },
-                    "dai_asset_key_hlsfp": "",
-                    "dai_asset_key_wm": "",
-                    "Maximum_Video_Quality": "SDR",
-                    "Maximum_Audio_Quality": "STEREO",
-                    "Maximum_Resolution": "FULL_HD",
-                    "isWatermarked": "false",
-                    "watermark_partner": "",
-                    "upfrontAudio": true,
-                    "pcVodLabel": "3+",
-                    "promotionUrl": "",
-                    "hasPromotion": false,
-                    "contentProvider": "ENGLAND AND WALES CRICKET",
-                    "sony_match_id": "",
-                    "tl_marker": "",
-                    "checksum": "",
-                    "kid_mss": "",
-                    "parentId": "1700001268",
-                    "selectedLanguage": {
-                        "lang_label": "English",
-                        "lang_code": "ENG",
-                        "lang_type": "main",
-                        "lang_identifier": ""
-                    },
-                    "originalLanguage": {
-                        "lang_label": "English",
-                        "lang_code": "eng",
-                        "lang_type": "main",
-                        "lang_identifier": ""
-                    },
-                    "stateLanguage": {},
-                    "isFirstVideoPlayedInDevice": false,
-                    "adstack": "DAI-IMA",
-                    "targetedDelivery": {
-                        "td_server_hints": {
-                            "pip_bw_initial": 800000,
-                            "pip_bw_max": 7000000,
-                            "pip_vod_prefetch": 30,
-                            "pip_vod_initial_buffer_mb": 11,
-                            "pip_vod_initial_buffer_sec": 12,
-                            "pip_vod_max_buffer_mb": 79,
-                            "pip_vod_max_buffer_sec": 90,
-                            "pip_live_initial_buffer": 8,
-                            "pip_live_target_latency": 10,
-                            "analytics_expt_id": "middleware"
-                        }
-                    },
-                    "parents": [
-                        {
-                            "parentId": 1590016400,
-                            "parentType": "BUNDLE",
-                            "parentSubType": "MATCH_TYPE"
-                        },
-                        {
-                            "parentId": 1700001268,
-                            "parentType": "GROUP_OF_BUNDLES",
-                            "parentSubType": "TOURNAMENT"
-                        }
-                    ],
-                    "additionalDataJson": {},
-                    "LA_Details": {},
-                    "is_audio_desc_available": false,
-                    "is_multi_track_per_language_available": false,
-                    "multiAudioTrack": true,
-                    "packId": "liv_premium_GP_1m"
-                },
-                "systemTime": 1786182639605
+                "systemTime": 1786193430559
             }
         }
     ]
