@@ -3,29 +3,29 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "10:20:27 PM 08-08-2026"
+        "last_update": "10:50:27 PM 08-08-2026"
     },
     "live_matches": [
         {
             "match_info": {
-                "contentId": 1090538818,
-                "externalId": "1090538818",
+                "contentId": 1090538821,
+                "externalId": "1090538821",
                 "objectType": "VOD",
                 "isLive": true,
                 "objectSubtype": "LIVE_SPORT",
                 "contentType": "VOD",
                 "contentSubtype": "LIVE_SPORT",
                 "title": "The Hundred 2026",
-                "longDescription": "MI London take on Trent Rockets in an exciting The Hundred Men 2026 encounter. Watch all the action LIVE, only on Sony LIV.",
-                "shortDescription": "MI London take on Trent Rockets in an exciting The Hundred Men 2026 encounter. Watch all the action LIVE, only on Sony LIV.",
+                "longDescription": "Southern Brave take on Manchester Super Giants in an exciting The Hundred Men 2026 encounter. Watch all the action LIVE, only on Sony LIV.",
+                "shortDescription": "Southern Brave take on Manchester Super Giants in an exciting The Hundred Men 2026 encounter. Watch all the action LIVE, only on Sony LIV.",
                 "isCopyProtected": false,
-                "contractStartDate": 1786194000000,
-                "contractEndDate": 1786222800000,
-                "episodeTitle": "MI London vs Trent Rockets - 8 Aug 2026",
+                "contractStartDate": 1786206600000,
+                "contractEndDate": 1786235400000,
+                "episodeTitle": "Southern Brave vs Manchester Super Giants - 8 Aug 2026",
                 "genres": [
                     "Cricket"
                 ],
-                "originalAirDate": 1786195800000,
+                "originalAirDate": 1786208400000,
                 "pcExtendedRatings": [],
                 "isOnAir": true,
                 "isEncrypted": false,
@@ -35,7 +35,7 @@
                 "isGeoBlocked": false,
                 "advertisingInfoList": [],
                 "emfAttributes": {
-                    "venue_name": "Kennington Oval, London",
+                    "venue_name": "The Rose Bowl, Southampton",
                     "region_of_origin": "English",
                     "svod_advertising": "true",
                     "audio_languages": "ENG",
@@ -49,8 +49,8 @@
                     "advertising": "AD SUPPORTED",
                     "isdvr": "No",
                     "emaAttributes": {},
-                    "away_team": "Trent Rockets",
-                    "tv_background_image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021449/178543351611755_the_hundred_mens_MI_London_vs_Trent_Rockets_tv_Bg.jpg",
+                    "away_team": "Manchester Super Giants",
+                    "tv_background_image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021449/178543406285255_the_hundred_mens_Southern_Brave_vs_Manchester_Super_Giants_tv_Bg.jpg",
                     "content_marquee_status": false,
                     "country_rating": {
                         "3+": "BD,NP,MV,BT,LK,AF,PK,MM"
@@ -61,19 +61,19 @@
                     "value": "SVOD",
                     "is_audio_desc_available": false,
                     "target_impressions_per_week": 2000000,
-                    "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021449/178543358220955_the_hundred_mens_MI_London_vs_Trent_Rockets_landscape_thumb.jpg",
+                    "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021449/178543411858255_the_hundred_mens_Southern_Brave_vs_Manchester_Super_Giants_landscape_thumb.jpg",
                     "variant_asset_languages": [],
                     "broadcast_channel_hin": "सोनी स्पोर्ट्स तेन ५",
                     "ad_cluster_id": "ad_cluster_1",
                     "live_label_display": true,
-                    "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021449/178543347349755_the_hundred_mens_MI_London_vs_Trent_Rockets_live_portrait_thumb.jpg",
+                    "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021449/178543365675155_the_hundred_mens_Southern_Brave_vs_Manchester_Super_Giants_live_portrait_thumb.jpg",
                     "seo_tags": "cricket scoreboard,cricket scores,live cricket score,live score,cricket live,today match,cricket match,live cricket match,points table,upcoming cricket matches,cricket highlights,match schedules,match highlights,match updates,cricket fixtures,100 ball cricket,live match updates,match fixtures,live cricket highlights,cricket knockout,cricket group stage,rachin ravindra,joe root,noor ahmad,harry brook,will jacks,david warner,marcus stoinis,sam curran,max holden,oval invincibles men,london spirit men,southern brave men,birmingham phoenix men,manchester originals men,northern superchargers men,trent rockets men,welsh fire men,the hundred league 2026,the hundred league 2026 schedule,the hundred 2026 start date,the hundred teams 2026,the hundred 2026 players list,the hundred mens competition 2026,stream the hundred mens 2026,stream the hundred mens 2026 live,stream the hundred mens 2026 live online,stream the hundred mens 2026 online,the hundred 2026 online live,the hundred 2026 timetable,the hundred league 2026 live,the hundred league 2026 online,the hundred league 2026 online live,the hundred mens 2026,the hundred mens 2026 live,the hundred mens 2026 online,the hundred mens 2026 schedule,the hundred mens 2026 squad,watch the hundred league 2026,watch the hundred mens 2026,the hundred live score,the hundred 2026 schedule,the hundred score,the hundred scorecard,the hundred today match,the hundred points table,the hundred cricket 2026,the hundred highlights,the hundred match today,the hundred squads 2026,live cricket,today cricket match,cricket upcoming matches,cricket scorecard,cricket schedule,cricket points table,today live cricket,live cricket streaming,cricket players,cricket results,cricket teams,cricket latest news,cricket tournament,cricket streaming,cricket live updates,cricket leaderboard,english cricket league,watch cricket online,cricket standings,match replay,cricket latest results,full cricket match,cricket replay,professional cricket league,100 ball cricket league,Sunrisers Leeds,Manchester Super Giants,MI London,London Spirit,Birmingham Phoenix,Southern Brave,Welsh Fire,MI London Squad,Sunrisers Leeds Squad,Manchester Super Giants Squad,London Spirit Squad,Jacob Bethell,Joe Root,Finn Allen,Tim David,Harry Brook,Jamie Overton,Jofra Archer,Marco Jansen,Mitchell Marsh,Ryan Rickelton,Aiden Markram,Phil Salt,Rachin Ravindra,Rashid Khan,David Miller,Heinrich Klaasen,Jamie Smith,Jos Buttler,Will Jacks,Ben Duckett,Mitchell Santner,Nicholas Pooran,Marcus Stoinis,Noor Ahmad,Trent Boult,Chris Woakes,Sam Curran",
                     "Free_countries": "",
                     "overlay_visibility": "0",
                     "target_frequency_per_week": 3,
                     "SVOD_countries": "_bd,_np,_mv,_bt,_af,_lk,_pk,_mm",
                     "is_subtitle_cc_available": false,
-                    "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021449/178543358220955_the_hundred_mens_MI_London_vs_Trent_Rockets_landscape_thumb.jpg",
+                    "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021449/178543411858255_the_hundred_mens_Southern_Brave_vs_Manchester_Super_Giants_landscape_thumb.jpg",
                     "audio_language_list": [
                         {
                             "lang_code": "ENG",
@@ -81,7 +81,7 @@
                         }
                     ],
                     "Maximum_Audio_Quality": "STEREO",
-                    "home_team": "MI London",
+                    "home_team": "Southern Brave",
                     "sub_license": "No",
                     "is_auto_play_trailer": true,
                     "integrated_splash_available": "Yes",
@@ -102,7 +102,7 @@
                 "ratingEligibility": true,
                 "ratingDisplay": false,
                 "titleBrief": "",
-                "baseContentId": 1090538818,
+                "baseContentId": 1090538821,
                 "isBaseAsset": true
             },
             "playback_info": {
@@ -112,7 +112,7 @@
                 "resultObj": {
                     "showPlayerStats": false,
                     "is_preview_enabled": false,
-                    "videoURL": "https://sonyeventsglobal.akamaized.net/hls/live/2022322/DAI18-HMEN/master.m3u8?hdnea=exp=1786216835~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=9a119b2f3ca93df4ea38fe869a490fe6e6da28786df355fef84488431e184cdd",
+                    "videoURL": "https://sonyeventsglobal.akamaized.net/hls/live/2022322/DAI18-MTRBP/master.m3u8?hdnea=exp=1786229431~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=d969450fccd3c2c412b4ec9fde706a742947bedc8a39434837bbe52374f35145",
                     "multiLanguageVideoURL": [],
                     "audioLanguages": [
                         {
@@ -200,7 +200,7 @@
                     "multiAudioTrack": true,
                     "packId": "liv_premium_GP_1m"
                 },
-                "systemTime": 1786195235261
+                "systemTime": 1786207831711
             }
         },
         {
