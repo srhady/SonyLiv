@@ -2,16 +2,13 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 10:20:25 PM 09-08-2026
+# last_update: 10:50:26 PM 09-08-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090538832" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021845/178600776325047_Vitality_Mixed_Disability_3rd_T20i_England_vs_India_landscape_thumb.jpg" group-title="Cricket", England vs India - 3rd T20I - 9 Aug 2026 | Vitality Mixed Disability IT20 series
 https://sonydaimenew.akamaized.net/hls/live/20000297/Cricket_0908/ENG/master.m3u8?hdnea=exp=1786303240~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=9da4843ef3e1d6f142521d38170ff84b9aa0cfc363c1ef516f35f83af86e067f
 
-#EXTINF:-1 tvg-id="sonyliv-1090538830" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021449/178543417191655_the_hundred_mens_Sunrisers_Leeds_vs_Welsh_Fire_landscape_thumb.jpg" group-title="Cricket", Sunrisers Leeds vs Welsh Fire - 9 Aug 2026 | The Hundred 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2022322/DAI18-HMEN/master.m3u8?hdnea=exp=1786303247~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=243f0bf663bdda0f67ebff0f6174935082ca4c1922012554318dc5c648c956d1
-
-#EXTINF:-1 tvg-id="sonyliv-1090538828" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021453/1785436847101520_the_hundred_womens_London_Spirit_vs_Birmingham_Phoenix_landscape_thumb.jpg" group-title="Cricket", London Spirit vs Birmingham Phoenix - 9 Aug 2026 | The Hundred 2026 (Women's)
-https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-HWOM/master.m3u8?hdnea=exp=1786303254~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=d25ad047d93dc99a383ac564a92246c0875e0a9da3238900edccc72dd9a0309d
-
 #EXTINF:-1 tvg-id="sonyliv-1090538835" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021454/1785437524482954_LIV_Golf_New_York_day4_landscape_thumb.jpg" group-title="Golf", New York - Day 4 - 9 Aug 2026 | LIV Golf
 https://sonydaimenew.akamaized.net/hls/live/20000300/Golf_New0908/ENG/master.m3u8?hdnea=exp=1786308635~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=d0e3178e3a08c35e66df5182c33ac7939262173094b7e8bacac2aa4f846fbe54
+
+#EXTINF:-1 tvg-id="sonyliv-1090538836" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021453/1785436837686520_the_hundred_mens_London_Spirit_vs_Birmingham_Phoenix_landscape_thumb.jpg" group-title="Cricket", London Spirit vs Birmingham Phoenix - 9 Aug 2026 | The Hundred 2026
+https://sonyeventsglobal.akamaized.net/hls/live/2022322/DAI18-MTRBP/master.m3u8?hdnea=exp=1786315830~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=879feee809f71df02ec3ccf4112eb11b850dbeb035d27ec498a102ca55e19342
