@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "12:50:31 AM 13-08-2026"
+        "last_update": "01:20:25 AM 13-08-2026"
     },
     "live_matches": [
         {
@@ -55,6 +55,7 @@
                         "TEL",
                         "KAN"
                     ],
+                    "broadcast_channel_hin": "सोनी स्पोर्ट्स तेन २",
                     "ad_cluster_id": "ad_cluster_1",
                     "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022040/1786438965109390_UEFA_Super_CUP_26_PSG_vs_Aston_Villa_live_Portrait_thumb.jpg",
                     "is_subtitle_cc_available": false,
