@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "07:51:00 PM 12-08-2026"
+        "last_update": "08:20:34 PM 12-08-2026"
     },
     "live_matches": [
         {
@@ -476,6 +476,7 @@
                     "target_impressions_per_week": 2000000,
                     "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021693/1785631446056131_The_Hundred2026_mens_Welsh_Fire_vs_London_Spirit_landscape_thumb.jpg",
                     "variant_asset_languages": [],
+                    "broadcast_channel_hin": "सोनी स्पोर्ट्स तेन ५",
                     "ad_cluster_id": "ad_cluster_1",
                     "live_label_display": true,
                     "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021693/1785631603532131_The_Hundred2026_mens_Welsh_Fire_vs_London_Spirit_portrait_thumb.jpg",
