@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "06:50:30 PM 12-08-2026"
+        "last_update": "07:20:27 PM 12-08-2026"
     },
     "live_matches": [
         {
@@ -417,6 +417,221 @@
                     "packId": "liv_premium_GP_1m"
                 },
                 "systemTime": 1786530032606
+            }
+        },
+        {
+            "match_info": {
+                "contentId": 1090539027,
+                "externalId": "1090539027",
+                "objectType": "VOD",
+                "isLive": true,
+                "objectSubtype": "LIVE_SPORT",
+                "contentType": "VOD",
+                "contentSubtype": "LIVE_SPORT",
+                "title": "Vitality Mixed Disability IT20 series",
+                "longDescription": "India face England in the 4th Match of the Mixed Disability IT20 Series. Don't miss a moment LIVE on Sony LIV!",
+                "shortDescription": "India face England in the 4th Match of the Mixed Disability IT20 Series. Don't miss a moment LIVE on Sony LIV!",
+                "isCopyProtected": false,
+                "contractStartDate": 1786539600000,
+                "contractEndDate": 1786571100000,
+                "episodeTitle": "England vs India - 4th T20I - 12 Aug 2026",
+                "genres": [
+                    "Cricket"
+                ],
+                "originalAirDate": 1786541400000,
+                "pcExtendedRatings": [],
+                "isOnAir": true,
+                "isEncrypted": false,
+                "pcVodLabel": "3+",
+                "duration": 0,
+                "language": "ENG",
+                "isGeoBlocked": false,
+                "advertisingInfoList": [],
+                "emfAttributes": {
+                    "audio_languages": "ENG",
+                    "snp_tags": "Suitable for all",
+                    "packageid": "LIV_Pre_1M,12m_mobile_saarc,LIV_Pre_6M,LIV_Pre_12M,Liv_Pre_Yupp,liv_premium_amznbdl,12m_saarc,6m_saarc,1m_saarc,liv_premium_GP_1m,liv_premium_GP_1m_mobile,LIV_Pre_Mob_1M,liv_binge_1m",
+                    "masthead_logo_rectangualar": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022071/1786441276000159_Vitality_Mixed_Disability_IT20_series_2026_GOB_masthead_logo_rectangualar_950x570_4thIT20I_Live.png",
+                    "Maximum_Resolution": "FULL_HD",
+                    "masthead_logo_v1": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022071/1786441276000159_Vitality_Mixed_Disability_IT20_series_2026_GOB_masthead_logo_V1_692x390_4thIT20I_Live.png",
+                    "advertising": "AD SUPPORTED",
+                    "emaAttributes": {},
+                    "tv_background_image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021796/178586081368353_Vitality_Mixed_Disability_1st_T20i_England_vs_India_tv_bg.jpg",
+                    "content_marquee_status": false,
+                    "marquee_target_state": [],
+                    "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021791/1785833228000177_Vitality_Mixed_Disability_IT20_series_2026_GOB_masthead_mobile_v2_984x1182.jpg",
+                    "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021920/1786182944609520_Vitality_Mixed_Disability_4th_T20i_England_vs_India_landscape_thumb.jpg",
+                    "variant_asset_languages": [],
+                    "broadcast_channel_hin": "सोनी स्पोर्ट्स तेन ५",
+                    "ad_cluster_id": "ad_cluster_1",
+                    "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021920/1786181722624520_Vitality_Mixed_Disability_4th_T20i_England_vs_India_live_portrait_thumb.jpg",
+                    "is_subtitle_cc_available": false,
+                    "ssai_partners": "Google DAI",
+                    "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021920/1786182944609520_Vitality_Mixed_Disability_4th_T20i_England_vs_India_landscape_thumb.jpg",
+                    "audio_language_list": [
+                        {
+                            "lang_code": "ENG",
+                            "lang_label": "English"
+                        }
+                    ],
+                    "Maximum_Audio_Quality": "STEREO",
+                    "sub_license": "Yes",
+                    "region_of_origin": "English",
+                    "svod_advertising": "true",
+                    "sub_category": "Sport",
+                    "is_multi_track_per_language_available": false,
+                    "broadcast_channel": "Sony Sports Ten 5",
+                    "Maximum_Video_Quality": "SDR",
+                    "isdvr": "No",
+                    "away_team": "India",
+                    "U": "IN",
+                    "theme_applied": false,
+                    "country_rating": {
+                        "U": "IN",
+                        "3+": "BD,NP,LK,PK,AF,BT,MV,MM"
+                    },
+                    "3+": "BD,NP,LK,PK,AF,BT,MV,MM",
+                    "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022071/1786441276000159_Vitality_Mixed_Disability_IT20_series_2026_GOB_Masthead_logo_4thIT20I_Live.png",
+                    "projected_max_concurrency": 100000,
+                    "value": "Free",
+                    "is_audio_desc_available": false,
+                    "target_impressions_per_week": 2000000,
+                    "live_label_display": true,
+                    "dai_asset_key": "MlDhAkUMS7-Fr-RLAc9F3Q",
+                    "seo_tags": "Vitality Mixed Disability IT20 live streaming,India vs England Mixed Disability T20 live score,ENG vs IND Mixed Disability IT20 2026,Mixed Disability IT20 Series Sony LIV,India vs England 1st T20I live,Vitality Mixed Disability IT20 series schedule,IND vs ENG Mixed Disability cricket match score,England vs India Mixed Disability T20 highlights,Mixed Disability IT20 match today,Mixed Disability Cricket live stream,India Mixed Disability cricket team,England Mixed Disability cricket team squad,ECB Mixed Disability IT20,Disability Cricket T20 live coverage,Where to watch India vs England Mixed Disability T20 match,How to watch Vitality Mixed Disability IT20 series live online,Vitality Mixed Disability IT20 series 2026 teams and squad list,ENG vs IND Mixed Disability T20 live score online Sony LIV\r\n\r\n```",
+                    "Free_countries": "_af,_bd,_bt,_mv,_np,_pk,_lk,_in,_mm",
+                    "overlay_visibility": "0",
+                    "target_frequency_per_week": 3,
+                    "SVOD_countries": "_ax",
+                    "home_team": "England",
+                    "is_auto_play_trailer": true,
+                    "integrated_splash_available": "Yes",
+                    "masthead_large_v3": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021791/1785833228000177_Vitality_Mixed_Disability_IT20_series_2026_GOB_masthead_large_v3_3200x1800.jpg",
+                    "isDVR": false,
+                    "isTimeLineMarker": false,
+                    "isDownloadable": false,
+                    "is_preview_enabled": false,
+                    "sprite_image_url": "",
+                    "tv_sprite_image_url": "",
+                    "kids_safe": false,
+                    "tl_marker": "",
+                    "icon_on_asset": {
+                        "play_focus_icon": "https://origin-staticv2.sonyliv.com/UI_icons/spotlight/focus_play_icon.png",
+                        "play_normal_icon": "https://origin-staticv2.sonyliv.com/UI_icons/spotlight/non_focused_play_icon.png"
+                    }
+                },
+                "isADVAllowed": false,
+                "ratingEligibility": true,
+                "ratingDisplay": false,
+                "titleBrief": "",
+                "baseContentId": 1090539027,
+                "isBaseAsset": true
+            },
+            "playback_info": {
+                "resultCode": "OK",
+                "message": "",
+                "errorDescription": "200-10000",
+                "resultObj": {
+                    "showPlayerStats": false,
+                    "is_preview_enabled": false,
+                    "videoURL": "https://sonydaimenew.akamaized.net/hls/live/20000299/Cricket_1208/ENG/master.m3u8?hdnea=exp=1786562431~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=45e0e3ab563a086fb3794ad7e56a5993568635970d97814a43312e37a17d98fb",
+                    "multiLanguageVideoURL": [],
+                    "audioLanguages": [
+                        {
+                            "audioLanguageName": "ENG",
+                            "audioLanguageLabel": "English"
+                        }
+                    ],
+                    "trailer_url": "",
+                    "subtitle": [],
+                    "isEncrypted": false,
+                    "isDVR": false,
+                    "isDownloadable": false,
+                    "posterURL": "",
+                    "sprite_image_url": "",
+                    "tv_sprite_image_url": "",
+                    "dai_asset_key": "OrrE0QodR-2jX2eFpzqRPg",
+                    "contextual_cue_point": {},
+                    "cuepoints": [],
+                    "isLive": true,
+                    "country_rating": {
+                        "U": "IN",
+                        "3+": "BD,NP,LK,PK,AF,BT,MV,MM"
+                    },
+                    "dai_asset_key_hlsfp": "",
+                    "dai_asset_key_wm": "",
+                    "Maximum_Video_Quality": "SDR",
+                    "Maximum_Audio_Quality": "STEREO",
+                    "Maximum_Resolution": "FULL_HD",
+                    "isWatermarked": "false",
+                    "watermark_partner": "",
+                    "upfrontAudio": true,
+                    "pcVodLabel": "3+",
+                    "promotionUrl": "",
+                    "hasPromotion": false,
+                    "contentProvider": "ENGLAND AND WALES CRICKET",
+                    "sony_match_id": "",
+                    "tl_marker": "",
+                    "checksum": "",
+                    "kid_mss": "",
+                    "parentId": "1790006627",
+                    "selectedLanguage": {
+                        "lang_label": "English",
+                        "lang_code": "ENG",
+                        "lang_type": "main",
+                        "lang_identifier": ""
+                    },
+                    "originalLanguage": {
+                        "lang_label": "English",
+                        "lang_code": "eng",
+                        "lang_type": "main",
+                        "lang_identifier": ""
+                    },
+                    "stateLanguage": {},
+                    "isFirstVideoPlayedInDevice": false,
+                    "targetedDelivery": {
+                        "td_server_hints": {
+                            "pip_bw_initial": 800000,
+                            "pip_bw_max": 7000000,
+                            "pip_live_initial_buffer": 8,
+                            "pip_live_target_latency": 10,
+                            "analytics_expt_id": "9UexVSmNVs"
+                        }
+                    },
+                    "parents": [
+                        {
+                            "parentId": 1590016431,
+                            "parentType": "BUNDLE",
+                            "parentSubType": "MATCH_TYPE"
+                        },
+                        {
+                            "parentId": 1790006627,
+                            "parentType": "GROUP_OF_BUNDLES",
+                            "parentSubType": "TOURNAMENT"
+                        }
+                    ],
+                    "additionalDataJson": {
+                        "adServer": "GAM",
+                        "ad_stack": "DAI-IMA",
+                        "audioCodec": "AAC",
+                        "audio_quality": "STEREO",
+                        "enc_format": "HLS",
+                        "fps": 25,
+                        "isDaiKey": true,
+                        "partners": [
+                            "ALL"
+                        ],
+                        "resolution": "SD",
+                        "videoCodec": "H264",
+                        "video_quality": "SDR"
+                    },
+                    "LA_Details": {},
+                    "is_audio_desc_available": false,
+                    "is_multi_track_per_language_available": false,
+                    "multiAudioTrack": true,
+                    "packId": "liv_premium_GP_1m"
+                },
+                "systemTime": 1786540831088
             }
         }
     ]
