@@ -2,10 +2,10 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 10:50:38 PM 12-08-2026
+# last_update: 11:20:26 PM 12-08-2026
 
-#EXTINF:-1 tvg-id="sonyliv-1090539025" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021693/1785631446056131_The_Hundred2026_mens_Welsh_Fire_vs_London_Spirit_landscape_thumb.jpg" group-title="Cricket", Welsh Fire vs London Spirit  - 12 Aug 2026 | The Hundred 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2022322/DAI18-HMEN/master.m3u8?hdnea=exp=1786564271~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=d7cec12ba3e6f92b467c96ce5cd995ce8b7300ee008cf4f7e98aca40b1c0b3e1
+#EXTINF:-1 tvg-id="sonyliv-1090539026" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021693/1785631791014131_The_Hundred2026_mens_Birmingham_Phoenix_vs_MI_London_landscape_thumb.jpg" group-title="Cricket", Birmingham Phoenix vs MI London - 12 Aug 2026 | The Hundred 2026
+https://sonyeventsglobal.akamaized.net/hls/live/2022322/DAI18-MBPMI/master.m3u8?hdnea=exp=1786576830~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=4bff79225e0826114970e0d137b1ab76a488cea976f287317e1ed52fe21e878a
 
 #EXTINF:-1 tvg-id="sonyliv-1090539027" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021920/1786182944609520_Vitality_Mixed_Disability_4th_T20i_England_vs_India_landscape_thumb.jpg" group-title="Cricket", England vs India - 4th T20I - 12 Aug 2026 | Vitality Mixed Disability IT20 series
-https://sonydaimenew.akamaized.net/hls/live/20000299/Cricket_1208/ENG/master.m3u8?hdnea=exp=1786562431~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=45e0e3ab563a086fb3794ad7e56a5993568635970d97814a43312e37a17d98fb
+https://sonydaimenew.akamaized.net/hls/live/20000299/Cricket_1208/ENG/master.m3u8?hdnea=exp=1786576837~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=708ccbe34bad30e49cae7f707b954dfa2270779026afaa32ab0ccf12eb0ad516
