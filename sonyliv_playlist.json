@@ -3,9 +3,206 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "06:20:23 PM 14-08-2026"
+        "last_update": "06:50:25 PM 14-08-2026"
     },
     "live_matches": [
+        {
+            "match_info": {
+                "contentId": 1090539181,
+                "externalId": "1090539181",
+                "objectType": "VOD",
+                "isLive": true,
+                "objectSubtype": "LIVE_SPORT",
+                "contentType": "VOD",
+                "contentSubtype": "LIVE_SPORT",
+                "title": "The Hundred 2026 (Women's)",
+                "longDescription": "Sunrisers Leeds take on Southern Brave in a high stakes Eliminator clash in The Hundred Women’s Competition 2026. Catch every moment LIVE, only on Sony LIV.",
+                "shortDescription": "Sunrisers Leeds take on Southern Brave in a high stakes Eliminator clash in The Hundred Women’s Competition 2026. Catch every moment LIVE, only on Sony LIV.",
+                "isCopyProtected": false,
+                "contractStartDate": 1786711500000,
+                "contractEndDate": 1786740300000,
+                "episodeTitle": "Sunrisers Leeds vs Southern Brave - Eliminator - 14 Aug 2026",
+                "genres": [
+                    "Cricket"
+                ],
+                "originalAirDate": 1786713300000,
+                "pcExtendedRatings": [],
+                "isOnAir": true,
+                "isEncrypted": false,
+                "pcVodLabel": "3+",
+                "duration": 0,
+                "language": "ENG",
+                "isGeoBlocked": false,
+                "advertisingInfoList": [],
+                "emfAttributes": {
+                    "venue_name": "Kennington Oval, London",
+                    "region_of_origin": "English",
+                    "svod_advertising": "true",
+                    "audio_languages": "ENG",
+                    "sub_category": "Sport",
+                    "snp_tags": "Suitable for all",
+                    "is_multi_track_per_language_available": false,
+                    "packageid": "12m_mobile_saarc,Liv_Pre_Yupp,12m_saarc,1m_saarc,liv_premium_GP_1m,liv_premium_GP_1m_mobile,LIV_Pre_Mob_1M,liv_binge_1m",
+                    "broadcast_channel": "Sony Sports Ten 5",
+                    "Maximum_Video_Quality": "SDR",
+                    "Maximum_Resolution": "FULL_HD",
+                    "advertising": "AD SUPPORTED",
+                    "isdvr": "No",
+                    "emaAttributes": {},
+                    "kids_safe": true,
+                    "away_team": "Southern Brave",
+                    "tv_background_image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022182/1786695485311126_The_Hundred2026_womens_Eliminator_Sunrisers_Leeds_vs_Southern_Brave_live_tv_bg.jpg",
+                    "content_marquee_status": false,
+                    "country_rating": {
+                        "3+": "BD,NP,MV,BT,LK,AF,PK,MM"
+                    },
+                    "3+": "BD,NP,MV,BT,LK,AF,PK,MM",
+                    "marquee_target_state": [],
+                    "projected_max_concurrency": 100000,
+                    "value": "SVOD",
+                    "is_audio_desc_available": false,
+                    "target_impressions_per_week": 2000000,
+                    "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022182/1786695599742126_The_Hundred2026_womens_Eliminator_Sunrisers_Leeds_vs_Southern_Brave_live_landscape_thumb.jpg",
+                    "variant_asset_languages": [],
+                    "broadcast_channel_hin": "सोनी स्पोर्ट्स तेन ५",
+                    "live_label_display": true,
+                    "ad_cluster_id": "ad_cluster_1",
+                    "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022182/1786694126112126_The_Hundred2026_womens_Eliminator_Sunrisers_Leeds_vs_Southern_Brave_live_portrait_thumb.jpg",
+                    "seo_tags": "watch women’s cricket live,SonyLIV The Hundred stream,match highlights,women’s cricket schedule,Smriti Mandhana live,Nat Sciver-Brunt Hundred,Harmanpreet Kaur match,Sophie Ecclestone bowling,Tammy Beaumont batting,Oval Invincibles women,Manchester Originals women,Birmingham Phoenix women,Trent Rockets women,London Spirit women,Welsh Fire women,cricket on mobile,Smart TV cricket stream,HD women’s cricket,free cricket stream,SonyLIV app cricket,women’s match today,The Hundred teams,watch cricket online,women’s cricket stars,tournament 2025,SonyLIV live coverage,cricket streaming app,match timings,SonyLIV cricket content,The Hundred Women's live,women's cricket live streaming,watch The Hundred online,SonyLIV cricket,The Hundred Women 2026,the hundred league 2026,the hundred women live score,the hundred women's live,the hundred women 2026 schedule,the hundred league 2026 schedule,the hundred women 2026,the hundred women score,the hundred women scorecard,the hundred women's schedule,live cricket score,live score,cricket live,cricket scoreboard,cricket scores,today match,cricket match,live cricket match,women cricket,points table,women's cricket live,women cricket live,women cricket live score,upcoming cricket matches,today women's cricket match,women cricket score,match schedules,women cricket teams,cricket highlights,women cricket match today,women cricket today,english women's cricket,match updates,cricket fixtures,women cricket schedule,women cricket points table,live women cricket match,live match updates,women cricket players,match fixtures,100 ball cricket,women cricket scorecard,women cricket league,women's cricket highlights,women cricket highlights,cricket knockout,women cricket results,women cricket tournament,live women's cricket streaming,women cricket fixtures,women cricket standings,women cricket latest news,Smriti Mandhana,Jemimah Rodrigues,Harmanpreet Kaur,Ellyse Perry,Richa Ghosh,Lauren Bell,Laura Wolvaardt,Amelia Kerr,Sophie Devine,Phoebe Litchfield,Marizanne Kapp,Beth Mooney,Georgia Voll,Grace Harris,Meg Lanning,Charlie Dean,Sophie Ecclestone,Annabel Sutherland,Hayley Matthews,Amy Jones,Georgia Wareham,Danni Wyatt Hodge,Alice Capsey,Shabnim Ismail,Deandra Dottin,Kathryn Bryce,Sarah Glenn,Mahika Gaur,Tammy Beaumont,Danielle Gibson",
+                    "Free_countries": "",
+                    "overlay_visibility": "0",
+                    "target_frequency_per_week": 3,
+                    "SVOD_countries": "_bd,_np,_mv,_bt,_lk,_af,_pk,_mm",
+                    "is_subtitle_cc_available": false,
+                    "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022182/1786695599742126_The_Hundred2026_womens_Eliminator_Sunrisers_Leeds_vs_Southern_Brave_live_landscape_thumb.jpg",
+                    "audio_language_list": [
+                        {
+                            "lang_code": "ENG",
+                            "lang_label": "English"
+                        }
+                    ],
+                    "Maximum_Audio_Quality": "STEREO",
+                    "home_team": "Sunrisers Leeds",
+                    "sub_license": "No",
+                    "is_auto_play_trailer": true,
+                    "integrated_splash_available": "Yes",
+                    "isDVR": false,
+                    "isTimeLineMarker": false,
+                    "isDownloadable": false,
+                    "is_preview_enabled": false,
+                    "sprite_image_url": "",
+                    "tv_sprite_image_url": "",
+                    "tl_marker": "",
+                    "icon_on_asset": {
+                        "play_focus_icon": "https://origin-staticv2.sonyliv.com/UI_icons/spotlight/focus_play_icon.png",
+                        "play_normal_icon": "https://origin-staticv2.sonyliv.com/UI_icons/spotlight/non_focused_play_icon.png"
+                    }
+                },
+                "isADVAllowed": false,
+                "ratingEligibility": true,
+                "ratingDisplay": false,
+                "titleBrief": "",
+                "baseContentId": 1090539181,
+                "isBaseAsset": true
+            },
+            "playback_info": {
+                "resultCode": "OK",
+                "message": "",
+                "errorDescription": "200-10000",
+                "resultObj": {
+                    "showPlayerStats": false,
+                    "is_preview_enabled": false,
+                    "videoURL": "https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-HWOM/master.m3u8?hdnea=exp=1786733432~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=7b0a04ca46aaf513c723017accd7a781e58fbcf8bd9de5f964ce37b1d79d06b7",
+                    "multiLanguageVideoURL": [],
+                    "audioLanguages": [
+                        {
+                            "audioLanguageName": "ENG",
+                            "audioLanguageLabel": "English"
+                        }
+                    ],
+                    "trailer_url": "",
+                    "subtitle": [],
+                    "isEncrypted": false,
+                    "isDVR": false,
+                    "isDownloadable": false,
+                    "posterURL": "",
+                    "sprite_image_url": "",
+                    "tv_sprite_image_url": "",
+                    "dai_asset_key": "",
+                    "contextual_cue_point": {},
+                    "cuepoints": [],
+                    "isLive": true,
+                    "country_rating": {
+                        "3+": "BD,NP,MV,BT,LK,AF,PK,MM"
+                    },
+                    "dai_asset_key_hlsfp": "",
+                    "dai_asset_key_wm": "",
+                    "Maximum_Video_Quality": "SDR",
+                    "Maximum_Audio_Quality": "STEREO",
+                    "Maximum_Resolution": "FULL_HD",
+                    "isWatermarked": "false",
+                    "watermark_partner": "",
+                    "upfrontAudio": true,
+                    "pcVodLabel": "3+",
+                    "promotionUrl": "",
+                    "hasPromotion": false,
+                    "contentProvider": "ENGLAND AND WALES CRICKET",
+                    "sony_match_id": "",
+                    "tl_marker": "",
+                    "checksum": "",
+                    "kid_mss": "",
+                    "parentId": "1700001268",
+                    "selectedLanguage": {
+                        "lang_label": "English",
+                        "lang_code": "ENG",
+                        "lang_type": "main",
+                        "lang_identifier": ""
+                    },
+                    "originalLanguage": {
+                        "lang_label": "English",
+                        "lang_code": "eng",
+                        "lang_type": "main",
+                        "lang_identifier": ""
+                    },
+                    "stateLanguage": {},
+                    "isFirstVideoPlayedInDevice": false,
+                    "adstack": "DAI-IMA",
+                    "targetedDelivery": {
+                        "td_server_hints": {
+                            "pip_bw_initial": 800000,
+                            "pip_bw_max": 7000000,
+                            "pip_vod_prefetch": 30,
+                            "pip_vod_initial_buffer_mb": 11,
+                            "pip_vod_initial_buffer_sec": 12,
+                            "pip_vod_max_buffer_mb": 79,
+                            "pip_vod_max_buffer_sec": 90,
+                            "pip_live_initial_buffer": 8,
+                            "pip_live_target_latency": 10,
+                            "analytics_expt_id": "middleware"
+                        }
+                    },
+                    "parents": [
+                        {
+                            "parentId": 1590016400,
+                            "parentType": "BUNDLE",
+                            "parentSubType": "MATCH_TYPE"
+                        },
+                        {
+                            "parentId": 1700001268,
+                            "parentType": "GROUP_OF_BUNDLES",
+                            "parentSubType": "TOURNAMENT"
+                        }
+                    ],
+                    "additionalDataJson": {},
+                    "LA_Details": {},
+                    "is_audio_desc_available": false,
+                    "is_multi_track_per_language_available": false,
+                    "multiAudioTrack": true,
+                    "packId": "liv_premium_GP_1m"
+                },
+                "systemTime": 1786711832265
+            }
+        },
         {
             "match_info": {
                 "contentId": 1090539209,
