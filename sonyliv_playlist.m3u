@@ -2,13 +2,10 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 04:50:25 PM 15-08-2026
+# last_update: 05:20:26 PM 15-08-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090539247" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022202/1786714995621172_SL_vs_IND_1stTest_Day1_Live_landscape_thumb.jpg" group-title="Cricket", Day 1 - 1st Test - 15 Aug 2026 | India Tour of Sri Lanka 2026
 https://sonyeventsglobal.akamaized.net/hls/live/2022322/DAI18-INDSL/master.m3u8?hdnea=exp=1786805431~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=24c7c7db0f8c01aa2db17596ba47574118407936fe41771d5ceb5bd563ab3c3e
-
-#EXTINF:-1 tvg-id="sonyliv-1090539213" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021745/1785704546330524_ABB_FIA_FormulaE_WC26_R16_Hankook_London_EPrix_Qualifying_Race_landscape_thumb.jpg" group-title="Racing", R16 - Hankook London E-Prix - Qualifying Race - 15 Aug 2026 | ABB FIA Formula E World Championship
-https://sonydaimenew.akamaized.net/hls/live/20000301/FormulaE1508/ENG/master.m3u8?hdnea=exp=1786807229~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=043ab753ff5a9cc803693bb89e771287a75243864d2273f1fe61aed26dc581bf
 
 #EXTINF:-1 tvg-id="sonyliv-1090539270" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021743/1785703357342390_DP_World_Tour_Danish_Golf_Championship_day3_landscape_thumb.jpg" group-title="Golf", Danish Golf Championship - Day 3 - 15 Aug 2026 | DP World Tour
 https://sonydaimenew.akamaized.net/hls/live/20000292/Danish_G1508/ENG/master.m3u8?hdnea=exp=1786810835~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=0a7ea25d78f7912b1f3eda7c7e87ecfb492fcc51d5dca03dd76baca0d11fba66
