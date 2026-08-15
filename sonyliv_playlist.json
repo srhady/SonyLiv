@@ -3,29 +3,29 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "06:20:26 PM 15-08-2026"
+        "last_update": "06:50:26 PM 15-08-2026"
     },
     "live_matches": [
         {
             "match_info": {
-                "contentId": 1090539247,
-                "externalId": "1090539247",
+                "contentId": 1090539217,
+                "externalId": "1090539217",
                 "objectType": "VOD",
                 "isLive": true,
                 "objectSubtype": "LIVE_SPORT",
                 "contentType": "VOD",
                 "contentSubtype": "LIVE_SPORT",
-                "title": "India Tour of Sri Lanka 2026",
-                "longDescription": "After a heavy defeat against the Proteas, Team India will look to bounce back and climb up the ICC World Test Championship Points table in the 1st Test against the hosts, Sri Lanka. Will Shubham Gill and Team India take the advantage on Day 1? Watch all the action from the India Tour of Sri Lanka 2026 LIVE, only on Sony LIV.",
-                "shortDescription": "After a heavy defeat against the Proteas, Team India will look to bounce back and climb up the ICC World Test Championship Points table in the 1st Test against the hosts, Sri Lanka. Will Shubham Gill and Team India take the advantage on Day 1? Watch all the action from the India Tour of Sri Lanka 2026 LIVE, only on Sony LIV.",
+                "title": "ABB FIA Formula E World Championship",
+                "longDescription": "Catch all the action from the Hankook London E-Prix - final race, LIVE on Sony LIV.",
+                "shortDescription": "Catch all the action from the Hankook London E-Prix - final race, LIVE on Sony LIV.",
                 "isCopyProtected": false,
-                "contractStartDate": 1786766400000,
-                "contractEndDate": 1786809600000,
-                "episodeTitle": "Day 1 - 1st Test - 15 Aug 2026",
+                "contractStartDate": 1786797000000,
+                "contractEndDate": 1786816800000,
+                "episodeTitle": "R16 - Hankook London E-Prix - Final Race - 15 Aug 2026",
                 "genres": [
-                    "Cricket"
+                    "Racing"
                 ],
-                "originalAirDate": 1786768200000,
+                "originalAirDate": 1786798800000,
                 "pcExtendedRatings": [],
                 "isOnAir": true,
                 "isEncrypted": false,
@@ -35,26 +35,43 @@
                 "isGeoBlocked": false,
                 "advertisingInfoList": [],
                 "emfAttributes": {
+                    "venue_name": "ExCeL London",
+                    "region_of_origin": "English",
+                    "svod_advertising": "true",
                     "audio_languages": "ENG",
+                    "sub_category": "Sport",
                     "snp_tags": "Suitable for all",
+                    "is_multi_track_per_language_available": false,
                     "packageid": "12m_mobile_saarc,Liv_Pre_Yupp,12m_saarc,1m_saarc,liv_premium_GP_1m,liv_premium_GP_1m_mobile,LIV_Pre_Mob_1M,liv_binge_1m",
-                    "masthead_logo_rectangualar": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022195/1786707344942329_India_Tour_of_Sri_Lanka_2026_Match_masthead_logo_rectangualar_950x570_1stTEST_Day1_LIVE.png",
+                    "broadcast_channel": "Sony Sports Ten 5",
+                    "Maximum_Video_Quality": "SDR",
                     "Maximum_Resolution": "FULL_HD",
-                    "masthead_logo_v1": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022195/1786707345101329_India_Tour_of_Sri_Lanka_2026_Match_masthead_logo_V1_692x390_1stTEST_Day1_LIVE.png",
                     "advertising": "AD SUPPORTED",
+                    "isdvr": "No",
                     "emaAttributes": {},
-                    "tv_background_image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022202/1786715198343172_SL_vs_IND_1stTest_Day1_Live_tv_bg.jpg",
-                    "content_marquee_status": false,
-                    "marquee_target_state": [],
-                    "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022205/1786697016000606_India_Tour_of_Sri_Lanka_2026_Match_masthead_mobile_v2_984x1182.jpg",
-                    "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022202/1786714995621172_SL_vs_IND_1stTest_Day1_Live_landscape_thumb.jpg",
-                    "partnerHoldbackList": "YOUTUBE",
+                    "tv_background_image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021745/1785704387850524_ABB_FIA_FormulaE_WC26_R16_Hankook_London_EPrix_final_Race_tv_bg.jpg",
+                    "U": "IN",
+                    "country_rating": {
+                        "U": "IN",
+                        "3+": "BD,NP,LK,PK,AF,BT,MV"
+                    },
+                    "3+": "BD,NP,LK,PK,AF,BT,MV",
+                    "value": "SVOD",
+                    "is_audio_desc_available": false,
+                    "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021745/1785704538113524_ABB_FIA_FormulaE_WC26_R16_Hankook_London_EPrix_final_Race_landscape_thumb.jpg",
                     "variant_asset_languages": [],
                     "broadcast_channel_hin": "सोनी स्पोर्ट्स तेन ५",
+                    "live_label_display": true,
                     "ad_cluster_id": "ad_cluster_1",
-                    "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022202/1786714981777172_SL_vs_IND_1stTest_Day1_Live_portrait_thumb.jpg",
+                    "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021745/1785704457632524_ABB_FIA_FormulaE_WC26_R16_Hankook_London_EPrix_final_Race_portrait_thumb.jpg",
+                    "dai_asset_key": "F_H8S5gzS56WKJiNDa1z5Q",
+                    "seo_tags": "Formula E,ABB FIA Formula E,Formula E Championship,Electric racing,FIA electric racing series,E-Prix,Electric street racing,ABB Formula E,Electric car racing,FIA Formula E World Championship,Formula E teams,Formula E drivers,Electric motorsport,ABB Formula E schedule,Formula E tickets,Formula E results,Formula E highlights,Electric vehicle racing,ABB Formula E news,Formula E technology",
+                    "Free_countries": "",
+                    "overlay_visibility": "0",
+                    "SVOD_countries": "_in,_bd,_np,_mv,_af,_pk,_bt,_lk",
                     "is_subtitle_cc_available": false,
-                    "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022202/1786714995621172_SL_vs_IND_1stTest_Day1_Live_landscape_thumb.jpg",
+                    "ssai_partners": "Google DAI",
+                    "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021745/1785704538113524_ABB_FIA_FormulaE_WC26_R16_Hankook_London_EPrix_final_Race_landscape_thumb.jpg",
                     "audio_language_list": [
                         {
                             "lang_code": "ENG",
@@ -62,37 +79,9 @@
                         }
                     ],
                     "Maximum_Audio_Quality": "STEREO",
-                    "sub_license": "Yes",
-                    "isTimeLineMarker_new": "false",
-                    "venue_name": "Galle International Stadium",
-                    "region_of_origin": "English",
-                    "svod_advertising": "true",
-                    "sub_category": "Sport",
-                    "is_multi_track_per_language_available": false,
-                    "broadcast_channel": "Sony Sports Ten 5",
-                    "Maximum_Video_Quality": "SDR",
-                    "isdvr": "No",
-                    "away_team": "India",
-                    "theme_applied": false,
-                    "country_rating": {
-                        "3+": "BD,NP,AF,MV,BT,PK,AU,NZ"
-                    },
-                    "3+": "BD,NP,AF,MV,BT,PK,AU,NZ",
-                    "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022195/1786707344776328_India_Tour_of_Sri_Lanka_2026_Match_Masthead_logo_1stTEST_Day1_LIVE.png",
-                    "projected_max_concurrency": 100000,
-                    "value": "SVOD",
-                    "is_audio_desc_available": false,
-                    "target_impressions_per_week": 2000000,
-                    "live_label_display": true,
-                    "seo_tags": "India vs Sri Lanka Test Series 2026,India Tour of Sri Lanka 2026,IND vs SL,IND vs SL Test,Sri Lanka vs India Test,India Sri Lanka Test Series,India Cricket Team,Sri Lanka Cricket Team,World Test Championship,WTC 2025-27,Shubman Gill,KL Rahul,Yashasvi Jaiswal,Rishabh Pant,Ravindra Jadeja,Kuldeep Yadav,Mohammed Siraj,Prasidh Krishna,Sarfaraz Khan,Devdutt Padikkal,Dhruv Jurel,Dhananjaya de Silva,Kamindu Mendis,Dinesh Chandimal,Prabath Jayasuriya,Niroshan Dickwella,Asitha Fernando,Lahiru Kumara,Galle Test,Galle International Stadium,Colombo Test,SSC Colombo,India vs Sri Lanka Live,IND vs SL Live Score,India vs Sri Lanka Highlights,India vs Sri Lanka Schedule,India vs Sri Lanka Squad,India vs Sri Lanka Playing XI,India vs Sri Lanka Predictions,India vs Sri Lanka Match Updates,Test Cricket,Red Ball Cricket,Cricket Highlights,Cricket Live Streaming,Team India,Sri Lanka National Cricket Team,WTC Points Table,Cricket News,Cricket Updates",
-                    "Free_countries": "",
-                    "overlay_visibility": "0",
-                    "target_frequency_per_week": 3,
-                    "SVOD_countries": "_bd,_np,_af,_mv,_bt,_pk,_au,_nz",
-                    "home_team": "Sri Lanka",
                     "is_auto_play_trailer": true,
                     "integrated_splash_available": "Yes",
-                    "masthead_large_v3": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022205/1786697016000606_India_Tour_of_Sri_Lanka_2026_Match_masthead_large_v3_3200x1800.jpg",
+                    "isTimeLineMarker_new": "false",
                     "isDVR": false,
                     "isTimeLineMarker": false,
                     "isDownloadable": false,
@@ -110,7 +99,7 @@
                 "ratingEligibility": true,
                 "ratingDisplay": false,
                 "titleBrief": "",
-                "baseContentId": 1090539247,
+                "baseContentId": 1090539217,
                 "isBaseAsset": true
             },
             "playback_info": {
@@ -120,7 +109,7 @@
                 "resultObj": {
                     "showPlayerStats": false,
                     "is_preview_enabled": false,
-                    "videoURL": "https://sonyeventsglobal.akamaized.net/hls/live/2022322/DAI18-INDSL/master.m3u8?hdnea=exp=1786805431~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=24c7c7db0f8c01aa2db17596ba47574118407936fe41771d5ceb5bd563ab3c3e",
+                    "videoURL": "https://sonydaimenew.akamaized.net/hls/live/20000296/FormulaE1508/ENG/master.m3u8?hdnea=exp=1786819831~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=3ce4bc1cc3cd348522bb184b05ce5c1a860208e5aaf3fb889c31e674a8d7a168",
                     "multiLanguageVideoURL": [],
                     "audioLanguages": [
                         {
@@ -136,12 +125,13 @@
                     "posterURL": "",
                     "sprite_image_url": "",
                     "tv_sprite_image_url": "",
-                    "dai_asset_key": "",
+                    "dai_asset_key": "ElBuHHaMSOGhCRM0EgM8Fw",
                     "contextual_cue_point": {},
                     "cuepoints": [],
                     "isLive": true,
                     "country_rating": {
-                        "3+": "BD,NP,AF,MV,BT,PK,AU,NZ"
+                        "U": "IN",
+                        "3+": "BD,NP,LK,PK,AF,BT,MV"
                     },
                     "dai_asset_key_hlsfp": "",
                     "dai_asset_key_wm": "",
@@ -150,16 +140,16 @@
                     "Maximum_Resolution": "FULL_HD",
                     "isWatermarked": "false",
                     "watermark_partner": "",
-                    "upfrontAudio": false,
+                    "upfrontAudio": true,
                     "pcVodLabel": "3+",
                     "promotionUrl": "",
                     "hasPromotion": false,
-                    "contentProvider": "Sri Lanka Cricket",
+                    "contentProvider": "FORMULA E OPERATIONS LIMITED",
                     "sony_match_id": "",
                     "tl_marker": "",
                     "checksum": "",
                     "kid_mss": "",
-                    "parentId": "1700000759",
+                    "parentId": "1700001373",
                     "selectedLanguage": {
                         "lang_label": "English",
                         "lang_code": "ENG",
@@ -174,41 +164,49 @@
                     },
                     "stateLanguage": {},
                     "isFirstVideoPlayedInDevice": false,
-                    "adstack": "DAI-IMA",
                     "targetedDelivery": {
                         "td_server_hints": {
                             "pip_bw_initial": 800000,
                             "pip_bw_max": 7000000,
-                            "pip_vod_prefetch": 30,
-                            "pip_vod_initial_buffer_mb": 11,
-                            "pip_vod_initial_buffer_sec": 12,
-                            "pip_vod_max_buffer_mb": 79,
-                            "pip_vod_max_buffer_sec": 90,
                             "pip_live_initial_buffer": 8,
                             "pip_live_target_latency": 10,
-                            "analytics_expt_id": "middleware"
+                            "analytics_expt_id": "9UexVSmNVs"
                         }
                     },
                     "parents": [
                         {
-                            "parentId": 1590016434,
+                            "parentId": 1590014651,
                             "parentType": "BUNDLE",
                             "parentSubType": "MATCH_TYPE"
                         },
                         {
-                            "parentId": 1700000759,
+                            "parentId": 1700001373,
                             "parentType": "GROUP_OF_BUNDLES",
                             "parentSubType": "TOURNAMENT"
                         }
                     ],
-                    "additionalDataJson": {},
+                    "additionalDataJson": {
+                        "adServer": "GAM",
+                        "ad_stack": "DAI-IMA",
+                        "audioCodec": "AAC",
+                        "audio_quality": "STEREO",
+                        "enc_format": "HLS",
+                        "fps": 25,
+                        "isDaiKey": true,
+                        "partners": [
+                            "ALL"
+                        ],
+                        "resolution": "SD",
+                        "videoCodec": "H264",
+                        "video_quality": "SDR"
+                    },
                     "LA_Details": {},
                     "is_audio_desc_available": false,
                     "is_multi_track_per_language_available": false,
                     "multiAudioTrack": true,
                     "packId": "liv_premium_GP_1m"
                 },
-                "systemTime": 1786783831724
+                "systemTime": 1786798231827
             }
         },
         {
