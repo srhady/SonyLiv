@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "07:20:25 PM 16-08-2026"
+        "last_update": "07:50:25 PM 16-08-2026"
     },
     "live_matches": [
         {
@@ -46,7 +46,7 @@
                     "tv_background_image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022187/1786700868245634_FA_Community_Shield_Live_tv_bg.jpg",
                     "content_marquee_status": false,
                     "marquee_target_state": [],
-                    "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021868/1786026719317508_Community_Shield_2026_Match_masthead_mobile_v2_984x1182.jpg",
+                    "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021991/1786358442041813_Community_Shield_2026_Match_masthead_mobile_v2_984x1182.jpg",
                     "is_searchable": "Yes",
                     "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022187/1786701229610634_FA_Community_Shield_Live_landscape_thumb.jpg",
                     "variant_asset_languages": [
@@ -55,7 +55,6 @@
                         "TEL",
                         "KAN"
                     ],
-                    "broadcast_channel_hin": "सोनी स्पोर्ट्स तेन २",
                     "ad_cluster_id": "ad_cluster_1",
                     "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022187/1786701187392634_FA_Community_Shield_Live_portrait_thumb.jpg",
                     "is_subtitle_cc_available": false,
@@ -118,7 +117,7 @@
                     "home_team": "Arsenal",
                     "is_auto_play_trailer": true,
                     "integrated_splash_available": "Yes",
-                    "masthead_large_v3": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021868/1786026719106508_Community_Shield_2026_Match_masthead_large_v3_3200x1800.jpg",
+                    "masthead_large_v3": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021991/1786358442023813_Community_Shield_2026_Match_masthead_large_v3_3200x1800.jpg",
                     "isDVR": false,
                     "isTimeLineMarker": false,
                     "isDownloadable": false,
