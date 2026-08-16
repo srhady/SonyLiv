@@ -2,7 +2,10 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 10:20:28 PM 16-08-2026
+# last_update: 10:50:29 PM 16-08-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090539305" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021920/1786182960054520_Vitality_Mixed_Disability_6th_T20i_England_vs_India_landscape_thumb.jpg" group-title="Cricket", England vs India - 6th T20I - 16 Aug 2026 | Vitality Mixed Disability IT20 series
 https://sonydaimenew.akamaized.net/hls/live/20000388/Cricket_1608/ENG/master.m3u8?hdnea=exp=1786908036~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=6620ea1f28b3b11db7e974ed50c7441af77b9a9b1ad595c602bfd56b9efd6921
+
+#EXTINF:-1 tvg-id="sonyliv-1090539296" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022270/1786812589660953_THE_HUNDRED_2026_Mens_Final_Trent_Rockets_vs_Manchester_Super_Giant_landscape_thumb.jpg" group-title="Cricket", Trent Rockets vs Manchester Super Giant - Final - 16 Aug 2026 | The Hundred 2026
+https://sonyeventsglobal.akamaized.net/hls/live/2022322/DAI18-HMEN/master.m3u8?hdnea=exp=1786920632~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=a28413a98951d13fea2a8f9c9658d43423d73443533531419a468c48c94299ef
