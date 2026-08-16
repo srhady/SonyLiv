@@ -3,234 +3,29 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "06:20:26 PM 16-08-2026"
+        "last_update": "06:50:27 PM 16-08-2026"
     },
     "live_matches": [
         {
             "match_info": {
-                "contentId": 1090539349,
-                "externalId": "1090539349",
-                "objectType": "VOD",
-                "isLive": true,
-                "objectSubtype": "LIVE_SPORT",
-                "contentType": "VOD",
-                "contentSubtype": "LIVE_SPORT",
-                "title": "India Tour of Sri Lanka 2026",
-                "longDescription": "India begin Day 2 of the 1st Test in control after a dominant Day 1, powered by Devdutt Padikkal's unbeaten 131. Watch all the action LIVE from Sri Lanka, only on Sony LIV.",
-                "shortDescription": "India begin Day 2 of the 1st Test in control after a dominant Day 1, powered by Devdutt Padikkal's unbeaten 131. Watch all the action LIVE from Sri Lanka, only on Sony LIV.",
-                "isCopyProtected": false,
-                "contractStartDate": 1786851900000,
-                "contractEndDate": 1786895100000,
-                "episodeTitle": "Day 2 - 1st Test - 16 Aug 2026",
-                "genres": [
-                    "Cricket"
-                ],
-                "originalAirDate": 1786853700000,
-                "pcExtendedRatings": [],
-                "isOnAir": true,
-                "isEncrypted": false,
-                "pcVodLabel": "3+",
-                "duration": 0,
-                "language": "ENG",
-                "isGeoBlocked": false,
-                "advertisingInfoList": [],
-                "emfAttributes": {
-                    "audio_languages": "ENG",
-                    "snp_tags": "Suitable for all",
-                    "packageid": "12m_mobile_saarc,Liv_Pre_Yupp,12m_saarc,1m_saarc,liv_premium_GP_1m,liv_premium_GP_1m_mobile,LIV_Pre_Mob_1M,liv_binge_1m",
-                    "masthead_logo_rectangualar": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022195/1786707344975329_India_Tour_of_Sri_Lanka_2026_Match_masthead_logo_rectangualar_950x570_1stTEST_Day2_LIVE.png",
-                    "Maximum_Resolution": "FULL_HD",
-                    "masthead_logo_v1": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022195/1786707345130329_India_Tour_of_Sri_Lanka_2026_Match_masthead_logo_V1_692x390_1stTEST_Day2_LIVE.png",
-                    "advertising": "AD SUPPORTED",
-                    "emaAttributes": {},
-                    "tv_background_image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022272/1786814958406229_SL_vs_IND_1stTest_Day2_clean_tv_bg.jpg",
-                    "content_marquee_status": false,
-                    "marquee_target_state": [],
-                    "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022205/1786697016000606_India_Tour_of_Sri_Lanka_2026_Match_masthead_mobile_v2_984x1182.jpg",
-                    "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022272/1786814971335229_SL_vs_IND_1stTest_Day2_clean_landscape_thumb.jpg",
-                    "partnerHoldbackList": "YOUTUBE",
-                    "variant_asset_languages": [],
-                    "broadcast_channel_hin": "सोनी स्पोर्ट्स तेन ५",
-                    "ad_cluster_id": "ad_cluster_1",
-                    "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022255/1786797571080863_SL_vs_IND_1stTest_Day2_live_portrait_thumb.jpg",
-                    "is_subtitle_cc_available": false,
-                    "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022272/1786814971335229_SL_vs_IND_1stTest_Day2_clean_landscape_thumb.jpg",
-                    "audio_language_list": [
-                        {
-                            "lang_code": "ENG",
-                            "lang_label": "English"
-                        }
-                    ],
-                    "Maximum_Audio_Quality": "STEREO",
-                    "sub_license": "Yes",
-                    "isTimeLineMarker_new": "false",
-                    "venue_name": "Galle International Stadium",
-                    "region_of_origin": "English",
-                    "svod_advertising": "true",
-                    "sub_category": "Sport",
-                    "is_multi_track_per_language_available": false,
-                    "broadcast_channel": "Sony Sports Ten 5",
-                    "Maximum_Video_Quality": "SDR",
-                    "isdvr": "No",
-                    "away_team": "India",
-                    "theme_applied": false,
-                    "country_rating": {
-                        "3+": "BD,NP,AF,MV,BT,PK,AU,NZ"
-                    },
-                    "3+": "BD,NP,AF,MV,BT,PK,AU,NZ",
-                    "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022195/1786707344807328_India_Tour_of_Sri_Lanka_2026_Match_Masthead_logo_1stTEST_Day2_LIVE.png",
-                    "projected_max_concurrency": 100000,
-                    "value": "SVOD",
-                    "is_audio_desc_available": false,
-                    "target_impressions_per_week": 2000000,
-                    "live_label_display": true,
-                    "seo_tags": "India vs Sri Lanka Test Series 2026,India Tour of Sri Lanka 2026,IND vs SL,IND vs SL Test,Sri Lanka vs India Test,India Sri Lanka Test Series,India Cricket Team,Sri Lanka Cricket Team,World Test Championship,WTC 2025-27,Shubman Gill,KL Rahul,Yashasvi Jaiswal,Rishabh Pant,Ravindra Jadeja,Kuldeep Yadav,Mohammed Siraj,Prasidh Krishna,Sarfaraz Khan,Devdutt Padikkal,Dhruv Jurel,Dhananjaya de Silva,Kamindu Mendis,Dinesh Chandimal,Prabath Jayasuriya,Niroshan Dickwella,Asitha Fernando,Lahiru Kumara,Galle Test,Galle International Stadium,Colombo Test,SSC Colombo,India vs Sri Lanka Live,IND vs SL Live Score,India vs Sri Lanka Highlights,India vs Sri Lanka Schedule,India vs Sri Lanka Squad,India vs Sri Lanka Playing XI,India vs Sri Lanka Predictions,India vs Sri Lanka Match Updates,Test Cricket,Red Ball Cricket,Cricket Highlights,Cricket Live Streaming,Team India,Sri Lanka National Cricket Team,WTC Points Table,Cricket News,Cricket Updates",
-                    "Free_countries": "",
-                    "overlay_visibility": "0",
-                    "target_frequency_per_week": 3,
-                    "SVOD_countries": "_bd,_np,_af,_mv,_bt,_pk,_au,_nz",
-                    "home_team": "Sri Lanka",
-                    "is_auto_play_trailer": true,
-                    "integrated_splash_available": "Yes",
-                    "masthead_large_v3": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022205/1786697016000606_India_Tour_of_Sri_Lanka_2026_Match_masthead_large_v3_3200x1800.jpg",
-                    "isDVR": false,
-                    "isTimeLineMarker": false,
-                    "isDownloadable": false,
-                    "is_preview_enabled": false,
-                    "sprite_image_url": "",
-                    "tv_sprite_image_url": "",
-                    "kids_safe": false,
-                    "tl_marker": "",
-                    "icon_on_asset": {
-                        "play_focus_icon": "https://origin-staticv2.sonyliv.com/UI_icons/spotlight/focus_play_icon.png",
-                        "play_normal_icon": "https://origin-staticv2.sonyliv.com/UI_icons/spotlight/non_focused_play_icon.png"
-                    }
-                },
-                "isADVAllowed": false,
-                "ratingEligibility": true,
-                "ratingDisplay": false,
-                "titleBrief": "",
-                "baseContentId": 1090539349,
-                "isBaseAsset": true
-            },
-            "playback_info": {
-                "resultCode": "OK",
-                "message": "",
-                "errorDescription": "200-10000",
-                "resultObj": {
-                    "showPlayerStats": false,
-                    "is_preview_enabled": false,
-                    "videoURL": "https://sonyeventsglobal.akamaized.net/hls/live/2022322/DAI18-INDSL/master.m3u8?hdnea=exp=1786890029~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=a26f359b47a9ebd43ae7ad2721d44fa0a30796e31b7a25524d9b63fdad6e6a7f",
-                    "multiLanguageVideoURL": [],
-                    "audioLanguages": [
-                        {
-                            "audioLanguageName": "ENG",
-                            "audioLanguageLabel": "English"
-                        }
-                    ],
-                    "trailer_url": "",
-                    "subtitle": [],
-                    "isEncrypted": false,
-                    "isDVR": false,
-                    "isDownloadable": false,
-                    "posterURL": "",
-                    "sprite_image_url": "",
-                    "tv_sprite_image_url": "",
-                    "dai_asset_key": "",
-                    "contextual_cue_point": {},
-                    "cuepoints": [],
-                    "isLive": true,
-                    "country_rating": {
-                        "3+": "BD,NP,AF,MV,BT,PK,AU,NZ"
-                    },
-                    "dai_asset_key_hlsfp": "",
-                    "dai_asset_key_wm": "",
-                    "Maximum_Video_Quality": "SDR",
-                    "Maximum_Audio_Quality": "STEREO",
-                    "Maximum_Resolution": "FULL_HD",
-                    "isWatermarked": "false",
-                    "watermark_partner": "",
-                    "upfrontAudio": false,
-                    "pcVodLabel": "3+",
-                    "promotionUrl": "",
-                    "hasPromotion": false,
-                    "contentProvider": "Sri Lanka Cricket",
-                    "sony_match_id": "",
-                    "tl_marker": "",
-                    "checksum": "",
-                    "kid_mss": "",
-                    "parentId": "1700000759",
-                    "selectedLanguage": {
-                        "lang_label": "English",
-                        "lang_code": "ENG",
-                        "lang_type": "main",
-                        "lang_identifier": ""
-                    },
-                    "originalLanguage": {
-                        "lang_label": "English",
-                        "lang_code": "eng",
-                        "lang_type": "main",
-                        "lang_identifier": ""
-                    },
-                    "stateLanguage": {},
-                    "isFirstVideoPlayedInDevice": false,
-                    "adstack": "DAI-IMA",
-                    "targetedDelivery": {
-                        "td_server_hints": {
-                            "pip_bw_initial": 800000,
-                            "pip_bw_max": 7000000,
-                            "pip_vod_prefetch": 30,
-                            "pip_vod_initial_buffer_mb": 11,
-                            "pip_vod_initial_buffer_sec": 12,
-                            "pip_vod_max_buffer_mb": 79,
-                            "pip_vod_max_buffer_sec": 90,
-                            "pip_live_initial_buffer": 8,
-                            "pip_live_target_latency": 10,
-                            "analytics_expt_id": "middleware"
-                        }
-                    },
-                    "parents": [
-                        {
-                            "parentId": 1590016434,
-                            "parentType": "BUNDLE",
-                            "parentSubType": "MATCH_TYPE"
-                        },
-                        {
-                            "parentId": 1700000759,
-                            "parentType": "GROUP_OF_BUNDLES",
-                            "parentSubType": "TOURNAMENT"
-                        }
-                    ],
-                    "additionalDataJson": {},
-                    "LA_Details": {},
-                    "is_audio_desc_available": false,
-                    "is_multi_track_per_language_available": false,
-                    "multiAudioTrack": true,
-                    "packId": "liv_premium_GP_1m"
-                },
-                "systemTime": 1786868429095
-            }
-        },
-        {
-            "match_info": {
-                "contentId": 1090539293,
-                "externalId": "1090539293",
+                "contentId": 1090539294,
+                "externalId": "1090539294",
                 "objectType": "VOD",
                 "isLive": true,
                 "objectSubtype": "LIVE_SPORT",
                 "contentType": "VOD",
                 "contentSubtype": "LIVE_SPORT",
                 "title": "IndianOil Durand Cup 2026",
-                "longDescription": "SC Delhi face FC Raengdai in Quarter Final 1 of the IndianOil Durand Cup 2026. Watch the high-stakes knockout clash LIVE, only on Sony LIV.",
-                "shortDescription": "SC Delhi face FC Raengdai in Quarter Final 1 of the IndianOil Durand Cup 2026. Watch the high-stakes knockout clash LIVE, only on Sony LIV.",
+                "longDescription": "Indian Army FT take on East Bengal FC in Quarter Final 2 of the IndianOil Durand Cup 2026. Catch all the LIVE action, only on Sony LIV.",
+                "shortDescription": "Indian Army FT take on East Bengal FC in Quarter Final 2 of the IndianOil Durand Cup 2026. Catch all the LIVE action, only on Sony LIV.",
                 "isCopyProtected": false,
-                "contractStartDate": 1786873800000,
-                "contractEndDate": 1786891800000,
-                "episodeTitle": "SC Delhi vs FC Raengdai - Quarter Final 1 - 16 Aug 2026",
+                "contractStartDate": 1786884600000,
+                "contractEndDate": 1786902600000,
+                "episodeTitle": "Indian Army FT vs East Bengal FC - Quarter Final 2 - 16 Aug 2026",
                 "genres": [
                     "Football"
                 ],
-                "originalAirDate": 1786875600000,
+                "originalAirDate": 1786886400000,
                 "pcExtendedRatings": [],
                 "isOnAir": true,
                 "isEncrypted": false,
@@ -243,24 +38,24 @@
                     "audio_languages": "ENG",
                     "snp_tags": "Suitable for all",
                     "packageid": "12m_mobile_saarc,Liv_Pre_Yupp,12m_saarc,1m_saarc,liv_premium_GP_1m,liv_premium_GP_1m_mobile,LIV_Pre_Mob_1M,liv_binge_1m",
-                    "masthead_logo_rectangualar": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022248/1786791303796883_DURAND_CUP_2026_QF_SC_Delhi_vs_FC_Raengdai_live_masthead_logo_rectangular.png",
+                    "masthead_logo_rectangualar": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022254/1786794420713466_DURAND_CUP_2026_QF_Indian_Army_FT_vs_East_Bengal_FC_live_masthead_logo_rectangular.png",
                     "Maximum_Resolution": "FULL_HD",
-                    "masthead_logo_v1": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022248/1786787396798883_DURAND_CUP_2026_QF_SC_Delhi_vs_FC_Raengdai_live_masthead_logo_v1.png",
+                    "masthead_logo_v1": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022254/1786794166734466_DURAND_CUP_2026_QF_Indian_Army_FT_vs_East_Bengal_FC_live_masthead_logo_v1.png",
                     "advertising": "AD SUPPORTED",
                     "emaAttributes": {},
                     "kids_safe": false,
-                    "tv_background_image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022248/1786792133517882_DURAND_CUP_2026_QF_SC_Delhi_vs_FC_Raengdai_tv_bg.jpg",
+                    "tv_background_image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022254/1786795164499466_DURAND_CUP_2026_QF_Indian_Army_FT_vs_East_Bengal_FC_tv_bg.jpg",
                     "content_marquee_status": false,
                     "marquee_target_state": [],
-                    "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022248/1786788624644882_DURAND_CUP_2026_QF_SC_Delhi_vs_FC_Raengdai_masthead_mobile_v2_984x1182.jpg",
-                    "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022248/1786792050680883_DURAND_CUP_2026_QF_SC_Delhi_vs_FC_Raengdai_landscape_thumb.jpg",
+                    "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022254/1786793992726466_DURAND_CUP_2026_QF_Indian_Army_FT_vs_East_Bengal_FC_masthead_mobile_v2_984x1182.jpg",
+                    "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022254/1786795080367466_DURAND_CUP_2026_QF_Indian_Army_FT_vs_East_Bengal_FC_landscape_thumb.jpg",
                     "variant_asset_languages": [],
                     "broadcast_channel_hin": "सोनी स्पोर्ट्स तेन २",
                     "ad_cluster_id": "ad_cluster_1",
-                    "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022248/1786791725115882_DURAND_CUP_2026_QF_SC_Delhi_vs_FC_Raengdai_portrait_thumb.jpg",
+                    "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022254/1786795103231466_DURAND_CUP_2026_QF_Indian_Army_FT_vs_East_Bengal_FC_live_portrait_thumb.jpg",
                     "is_subtitle_cc_available": false,
                     "ssai_partners": "Google DAI",
-                    "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022248/1786792050680883_DURAND_CUP_2026_QF_SC_Delhi_vs_FC_Raengdai_landscape_thumb.jpg",
+                    "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022254/1786795080367466_DURAND_CUP_2026_QF_Indian_Army_FT_vs_East_Bengal_FC_landscape_thumb.jpg",
                     "audio_language_list": [
                         {
                             "lang_code": "ENG",
@@ -270,7 +65,7 @@
                     "Maximum_Audio_Quality": "STEREO",
                     "matchid": "",
                     "isTimeLineMarker_new": "true",
-                    "venue_name": "Birsa Munda Football Stadium",
+                    "venue_name": "Vivekananda Yuba Bharati Krirangan",
                     "region_of_origin": "English",
                     "svod_advertising": "true",
                     "sub_category": "Sport",
@@ -278,30 +73,30 @@
                     "broadcast_channel": "Sony Sports Ten 2",
                     "Maximum_Video_Quality": "SDR",
                     "isdvr": "No",
-                    "away_team": "FC Raengdai",
+                    "away_team": "East Bengal FC",
                     "U": "IN",
                     "country_rating": {
                         "U": "IN",
                         "3+": "BD,NP,LK,PK,AF,BT,MV"
                     },
                     "3+": "BD,NP,LK,PK,AF,BT,MV",
-                    "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022248/1786791518316883_DURAND_CUP_2026_QF_SC_Delhi_vs_FC_Raengdai_live_masthead_logo.png",
+                    "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022254/1786794548448466_DURAND_CUP_2026_QF_Indian_Army_FT_vs_East_Bengal_FC_live_masthead_logo.png",
                     "projected_max_concurrency": 100000,
                     "value": "SVOD",
                     "is_audio_desc_available": false,
                     "target_impressions_per_week": 2000000,
                     "live_label_display": true,
-                    "dai_asset_key": "pDPKygd_RaSSQPzp4X14vA",
-                    "match_start_time": "1786873800",
+                    "dai_asset_key": "hLD1ztoKQDSyQ8w2fAJPrg",
+                    "match_start_time": "1786884600",
                     "seo_tags": "IndianOil Durand Cup 2026,football,Durand Cup,Durand Cup 2026 tickets,Durand Cup 2026 schedule,Asian football,Durand Cup 2026 highlights,Durand Cup 2026,durand cup,Durand Cup 2026 date,Durand Cup 2026 news,Durand Cup 2026 live,Durand Cup 2026 teams,Durand Cup 2026 venue,Durand Cup 2026 update,Durand Cup 2026 fixtures,Durand Cup 2026 all matches,Durand Cup 2026 new updates,Durand Cup 2026 latest news,Durand Cup 2026 team updates,where to watch Durand Cup 2026,Durand Cup fixtures 2026,Durand Cup 2026 starting date,Durand Cup 2026 latest updates",
                     "Free_countries": "",
                     "overlay_visibility": "0",
                     "target_frequency_per_week": 3,
                     "SVOD_countries": "_in,_lk,_mv,_np,_bd,_bt,_af,_pk",
-                    "home_team": "SC DELHI",
+                    "home_team": "India Army FT",
                     "is_auto_play_trailer": true,
                     "integrated_splash_available": "Yes",
-                    "masthead_large_v3": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022248/1786789001345882_DURAND_CUP_2026_QF_SC_Delhi_vs_FC_Raengdai_masthead_large_v3_3200x1800.jpg",
+                    "masthead_large_v3": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022254/1786794738586466_DURAND_CUP_2026_QF_Indian_Army_FT_vs_East_Bengal_FC_masthead_large_v3_3200x1800.jpg",
                     "isDVR": false,
                     "isTimeLineMarker": false,
                     "isDownloadable": false,
@@ -318,7 +113,7 @@
                 "ratingEligibility": true,
                 "ratingDisplay": false,
                 "titleBrief": "",
-                "baseContentId": 1090539293,
+                "baseContentId": 1090539294,
                 "isBaseAsset": true
             },
             "playback_info": {
@@ -328,7 +123,7 @@
                 "resultObj": {
                     "showPlayerStats": false,
                     "is_preview_enabled": false,
-                    "videoURL": "https://sonydaimenew.akamaized.net/hls/live/20000293/Football1608/ENG/master.m3u8?hdnea=exp=1786895431~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=8f69e171927fe7b6f746d5e49fb306a0ae8ce6a81c95dcb0760174ca952373df",
+                    "videoURL": "https://sonydaimenew.akamaized.net/hls/live/20000385/Football1608/ENG/master.m3u8?hdnea=exp=1786906231~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=913e9428661182ca0f93e7a26d7eafbb627ccb7c554c7f6ed109ba8a261c87a2",
                     "multiLanguageVideoURL": [],
                     "audioLanguages": [
                         {
@@ -344,7 +139,7 @@
                     "posterURL": "",
                     "sprite_image_url": "",
                     "tv_sprite_image_url": "",
-                    "dai_asset_key": "ORHLqlgTTr6-KDzCQv-ylA",
+                    "dai_asset_key": "-nqRNvkhTMmWrZ58dVP62w",
                     "contextual_cue_point": {},
                     "cuepoints": [],
                     "isLive": true,
@@ -425,7 +220,407 @@
                     "multiAudioTrack": true,
                     "packId": "liv_premium_GP_1m"
                 },
-                "systemTime": 1786873831869
+                "systemTime": 1786884631498
+            }
+        },
+        {
+            "match_info": {
+                "contentId": 1090539295,
+                "externalId": "1090539295",
+                "objectType": "VOD",
+                "isLive": true,
+                "objectSubtype": "LIVE_SPORT",
+                "contentType": "VOD",
+                "contentSubtype": "LIVE_SPORT",
+                "title": "The Hundred 2026 (Women's)",
+                "longDescription": "Champions will be crowned as Trent Rockets meet Sunrisers Leeds in The Hundred Women’s Final. Catch all the action LIVE on Sony LIV.",
+                "shortDescription": "Champions will be crowned as Trent Rockets meet Sunrisers Leeds in The Hundred Women’s Final. Catch all the action LIVE on Sony LIV.",
+                "isCopyProtected": false,
+                "contractStartDate": 1786884300000,
+                "contractEndDate": 1786913100000,
+                "episodeTitle": "Trent Rockets vs Sunrisers Leeds - Final - 16 Aug 2026",
+                "genres": [
+                    "Cricket"
+                ],
+                "originalAirDate": 1786886100000,
+                "pcExtendedRatings": [],
+                "isOnAir": true,
+                "isEncrypted": false,
+                "pcVodLabel": "3+",
+                "duration": 0,
+                "language": "ENG",
+                "isGeoBlocked": false,
+                "advertisingInfoList": [],
+                "emfAttributes": {
+                    "venue_name": "Lord's, London",
+                    "region_of_origin": "English",
+                    "svod_advertising": "true",
+                    "audio_languages": "ENG",
+                    "sub_category": "Sport",
+                    "snp_tags": "Suitable for all",
+                    "is_multi_track_per_language_available": false,
+                    "packageid": "12m_mobile_saarc,Liv_Pre_Yupp,12m_saarc,1m_saarc,liv_premium_GP_1m,liv_premium_GP_1m_mobile,LIV_Pre_Mob_1M,liv_binge_1m",
+                    "broadcast_channel": "Sony Sports Ten 5",
+                    "Maximum_Video_Quality": "SDR",
+                    "Maximum_Resolution": "FULL_HD",
+                    "advertising": "AD SUPPORTED",
+                    "isdvr": "No",
+                    "emaAttributes": {},
+                    "kids_safe": true,
+                    "away_team": "Sunrisers Leeds",
+                    "tv_background_image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022270/1786812461681953_THE_HUNDRED_2026_womens_Final_Trent_Rockets_vs_Sunrisers_Leeds_tv_Bg.jpg",
+                    "content_marquee_status": false,
+                    "country_rating": {
+                        "3+": "BD,NP,MV,BT,LK,AF,PK,MM"
+                    },
+                    "3+": "BD,NP,MV,BT,LK,AF,PK,MM",
+                    "marquee_target_state": [],
+                    "projected_max_concurrency": 100000,
+                    "value": "SVOD",
+                    "is_audio_desc_available": false,
+                    "target_impressions_per_week": 2000000,
+                    "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022270/1786812419943953_THE_HUNDRED_2026_womens_Final_Trent_Rockets_vs_Sunrisers_Leeds_landscape_thumb.jpg",
+                    "variant_asset_languages": [],
+                    "broadcast_channel_hin": "सोनी स्पोर्ट्स तेन ५",
+                    "live_label_display": true,
+                    "ad_cluster_id": "ad_cluster_1",
+                    "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022270/1786812271879953_THE_HUNDRED_2026_womens_Final_Trent_Rockets_vs_Sunrisers_Leeds_live_portrait_thumb.jpg",
+                    "seo_tags": "watch women’s cricket live,SonyLIV The Hundred stream,match highlights,women’s cricket schedule,Smriti Mandhana live,Nat Sciver-Brunt Hundred,Harmanpreet Kaur match,Sophie Ecclestone bowling,Tammy Beaumont batting,Oval Invincibles women,Manchester Originals women,Birmingham Phoenix women,Trent Rockets women,London Spirit women,Welsh Fire women,cricket on mobile,Smart TV cricket stream,HD women’s cricket,free cricket stream,SonyLIV app cricket,women’s match today,The Hundred teams,watch cricket online,women’s cricket stars,tournament 2025,SonyLIV live coverage,cricket streaming app,match timings,SonyLIV cricket content,The Hundred Women's live,women's cricket live streaming,watch The Hundred online,SonyLIV cricket,The Hundred Women 2026,the hundred league 2026,the hundred women live score,the hundred women's live,the hundred women 2026 schedule,the hundred league 2026 schedule,the hundred women 2026,the hundred women score,the hundred women scorecard,the hundred women's schedule,live cricket score,live score,cricket live,cricket scoreboard,cricket scores,today match,cricket match,live cricket match,women cricket,points table,women's cricket live,women cricket live,women cricket live score,upcoming cricket matches,today women's cricket match,women cricket score,match schedules,women cricket teams,cricket highlights,women cricket match today,women cricket today,english women's cricket,match updates,cricket fixtures,women cricket schedule,women cricket points table,live women cricket match,live match updates,women cricket players,match fixtures,100 ball cricket,women cricket scorecard,women cricket league,women's cricket highlights,women cricket highlights,cricket knockout,women cricket results,women cricket tournament,live women's cricket streaming,women cricket fixtures,women cricket standings,women cricket latest news,Smriti Mandhana,Jemimah Rodrigues,Harmanpreet Kaur,Ellyse Perry,Richa Ghosh,Lauren Bell,Laura Wolvaardt,Amelia Kerr,Sophie Devine,Phoebe Litchfield,Marizanne Kapp,Beth Mooney,Georgia Voll,Grace Harris,Meg Lanning,Charlie Dean,Sophie Ecclestone,Annabel Sutherland,Hayley Matthews,Amy Jones,Georgia Wareham,Danni Wyatt Hodge,Alice Capsey,Shabnim Ismail,Deandra Dottin,Kathryn Bryce,Sarah Glenn,Mahika Gaur,Tammy Beaumont,Danielle Gibson",
+                    "Free_countries": "",
+                    "overlay_visibility": "0",
+                    "target_frequency_per_week": 3,
+                    "SVOD_countries": "_bd,_np,_mv,_bt,_lk,_af,_pk,_mm",
+                    "is_subtitle_cc_available": false,
+                    "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022270/1786812419943953_THE_HUNDRED_2026_womens_Final_Trent_Rockets_vs_Sunrisers_Leeds_landscape_thumb.jpg",
+                    "audio_language_list": [
+                        {
+                            "lang_code": "ENG",
+                            "lang_label": "English"
+                        }
+                    ],
+                    "Maximum_Audio_Quality": "STEREO",
+                    "home_team": "Trent Rockets",
+                    "sub_license": "No",
+                    "is_auto_play_trailer": true,
+                    "integrated_splash_available": "Yes",
+                    "isDVR": false,
+                    "isTimeLineMarker": false,
+                    "isDownloadable": false,
+                    "is_preview_enabled": false,
+                    "sprite_image_url": "",
+                    "tv_sprite_image_url": "",
+                    "tl_marker": "",
+                    "icon_on_asset": {
+                        "play_focus_icon": "https://origin-staticv2.sonyliv.com/UI_icons/spotlight/focus_play_icon.png",
+                        "play_normal_icon": "https://origin-staticv2.sonyliv.com/UI_icons/spotlight/non_focused_play_icon.png"
+                    }
+                },
+                "isADVAllowed": false,
+                "ratingEligibility": true,
+                "ratingDisplay": false,
+                "titleBrief": "",
+                "baseContentId": 1090539295,
+                "isBaseAsset": true
+            },
+            "playback_info": {
+                "resultCode": "OK",
+                "message": "",
+                "errorDescription": "200-10000",
+                "resultObj": {
+                    "showPlayerStats": false,
+                    "is_preview_enabled": false,
+                    "videoURL": "https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-HWOM/master.m3u8?hdnea=exp=1786906239~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=1026d6f9fe4f49c40f4b6230e5812f6b24ed0cd44f273c1608de384521232271",
+                    "multiLanguageVideoURL": [],
+                    "audioLanguages": [
+                        {
+                            "audioLanguageName": "ENG",
+                            "audioLanguageLabel": "English"
+                        }
+                    ],
+                    "trailer_url": "",
+                    "subtitle": [],
+                    "isEncrypted": false,
+                    "isDVR": false,
+                    "isDownloadable": false,
+                    "posterURL": "",
+                    "sprite_image_url": "",
+                    "tv_sprite_image_url": "",
+                    "dai_asset_key": "",
+                    "contextual_cue_point": {},
+                    "cuepoints": [],
+                    "isLive": true,
+                    "country_rating": {
+                        "3+": "BD,NP,MV,BT,LK,AF,PK,MM"
+                    },
+                    "dai_asset_key_hlsfp": "",
+                    "dai_asset_key_wm": "",
+                    "Maximum_Video_Quality": "SDR",
+                    "Maximum_Audio_Quality": "STEREO",
+                    "Maximum_Resolution": "FULL_HD",
+                    "isWatermarked": "false",
+                    "watermark_partner": "",
+                    "upfrontAudio": true,
+                    "pcVodLabel": "3+",
+                    "promotionUrl": "",
+                    "hasPromotion": false,
+                    "contentProvider": "ENGLAND AND WALES CRICKET",
+                    "sony_match_id": "",
+                    "tl_marker": "",
+                    "checksum": "",
+                    "kid_mss": "",
+                    "parentId": "1700001268",
+                    "selectedLanguage": {
+                        "lang_label": "English",
+                        "lang_code": "ENG",
+                        "lang_type": "main",
+                        "lang_identifier": ""
+                    },
+                    "originalLanguage": {
+                        "lang_label": "English",
+                        "lang_code": "eng",
+                        "lang_type": "main",
+                        "lang_identifier": ""
+                    },
+                    "stateLanguage": {},
+                    "isFirstVideoPlayedInDevice": false,
+                    "adstack": "DAI-IMA",
+                    "targetedDelivery": {
+                        "td_server_hints": {
+                            "pip_bw_initial": 800000,
+                            "pip_bw_max": 7000000,
+                            "pip_vod_prefetch": 30,
+                            "pip_vod_initial_buffer_mb": 11,
+                            "pip_vod_initial_buffer_sec": 12,
+                            "pip_vod_max_buffer_mb": 79,
+                            "pip_vod_max_buffer_sec": 90,
+                            "pip_live_initial_buffer": 8,
+                            "pip_live_target_latency": 10,
+                            "analytics_expt_id": "middleware"
+                        }
+                    },
+                    "parents": [
+                        {
+                            "parentId": 1590016400,
+                            "parentType": "BUNDLE",
+                            "parentSubType": "MATCH_TYPE"
+                        },
+                        {
+                            "parentId": 1700001268,
+                            "parentType": "GROUP_OF_BUNDLES",
+                            "parentSubType": "TOURNAMENT"
+                        }
+                    ],
+                    "additionalDataJson": {},
+                    "LA_Details": {},
+                    "is_audio_desc_available": false,
+                    "is_multi_track_per_language_available": false,
+                    "multiAudioTrack": true,
+                    "packId": "liv_premium_GP_1m"
+                },
+                "systemTime": 1786884639919
+            }
+        },
+        {
+            "match_info": {
+                "contentId": 1090539307,
+                "externalId": "1090539307",
+                "objectType": "VOD",
+                "isLive": true,
+                "objectSubtype": "LIVE_SPORT",
+                "contentType": "VOD",
+                "contentSubtype": "LIVE_SPORT",
+                "title": "ABB FIA Formula E World Championship",
+                "longDescription": "Catch all the action from the London E-Prix - final race, LIVE on Sony LIV.",
+                "shortDescription": "Catch all the action from the London E-Prix - final race, LIVE on Sony LIV.",
+                "isCopyProtected": false,
+                "contractStartDate": 1786883400000,
+                "contractEndDate": 1786904100000,
+                "episodeTitle": "R17 - London E-Prix - Final Race - 16 Aug 2026",
+                "genres": [
+                    "Racing"
+                ],
+                "originalAirDate": 1786885200000,
+                "pcExtendedRatings": [],
+                "isOnAir": true,
+                "isEncrypted": false,
+                "pcVodLabel": "3+",
+                "duration": 0,
+                "language": "ENG",
+                "isGeoBlocked": false,
+                "advertisingInfoList": [],
+                "emfAttributes": {
+                    "venue_name": "ExCeL London",
+                    "region_of_origin": "English",
+                    "svod_advertising": "true",
+                    "audio_languages": "ENG",
+                    "sub_category": "Sport",
+                    "snp_tags": "Suitable for all",
+                    "is_multi_track_per_language_available": false,
+                    "packageid": "12m_mobile_saarc,Liv_Pre_Yupp,12m_saarc,1m_saarc,liv_premium_GP_1m,liv_premium_GP_1m_mobile,LIV_Pre_Mob_1M,liv_binge_1m",
+                    "broadcast_channel": "Sony Sports Ten 5",
+                    "Maximum_Video_Quality": "SDR",
+                    "Maximum_Resolution": "FULL_HD",
+                    "advertising": "AD SUPPORTED",
+                    "isdvr": "No",
+                    "emaAttributes": {},
+                    "tv_background_image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021745/1785704626111524_ABB_FIA_FormulaE_WC26_R17_London_EPrix_final_Race_tv_bg.jpg",
+                    "U": "IN",
+                    "country_rating": {
+                        "U": "IN",
+                        "3+": "BD,NP,LK,PK,AF,BT,MV"
+                    },
+                    "3+": "BD,NP,LK,PK,AF,BT,MV",
+                    "value": "SVOD",
+                    "is_audio_desc_available": false,
+                    "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021745/1785704735257524_ABB_FIA_FormulaE_WC26_R17_London_EPrix_final_Race_landscape_thumb.jpg",
+                    "variant_asset_languages": [],
+                    "broadcast_channel_hin": "सोनी स्पोर्ट्स तेन ५",
+                    "live_label_display": true,
+                    "ad_cluster_id": "ad_cluster_1",
+                    "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021745/1785704689543524_ABB_FIA_FormulaE_WC26_R17_London_EPrix_final_Race_portrait_thumb.jpg",
+                    "dai_asset_key": "HVMpz3p1RCedGtnZMQB3KA",
+                    "seo_tags": "Formula E,ABB FIA Formula E,Formula E Championship,Electric racing,FIA electric racing series,E-Prix,Electric street racing,ABB Formula E,Electric car racing,FIA Formula E World Championship,Formula E teams,Formula E drivers,Electric motorsport,ABB Formula E schedule,Formula E tickets,Formula E results,Formula E highlights,Electric vehicle racing,ABB Formula E news,Formula E technology",
+                    "Free_countries": "",
+                    "overlay_visibility": "0",
+                    "SVOD_countries": "_in,_bd,_np,_mv,_af,_pk,_bt,_lk",
+                    "is_subtitle_cc_available": false,
+                    "ssai_partners": "Google DAI",
+                    "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021745/1785704735257524_ABB_FIA_FormulaE_WC26_R17_London_EPrix_final_Race_landscape_thumb.jpg",
+                    "audio_language_list": [
+                        {
+                            "lang_code": "ENG",
+                            "lang_label": "English"
+                        }
+                    ],
+                    "Maximum_Audio_Quality": "STEREO",
+                    "is_auto_play_trailer": true,
+                    "integrated_splash_available": "Yes",
+                    "isTimeLineMarker_new": "false",
+                    "isDVR": false,
+                    "isTimeLineMarker": false,
+                    "isDownloadable": false,
+                    "is_preview_enabled": false,
+                    "sprite_image_url": "",
+                    "tv_sprite_image_url": "",
+                    "kids_safe": false,
+                    "tl_marker": "",
+                    "icon_on_asset": {
+                        "play_focus_icon": "https://origin-staticv2.sonyliv.com/UI_icons/spotlight/focus_play_icon.png",
+                        "play_normal_icon": "https://origin-staticv2.sonyliv.com/UI_icons/spotlight/non_focused_play_icon.png"
+                    }
+                },
+                "isADVAllowed": false,
+                "ratingEligibility": true,
+                "ratingDisplay": false,
+                "titleBrief": "",
+                "baseContentId": 1090539307,
+                "isBaseAsset": true
+            },
+            "playback_info": {
+                "resultCode": "OK",
+                "message": "",
+                "errorDescription": "200-10000",
+                "resultObj": {
+                    "showPlayerStats": false,
+                    "is_preview_enabled": false,
+                    "videoURL": "https://sonydaimenew.akamaized.net/hls/live/20000297/FormulaE1608/ENG/master.m3u8?hdnea=exp=1786906246~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=8ca11a7e194ab53e2f312f1896b172b157ac59515df9fe89c2c920b164b974bd",
+                    "multiLanguageVideoURL": [],
+                    "audioLanguages": [
+                        {
+                            "audioLanguageName": "ENG",
+                            "audioLanguageLabel": "English"
+                        }
+                    ],
+                    "trailer_url": "",
+                    "subtitle": [],
+                    "isEncrypted": false,
+                    "isDVR": false,
+                    "isDownloadable": false,
+                    "posterURL": "",
+                    "sprite_image_url": "",
+                    "tv_sprite_image_url": "",
+                    "dai_asset_key": "HTO8eZQmSFOs-udidDawww",
+                    "contextual_cue_point": {},
+                    "cuepoints": [],
+                    "isLive": true,
+                    "country_rating": {
+                        "U": "IN",
+                        "3+": "BD,NP,LK,PK,AF,BT,MV"
+                    },
+                    "dai_asset_key_hlsfp": "",
+                    "dai_asset_key_wm": "",
+                    "Maximum_Video_Quality": "SDR",
+                    "Maximum_Audio_Quality": "STEREO",
+                    "Maximum_Resolution": "FULL_HD",
+                    "isWatermarked": "false",
+                    "watermark_partner": "",
+                    "upfrontAudio": true,
+                    "pcVodLabel": "3+",
+                    "promotionUrl": "",
+                    "hasPromotion": false,
+                    "contentProvider": "FORMULA E OPERATIONS LIMITED",
+                    "sony_match_id": "",
+                    "tl_marker": "",
+                    "checksum": "",
+                    "kid_mss": "",
+                    "parentId": "1700001373",
+                    "selectedLanguage": {
+                        "lang_label": "English",
+                        "lang_code": "ENG",
+                        "lang_type": "main",
+                        "lang_identifier": ""
+                    },
+                    "originalLanguage": {
+                        "lang_label": "English",
+                        "lang_code": "eng",
+                        "lang_type": "main",
+                        "lang_identifier": ""
+                    },
+                    "stateLanguage": {},
+                    "isFirstVideoPlayedInDevice": false,
+                    "targetedDelivery": {
+                        "td_server_hints": {
+                            "pip_bw_initial": 800000,
+                            "pip_bw_max": 7000000,
+                            "pip_live_initial_buffer": 8,
+                            "pip_live_target_latency": 10,
+                            "analytics_expt_id": "9UexVSmNVs"
+                        }
+                    },
+                    "parents": [
+                        {
+                            "parentId": 1590014651,
+                            "parentType": "BUNDLE",
+                            "parentSubType": "MATCH_TYPE"
+                        },
+                        {
+                            "parentId": 1700001373,
+                            "parentType": "GROUP_OF_BUNDLES",
+                            "parentSubType": "TOURNAMENT"
+                        }
+                    ],
+                    "additionalDataJson": {
+                        "adServer": "GAM",
+                        "ad_stack": "DAI-IMA",
+                        "audioCodec": "AAC",
+                        "audio_quality": "STEREO",
+                        "enc_format": "HLS",
+                        "fps": 25,
+                        "isDaiKey": true,
+                        "partners": [
+                            "ALL"
+                        ],
+                        "resolution": "SD",
+                        "videoCodec": "H264",
+                        "video_quality": "SDR"
+                    },
+                    "LA_Details": {},
+                    "is_audio_desc_available": false,
+                    "is_multi_track_per_language_available": false,
+                    "multiAudioTrack": true,
+                    "packId": "liv_premium_GP_1m"
+                },
+                "systemTime": 1786884646510
             }
         },
         {
