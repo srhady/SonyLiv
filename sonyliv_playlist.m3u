@@ -2,7 +2,10 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 03:20:26 PM 17-08-2026
+# last_update: 03:50:26 PM 17-08-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090539434" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022291/1786875259795377_SL_vs_IND_1st_Test_Day3_live_landscape_thumb_clean.jpg" group-title="Cricket", Day 3 - 1st Test - 17 Aug 2026 | India Tour of Sri Lanka 2026
 https://sonyeventsglobal.akamaized.net/hls/live/2022322/DAI18-INDSL/master.m3u8?hdnea=exp=1786976431~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=35de000b56c1eb6ccb1da579f26790211f92b432bf08682a3b1cc755da981bec
+
+#EXTINF:-1 tvg-id="sonyliv-1090539441" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022296/1786877925170364_DurandCup_QF_Mohun_Bagan_vs_Jamshedpur_FC_landscape_thumb.jpg" group-title="Football", Mohun Bagan Super Giant vs Jamshedpur FC - Quarter Final 3 - 17 Aug 2026 | IndianOil Durand Cup 2026
+https://sonydaimenew.akamaized.net/hls/live/20000292/Football1708/ENG/master.m3u8?hdnea=exp=1786981832~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=55335f4da0c4273e4e5dff90ff44e26349b0c7b471ac26cc4e59c2a66b65bbef
