@@ -2,13 +2,10 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 09:50:27 PM 19-08-2026
+# last_update: 10:20:24 PM 19-08-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090539718" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022501/1787127640143272_eng_vs_pak_live_1Test_day1_landscape_thumb.jpg" group-title="Cricket", Day 1 - 1st Test - 19 Aug 2026 | Pakistan Tour of England 2026
 https://sonydaimenew.akamaized.net/hls/live/20000376/criclive1908/ENG/master.m3u8?hdnea=exp=1787170836~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=bf8f48460fa032cb48b25e8121d488dfba4bbb0fda39e1eca80becec4678f53a
-
-#EXTINF:-1 tvg-id="sonyliv-1090539668" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022423/1787043486579998_Durand_cup_S-F_SC-Delhi-vs-East-Bengal-FC_live_landscape_thumb.jpg" group-title="Football", SC Delhi vs East Bengal FC - Semi-Final - 19 Aug 2026 | IndianOil Durand Cup 2026
-https://sonydaimenew.akamaized.net/hls/live/20000297/Football1908/ENG/master.m3u8?hdnea=exp=1787165432~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=d766717a8986ce8d314736f8775ea1ec860859f3bdc6db7f471fa1ff9e50d27a
 
 #EXTINF:-1 tvg-id="sonyliv-1090539717" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000021920/1786182966623520_Vitality_Mixed_Disability_7th_T20i_England_vs_India_landscape_thumb.jpg" group-title="Cricket", England vs India - 7th T20I - 19 Aug 2026 | Vitality Mixed Disability IT20 series
 https://sonydaimenew.akamaized.net/hls/live/20000298/Cricket_1908/ENG/master.m3u8?hdnea=exp=1787170843~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=904e72dc1b70b7dfe506d95f0575e8c51fc7e8a404beda42a742c0d2fce33160
