@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "05:20:25 PM 19-08-2026"
+        "last_update": "05:50:24 PM 19-08-2026"
     },
     "live_matches": [
         {
@@ -51,6 +51,7 @@
                     "masthead_mobile_v1": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022433/1787051381924890_England_vs_Pakistan_2026_Match_masthead_logo_V1_692x390_1stTEST_LIVE.png",
                     "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022501/1787127640143272_eng_vs_pak_live_1Test_day1_landscape_thumb.jpg",
                     "variant_asset_languages": [],
+                    "broadcast_channel_hin": "सोनी स्पोर्ट्स तेन ५",
                     "ad_cluster_id": "ad_cluster_1",
                     "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022501/1787127554194272_eng_vs_pak_live_1Test_day1_portrait_thumb.jpg",
                     "is_subtitle_cc_available": false,
