@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "12:50:30 AM 20-08-2026"
+        "last_update": "01:20:28 AM 20-08-2026"
     },
     "live_matches": [
         {
@@ -51,6 +51,7 @@
                     "is_searchable": "Yes",
                     "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022391/1786980479078688_UCL26-27_Play-offs_Leg1_Celtic_vs_LASK_live_landscape_thumb.jpg",
                     "variant_asset_languages": [],
+                    "broadcast_channel_hin": "सोनी स्पोर्ट्स तेन २",
                     "ad_cluster_id": "ad_cluster_1",
                     "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022391/1786980307235688_UCL26-27_Play-offs_Leg1_Celtic_vs_LASK_live_portrait_thumb.jpg",
                     "is_subtitle_cc_available": false,
