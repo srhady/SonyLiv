@@ -3,29 +3,29 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "12:20:26 AM 20-08-2026"
+        "last_update": "12:50:30 AM 20-08-2026"
     },
     "live_matches": [
         {
             "match_info": {
-                "contentId": 1090539718,
-                "externalId": "1090539718",
+                "contentId": 1090539675,
+                "externalId": "1090539675",
                 "objectType": "VOD",
                 "isLive": true,
                 "objectSubtype": "LIVE_SPORT",
                 "contentType": "VOD",
                 "contentSubtype": "LIVE_SPORT",
-                "title": "Pakistan Tour of England 2026",
-                "longDescription": "Both England and Pakistan come into this series yearning for a big win to boost their place in the ICC World Test Championship Points table. Which side will draw first blood in the 1st Test? Find out as we bring you all the action from Day 1 of Pakistan Tour of England 2026, LIVE on Sony LIV.",
-                "shortDescription": "Both England and Pakistan come into this series yearning for a big win to boost their place in the ICC World Test Championship Points table. Which side will draw first blood in the 1st Test? Find out as we bring you all the action from Day 1 of Pakistan Tour of England 2026, LIVE on Sony LIV.",
+                "title": "UEFA Champions League 2026-27",
+                "longDescription": "Celtic takes on LASK in Leg 1 of the UEFA Champions League 2026-27 Play-offs. Catch all the action from the UEFA Champions League 2026-27, LIVE only on Sony LIV.",
+                "shortDescription": "Celtic takes on LASK in Leg 1 of the UEFA Champions League 2026-27 Play-offs. Catch all the action from the UEFA Champions League 2026-27, LIVE only on Sony LIV.",
                 "isCopyProtected": false,
-                "contractStartDate": 1787131800000,
-                "contractEndDate": 1787175000000,
-                "episodeTitle": "Day 1 - 1st Test - 19 Aug 2026",
+                "contractStartDate": 1787163900000,
+                "contractEndDate": 1787181900000,
+                "episodeTitle": "Celtic vs LASK - Play-offs - Leg 1 - 20 Aug 2026",
                 "genres": [
-                    "Cricket"
+                    "Football"
                 ],
-                "originalAirDate": 1787133600000,
+                "originalAirDate": 1787165700000,
                 "pcExtendedRatings": [],
                 "isOnAir": true,
                 "isEncrypted": false,
@@ -38,25 +38,24 @@
                     "audio_languages": "ENG",
                     "snp_tags": "Suitable for all",
                     "packageid": "12m_mobile_saarc,Liv_Pre_Yupp,12m_saarc,1m_saarc,liv_premium_GP_1m,liv_premium_GP_1m_mobile,LIV_Pre_Mob_1M,liv_binge_1m",
-                    "masthead_logo_rectangualar": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022425/1787047139541230_England_vs_Pakistan_2026_Match_masthead_logo_rectangualar_950x570_1stTEST_Day1_LIVE.png",
+                    "masthead_logo_rectangualar": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022452/1787060450317870_UCL26_27_Match_masthead_logo_rectangualar_950x570_Celtic_vs_LASK_LIVE.png",
                     "Maximum_Resolution": "FULL_HD",
-                    "masthead_logo_v1": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022425/1787047139927230_England_vs_Pakistan_2026_Match_masthead_logo_V1_692x390_1stTEST_Day1_LIVE.png",
+                    "masthead_logo_v1": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022452/1787060450364870_UCL26_27_Match_masthead_logo_V1_692x390_Celtic_vs_LASK_LIVE.png",
                     "advertising": "AD SUPPORTED",
                     "emaAttributes": {},
                     "kids_safe": false,
-                    "tv_background_image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022483/1787115535247205_eng_vs_pak_1st_test_today_rev_tv_bg.jpg",
+                    "tv_background_image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022391/1786980564643688_UCL26-27_Play-offs_Leg1_Celtic_vs_LASK_live_tv_bg.jpg",
                     "content_marquee_status": false,
                     "marquee_target_state": [],
-                    "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022497/1787126866119128_England_vs_Pakistan_2026_Match_masthead_mobile_v2_984x1182.jpg",
-                    "masthead_mobile_v1": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022433/1787051381924890_England_vs_Pakistan_2026_Match_masthead_logo_V1_692x390_1stTEST_LIVE.png",
-                    "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022501/1787127640143272_eng_vs_pak_live_1Test_day1_landscape_thumb.jpg",
+                    "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022452/1787060450254870_UCL26_27_GENERIC_masthead_mobile_v2_984x1182_Celtic_vs_LASK.jpg",
+                    "is_searchable": "Yes",
+                    "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022391/1786980479078688_UCL26-27_Play-offs_Leg1_Celtic_vs_LASK_live_landscape_thumb.jpg",
                     "variant_asset_languages": [],
-                    "broadcast_channel_hin": "सोनी स्पोर्ट्स तेन ५",
                     "ad_cluster_id": "ad_cluster_1",
-                    "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022501/1787127554194272_eng_vs_pak_live_1Test_day1_portrait_thumb.jpg",
+                    "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022391/1786980307235688_UCL26-27_Play-offs_Leg1_Celtic_vs_LASK_live_portrait_thumb.jpg",
                     "is_subtitle_cc_available": false,
                     "ssai_partners": "Google DAI",
-                    "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022501/1787127640143272_eng_vs_pak_live_1Test_day1_landscape_thumb.jpg",
+                    "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022391/1786980479078688_UCL26-27_Play-offs_Leg1_Celtic_vs_LASK_live_landscape_thumb.jpg",
                     "audio_language_list": [
                         {
                             "lang_code": "ENG",
@@ -64,42 +63,41 @@
                         }
                     ],
                     "Maximum_Audio_Quality": "STEREO",
-                    "matchid": "",
-                    "isTimeLineMarker_new": "true",
-                    "venue_name": "Headingley, Leeds",
+                    "sub_license": "Yes",
+                    "isTimeLineMarker_new": "false",
+                    "venue_name": "Celtic Park",
                     "region_of_origin": "English",
                     "svod_advertising": "true",
                     "sub_category": "Sport",
                     "is_multi_track_per_language_available": false,
-                    "broadcast_channel": "Sony Sports Ten 5",
+                    "broadcast_channel": "Sony Sports Ten 2",
                     "Maximum_Video_Quality": "SDR",
                     "isdvr": "No",
-                    "away_team": "Pakistan",
+                    "away_team": "LASK",
                     "U": "IN",
                     "theme_applied": false,
                     "country_rating": {
                         "U": "IN",
-                        "3+": "BD,NP,LK,BT,MV,AF,PK,MM"
+                        "3+": "BD,NP,LK,PK,AF,BT,MV"
                     },
-                    "3+": "BD,NP,LK,BT,MV,AF,PK,MM",
-                    "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022425/1787047139082230_England_vs_Pakistan_2026_Match_Masthead_logo_1stTEST_Day1_LIVE.png",
+                    "3+": "BD,NP,LK,PK,AF,BT,MV",
+                    "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022452/1787060450285870_UCL26_27_Match_Masthead_logo_Celtic_vs_LASK_LIVE.png",
                     "projected_max_concurrency": 100000,
                     "value": "SVOD",
                     "is_audio_desc_available": false,
                     "target_impressions_per_week": 2000000,
                     "live_label_display": true,
-                    "dai_asset_key": "hL0zjl_nQv6Cqd1-CIjZgg",
-                    "match_start_time": "1787131800",
-                    "seo_tags": "Pakistan Tour of England 2026,PAK vs ENG 2026,England vs Pakistan,Pakistan vs England Test Series,England Pakistan Test Cricket,PAK Tour of England,England Cricket Team,Pakistan Cricket Team,World Test Championship,WTC 2025-27,Test Cricket Highlights,England vs Pakistan Live,PAK vs ENG Highlights,England vs Pakistan Test Highlights,Babar Azam,Mohammad Rizwan,Saud Shakeel,Abdullah Shafique,Shan Masood,Salman Ali Agha,Aamer Jamal,Imam ul Haq,Khurram Shahzad,Mohammad Abbas,Sajid Khan,Ubaid Shah,Joe Root,Harry Brook,Ben Duckett,Ollie Pope,Jamie Smith,Jofra Archer,Gus Atkinson,Brydon Carse,Shoaib Bashir",
+                    "dai_asset_key": "pDPKygd_RaSSQPzp4X14vA",
+                    "seo_tags": "uefa champions league,uefa champions league fixtures,uefa champions league live,uefa champions league point table,uefa champions league schedule,watch uefa champions league live,uefa champions league 2026 27,2026 27 uefa champions league,watch uefa champions league online,uefa champions league player stats,watch uefa champions league live online,uefa champions league 2026 live,uefa champions league player lineup,watch champions league 2026 live,watch champions league player lineup,watch champions league player stats,watch uefa champions league 2026,football match,football players,live football match,champions league match,match highlights,football fixtures,football team,football match highlights,international football match,football point table,football schedule,football stats,player stats,international football teams,team stats,mens football match,international football competition,uefa champions league standings,uefa champions league results,uefa champions league highlights,uefa champions league live score,uefa champions league teams,football live score,european",
                     "Free_countries": "",
                     "overlay_visibility": "0",
                     "target_frequency_per_week": 3,
-                    "SVOD_countries": "_in,_bd,_np,_mv,_bt,_lk,_af,_pk,_mm",
-                    "home_team": "England",
+                    "SVOD_countries": "_in,_bd,_np,_mv,_af,_pk,_bt,_lk",
+                    "home_team": "Celtic",
                     "is_auto_play_trailer": true,
                     "integrated_splash_available": "Yes",
-                    "masthead_large_v3": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022497/1787126873360128_England_vs_Pakistan_2026_Match_masthead_large_v3_3200x1800.jpg",
-                    "masthead_large_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022468/1787067542008257_England_vs_Pakistan_2026_Match_masthead_mobile_v2_984x1182.jpg",
+                    "masthead_large_v3": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022452/1787060450238870_UCL26_27_GENERIC_masthead_large_v3_3200x1800_Celtic_vs_LASK.jpg",
+                    "masthead_large_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022452/1787060450254870_UCL26_27_GENERIC_masthead_mobile_v2_984x1182_Celtic_vs_LASK.jpg",
                     "isDVR": false,
                     "isTimeLineMarker": false,
                     "isDownloadable": false,
@@ -116,7 +114,7 @@
                 "ratingEligibility": true,
                 "ratingDisplay": false,
                 "titleBrief": "",
-                "baseContentId": 1090539718,
+                "baseContentId": 1090539675,
                 "isBaseAsset": true
             },
             "playback_info": {
@@ -126,7 +124,7 @@
                 "resultObj": {
                     "showPlayerStats": false,
                     "is_preview_enabled": false,
-                    "videoURL": "https://sonydaimenew.akamaized.net/hls/live/20000376/criclive1908/ENG/master.m3u8?hdnea=exp=1787170836~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=bf8f48460fa032cb48b25e8121d488dfba4bbb0fda39e1eca80becec4678f53a",
+                    "videoURL": "https://sonydaimenew.akamaized.net/hls/live/20000293/Football1908/ENG/master.m3u8?hdnea=exp=1787187034~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=778e9fe5cb2b2d73fa403bce2a3dbb5ce8b4a3ef4aaee56e35b0915eb07054ad",
                     "multiLanguageVideoURL": [],
                     "audioLanguages": [
                         {
@@ -142,13 +140,13 @@
                     "posterURL": "",
                     "sprite_image_url": "",
                     "tv_sprite_image_url": "",
-                    "dai_asset_key": "oVq0tVYHRH2IdcXpscfoKw",
+                    "dai_asset_key": "ORHLqlgTTr6-KDzCQv-ylA",
                     "contextual_cue_point": {},
                     "cuepoints": [],
                     "isLive": true,
                     "country_rating": {
                         "U": "IN",
-                        "3+": "BD,NP,LK,BT,MV,AF,PK,MM"
+                        "3+": "BD,NP,LK,PK,AF,BT,MV"
                     },
                     "dai_asset_key_hlsfp": "",
                     "dai_asset_key_wm": "",
@@ -157,16 +155,16 @@
                     "Maximum_Resolution": "FULL_HD",
                     "isWatermarked": "false",
                     "watermark_partner": "",
-                    "upfrontAudio": false,
+                    "upfrontAudio": true,
                     "pcVodLabel": "3+",
                     "promotionUrl": "",
                     "hasPromotion": false,
-                    "contentProvider": "ENGLAND AND WALES CRICKET",
+                    "contentProvider": "UEFA",
                     "sony_match_id": "",
                     "tl_marker": "",
                     "checksum": "",
                     "kid_mss": "",
-                    "parentId": "1700001442",
+                    "parentId": "1700000773",
                     "selectedLanguage": {
                         "lang_label": "English",
                         "lang_code": "ENG",
@@ -192,12 +190,12 @@
                     },
                     "parents": [
                         {
-                            "parentId": 1590016462,
+                            "parentId": 1590016457,
                             "parentType": "BUNDLE",
                             "parentSubType": "MATCH_TYPE"
                         },
                         {
-                            "parentId": 1700001442,
+                            "parentId": 1700000773,
                             "parentType": "GROUP_OF_BUNDLES",
                             "parentSubType": "TOURNAMENT"
                         }
@@ -223,7 +221,646 @@
                     "multiAudioTrack": true,
                     "packId": "liv_premium_GP_1m"
                 },
-                "systemTime": 1787149236524
+                "systemTime": 1787165434046
+            }
+        },
+        {
+            "match_info": {
+                "contentId": 1090539690,
+                "externalId": "1090539690",
+                "objectType": "VOD",
+                "isLive": true,
+                "objectSubtype": "LIVE_SPORT",
+                "contentType": "VOD",
+                "contentSubtype": "LIVE_SPORT",
+                "title": "UEFA Champions League 2026-27",
+                "longDescription": "H. Beer-Sheva takes on Sabah in Leg 1 of the UEFA Champions League 2026-27 Play-offs. Catch all the action from the UEFA Champions League 2026-27, LIVE only on Sony LIV.",
+                "shortDescription": "H. Beer-Sheva takes on Sabah in Leg 1 of the UEFA Champions League 2026-27 Play-offs. Catch all the action from the UEFA Champions League 2026-27, LIVE only on Sony LIV.",
+                "isCopyProtected": false,
+                "contractStartDate": 1787163900000,
+                "contractEndDate": 1787181900000,
+                "episodeTitle": "H. Beer-Sheva vs Sabah - Play-offs - Leg 1 - 20 Aug 2026",
+                "genres": [
+                    "Football"
+                ],
+                "originalAirDate": 1787165700000,
+                "pcExtendedRatings": [],
+                "isOnAir": true,
+                "isEncrypted": false,
+                "pcVodLabel": "3+",
+                "duration": 0,
+                "language": "ENG",
+                "isGeoBlocked": false,
+                "advertisingInfoList": [],
+                "emfAttributes": {
+                    "audio_languages": "ENG",
+                    "snp_tags": "Suitable for all",
+                    "packageid": "12m_mobile_saarc,Liv_Pre_Yupp,12m_saarc,1m_saarc,liv_premium_GP_1m,liv_premium_GP_1m_mobile,LIV_Pre_Mob_1M,liv_binge_1m",
+                    "Maximum_Resolution": "FULL_HD",
+                    "advertising": "AD SUPPORTED",
+                    "emaAttributes": {},
+                    "kids_safe": false,
+                    "tv_background_image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022412/1787034758187476_UCL_26_Play-offs-Leg1_H-Beer-Sheva-vs-Sabah_live_tv_bg.jpg",
+                    "content_marquee_status": false,
+                    "marquee_target_state": [],
+                    "is_searchable": "Yes",
+                    "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022412/1787034725642476_UCL_26_Play-offs-Leg1_H-Beer-Sheva-vs-Sabah_live_landscape_thumb.jpg",
+                    "variant_asset_languages": [],
+                    "broadcast_channel_hin": "लिव",
+                    "ad_cluster_id": "ad_cluster_1",
+                    "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022412/1787034669993476_UCL_26_Play-offs-Leg1_H-Beer-Sheva-vs-Sabah_live_portrait_thumb.jpg",
+                    "is_subtitle_cc_available": false,
+                    "ssai_partners": "Google DAI",
+                    "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022412/1787034725642476_UCL_26_Play-offs-Leg1_H-Beer-Sheva-vs-Sabah_live_landscape_thumb.jpg",
+                    "audio_language_list": [
+                        {
+                            "lang_code": "ENG",
+                            "lang_label": "English"
+                        }
+                    ],
+                    "Maximum_Audio_Quality": "STEREO",
+                    "sub_license": "Yes",
+                    "isTimeLineMarker_new": "false",
+                    "venue_name": "Terner Stadium",
+                    "region_of_origin": "English",
+                    "svod_advertising": "true",
+                    "sub_category": "Sport",
+                    "is_multi_track_per_language_available": false,
+                    "broadcast_channel": "LIV",
+                    "Maximum_Video_Quality": "SDR",
+                    "isdvr": "No",
+                    "away_team": "Sabah",
+                    "U": "IN",
+                    "theme_applied": false,
+                    "country_rating": {
+                        "U": "IN",
+                        "3+": "BD,NP,LK,PK,AF,BT,MV"
+                    },
+                    "3+": "BD,NP,LK,PK,AF,BT,MV",
+                    "projected_max_concurrency": 100000,
+                    "value": "SVOD",
+                    "is_audio_desc_available": false,
+                    "target_impressions_per_week": 2000000,
+                    "live_label_display": true,
+                    "dai_asset_key": "OmHoNcoVR064pZ1gWNFs_Q",
+                    "seo_tags": "uefa champions league,uefa champions league fixtures,uefa champions league live,uefa champions league point table,uefa champions league schedule,watch uefa champions league live,uefa champions league 2026 27,2026 27 uefa champions league,watch uefa champions league online,uefa champions league player stats,watch uefa champions league live online,uefa champions league 2026 live,uefa champions league player lineup,watch champions league 2026 live,watch champions league player lineup,watch champions league player stats,watch uefa champions league 2026,football match,football players,live football match,champions league match,match highlights,football fixtures,football team,football match highlights,international football match,football point table,football schedule,football stats,player stats,international football teams,team stats,mens football match,international football competition,uefa champions league standings,uefa champions league results,uefa champions league highlights,uefa champions league live score,uefa champions league teams,football live score,european",
+                    "Free_countries": "",
+                    "overlay_visibility": "0",
+                    "target_frequency_per_week": 3,
+                    "SVOD_countries": "_in,_bd,_np,_mv,_af,_pk,_bt,_lk",
+                    "home_team": "H. Beer-Sheva",
+                    "is_auto_play_trailer": true,
+                    "integrated_splash_available": "Yes",
+                    "isDVR": false,
+                    "isTimeLineMarker": false,
+                    "isDownloadable": false,
+                    "is_preview_enabled": false,
+                    "sprite_image_url": "",
+                    "tv_sprite_image_url": "",
+                    "tl_marker": "",
+                    "icon_on_asset": {
+                        "play_focus_icon": "https://origin-staticv2.sonyliv.com/UI_icons/spotlight/focus_play_icon.png",
+                        "play_normal_icon": "https://origin-staticv2.sonyliv.com/UI_icons/spotlight/non_focused_play_icon.png"
+                    }
+                },
+                "isADVAllowed": false,
+                "ratingEligibility": true,
+                "ratingDisplay": false,
+                "titleBrief": "",
+                "baseContentId": 1090539690,
+                "isBaseAsset": true
+            },
+            "playback_info": {
+                "resultCode": "OK",
+                "message": "",
+                "errorDescription": "200-10000",
+                "resultObj": {
+                    "showPlayerStats": false,
+                    "is_preview_enabled": false,
+                    "videoURL": "https://sonydaimenew.akamaized.net/hls/live/20000299/Football1908/ENG/master.m3u8?hdnea=exp=1787187040~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=9aef4f7571f4c32a63bc28cd1742eca9d673384b096bedd9fc618fba7586b353",
+                    "multiLanguageVideoURL": [],
+                    "audioLanguages": [
+                        {
+                            "audioLanguageName": "ENG",
+                            "audioLanguageLabel": "English"
+                        }
+                    ],
+                    "trailer_url": "",
+                    "subtitle": [],
+                    "isEncrypted": false,
+                    "isDVR": false,
+                    "isDownloadable": false,
+                    "posterURL": "",
+                    "sprite_image_url": "",
+                    "tv_sprite_image_url": "",
+                    "dai_asset_key": "5uT8FTtEQ8CSr75Rnh7fVQ",
+                    "contextual_cue_point": {},
+                    "cuepoints": [],
+                    "isLive": true,
+                    "country_rating": {
+                        "U": "IN",
+                        "3+": "BD,NP,LK,PK,AF,BT,MV"
+                    },
+                    "dai_asset_key_hlsfp": "",
+                    "dai_asset_key_wm": "",
+                    "Maximum_Video_Quality": "SDR",
+                    "Maximum_Audio_Quality": "STEREO",
+                    "Maximum_Resolution": "FULL_HD",
+                    "isWatermarked": "false",
+                    "watermark_partner": "",
+                    "upfrontAudio": true,
+                    "pcVodLabel": "3+",
+                    "promotionUrl": "",
+                    "hasPromotion": false,
+                    "contentProvider": "UEFA",
+                    "sony_match_id": "",
+                    "tl_marker": "",
+                    "checksum": "",
+                    "kid_mss": "",
+                    "parentId": "1700000773",
+                    "selectedLanguage": {
+                        "lang_label": "English",
+                        "lang_code": "ENG",
+                        "lang_type": "main",
+                        "lang_identifier": ""
+                    },
+                    "originalLanguage": {
+                        "lang_label": "English",
+                        "lang_code": "eng",
+                        "lang_type": "main",
+                        "lang_identifier": ""
+                    },
+                    "stateLanguage": {},
+                    "isFirstVideoPlayedInDevice": false,
+                    "targetedDelivery": {
+                        "td_server_hints": {
+                            "pip_bw_initial": 800000,
+                            "pip_bw_max": 7000000,
+                            "pip_live_initial_buffer": 8,
+                            "pip_live_target_latency": 10,
+                            "analytics_expt_id": "9UexVSmNVs"
+                        }
+                    },
+                    "parents": [
+                        {
+                            "parentId": 1590016457,
+                            "parentType": "BUNDLE",
+                            "parentSubType": "MATCH_TYPE"
+                        },
+                        {
+                            "parentId": 1700000773,
+                            "parentType": "GROUP_OF_BUNDLES",
+                            "parentSubType": "TOURNAMENT"
+                        }
+                    ],
+                    "additionalDataJson": {
+                        "adServer": "GAM",
+                        "ad_stack": "DAI-IMA",
+                        "audioCodec": "AAC",
+                        "audio_quality": "STEREO",
+                        "enc_format": "HLS",
+                        "fps": 25,
+                        "isDaiKey": true,
+                        "partners": [
+                            "ALL"
+                        ],
+                        "resolution": "SD",
+                        "videoCodec": "H264",
+                        "video_quality": "SDR"
+                    },
+                    "LA_Details": {},
+                    "is_audio_desc_available": false,
+                    "is_multi_track_per_language_available": false,
+                    "multiAudioTrack": true,
+                    "packId": "liv_premium_GP_1m"
+                },
+                "systemTime": 1787165440956
+            }
+        },
+        {
+            "match_info": {
+                "contentId": 1090539693,
+                "externalId": "1090539693",
+                "objectType": "VOD",
+                "isLive": true,
+                "objectSubtype": "LIVE_SPORT",
+                "contentType": "VOD",
+                "contentSubtype": "LIVE_SPORT",
+                "title": "UEFA Champions League 2026-27",
+                "longDescription": "N.E.C. takes on Bodø/Glimt in Leg 1 of the UEFA Champions League 2026-27 Play-offs. Catch all the action from the UEFA Champions League 2026-27, LIVE only on Sony LIV.",
+                "shortDescription": "N.E.C. takes on Bodø/Glimt in Leg 1 of the UEFA Champions League 2026-27 Play-offs. Catch all the action from the UEFA Champions League 2026-27, LIVE only on Sony LIV.",
+                "isCopyProtected": false,
+                "contractStartDate": 1787163900000,
+                "contractEndDate": 1787181900000,
+                "episodeTitle": "N.E.C. vs Bodø/Glimt - Play-offs - Leg 1 - 20 Aug 2026",
+                "genres": [
+                    "Football"
+                ],
+                "originalAirDate": 1787165700000,
+                "pcExtendedRatings": [],
+                "isOnAir": true,
+                "isEncrypted": false,
+                "pcVodLabel": "3+",
+                "duration": 0,
+                "language": "ENG",
+                "isGeoBlocked": false,
+                "advertisingInfoList": [],
+                "emfAttributes": {
+                    "audio_languages": "ENG",
+                    "snp_tags": "Suitable for all",
+                    "packageid": "12m_mobile_saarc,Liv_Pre_Yupp,12m_saarc,1m_saarc,liv_premium_GP_1m,liv_premium_GP_1m_mobile,LIV_Pre_Mob_1M,liv_binge_1m",
+                    "Maximum_Resolution": "FULL_HD",
+                    "advertising": "AD SUPPORTED",
+                    "emaAttributes": {},
+                    "kids_safe": false,
+                    "tv_background_image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022412/1787035508416476_UCL_26_Play-offs-Leg1_NEC-vs-BodO-Glimt_live_tv_bg.jpg",
+                    "content_marquee_status": false,
+                    "marquee_target_state": [],
+                    "is_searchable": "Yes",
+                    "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022412/1787035474329476_UCL_26_Play-offs-Leg1_NEC-vs-BodO-Glimt_live_landscape_thumb.jpg",
+                    "variant_asset_languages": [],
+                    "broadcast_channel_hin": "लिव",
+                    "ad_cluster_id": "ad_cluster_1",
+                    "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022412/1787035405455476_UCL_26_Play-offs-Leg1_NEC-vs-BodO-Glimt_live_portrait_thumb.jpg",
+                    "is_subtitle_cc_available": false,
+                    "ssai_partners": "Google DAI",
+                    "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022412/1787035474329476_UCL_26_Play-offs-Leg1_NEC-vs-BodO-Glimt_live_landscape_thumb.jpg",
+                    "audio_language_list": [
+                        {
+                            "lang_code": "ENG",
+                            "lang_label": "English"
+                        }
+                    ],
+                    "Maximum_Audio_Quality": "STEREO",
+                    "sub_license": "Yes",
+                    "isTimeLineMarker_new": "false",
+                    "venue_name": "Goffertstadion",
+                    "region_of_origin": "English",
+                    "svod_advertising": "true",
+                    "sub_category": "Sport",
+                    "is_multi_track_per_language_available": false,
+                    "broadcast_channel": "LIV",
+                    "Maximum_Video_Quality": "SDR",
+                    "isdvr": "No",
+                    "away_team": "Bodø/Glimt",
+                    "U": "IN",
+                    "theme_applied": false,
+                    "country_rating": {
+                        "U": "IN",
+                        "3+": "BD,NP,LK,PK,AF,BT,MV"
+                    },
+                    "3+": "BD,NP,LK,PK,AF,BT,MV",
+                    "projected_max_concurrency": 100000,
+                    "value": "SVOD",
+                    "is_audio_desc_available": false,
+                    "target_impressions_per_week": 2000000,
+                    "live_label_display": true,
+                    "dai_asset_key": "lqVj4YjSQE6TgVCJaDNnlA",
+                    "seo_tags": "uefa champions league,uefa champions league fixtures,uefa champions league live,uefa champions league point table,uefa champions league schedule,watch uefa champions league live,uefa champions league 2026 27,2026 27 uefa champions league,watch uefa champions league online,uefa champions league player stats,watch uefa champions league live online,uefa champions league 2026 live,uefa champions league player lineup,watch champions league 2026 live,watch champions league player lineup,watch champions league player stats,watch uefa champions league 2026,football match,football players,live football match,champions league match,match highlights,football fixtures,football team,football match highlights,international football match,football point table,football schedule,football stats,player stats,international football teams,team stats,mens football match,international football competition,uefa champions league standings,uefa champions league results,uefa champions league highlights,uefa champions league live score,uefa champions league teams,football live score,european",
+                    "Free_countries": "",
+                    "overlay_visibility": "0",
+                    "target_frequency_per_week": 3,
+                    "SVOD_countries": "_in,_bd,_np,_mv,_af,_pk,_bt,_lk",
+                    "home_team": "N.E.C.",
+                    "is_auto_play_trailer": true,
+                    "integrated_splash_available": "Yes",
+                    "isDVR": false,
+                    "isTimeLineMarker": false,
+                    "isDownloadable": false,
+                    "is_preview_enabled": false,
+                    "sprite_image_url": "",
+                    "tv_sprite_image_url": "",
+                    "tl_marker": "",
+                    "icon_on_asset": {
+                        "play_focus_icon": "https://origin-staticv2.sonyliv.com/UI_icons/spotlight/focus_play_icon.png",
+                        "play_normal_icon": "https://origin-staticv2.sonyliv.com/UI_icons/spotlight/non_focused_play_icon.png"
+                    }
+                },
+                "isADVAllowed": false,
+                "ratingEligibility": true,
+                "ratingDisplay": false,
+                "titleBrief": "",
+                "baseContentId": 1090539693,
+                "isBaseAsset": true
+            },
+            "playback_info": {
+                "resultCode": "OK",
+                "message": "",
+                "errorDescription": "200-10000",
+                "resultObj": {
+                    "showPlayerStats": false,
+                    "is_preview_enabled": false,
+                    "videoURL": "https://sonydaimenew.akamaized.net/hls/live/20000295/Football1908/ENG/master.m3u8?hdnea=exp=1787187052~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=f5d894efcddb2445eea897f5de71092a947ce5bc58da26f4ced3fd96b177eeef",
+                    "multiLanguageVideoURL": [],
+                    "audioLanguages": [
+                        {
+                            "audioLanguageName": "ENG",
+                            "audioLanguageLabel": "English"
+                        }
+                    ],
+                    "trailer_url": "",
+                    "subtitle": [],
+                    "isEncrypted": false,
+                    "isDVR": false,
+                    "isDownloadable": false,
+                    "posterURL": "",
+                    "sprite_image_url": "",
+                    "tv_sprite_image_url": "",
+                    "dai_asset_key": "Jh7uKPjJT5ew26R51u2hLg",
+                    "contextual_cue_point": {},
+                    "cuepoints": [],
+                    "isLive": true,
+                    "country_rating": {
+                        "U": "IN",
+                        "3+": "BD,NP,LK,PK,AF,BT,MV"
+                    },
+                    "dai_asset_key_hlsfp": "",
+                    "dai_asset_key_wm": "",
+                    "Maximum_Video_Quality": "SDR",
+                    "Maximum_Audio_Quality": "STEREO",
+                    "Maximum_Resolution": "FULL_HD",
+                    "isWatermarked": "false",
+                    "watermark_partner": "",
+                    "upfrontAudio": true,
+                    "pcVodLabel": "3+",
+                    "promotionUrl": "",
+                    "hasPromotion": false,
+                    "contentProvider": "UEFA",
+                    "sony_match_id": "",
+                    "tl_marker": "",
+                    "checksum": "",
+                    "kid_mss": "",
+                    "parentId": "1700000773",
+                    "selectedLanguage": {
+                        "lang_label": "English",
+                        "lang_code": "ENG",
+                        "lang_type": "main",
+                        "lang_identifier": ""
+                    },
+                    "originalLanguage": {
+                        "lang_label": "English",
+                        "lang_code": "eng",
+                        "lang_type": "main",
+                        "lang_identifier": ""
+                    },
+                    "stateLanguage": {},
+                    "isFirstVideoPlayedInDevice": false,
+                    "targetedDelivery": {
+                        "td_server_hints": {
+                            "pip_bw_initial": 800000,
+                            "pip_bw_max": 7000000,
+                            "pip_live_initial_buffer": 8,
+                            "pip_live_target_latency": 10,
+                            "analytics_expt_id": "9UexVSmNVs"
+                        }
+                    },
+                    "parents": [
+                        {
+                            "parentId": 1590016457,
+                            "parentType": "BUNDLE",
+                            "parentSubType": "MATCH_TYPE"
+                        },
+                        {
+                            "parentId": 1700000773,
+                            "parentType": "GROUP_OF_BUNDLES",
+                            "parentSubType": "TOURNAMENT"
+                        }
+                    ],
+                    "additionalDataJson": {
+                        "adServer": "GAM",
+                        "ad_stack": "DAI-IMA",
+                        "audioCodec": "AAC",
+                        "audio_quality": "STEREO",
+                        "enc_format": "HLS",
+                        "fps": 25,
+                        "isDaiKey": true,
+                        "partners": [
+                            "ALL"
+                        ],
+                        "resolution": "SD",
+                        "videoCodec": "H264",
+                        "video_quality": "SDR"
+                    },
+                    "LA_Details": {},
+                    "is_audio_desc_available": false,
+                    "is_multi_track_per_language_available": false,
+                    "multiAudioTrack": true,
+                    "packId": "liv_premium_GP_1m"
+                },
+                "systemTime": 1787165452885
+            }
+        },
+        {
+            "match_info": {
+                "contentId": 1090539683,
+                "externalId": "1090539683",
+                "objectType": "VOD",
+                "isLive": true,
+                "objectSubtype": "LIVE_SPORT",
+                "contentType": "VOD",
+                "contentSubtype": "LIVE_SPORT",
+                "title": "UEFA Champions League 2026-27",
+                "longDescription": "Bratislava takes on Celje in Leg 1 of the UEFA Champions League 2026-27 Play-offs. Catch all the action from the UEFA Champions League 2026-27, LIVE only on Sony LIV.",
+                "shortDescription": "Bratislava takes on Celje in Leg 1 of the UEFA Champions League 2026-27 Play-offs. Catch all the action from the UEFA Champions League 2026-27, LIVE only on Sony LIV.",
+                "isCopyProtected": false,
+                "contractStartDate": 1787163900000,
+                "contractEndDate": 1787181900000,
+                "episodeTitle": "Bratislava vs Celje - Play-offs - Leg 1 - 20 Aug 2026",
+                "genres": [
+                    "Football"
+                ],
+                "originalAirDate": 1787165700000,
+                "pcExtendedRatings": [],
+                "isOnAir": true,
+                "isEncrypted": false,
+                "pcVodLabel": "3+",
+                "duration": 0,
+                "language": "ENG",
+                "isGeoBlocked": false,
+                "advertisingInfoList": [],
+                "emfAttributes": {
+                    "audio_languages": "ENG",
+                    "snp_tags": "Suitable for all",
+                    "packageid": "12m_mobile_saarc,Liv_Pre_Yupp,12m_saarc,1m_saarc,liv_premium_GP_1m,liv_premium_GP_1m_mobile,LIV_Pre_Mob_1M,liv_binge_1m",
+                    "Maximum_Resolution": "FULL_HD",
+                    "advertising": "AD SUPPORTED",
+                    "emaAttributes": {},
+                    "kids_safe": false,
+                    "tv_background_image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022412/1787033959608476_UCL_26_Play-offs-Leg1_Bratislava-vs-Celje_live_tv_bg.jpg",
+                    "content_marquee_status": false,
+                    "marquee_target_state": [],
+                    "is_searchable": "Yes",
+                    "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022412/1787033925006476_UCL_26_Play-offs-Leg1_Bratislava-vs-Celje_live_landscape_thumb.jpg",
+                    "variant_asset_languages": [],
+                    "broadcast_channel_hin": "सोनी स्पोर्ट्स तेन १",
+                    "ad_cluster_id": "ad_cluster_1",
+                    "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022412/1787033873915476_UCL_26_Play-offs-Leg1_Bratislava-vs-Celje_live_portrait_thumb.jpg",
+                    "is_subtitle_cc_available": false,
+                    "ssai_partners": "Google DAI",
+                    "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022412/1787033925006476_UCL_26_Play-offs-Leg1_Bratislava-vs-Celje_live_landscape_thumb.jpg",
+                    "audio_language_list": [
+                        {
+                            "lang_code": "ENG",
+                            "lang_label": "English"
+                        }
+                    ],
+                    "Maximum_Audio_Quality": "STEREO",
+                    "sub_license": "Yes",
+                    "isTimeLineMarker_new": "false",
+                    "venue_name": "Tehelné Pole",
+                    "region_of_origin": "English",
+                    "svod_advertising": "true",
+                    "sub_category": "Sport",
+                    "is_multi_track_per_language_available": false,
+                    "broadcast_channel": "Sony Sports Ten 1",
+                    "Maximum_Video_Quality": "SDR",
+                    "isdvr": "No",
+                    "away_team": "Celje",
+                    "U": "IN",
+                    "theme_applied": false,
+                    "country_rating": {
+                        "U": "IN",
+                        "3+": "BD,NP,LK,PK,AF,BT,MV"
+                    },
+                    "3+": "BD,NP,LK,PK,AF,BT,MV",
+                    "projected_max_concurrency": 100000,
+                    "value": "SVOD",
+                    "is_audio_desc_available": false,
+                    "target_impressions_per_week": 2000000,
+                    "live_label_display": true,
+                    "dai_asset_key": "ElBuHHaMSOGhCRM0EgM8Fw",
+                    "seo_tags": "uefa champions league,uefa champions league fixtures,uefa champions league live,uefa champions league point table,uefa champions league schedule,watch uefa champions league live,uefa champions league 2026 27,2026 27 uefa champions league,watch uefa champions league online,uefa champions league player stats,watch uefa champions league live online,uefa champions league 2026 live,uefa champions league player lineup,watch champions league 2026 live,watch champions league player lineup,watch champions league player stats,watch uefa champions league 2026,football match,football players,live football match,champions league match,match highlights,football fixtures,football team,football match highlights,international football match,football point table,football schedule,football stats,player stats,international football teams,team stats,mens football match,international football competition,uefa champions league standings,uefa champions league results,uefa champions league highlights,uefa champions league live score,uefa champions league teams,football live score,european",
+                    "Free_countries": "",
+                    "overlay_visibility": "0",
+                    "target_frequency_per_week": 3,
+                    "SVOD_countries": "_in,_bd,_np,_mv,_af,_pk,_bt,_lk",
+                    "home_team": "Bratislava",
+                    "is_auto_play_trailer": true,
+                    "integrated_splash_available": "Yes",
+                    "isDVR": false,
+                    "isTimeLineMarker": false,
+                    "isDownloadable": false,
+                    "is_preview_enabled": false,
+                    "sprite_image_url": "",
+                    "tv_sprite_image_url": "",
+                    "tl_marker": "",
+                    "icon_on_asset": {
+                        "play_focus_icon": "https://origin-staticv2.sonyliv.com/UI_icons/spotlight/focus_play_icon.png",
+                        "play_normal_icon": "https://origin-staticv2.sonyliv.com/UI_icons/spotlight/non_focused_play_icon.png"
+                    }
+                },
+                "isADVAllowed": false,
+                "ratingEligibility": true,
+                "ratingDisplay": false,
+                "titleBrief": "",
+                "baseContentId": 1090539683,
+                "isBaseAsset": true
+            },
+            "playback_info": {
+                "resultCode": "OK",
+                "message": "",
+                "errorDescription": "200-10000",
+                "resultObj": {
+                    "showPlayerStats": false,
+                    "is_preview_enabled": false,
+                    "videoURL": "https://sonydaimenew.akamaized.net/hls/live/20000296/Football1908/ENG/master.m3u8?hdnea=exp=1787187061~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=23691d5f117a6d001474938131351b8aec8b41214ca0214d4ae4546289d9bf71",
+                    "multiLanguageVideoURL": [],
+                    "audioLanguages": [
+                        {
+                            "audioLanguageName": "ENG",
+                            "audioLanguageLabel": "English"
+                        }
+                    ],
+                    "trailer_url": "",
+                    "subtitle": [],
+                    "isEncrypted": false,
+                    "isDVR": false,
+                    "isDownloadable": false,
+                    "posterURL": "",
+                    "sprite_image_url": "",
+                    "tv_sprite_image_url": "",
+                    "dai_asset_key": "F_H8S5gzS56WKJiNDa1z5Q",
+                    "contextual_cue_point": {},
+                    "cuepoints": [],
+                    "isLive": true,
+                    "country_rating": {
+                        "U": "IN",
+                        "3+": "BD,NP,LK,PK,AF,BT,MV"
+                    },
+                    "dai_asset_key_hlsfp": "",
+                    "dai_asset_key_wm": "",
+                    "Maximum_Video_Quality": "SDR",
+                    "Maximum_Audio_Quality": "STEREO",
+                    "Maximum_Resolution": "FULL_HD",
+                    "isWatermarked": "false",
+                    "watermark_partner": "",
+                    "upfrontAudio": true,
+                    "pcVodLabel": "3+",
+                    "promotionUrl": "",
+                    "hasPromotion": false,
+                    "contentProvider": "UEFA",
+                    "sony_match_id": "",
+                    "tl_marker": "",
+                    "checksum": "",
+                    "kid_mss": "",
+                    "parentId": "1700000773",
+                    "selectedLanguage": {
+                        "lang_label": "English",
+                        "lang_code": "ENG",
+                        "lang_type": "main",
+                        "lang_identifier": ""
+                    },
+                    "originalLanguage": {
+                        "lang_label": "English",
+                        "lang_code": "eng",
+                        "lang_type": "main",
+                        "lang_identifier": ""
+                    },
+                    "stateLanguage": {},
+                    "isFirstVideoPlayedInDevice": false,
+                    "targetedDelivery": {
+                        "td_server_hints": {
+                            "pip_bw_initial": 800000,
+                            "pip_bw_max": 7000000,
+                            "pip_live_initial_buffer": 8,
+                            "pip_live_target_latency": 10,
+                            "analytics_expt_id": "9UexVSmNVs"
+                        }
+                    },
+                    "parents": [
+                        {
+                            "parentId": 1590016457,
+                            "parentType": "BUNDLE",
+                            "parentSubType": "MATCH_TYPE"
+                        },
+                        {
+                            "parentId": 1700000773,
+                            "parentType": "GROUP_OF_BUNDLES",
+                            "parentSubType": "TOURNAMENT"
+                        }
+                    ],
+                    "additionalDataJson": {
+                        "adServer": "GAM",
+                        "ad_stack": "DAI-IMA",
+                        "audioCodec": "AAC",
+                        "audio_quality": "STEREO",
+                        "enc_format": "HLS",
+                        "fps": 25,
+                        "isDaiKey": true,
+                        "partners": [
+                            "ALL"
+                        ],
+                        "resolution": "SD",
+                        "videoCodec": "H264",
+                        "video_quality": "SDR"
+                    },
+                    "LA_Details": {},
+                    "is_audio_desc_available": false,
+                    "is_multi_track_per_language_available": false,
+                    "multiAudioTrack": true,
+                    "packId": "liv_premium_GP_1m"
+                },
+                "systemTime": 1787165461386
             }
         }
     ]
