@@ -3,7 +3,208 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "09:20:25 AM 19-08-2026"
+        "last_update": "09:50:24 AM 19-08-2026"
     },
-    "live_matches": []
+    "live_matches": [
+        {
+            "match_info": {
+                "contentId": 1090539696,
+                "externalId": "1090539696",
+                "objectType": "VOD",
+                "isLive": true,
+                "objectSubtype": "LIVE_SPORT",
+                "contentType": "VOD",
+                "contentSubtype": "LIVE_SPORT",
+                "title": "India Tour of Sri Lanka 2026",
+                "longDescription": "India holds the upper hand, but Sri Lanka's resilience sets up a thrilling final day. Catch all the LIVE action from the 1st Test in Galle, only on Sony LIV.",
+                "shortDescription": "India holds the upper hand, but Sri Lanka's resilience sets up a thrilling final day. Catch all the LIVE action from the 1st Test in Galle, only on Sony LIV.",
+                "isCopyProtected": false,
+                "contractStartDate": 1787111100000,
+                "contractEndDate": 1787154300000,
+                "episodeTitle": "Day 5 - 1st Test - 19 Aug 2026",
+                "genres": [
+                    "Cricket"
+                ],
+                "originalAirDate": 1787112900000,
+                "pcExtendedRatings": [],
+                "isOnAir": true,
+                "isEncrypted": false,
+                "pcVodLabel": "3+",
+                "duration": 0,
+                "language": "ENG",
+                "isGeoBlocked": false,
+                "advertisingInfoList": [],
+                "emfAttributes": {
+                    "venue_name": "Galle International Stadium",
+                    "region_of_origin": "English",
+                    "svod_advertising": "true",
+                    "audio_languages": "ENG",
+                    "sub_category": "Sport",
+                    "snp_tags": "Suitable for all",
+                    "is_multi_track_per_language_available": false,
+                    "packageid": "12m_mobile_saarc,Liv_Pre_Yupp,12m_saarc,1m_saarc,liv_premium_GP_1m,liv_premium_GP_1m_mobile,LIV_Pre_Mob_1M,liv_binge_1m",
+                    "broadcast_channel": "Sony Sports Ten 5",
+                    "Maximum_Video_Quality": "SDR",
+                    "Maximum_Resolution": "FULL_HD",
+                    "advertising": "AD SUPPORTED",
+                    "isdvr": "No",
+                    "emaAttributes": {},
+                    "away_team": "India",
+                    "tv_background_image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022355/1786964234064306_SL_vs_IND_1st_Test_Day5_live_tv_bg_clean.jpg",
+                    "content_marquee_status": false,
+                    "theme_applied": false,
+                    "country_rating": {
+                        "3+": "BD,NP,AF,MV,BT,PK,AU,NZ"
+                    },
+                    "3+": "BD,NP,AF,MV,BT,PK,AU,NZ",
+                    "marquee_target_state": [],
+                    "projected_max_concurrency": 100000,
+                    "value": "SVOD",
+                    "is_audio_desc_available": false,
+                    "target_impressions_per_week": 2000000,
+                    "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022355/1786964161981306_SL_vs_IND_1st_Test_Day5_live_landscape_thumb_clean.jpg",
+                    "partnerHoldbackList": "YOUTUBE",
+                    "variant_asset_languages": [],
+                    "broadcast_channel_hin": "सोनी स्पोर्ट्स तेन ५",
+                    "live_label_display": true,
+                    "ad_cluster_id": "ad_cluster_1",
+                    "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022355/1786964057689306_SL_vs_IND_1st_Test_Day5_live_portrait_thumb.jpg",
+                    "seo_tags": "India vs Sri Lanka Test Series 2026,India Tour of Sri Lanka 2026,IND vs SL,IND vs SL Test,Sri Lanka vs India Test,India Sri Lanka Test Series,India Cricket Team,Sri Lanka Cricket Team,World Test Championship,WTC 2025-27,Shubman Gill,KL Rahul,Yashasvi Jaiswal,Rishabh Pant,Ravindra Jadeja,Kuldeep Yadav,Mohammed Siraj,Prasidh Krishna,Sarfaraz Khan,Devdutt Padikkal,Dhruv Jurel,Dhananjaya de Silva,Kamindu Mendis,Dinesh Chandimal,Prabath Jayasuriya,Niroshan Dickwella,Asitha Fernando,Lahiru Kumara,Galle Test,Galle International Stadium,Colombo Test,SSC Colombo,India vs Sri Lanka Live,IND vs SL Live Score,India vs Sri Lanka Highlights,India vs Sri Lanka Schedule,India vs Sri Lanka Squad,India vs Sri Lanka Playing XI,India vs Sri Lanka Predictions,India vs Sri Lanka Match Updates,Test Cricket,Red Ball Cricket,Cricket Highlights,Cricket Live Streaming,Team India,Sri Lanka National Cricket Team,WTC Points Table,Cricket News,Cricket Updates",
+                    "Free_countries": "",
+                    "overlay_visibility": "0",
+                    "target_frequency_per_week": 3,
+                    "SVOD_countries": "_bd,_np,_af,_mv,_bt,_pk,_au,_nz",
+                    "is_subtitle_cc_available": false,
+                    "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022355/1786964161981306_SL_vs_IND_1st_Test_Day5_live_landscape_thumb_clean.jpg",
+                    "audio_language_list": [
+                        {
+                            "lang_code": "ENG",
+                            "lang_label": "English"
+                        }
+                    ],
+                    "Maximum_Audio_Quality": "STEREO",
+                    "home_team": "Sri Lanka",
+                    "sub_license": "Yes",
+                    "is_auto_play_trailer": true,
+                    "integrated_splash_available": "Yes",
+                    "isTimeLineMarker_new": "false",
+                    "isDVR": false,
+                    "isTimeLineMarker": false,
+                    "isDownloadable": false,
+                    "is_preview_enabled": false,
+                    "sprite_image_url": "",
+                    "tv_sprite_image_url": "",
+                    "kids_safe": false,
+                    "tl_marker": "",
+                    "icon_on_asset": {
+                        "play_focus_icon": "https://origin-staticv2.sonyliv.com/UI_icons/spotlight/focus_play_icon.png",
+                        "play_normal_icon": "https://origin-staticv2.sonyliv.com/UI_icons/spotlight/non_focused_play_icon.png"
+                    }
+                },
+                "isADVAllowed": false,
+                "ratingEligibility": true,
+                "ratingDisplay": false,
+                "titleBrief": "",
+                "baseContentId": 1090539696,
+                "isBaseAsset": true
+            },
+            "playback_info": {
+                "resultCode": "OK",
+                "message": "",
+                "errorDescription": "200-10000",
+                "resultObj": {
+                    "showPlayerStats": false,
+                    "is_preview_enabled": false,
+                    "videoURL": "https://sonyeventsglobal.akamaized.net/hls/live/2022322/DAI18-INDSL/master.m3u8?hdnea=exp=1787133030~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=95cf299be462b6b3958a0c8f4ad70312326d77c9e6d33d816d4ba66d613eccc3",
+                    "multiLanguageVideoURL": [],
+                    "audioLanguages": [
+                        {
+                            "audioLanguageName": "ENG",
+                            "audioLanguageLabel": "English"
+                        }
+                    ],
+                    "trailer_url": "",
+                    "subtitle": [],
+                    "isEncrypted": false,
+                    "isDVR": false,
+                    "isDownloadable": false,
+                    "posterURL": "",
+                    "sprite_image_url": "",
+                    "tv_sprite_image_url": "",
+                    "dai_asset_key": "",
+                    "contextual_cue_point": {},
+                    "cuepoints": [],
+                    "isLive": true,
+                    "country_rating": {
+                        "3+": "BD,NP,AF,MV,BT,PK,AU,NZ"
+                    },
+                    "dai_asset_key_hlsfp": "",
+                    "dai_asset_key_wm": "",
+                    "Maximum_Video_Quality": "SDR",
+                    "Maximum_Audio_Quality": "STEREO",
+                    "Maximum_Resolution": "FULL_HD",
+                    "isWatermarked": "false",
+                    "watermark_partner": "",
+                    "upfrontAudio": true,
+                    "pcVodLabel": "3+",
+                    "promotionUrl": "",
+                    "hasPromotion": false,
+                    "contentProvider": "Sri Lanka Cricket",
+                    "sony_match_id": "",
+                    "tl_marker": "",
+                    "checksum": "",
+                    "kid_mss": "",
+                    "parentId": "1700000759",
+                    "selectedLanguage": {
+                        "lang_label": "English",
+                        "lang_code": "ENG",
+                        "lang_type": "main",
+                        "lang_identifier": ""
+                    },
+                    "originalLanguage": {
+                        "lang_label": "English",
+                        "lang_code": "eng",
+                        "lang_type": "main",
+                        "lang_identifier": ""
+                    },
+                    "stateLanguage": {},
+                    "isFirstVideoPlayedInDevice": false,
+                    "adstack": "DAI-IMA",
+                    "targetedDelivery": {
+                        "td_server_hints": {
+                            "pip_bw_initial": 800000,
+                            "pip_bw_max": 7000000,
+                            "pip_vod_prefetch": 30,
+                            "pip_vod_initial_buffer_mb": 11,
+                            "pip_vod_initial_buffer_sec": 12,
+                            "pip_vod_max_buffer_mb": 79,
+                            "pip_vod_max_buffer_sec": 90,
+                            "pip_live_initial_buffer": 8,
+                            "pip_live_target_latency": 10,
+                            "analytics_expt_id": "middleware"
+                        }
+                    },
+                    "parents": [
+                        {
+                            "parentId": 1590016434,
+                            "parentType": "BUNDLE",
+                            "parentSubType": "MATCH_TYPE"
+                        },
+                        {
+                            "parentId": 1700000759,
+                            "parentType": "GROUP_OF_BUNDLES",
+                            "parentSubType": "TOURNAMENT"
+                        }
+                    ],
+                    "additionalDataJson": {},
+                    "LA_Details": {},
+                    "is_audio_desc_available": false,
+                    "is_multi_track_per_language_available": false,
+                    "multiAudioTrack": true,
+                    "packId": "liv_premium_GP_1m"
+                },
+                "systemTime": 1787111430459
+            }
+        }
+    ]
 }
