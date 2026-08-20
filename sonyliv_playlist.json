@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "07:50:31 PM 20-08-2026"
+        "last_update": "08:20:28 PM 20-08-2026"
     },
     "live_matches": [
         {
@@ -353,7 +353,7 @@
                 "resultObj": {
                     "showPlayerStats": false,
                     "is_preview_enabled": false,
-                    "videoURL": "https://sonydaimenew.akamaized.net/hls/live/20000291/England_2008/ENG/master.m3u8?hdnea=exp=1787241033~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=6b12c6df7b9fae5d69b2e459f828b415061da689369ace3a8381cf367b805710",
+                    "videoURL": "https://sonydaimenew.akamaized.net/hls/live/20000291/England_2008/ENG/master.m3u8?hdnea=exp=1787257235~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=58ead12328a8ec50a7ff7b2755df5f318665bbdd506c5a7ed71fcec2516c365f",
                     "multiLanguageVideoURL": [],
                     "audioLanguages": [
                         {
@@ -384,7 +384,7 @@
                     "Maximum_Resolution": "FULL_HD",
                     "isWatermarked": "false",
                     "watermark_partner": "",
-                    "upfrontAudio": true,
+                    "upfrontAudio": false,
                     "pcVodLabel": "3+",
                     "promotionUrl": "",
                     "hasPromotion": false,
@@ -450,7 +450,7 @@
                     "multiAudioTrack": true,
                     "packId": "liv_premium_GP_1m"
                 },
-                "systemTime": 1787219433593
+                "systemTime": 1787235635833
             }
         },
         {
