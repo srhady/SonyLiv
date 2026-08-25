@@ -2,4 +2,10 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 09:20:25 AM 25-08-2026
+# last_update: 09:50:26 AM 25-08-2026
+
+#EXTINF:-1 tvg-id="sonyliv-1090540256" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022838/178758315586628_SL_vs_IND_2nd_Test_Day3_live_landscape_thumb_clean.jpg" group-title="Cricket", Day 3 - 2nd Test - 25 Aug 2026 | India Tour of Sri Lanka 2026
+https://sonyeventsglobal.akamaized.net/hls/live/2022322/DAI18-INDSL/master.m3u8?hdnea=exp=1787651430~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=140283b4e3832c844a3399a18a1d26f48ca939d12ab63a14ca7ae50a91d468a7
+
+#EXTINF:-1 tvg-id="sonyliv-1090540287" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022846/1787588203291677_JPL_Mumbai_Kings_vs_Chennai_Strikers_live_landscape_thumb.jpg" group-title="Cricket", Mumbai Kings vs Chennai Strikers - 25 Aug 2026 | JITO Premier League 2026
+https://sonydaimenew.akamaized.net/hls/live/2094588/Cricket_2508/ENG/master.m3u8?hdnea=exp=1787651437~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=7941d7481891d3a9b0b2d37a5c411c6176ae215d526a41cab5de77581ad0ed57
