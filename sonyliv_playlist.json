@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "11:50:26 PM 25-08-2026"
+        "last_update": "12:20:32 AM 26-08-2026"
     },
     "live_matches": [
         {
@@ -262,10 +262,9 @@
                     "tv_background_image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022595/1787036964197926_UCL_26_Play-offs-Leg2_Sabah-vs-H-Beer-Sheva_live_tv_bg.jpg",
                     "content_marquee_status": false,
                     "marquee_target_state": [],
-                    "is_searchable": "No",
+                    "is_searchable": "Yes",
                     "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022595/1787036925019926_UCL_26_Play-offs-Leg2_Sabah-vs-H-Beer-Sheva_live_landscape_thumb.jpg",
                     "variant_asset_languages": [],
-                    "broadcast_channel_hin": "सोनी स्पोर्ट्स तेन २",
                     "ad_cluster_id": "ad_cluster_1",
                     "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022595/1787036878220926_UCL_26_Play-offs-Leg2_Sabah-vs-H-Beer-Sheva_live_portrait_thumb.jpg",
                     "is_subtitle_cc_available": false,
