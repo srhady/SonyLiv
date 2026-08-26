@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "01:50:31 PM 26-08-2026"
+        "last_update": "02:20:29 PM 26-08-2026"
     },
     "live_matches": [
         {
@@ -120,7 +120,7 @@
                 "resultObj": {
                     "showPlayerStats": false,
                     "is_preview_enabled": false,
-                    "videoURL": "https://sonyeventsglobal.akamaized.net/hls/live/2022322/DAI18-INDSL/master.m3u8?hdnea=exp=1787737838~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=aad72506c74223f61cc6a84d986844479ab876cbd45ad7938c309c7d457cb71c",
+                    "videoURL": "https://sonyeventsglobal.akamaized.net/hls/live/2022322/DAI18-INDSL/master.m3u8?hdnea=exp=1787754034~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=1be751638c7e0b397d0c2238452937d993efbac21b1cf164f08a9c71ccb9beb7",
                     "multiLanguageVideoURL": [],
                     "audioLanguages": [
                         {
@@ -150,7 +150,7 @@
                     "Maximum_Resolution": "FULL_HD",
                     "isWatermarked": "false",
                     "watermark_partner": "",
-                    "upfrontAudio": true,
+                    "upfrontAudio": false,
                     "pcVodLabel": "3+",
                     "promotionUrl": "",
                     "hasPromotion": false,
@@ -208,7 +208,7 @@
                     "multiAudioTrack": true,
                     "packId": "liv_premium_GP_1m"
                 },
-                "systemTime": 1787716238450
+                "systemTime": 1787732434343
             }
         },
         {
@@ -255,6 +255,7 @@
                     "is_searchable": "Yes",
                     "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022883/1787647798662385_JPL_26_Bengal-Indians-vs-Indore-Hawks_live_landscape_thumb.jpg",
                     "variant_asset_languages": [],
+                    "broadcast_channel_hin": "सोनी स्पोर्ट्स तेन ५",
                     "ad_cluster_id": "ad_cluster_1",
                     "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022883/1787647774931385_JPL_26_Bengal-Indians-vs-Indore-Hawks_live_portrait_thumb.jpg",
                     "is_subtitle_cc_available": false,
@@ -327,7 +328,7 @@
                 "resultObj": {
                     "showPlayerStats": false,
                     "is_preview_enabled": false,
-                    "videoURL": "https://sonydaimenew.akamaized.net/hls/live/2018458/Cricket_2608/ENG/master.m3u8?hdnea=exp=1787737846~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=1fb555fe250415a8c01d7d16d9fbec57c2ed3fcd3f1f18581a5426f7b7bac7c3",
+                    "videoURL": "https://sonydaimenew.akamaized.net/hls/live/2018458/Cricket_2608/ENG/master.m3u8?hdnea=exp=1787754040~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=7b9dc4d2aeffc169baa74cc55b2ddcf0abae9375df8055a0f4a40e69298652cc",
                     "multiLanguageVideoURL": [],
                     "audioLanguages": [
                         {
@@ -358,7 +359,7 @@
                     "Maximum_Resolution": "FULL_HD",
                     "isWatermarked": "false",
                     "watermark_partner": "",
-                    "upfrontAudio": true,
+                    "upfrontAudio": false,
                     "pcVodLabel": "3+",
                     "promotionUrl": "",
                     "hasPromotion": false,
@@ -424,7 +425,7 @@
                     "multiAudioTrack": true,
                     "packId": "liv_premium_GP_1m"
                 },
-                "systemTime": 1787716246620
+                "systemTime": 1787732440764
             }
         }
     ]
