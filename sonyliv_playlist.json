@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "06:20:28 PM 26-08-2026"
+        "last_update": "06:50:33 PM 26-08-2026"
     },
     "live_matches": [
         {
@@ -50,6 +50,7 @@
                     "is_searchable": "Yes",
                     "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022883/1787648037924385_JPL_26_Bangalore-Blasters-vs-Golden-Eagles-Delhi_live_landscape_thumb.jpg",
                     "variant_asset_languages": [],
+                    "broadcast_channel_hin": "सोनी स्पोर्ट्स तेन ५",
                     "ad_cluster_id": "ad_cluster_1",
                     "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022883/1787648007580385_JPL_26_Bangalore-Blasters-vs-Golden-Eagles-Delhi_live_portrait_thumb.jpg",
                     "is_subtitle_cc_available": false,
@@ -122,7 +123,7 @@
                 "resultObj": {
                     "showPlayerStats": false,
                     "is_preview_enabled": false,
-                    "videoURL": "https://sonydaimenew.akamaized.net/hls/live/2018458/Cricket_2608/ENG/master.m3u8?hdnea=exp=1787754040~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=7b9dc4d2aeffc169baa74cc55b2ddcf0abae9375df8055a0f4a40e69298652cc",
+                    "videoURL": "https://sonydaimenew.akamaized.net/hls/live/2018458/Cricket_2608/ENG/master.m3u8?hdnea=exp=1787770237~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=466bd0097acfff7a4b53b3c8df685c2d33ad5e62ffb3e8c2c6197eda59ade4e2",
                     "multiLanguageVideoURL": [],
                     "audioLanguages": [
                         {
@@ -219,7 +220,7 @@
                     "multiAudioTrack": true,
                     "packId": "liv_premium_GP_1m"
                 },
-                "systemTime": 1787732440764
+                "systemTime": 1787748637356
             }
         }
     ]
