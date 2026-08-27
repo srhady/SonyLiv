@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "11:20:34 AM 27-08-2026"
+        "last_update": "11:50:25 AM 27-08-2026"
     },
     "live_matches": [
         {
@@ -255,6 +255,7 @@
                     "is_searchable": "Yes",
                     "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022998/1787806278265472_JPL26_Mumbai-Kings-vs-Chennai-Strikers_landscape_thumb.jpg",
                     "variant_asset_languages": [],
+                    "broadcast_channel_hin": "सोनी स्पोर्ट्स तेन ५",
                     "ad_cluster_id": "ad_cluster_1",
                     "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022998/1787806274398472_JPL26_Mumbai-Kings-vs-Chennai-Strikers_live_portrait_thumb.jpg",
                     "is_subtitle_cc_available": false,
