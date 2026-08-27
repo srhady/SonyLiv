@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "10:50:25 AM 27-08-2026"
+        "last_update": "11:20:34 AM 27-08-2026"
     },
     "live_matches": [
         {
@@ -221,12 +221,12 @@
                 "contentType": "VOD",
                 "contentSubtype": "LIVE_SPORT",
                 "title": "JITO Premier League 2026",
-                "longDescription": "Mumbai Kings and Chennai Strikers gear up for an exciting clash as both teams aim to make their mark in the JITO Premier League 2026. Watch all the action LIVE, only on Sony LIV.",
-                "shortDescription": "Mumbai Kings and Chennai Strikers gear up for an exciting clash as both teams aim to make their mark in the JITO Premier League 2026. Watch all the action LIVE, only on Sony LIV.",
+                "longDescription": "Mumbai Kings XI and Chennai Striker Kings gear up for an exciting clash as both teams aim to make their mark in the JITO Premier League 2026. Watch all the action LIVE, only on Sony LIV.",
+                "shortDescription": "Mumbai Kings XI and Chennai Striker Kings gear up for an exciting clash as both teams aim to make their mark in the JITO Premier League 2026. Watch all the action LIVE, only on Sony LIV.",
                 "isCopyProtected": false,
                 "contractStartDate": 1787801400000,
                 "contractEndDate": 1787864400000,
-                "episodeTitle": "Mumbai Kings vs Chennai Strikers - 26 Aug 2026",
+                "episodeTitle": "Mumbai Kings XI vs Chennai Striker Kings - 26 Aug 2026",
                 "genres": [
                     "Cricket"
                 ],
@@ -253,14 +253,13 @@
                     "marquee_target_state": [],
                     "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022970/1787731608000252_JITO-Premier-League-2026_Match_masthead_mobile_v2_984x1182_Mumbai_Kings_vs_Chennai_Striker_Kings.jpg",
                     "is_searchable": "Yes",
-                    "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022913/1787663789756164_JPL_26_Mumbai-Kings-vs-Chennai-Strikers_live_landscape_thumb.jpg",
+                    "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022998/1787806278265472_JPL26_Mumbai-Kings-vs-Chennai-Strikers_landscape_thumb.jpg",
                     "variant_asset_languages": [],
-                    "broadcast_channel_hin": "सोनी स्पोर्ट्स तेन ५",
                     "ad_cluster_id": "ad_cluster_1",
-                    "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022913/1787663759854164_JPL_26_Mumbai-Kings-vs-Chennai-Strikers_live_portrait_thumb.jpg",
+                    "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022998/1787806274398472_JPL26_Mumbai-Kings-vs-Chennai-Strikers_live_portrait_thumb.jpg",
                     "is_subtitle_cc_available": false,
                     "ssai_partners": "Google DAI",
-                    "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022913/1787663789756164_JPL_26_Mumbai-Kings-vs-Chennai-Strikers_live_landscape_thumb.jpg",
+                    "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022998/1787806278265472_JPL26_Mumbai-Kings-vs-Chennai-Strikers_landscape_thumb.jpg",
                     "audio_language_list": [
                         {
                             "lang_code": "ENG",
