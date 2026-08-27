@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "01:50:28 PM 27-08-2026"
+        "last_update": "02:20:27 PM 27-08-2026"
     },
     "live_matches": [
         {
@@ -120,7 +120,7 @@
                 "resultObj": {
                     "showPlayerStats": false,
                     "is_preview_enabled": false,
-                    "videoURL": "https://sonyeventsglobal.akamaized.net/hls/live/2022322/DAI18-INDSL/master.m3u8?hdnea=exp=1787824234~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=076c00a2812f6d414c38fb900dc396ea4f33bf9ad7aeee387606066b7634daea",
+                    "videoURL": "https://sonyeventsglobal.akamaized.net/hls/live/2022322/DAI18-INDSL/master.m3u8?hdnea=exp=1787840432~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=8bbd932c5e019706915aad0fe8a0fbe17509e9838a132f532b249f2f5ff0537d",
                     "multiLanguageVideoURL": [],
                     "audioLanguages": [
                         {
@@ -150,7 +150,7 @@
                     "Maximum_Resolution": "FULL_HD",
                     "isWatermarked": "false",
                     "watermark_partner": "",
-                    "upfrontAudio": true,
+                    "upfrontAudio": false,
                     "pcVodLabel": "3+",
                     "promotionUrl": "",
                     "hasPromotion": false,
@@ -208,7 +208,7 @@
                     "multiAudioTrack": true,
                     "packId": "liv_premium_GP_1m"
                 },
-                "systemTime": 1787802634388
+                "systemTime": 1787818832756
             }
         },
         {
@@ -243,24 +243,23 @@
                     "audio_languages": "ENG",
                     "snp_tags": "Suitable for all",
                     "packageid": "12m_mobile_saarc,Liv_Pre_Yupp,12m_saarc,1m_saarc,liv_premium_GP_1m,liv_premium_GP_1m_mobile,LIV_Pre_Mob_1M,liv_binge_1m",
-                    "masthead_logo_rectangualar": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022970/1787731608000252_JITO-Premier-League-2026_Match_masthead_logo_rectangualar_950x570_Mumbai_Kings_vs_Chennai_Striker_Kings_LIVE.png",
+                    "masthead_logo_rectangualar": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022970/1787731608000252_JITO-Premier-League-2026_Match_masthead_logo_rectangualar_950x570_Gujarat_Gladiators_vs_Indore_Hawks_LIVE.png",
                     "Maximum_Resolution": "FULL_HD",
-                    "masthead_logo_v1": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022970/1787731608000252_JITO-Premier-League-2026_Match_masthead_logo_V1_692x390_Mumbai_Kings_vs_Chennai_Striker_Kings_LIVE.png",
+                    "masthead_logo_v1": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022970/1787731608000252_JITO-Premier-League-2026_Match_masthead_logo_V1_692x390_Gujarat_Gladiators_vs_Indore_Hawks_LIVE.png",
                     "advertising": "AD SUPPORTED",
                     "emaAttributes": {},
-                    "tv_background_image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022913/1787663816828164_JPL_26_Mumbai-Kings-vs-Chennai-Strikers_live_tv_bg.jpg",
+                    "tv_background_image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022913/1787664020422164_JPL_26_Gujarat-Gladiators-vs-Indore-Hawks_live_tv_bg.jpg",
                     "content_marquee_status": false,
                     "marquee_target_state": [],
-                    "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022970/1787731608000252_JITO-Premier-League-2026_Match_masthead_mobile_v2_984x1182_Mumbai_Kings_vs_Chennai_Striker_Kings.jpg",
+                    "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022970/1787731608000252_JITO-Premier-League-2026_Match_masthead_mobile_v2_984x1182_Gujarat_Gladiators_vs_Indore_Hawks.jpg",
                     "is_searchable": "Yes",
-                    "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022998/1787806278265472_JPL26_Mumbai-Kings-vs-Chennai-Strikers_landscape_thumb.jpg",
+                    "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022913/1787664003218164_JPL_26_Gujarat-Gladiators-vs-Indore-Hawks_live_landscape_thumb.jpg",
                     "variant_asset_languages": [],
-                    "broadcast_channel_hin": "सोनी स्पोर्ट्स तेन ५",
                     "ad_cluster_id": "ad_cluster_1",
-                    "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022998/1787806274398472_JPL26_Mumbai-Kings-vs-Chennai-Strikers_live_portrait_thumb.jpg",
+                    "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022913/1787663975762164_JPL_26_Gujarat-Gladiators-vs-Indore-Hawks_live_portrait_thumb.jpg",
                     "is_subtitle_cc_available": false,
                     "ssai_partners": "Google DAI",
-                    "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022998/1787806278265472_JPL26_Mumbai-Kings-vs-Chennai-Strikers_landscape_thumb.jpg",
+                    "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022913/1787664003218164_JPL_26_Gujarat-Gladiators-vs-Indore-Hawks_live_landscape_thumb.jpg",
                     "audio_language_list": [
                         {
                             "lang_code": "ENG",
@@ -285,7 +284,7 @@
                         "3+": "BD,NP,LK,BT,MV,PK"
                     },
                     "3+": "BD,NP,LK,BT,MV,PK",
-                    "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022970/1787731608000252_JITO-Premier-League-2026_Match_Masthead_logo_Mumbai_Kings_vs_Chennai_Striker_Kings_LIVE.png",
+                    "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022970/1787731608000252_JITO-Premier-League-2026_Match_Masthead_logo_Gujarat_Gladiators_vs_Indore_Hawks_LIVE.png",
                     "projected_max_concurrency": 100000,
                     "value": "SVOD",
                     "is_audio_desc_available": false,
@@ -293,14 +292,14 @@
                     "live_label_display": true,
                     "dai_asset_key": "5Tz8wQghQomBj68XQT6IFA",
                     "seo_tags": "JITO Premier League 2026,JITO,JITO Premier League,JPL 2026,Jain International Trade Organisation,Cricket Tournament,T20 Cricket,Tennis Ball Cricket,Indian Cricket,Cricket League,Sports Tournament,Community Sports,JITO Sports,Premier League 2026,Cricket Championship,Domestic Cricket,Mumbai Cricket,Amateur Cricket,Cricket Competition,Live Cricket,Cricket Highlights,Cricket Matches,Sports Event,India Cricket,JITO Cricket League,JPL Cricket,Cricket Fans,Cricket Action,Tournament Highlights,Cricket Updates,Cricket Season 2026",
-                    "Free_countries": "",
+                    "Free_countries": "_in",
                     "overlay_visibility": "0",
                     "target_frequency_per_week": 3,
-                    "SVOD_countries": "_lk,_mv,_np,_bd,_bt,_pk,_in",
+                    "SVOD_countries": "_lk,_mv,_np,_bd,_bt,_pk",
                     "home_team": "Mumbai Kings",
                     "is_auto_play_trailer": true,
                     "integrated_splash_available": "Yes",
-                    "masthead_large_v3": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022970/1787731608000252_JITO-Premier-League-2026_Match_masthead_large_v3_3200x1800_Mumbai_Kings_vs_Chennai_Striker_Kings.jpg",
+                    "masthead_large_v3": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022970/1787731608000252_JITO-Premier-League-2026_Match_masthead_large_v3_3200x1800_Gujarat_Gladiators_vs_Indore_Hawks.jpg",
                     "isDVR": false,
                     "isTimeLineMarker": false,
                     "isDownloadable": false,
@@ -328,7 +327,7 @@
                 "resultObj": {
                     "showPlayerStats": false,
                     "is_preview_enabled": false,
-                    "videoURL": "https://sonydaimenew.akamaized.net/hls/live/2022316/criclive2708/ENG/master.m3u8?hdnea=exp=1787824243~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=2e215fc1439bd86f05ddb2f8902887ad944a301bb275268c629b815c2591ca44",
+                    "videoURL": "https://sonydaimenew.akamaized.net/hls/live/2022316/criclive2708/ENG/master.m3u8?hdnea=exp=1787840443~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=3016e57a90f65269790eda721b51f42fe2b84dfa1b843026c3e3d07ed8513dc6",
                     "multiLanguageVideoURL": [],
                     "audioLanguages": [
                         {
@@ -359,7 +358,7 @@
                     "Maximum_Resolution": "FULL_HD",
                     "isWatermarked": "false",
                     "watermark_partner": "",
-                    "upfrontAudio": true,
+                    "upfrontAudio": false,
                     "pcVodLabel": "3+",
                     "promotionUrl": "",
                     "hasPromotion": false,
@@ -425,7 +424,7 @@
                     "multiAudioTrack": true,
                     "packId": "liv_premium_GP_1m"
                 },
-                "systemTime": 1787802643291
+                "systemTime": 1787818843927
             }
         }
     ]
