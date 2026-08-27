@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "07:20:30 PM 27-08-2026"
+        "last_update": "07:50:30 PM 27-08-2026"
     },
     "live_matches": [
         {
@@ -47,7 +47,7 @@
                     "tv_background_image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023041/1787835603882946_eng_vs_pak_2ndtest_day1_tv_bg.jpg",
                     "content_marquee_status": false,
                     "marquee_target_state": [],
-                    "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022497/1787126866119128_England_vs_Pakistan_2026_Match_masthead_mobile_v2_984x1182.jpg",
+                    "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023050/1787837121213787_England_vs_Pakistan_2026_Match_masthead_mobile_v2_984x1182.jpg",
                     "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023039/1787835120637186_eng_vs_pak_2ndtest_day1_landscape_thumb.jpg",
                     "variant_asset_languages": [],
                     "ad_cluster_id": "ad_cluster_1",
@@ -96,7 +96,7 @@
                     "home_team": "England",
                     "is_auto_play_trailer": true,
                     "integrated_splash_available": "Yes",
-                    "masthead_large_v3": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022497/1787126873360128_England_vs_Pakistan_2026_Match_masthead_large_v3_3200x1800.jpg",
+                    "masthead_large_v3": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023050/1787837113456787_England_vs_Pakistan_2026_Match_masthead_large_v3_3200x1800.jpg",
                     "isDVR": false,
                     "isTimeLineMarker": false,
                     "isDownloadable": false,
