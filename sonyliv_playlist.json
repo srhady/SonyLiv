@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "06:20:29 PM 27-08-2026"
+        "last_update": "06:50:30 PM 27-08-2026"
     },
     "live_matches": [
         {
@@ -234,12 +234,12 @@
                 "contentType": "VOD",
                 "contentSubtype": "LIVE_SPORT",
                 "title": "JITO Premier League 2026",
-                "longDescription": "Mumbai Kings XI and Chennai Striker Kings gear up for an exciting clash as both teams aim to make their mark in the JITO Premier League 2026. Watch all the action LIVE, only on Sony LIV.",
-                "shortDescription": "Mumbai Kings XI and Chennai Striker Kings gear up for an exciting clash as both teams aim to make their mark in the JITO Premier League 2026. Watch all the action LIVE, only on Sony LIV.",
+                "longDescription": "Pune Peshwas and Bengal Indians Kings gear up for an exciting clash as both teams aim to make their mark in the JITO Premier League 2026. Watch all the action LIVE, only on Sony LIV.",
+                "shortDescription": "Pune Peshwas and Bengal Indians Kings gear up for an exciting clash as both teams aim to make their mark in the JITO Premier League 2026. Watch all the action LIVE, only on Sony LIV.",
                 "isCopyProtected": false,
                 "contractStartDate": 1787801400000,
                 "contractEndDate": 1787864400000,
-                "episodeTitle": "Mumbai Kings XI vs Chennai Striker Kings - 27 Aug 2026",
+                "episodeTitle": "Pune Peshwas vs Bengal Indians - 27 Aug 2026",
                 "genres": [
                     "Cricket"
                 ],
@@ -256,24 +256,24 @@
                     "audio_languages": "ENG",
                     "snp_tags": "Suitable for all",
                     "packageid": "12m_mobile_saarc,Liv_Pre_Yupp,12m_saarc,1m_saarc,liv_premium_GP_1m,liv_premium_GP_1m_mobile,LIV_Pre_Mob_1M,liv_binge_1m",
-                    "masthead_logo_rectangualar": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022970/1787731608000252_JITO-Premier-League-2026_Match_masthead_logo_rectangualar_950x570_Gujarat_Gladiators_vs_Indore_Hawks_LIVE.png",
+                    "masthead_logo_rectangualar": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022970/1787731608000252_JITO-Premier-League-2026_Match_masthead_logo_rectangualar_950x570_Pune_Peshwas_vs_Bengal_Indians_LIVE.png",
                     "Maximum_Resolution": "FULL_HD",
-                    "masthead_logo_v1": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022970/1787731608000252_JITO-Premier-League-2026_Match_masthead_logo_V1_692x390_Gujarat_Gladiators_vs_Indore_Hawks_LIVE.png",
+                    "masthead_logo_v1": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022970/1787731608000252_JITO-Premier-League-2026_Match_masthead_logo_V1_692x390_Pune_Peshwas_vs_Bengal_Indians_LIVE.png",
                     "advertising": "AD SUPPORTED",
                     "emaAttributes": {},
-                    "tv_background_image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022913/1787664020422164_JPL_26_Gujarat-Gladiators-vs-Indore-Hawks_live_tv_bg.jpg",
+                    "tv_background_image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022913/1787664423038164_JPL_26_Pune-Peshwas-vs-Bengal-Indians_live_tv_bg.jpg",
                     "content_marquee_status": false,
                     "marquee_target_state": [],
-                    "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022970/1787731608000252_JITO-Premier-League-2026_Match_masthead_mobile_v2_984x1182_Gujarat_Gladiators_vs_Indore_Hawks.jpg",
+                    "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022970/1787731608000252_JITO-Premier-League-2026_Match_masthead_mobile_v2_984x1182_Pune_Peshwas_vs_Bengal_Indians.jpg",
                     "is_searchable": "Yes",
-                    "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022913/1787664003218164_JPL_26_Gujarat-Gladiators-vs-Indore-Hawks_live_landscape_thumb.jpg",
+                    "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022913/1787664367962164_JPL_26_Pune-Peshwas-vs-Bengal-Indians_live_landscape_thumb.jpg",
                     "variant_asset_languages": [],
                     "broadcast_channel_hin": "सोनी स्पोर्ट्स तेन ५",
                     "ad_cluster_id": "ad_cluster_1",
-                    "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022913/1787663975762164_JPL_26_Gujarat-Gladiators-vs-Indore-Hawks_live_portrait_thumb.jpg",
+                    "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022913/1787664301556164_JPL_26_Pune-Peshwas-vs-Bengal-Indians_live_portrait_thumb.jpg",
                     "is_subtitle_cc_available": false,
                     "ssai_partners": "Google DAI",
-                    "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022913/1787664003218164_JPL_26_Gujarat-Gladiators-vs-Indore-Hawks_live_landscape_thumb.jpg",
+                    "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022913/1787664367962164_JPL_26_Pune-Peshwas-vs-Bengal-Indians_live_landscape_thumb.jpg",
                     "audio_language_list": [
                         {
                             "lang_code": "ENG",
@@ -298,7 +298,7 @@
                         "3+": "BD,NP,LK,BT,MV,PK"
                     },
                     "3+": "BD,NP,LK,BT,MV,PK",
-                    "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022970/1787731608000252_JITO-Premier-League-2026_Match_Masthead_logo_Gujarat_Gladiators_vs_Indore_Hawks_LIVE.png",
+                    "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022970/1787731608000252_JITO-Premier-League-2026_Match_Masthead_logo_Pune_Peshwas_vs_Bengal_Indians_LIVE.png",
                     "projected_max_concurrency": 100000,
                     "value": "SVOD",
                     "is_audio_desc_available": false,
@@ -313,7 +313,7 @@
                     "home_team": "Mumbai Kings",
                     "is_auto_play_trailer": true,
                     "integrated_splash_available": "Yes",
-                    "masthead_large_v3": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022970/1787731608000252_JITO-Premier-League-2026_Match_masthead_large_v3_3200x1800_Gujarat_Gladiators_vs_Indore_Hawks.jpg",
+                    "masthead_large_v3": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022970/1787731608000252_JITO-Premier-League-2026_Match_masthead_large_v3_3200x1800_Pune_Peshwas_vs_Bengal_Indians.jpg",
                     "isDVR": false,
                     "isTimeLineMarker": false,
                     "isDownloadable": false,
@@ -341,7 +341,7 @@
                 "resultObj": {
                     "showPlayerStats": false,
                     "is_preview_enabled": false,
-                    "videoURL": "https://sonydaimenew.akamaized.net/hls/live/2022316/criclive2708/ENG/master.m3u8?hdnea=exp=1787840443~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=3016e57a90f65269790eda721b51f42fe2b84dfa1b843026c3e3d07ed8513dc6",
+                    "videoURL": "https://sonydaimenew.akamaized.net/hls/live/2022316/criclive2708/ENG/master.m3u8?hdnea=exp=1787856633~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=829bc17eba5db7edc4b9e0ec3b2563e5f0159c59182a549920da4b27351a078d",
                     "multiLanguageVideoURL": [],
                     "audioLanguages": [
                         {
@@ -438,7 +438,7 @@
                     "multiAudioTrack": true,
                     "packId": "liv_premium_GP_1m"
                 },
-                "systemTime": 1787818843927
+                "systemTime": 1787835033995
             }
         },
         {
