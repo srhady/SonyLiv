@@ -2,13 +2,16 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 09:20:31 PM 27-08-2026
+# last_update: 09:50:33 PM 27-08-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090540508" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023039/1787835120637186_eng_vs_pak_2ndtest_day1_landscape_thumb.jpg" group-title="Cricket", Day 1 - 2nd Test - 27 Aug 2026 | Pakistan Tour of England 2026
 https://sonydaimenew.akamaized.net/hls/live/2022317/England_2708/ENG/master.m3u8?hdnea=exp=1787862035~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=dfbf0d2e5e62bf68d5a7601f4449226b7df07b54c5655ccd848bfaf661f3242d
+
+#EXTINF:-1 tvg-id="sonyliv-1090540524" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022993/1787767270935627_UCL_Phase_Draw_landscape_thumb.jpg" group-title="Football", League Phase Draw - 27 Aug 2026 | UEFA Champions League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2094588/UCL_Leag2708/ENG/master.m3u8?hdnea=exp=1787867439~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=f66262567af603a36d6ee065079e0159e0b1ff61b9ddcc31cfdfa02072ce1e1e
 
 #EXTINF:-1 tvg-id="sonyliv-1090540510" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022913/1787664367962164_JPL_26_Pune-Peshwas-vs-Bengal-Indians_live_landscape_thumb.jpg" group-title="Cricket", Pune Peshwas vs Bengal Indians - 27 Aug 2026 | JITO Premier League 2026
 https://sonydaimenew.akamaized.net/hls/live/2022316/criclive2708/ENG/master.m3u8?hdnea=exp=1787856633~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=829bc17eba5db7edc4b9e0ec3b2563e5f0159c59182a549920da4b27351a078d
 
 #EXTINF:-1 tvg-id="sonyliv-1090540522" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023003/1787808399496204_DP_World_Tour_Husqvarna_British_Masters_day1_landscape_thumb.jpg" group-title="Golf", Husqvarna British Masters - Day 1 - 27 Aug 2026 | DP World Tour
-https://sonydaimenew.akamaized.net/hls/live/2018458/Golf_DP_2708/ENG/master.m3u8?hdnea=exp=1787851238~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=32e961d344821c5e8c23d0e27aae90f2516c473ac2bdcc97882ab64256d8889e
+https://sonydaimenew.akamaized.net/hls/live/2018458/Golf_DP_2708/ENG/master.m3u8?hdnea=exp=1787867447~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=d9236f019c94af970a139d3051c6660af4b7ca7df8a6cdeaef2ef307071d4036
