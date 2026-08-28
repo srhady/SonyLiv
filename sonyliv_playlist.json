@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "05:50:25 PM 28-08-2026"
+        "last_update": "06:20:28 PM 28-08-2026"
     },
     "live_matches": [
         {
@@ -222,220 +222,6 @@
                     "packId": "liv_premium_GP_1m"
                 },
                 "systemTime": 1787910634180
-            }
-        },
-        {
-            "match_info": {
-                "contentId": 1090540683,
-                "externalId": "1090540683",
-                "objectType": "VOD",
-                "isLive": true,
-                "objectSubtype": "LIVE_SPORT",
-                "contentType": "VOD",
-                "contentSubtype": "LIVE_SPORT",
-                "title": "UEFA Europa League 2026-27",
-                "longDescription": "Catch the telecast of the League Phase Draw for both the UEFA Europa League and the UEFA Conference League, LIVE on Sony LIV.",
-                "shortDescription": "Catch the telecast of the League Phase Draw for both the UEFA Europa League and the UEFA Conference League, LIVE on Sony LIV.",
-                "isCopyProtected": false,
-                "contractStartDate": 1787913000000,
-                "contractEndDate": 1787927400000,
-                "episodeTitle": "League Phase Draw - UEFA Europa & Conference League - 28 Aug 2026",
-                "genres": [
-                    "Football"
-                ],
-                "originalAirDate": 1787914800000,
-                "pcExtendedRatings": [],
-                "isOnAir": true,
-                "isEncrypted": false,
-                "pcVodLabel": "3+",
-                "duration": 0,
-                "language": "ENG",
-                "isGeoBlocked": false,
-                "advertisingInfoList": [],
-                "emfAttributes": {
-                    "audio_languages": "ENG",
-                    "snp_tags": "Suitable for all",
-                    "packageid": "12m_mobile_saarc,Liv_Pre_Yupp,12m_saarc,1m_saarc,liv_premium_GP_1m,liv_premium_GP_1m_mobile,LIV_Pre_Mob_1M,liv_binge_1m",
-                    "masthead_logo_rectangualar": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023053/1787818766000765_UECL26_27_DRAW_masthead_logo_rectangualar_950x570_live.png",
-                    "Maximum_Resolution": "FULL_HD",
-                    "masthead_logo_v1": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023053/1787818766000765_UECL26_27_DRAW_masthead_logo_V1_692x390_LIVE.png",
-                    "advertising": "AD SUPPORTED",
-                    "emaAttributes": {},
-                    "kids_safe": false,
-                    "tv_background_image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023085/1787864592434299_UEL_UECL_League_Phase_Draw_live_tv_bg.jpg",
-                    "content_marquee_status": false,
-                    "marquee_target_state": [],
-                    "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023053/1787818766000765_UECL26_27_DRAW_masthead_mobile_v2_984x1182.jpg",
-                    "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023085/1787864511179299_UEL_UECL_League_Phase_Draw_live_landscape_thumb.jpg",
-                    "variant_asset_languages": [],
-                    "broadcast_channel_hin": "सोनी स्पोर्ट्स तेन ५",
-                    "ad_cluster_id": "ad_cluster_1",
-                    "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023085/1787864393636299_UEL_UECL_League_Phase_Draw_live_portrait_thumb.jpg",
-                    "is_subtitle_cc_available": false,
-                    "ssai_partners": "Google DAI",
-                    "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023085/1787864511179299_UEL_UECL_League_Phase_Draw_live_landscape_thumb.jpg",
-                    "audio_language_list": [
-                        {
-                            "lang_code": "ENG",
-                            "lang_label": "English"
-                        }
-                    ],
-                    "Maximum_Audio_Quality": "STEREO",
-                    "sub_license": "Yes",
-                    "isTimeLineMarker_new": "false",
-                    "region_of_origin": "English",
-                    "svod_advertising": "true",
-                    "sub_category": "Sport",
-                    "is_multi_track_per_language_available": false,
-                    "broadcast_channel": "Sony Sports Ten 5",
-                    "Maximum_Video_Quality": "SDR",
-                    "isdvr": "No",
-                    "U": "IN",
-                    "theme_applied": false,
-                    "country_rating": {
-                        "U": "IN",
-                        "3+": "BD,NP,LK,PK,AF,BT,MV"
-                    },
-                    "3+": "BD,NP,LK,PK,AF,BT,MV",
-                    "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023053/1787818766000765_UECL26_27_DRAW_Masthead_Logo_LIVE.png",
-                    "projected_max_concurrency": 100000,
-                    "value": "SVOD",
-                    "is_audio_desc_available": false,
-                    "target_impressions_per_week": 2000000,
-                    "live_label_display": true,
-                    "dai_asset_key": "RyLJ_PwXTFWClUI4uHJjwA",
-                    "seo_tags": "uefa Europa league,uefa Europa league fixtures,uefa Europa league live,uefa Europa league point table,uefa Europa league schedule,watch uefa Europa league live,uefa Europa league 2025 26,2025 26 uefa Europa league,watch uefa Europa league online,uefa Europa league player stats,watch uefa Europa league live online,uefa Europa league 2026 live,uefa Europa league player lineup,watch Europa league 2026 live,watch Europa league player lineup,watch Europa league player stats,watch uefa Europa league 2026,football match,football players,live football match,Europa league match,match highlights,football fixtures,football team,football match highlights,international football match,football point table,football schedule,football stats,player stats,international football teams,team stats,mens football match,international football competition,David De Gea,Marc-André ter Stegen,Gianluigi Donnarumma,Kepa Arrizabalaga,Kasper Schmeichel,Yassine Bounou,Jan Oblak,Alphonse Areola,Bernd Leno,Lucas Perri,Jack Butland,Rui Patricio,Sergio Rico,Lukas Hrádecký,Europa League,UEFA Europa League,UEL 2026-27,European Football,UEFA Club Competition,Europa League Fixtures,Europa League Highlights,Europa League Results,Europa League Standings,Europa League Goals,Europa League Matchday,Knockout Rounds,Europa League Final,Football Highlights,Soccer Highlights,Manchester United,Tottenham Hotspur,AS Roma,Lazio,Sevilla FC,Real Sociedad,Villarreal CF,Eintracht Frankfurt,Bayer Leverkusen,Olympique Marseille,Olympique Lyonnais,Ajax,Feyenoord,FC Porto,Sporting CP,Fenerbahce,Galatasaray,Athletic Club,Viktor Gyokeres,Bruno Fernandes,Alejandro Garnacho,Paulo Dybala,Artem Dovbyk,Nico Williams,Oihan Sancet,Takefusa Kubo,Youssef En-Nesyri,Edin Dzeko,Mauro Icardi,Ayoub El Kaabi,Jonathan David,Europa League Top Scorers,Europa League Golden Boot,UEFA Europa League Final,Europa League Group Stage,Europa League Knockouts,European Football Stars,UEFA Club Football,UEFA Europa League 2026-27",
-                    "Free_countries": "",
-                    "overlay_visibility": "0",
-                    "target_frequency_per_week": 3,
-                    "SVOD_countries": "_in,_bd,_np,_mv,_af,_pk,_bt,_lk",
-                    "is_auto_play_trailer": true,
-                    "integrated_splash_available": "Yes",
-                    "masthead_large_v3": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023053/1787818766000765_UECL26_27_DRAW_masthead_large_v3_3200x1800.jpg",
-                    "isDVR": false,
-                    "isTimeLineMarker": false,
-                    "isDownloadable": false,
-                    "is_preview_enabled": false,
-                    "sprite_image_url": "",
-                    "tv_sprite_image_url": "",
-                    "tl_marker": "",
-                    "icon_on_asset": {
-                        "play_focus_icon": "https://origin-staticv2.sonyliv.com/UI_icons/spotlight/focus_play_icon.png",
-                        "play_normal_icon": "https://origin-staticv2.sonyliv.com/UI_icons/spotlight/non_focused_play_icon.png"
-                    }
-                },
-                "isADVAllowed": false,
-                "ratingEligibility": true,
-                "ratingDisplay": false,
-                "titleBrief": "",
-                "baseContentId": 1090540683,
-                "isBaseAsset": true
-            },
-            "playback_info": {
-                "resultCode": "OK",
-                "message": "",
-                "errorDescription": "200-10000",
-                "resultObj": {
-                    "showPlayerStats": false,
-                    "is_preview_enabled": false,
-                    "videoURL": "https://sonydaimenew.akamaized.net/hls/live/2022320/footlive2808/ENG/master.m3u8?hdnea=exp=1787935831~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=c272938c5e3a50c2c7c568b3e3ad771f52f45aabf6b75f0bb7b0b3a2ecd95983",
-                    "multiLanguageVideoURL": [],
-                    "audioLanguages": [
-                        {
-                            "audioLanguageName": "ENG",
-                            "audioLanguageLabel": "English"
-                        }
-                    ],
-                    "trailer_url": "",
-                    "subtitle": [],
-                    "isEncrypted": false,
-                    "isDVR": false,
-                    "isDownloadable": false,
-                    "posterURL": "",
-                    "sprite_image_url": "",
-                    "tv_sprite_image_url": "",
-                    "dai_asset_key": "WbS0f3dkTZOWlzvQaKABdw",
-                    "contextual_cue_point": {},
-                    "cuepoints": [],
-                    "isLive": true,
-                    "country_rating": {
-                        "U": "IN",
-                        "3+": "BD,NP,LK,PK,AF,BT,MV"
-                    },
-                    "dai_asset_key_hlsfp": "",
-                    "dai_asset_key_wm": "",
-                    "Maximum_Video_Quality": "SDR",
-                    "Maximum_Audio_Quality": "STEREO",
-                    "Maximum_Resolution": "FULL_HD",
-                    "isWatermarked": "false",
-                    "watermark_partner": "",
-                    "upfrontAudio": true,
-                    "pcVodLabel": "3+",
-                    "promotionUrl": "",
-                    "hasPromotion": false,
-                    "contentProvider": "UEFA",
-                    "sony_match_id": "",
-                    "tl_marker": "",
-                    "checksum": "",
-                    "kid_mss": "",
-                    "parentId": "1700000781",
-                    "selectedLanguage": {
-                        "lang_label": "English",
-                        "lang_code": "ENG",
-                        "lang_type": "main",
-                        "lang_identifier": ""
-                    },
-                    "originalLanguage": {
-                        "lang_label": "English",
-                        "lang_code": "eng",
-                        "lang_type": "main",
-                        "lang_identifier": ""
-                    },
-                    "stateLanguage": {},
-                    "isFirstVideoPlayedInDevice": false,
-                    "targetedDelivery": {
-                        "td_server_hints": {
-                            "pip_bw_initial": 800000,
-                            "pip_bw_max": 7000000,
-                            "pip_live_initial_buffer": 8,
-                            "pip_live_target_latency": 10,
-                            "analytics_expt_id": "9UexVSmNVs"
-                        }
-                    },
-                    "parents": [
-                        {
-                            "parentId": 1590016492,
-                            "parentType": "BUNDLE",
-                            "parentSubType": "MATCH_TYPE"
-                        },
-                        {
-                            "parentId": 1700000781,
-                            "parentType": "GROUP_OF_BUNDLES",
-                            "parentSubType": "TOURNAMENT"
-                        }
-                    ],
-                    "additionalDataJson": {
-                        "adServer": "GAM",
-                        "ad_stack": "DAI-IMA",
-                        "audioCodec": "AAC",
-                        "audio_quality": "STEREO",
-                        "enc_format": "HLS",
-                        "fps": 25,
-                        "isDaiKey": true,
-                        "partners": [
-                            "ALL"
-                        ],
-                        "resolution": "SD",
-                        "videoCodec": "H264",
-                        "video_quality": "SDR"
-                    },
-                    "LA_Details": {},
-                    "is_audio_desc_available": false,
-                    "is_multi_track_per_language_available": false,
-                    "multiAudioTrack": true,
-                    "packId": "liv_premium_GP_1m"
-                },
-                "systemTime": 1787914231140
             }
         },
         {
@@ -798,7 +584,7 @@
                 "resultObj": {
                     "showPlayerStats": false,
                     "is_preview_enabled": false,
-                    "videoURL": "https://sonydaimenew.akamaized.net/hls/live/2094589/109054062808/ENG/master.m3u8?hdnea=exp=1787925041~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=ccc6c394f8ccb09350e897eeb5ab5e9db5515ffc2f75e74fc73538bac24e91e3",
+                    "videoURL": "https://sonydaimenew.akamaized.net/hls/live/2094589/109054062808/ENG/master.m3u8?hdnea=exp=1787941242~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=29060802f6cf67dc4c1dad43dfa730a5c5acdbde9ccc99be6b28659bea7a58fe",
                     "multiLanguageVideoURL": [],
                     "audioLanguages": [
                         {
@@ -895,7 +681,7 @@
                     "multiAudioTrack": true,
                     "packId": "liv_premium_GP_1m"
                 },
-                "systemTime": 1787903441390
+                "systemTime": 1787919642639
             }
         },
         {
