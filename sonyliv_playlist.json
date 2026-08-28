@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "02:50:26 PM 28-08-2026"
+        "last_update": "03:20:36 PM 28-08-2026"
     },
     "live_matches": [
         {
@@ -259,9 +259,11 @@
                     "snp_tags": "Strong language,Blood",
                     "is_multi_track_per_language_available": false,
                     "packageid": "12m_mobile_saarc,Liv_Pre_Yupp,12m_saarc,1m_saarc,liv_premium_GP_1m,liv_premium_GP_1m_mobile,LIV_Pre_Mob_1M,liv_binge_1m",
+                    "masthead_logo_rectangualar": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023096/1787908022264198_RTUFC_S5_SF_tajima_vs_koren_masthead_logo_rectangualar_950x570_live.png",
                     "Maximum_Video_Quality": "SDR",
                     "Maximum_Resolution": "FULL_HD",
                     "broadcast_channel": "Sony Sports Ten 2",
+                    "masthead_logo_v1": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023096/1787908024730198_RTUFC_S5_SF_tajima_vs_koren_masthead_logo_V1_692x390_LIVE.png",
                     "advertising": "AD SUPPORTED",
                     "emaAttributes": {},
                     "tv_background_image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023084/1787862476742494_Road_TO_UFC_S5_Semi_Final_tv_bg.png",
@@ -269,6 +271,8 @@
                         "A": "IN",
                         "16+": "BD,NP,LK,PK,AF,BT,MV"
                     },
+                    "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023096/1787908019685198_RTUFC_S5_SF_tajima_vs_koren_Masthead_Logo_LIVE.png",
+                    "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023096/1787907951401198_RTUFC_S5_SF_tajima_vs_koren_masthead_mobile_v2.jpg",
                     "value": "SVOD",
                     "is_audio_desc_available": false,
                     "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023084/1787862402507494_Road_TO_UFC_S5_Semi_Final_landscape_thumb.png",
@@ -278,7 +282,6 @@
                         "TEL",
                         "KAN"
                     ],
-                    "broadcast_channel_hin": "सोनी स्पोर्ट्स तेन २",
                     "16+": "BD,NP,LK,PK,AF,BT,MV",
                     "live_label_display": true,
                     "ad_cluster_id": "ad_cluster_1",
@@ -317,6 +320,7 @@
                     "sub_license": "No",
                     "is_auto_play_trailer": true,
                     "integrated_splash_available": "Yes",
+                    "masthead_large_v3": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023096/1787907993956198_RTUFC_S5_SF_tajima_vs_koren_masthead_large_v3.jpg",
                     "isTimeLineMarker_new": "false",
                     "isDVR": false,
                     "isTimeLineMarker": false,
