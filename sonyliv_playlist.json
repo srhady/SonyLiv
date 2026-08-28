@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "09:20:29 PM 28-08-2026"
+        "last_update": "09:50:31 PM 28-08-2026"
     },
     "live_matches": [
         {
@@ -543,7 +543,7 @@
                 "resultObj": {
                     "showPlayerStats": false,
                     "is_preview_enabled": false,
-                    "videoURL": "https://sonydaimenew.akamaized.net/hls/live/2022322/golf_dpw2808/ENG/master.m3u8?hdnea=exp=1787937631~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=971d880bfbbfbe79678b1dc3ed39963093dc6c484679b9d3bc71395ef3b51d23",
+                    "videoURL": "https://sonydaimenew.akamaized.net/hls/live/2022322/golf_dpw2808/ENG/master.m3u8?hdnea=exp=1787953836~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=d83b952df4cecc0a88ca0a89564ed898ec254ae51ca4d192ccc722501ffe6e2c",
                     "multiLanguageVideoURL": [],
                     "audioLanguages": [
                         {
@@ -574,7 +574,7 @@
                     "Maximum_Resolution": "FULL_HD",
                     "isWatermarked": "false",
                     "watermark_partner": "",
-                    "upfrontAudio": true,
+                    "upfrontAudio": false,
                     "pcVodLabel": "3+",
                     "promotionUrl": "",
                     "hasPromotion": false,
@@ -640,7 +640,7 @@
                     "multiAudioTrack": true,
                     "packId": "liv_premium_GP_1m"
                 },
-                "systemTime": 1787916031386
+                "systemTime": 1787932236242
             }
         }
     ]
