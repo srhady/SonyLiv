@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "10:20:28 PM 28-08-2026"
+        "last_update": "10:50:47 PM 28-08-2026"
     },
     "live_matches": [
         {
@@ -339,7 +339,7 @@
                 "resultObj": {
                     "showPlayerStats": false,
                     "is_preview_enabled": false,
-                    "videoURL": "https://sonydaimenew.akamaized.net/hls/live/2094589/109054062808/ENG/master.m3u8?hdnea=exp=1787941242~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=29060802f6cf67dc4c1dad43dfa730a5c5acdbde9ccc99be6b28659bea7a58fe",
+                    "videoURL": "https://sonydaimenew.akamaized.net/hls/live/2094589/109054062808/ENG/master.m3u8?hdnea=exp=1787957451~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=10f1ec3f48f4f102f562135635ec77248e5dd104254f38dfb7ac957fc53f356e",
                     "multiLanguageVideoURL": [],
                     "audioLanguages": [
                         {
@@ -436,7 +436,7 @@
                     "multiAudioTrack": true,
                     "packId": "liv_premium_GP_1m"
                 },
-                "systemTime": 1787919642639
+                "systemTime": 1787935851261
             }
         },
         {
