@@ -2,7 +2,10 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 01:50:32 PM 28-08-2026
+# last_update: 02:50:26 PM 28-08-2026
 
-#EXTINF:-1 tvg-id="sonyliv-1090540652" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023004/1787809857848573_JPL_26_Pagariya-Strikers-vs-Mumbai-Sobo-Stars_landscape_thumb.jpg" group-title="Cricket", Pagariya Strikers vs Mumbai Sobo Stars - 28 Aug 2026 | JITO Premier League 2026
+#EXTINF:-1 tvg-id="sonyliv-1090540652" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000022913/1787664967865164_JPL_26_Rajasthan-Rajvansh-vs-Golden-Eagles-Delhi_live_landscape_thumb.jpg" group-title="Cricket", Rajasthan Rajvansh vs Golden Eagles Delhi - 28 Aug 2026 | JITO Premier League 2026
 https://sonydaimenew.akamaized.net/hls/live/2094589/109054062808/ENG/master.m3u8?hdnea=exp=1787925041~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=ccc6c394f8ccb09350e897eeb5ab5e9db5515ffc2f75e74fc73538bac24e91e3
+
+#EXTINF:-1 tvg-id="sonyliv-1090540680" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023084/1787862402507494_Road_TO_UFC_S5_Semi_Final_landscape_thumb.png" group-title="Fight Sports", Ryo Tajima vs Chungreng Koren - Semi-finals - 28 Aug 2026 | Road To UFC Season 5
+https://sonydaimenew.akamaized.net/hls/live/2022318/ufclive_2808/ENG/master.m3u8?hdnea=exp=1787928633~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=9f984c980af772942d957176cce3c01bf6596e2b72f164549bb8d245d46f63a2
