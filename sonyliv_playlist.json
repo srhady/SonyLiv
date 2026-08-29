@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "12:20:32 PM 29-08-2026"
+        "last_update": "12:50:29 PM 29-08-2026"
     },
     "live_matches": [
         {
@@ -16,12 +16,12 @@
                 "contentType": "VOD",
                 "contentSubtype": "LIVE_SPORT",
                 "title": "JITO Premier League 2026",
-                "longDescription": "Chennai Striker Kings take on Bengal Indians in an exciting JITO Premier League 2026 clash. Watch all the action LIVE, only on Sony LIV.",
-                "shortDescription": "Chennai Striker Kings take on Bengal Indians in an exciting JITO Premier League 2026 clash. Watch all the action LIVE, only on Sony LIV.",
+                "longDescription": "Gujarat Gladiators take on Pune Peshwas in an exciting JITO Premier League 2026 clash. Watch all the action LIVE, only on Sony LIV.",
+                "shortDescription": "Gujarat Gladiators take on Pune Peshwas in an exciting JITO Premier League 2026 clash. Watch all the action LIVE, only on Sony LIV.",
                 "isCopyProtected": false,
                 "contractStartDate": 1787974200000,
                 "contractEndDate": 1788037200000,
-                "episodeTitle": "Chennai Striker Kings vs Bengal Indians - 29 Aug 2026",
+                "episodeTitle": "Gujarat Gladiators vs Pune Peshwas - 29 Aug 2026",
                 "genres": [
                     "Cricket"
                 ],
@@ -48,7 +48,7 @@
                     "advertising": "AD SUPPORTED",
                     "isdvr": "No",
                     "emaAttributes": {},
-                    "tv_background_image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023100/1787815139270770_JPL_26_Chennai-Striker-Kings-vs-Bengal-Indians_live_tv_bg.jpg",
+                    "tv_background_image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023100/1787815846751770_JPL_26_Gujarat-Gladiators-vs-Pune-Peshwas_live_tv_bg.jpg",
                     "U": "IN",
                     "content_marquee_status": false,
                     "theme_applied": false,
@@ -63,12 +63,11 @@
                     "is_audio_desc_available": false,
                     "target_impressions_per_week": 2000000,
                     "is_searchable": "Yes",
-                    "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023100/1787815121565770_JPL_26_Chennai-Striker-Kings-vs-Bengal-Indians_live_landscape_thumb.jpg",
+                    "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023100/1787815808989770_JPL_26_Gujarat-Gladiators-vs-Pune-Peshwas_live_landscape_thumb.jpg",
                     "variant_asset_languages": [],
-                    "broadcast_channel_hin": "सोनी स्पोर्ट्स तेन ५",
                     "ad_cluster_id": "ad_cluster_1",
                     "live_label_display": true,
-                    "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023100/1787815095604770_JPL_26_Chennai-Striker-Kings-vs-Bengal-Indians_live_portrait_thumb.jpg",
+                    "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023100/1787815764830770_JPL_26_Gujarat-Gladiators-vs-Pune-Peshwas_live_portrait_thumb.jpg",
                     "dai_asset_key": "GB-SxkbkTWCj5JOrO3-E7g",
                     "seo_tags": "JITO Premier League 2026,JITO,JITO Premier League,JPL 2026,Jain International Trade Organisation,Cricket Tournament,T20 Cricket,Tennis Ball Cricket,Indian Cricket,Cricket League,Sports Tournament,Community Sports,JITO Sports,Premier League 2026,Cricket Championship,Domestic Cricket,Mumbai Cricket,Amateur Cricket,Cricket Competition,Live Cricket,Cricket Highlights,Cricket Matches,Sports Event,India Cricket,JITO Cricket League,JPL Cricket,Cricket Fans,Cricket Action,Tournament Highlights,Cricket Updates,Cricket Season 2026",
                     "Free_countries": "_in",
@@ -77,7 +76,7 @@
                     "SVOD_countries": "_lk,_mv,_np,_bd,_bt,_pk",
                     "is_subtitle_cc_available": false,
                     "ssai_partners": "Google DAI",
-                    "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023100/1787815121565770_JPL_26_Chennai-Striker-Kings-vs-Bengal-Indians_live_landscape_thumb.jpg",
+                    "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023100/1787815808989770_JPL_26_Gujarat-Gladiators-vs-Pune-Peshwas_live_landscape_thumb.jpg",
                     "audio_language_list": [
                         {
                             "lang_code": "ENG",
