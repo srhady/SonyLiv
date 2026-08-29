@@ -2,13 +2,10 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 06:50:29 PM 29-08-2026
+# last_update: 07:20:28 PM 29-08-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090540809" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023111/1787918548169954_ENGvsPAK_2nd_test_day3_live_landscape_thumb.jpg" group-title="Cricket", Day 3 - 2nd Test - 29 Aug 2026 | Pakistan Tour of England 2026
 https://sonydaimenew.akamaized.net/hls/live/2022316/109054082908/ENG/master.m3u8?hdnea=exp=1788018633~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=a585848212674e945b36b7f66883937c81e0ce8644a259e24b17188d9bb2eb6e
-
-#EXTINF:-1 tvg-id="sonyliv-1090540822" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023107/1787914192350175_UFC_Nurmagamedov_vs_Song_landscape_thumb.jpg" group-title="Fight Sports", UFC Fight Night - Nurmagomedov vs Song - 29 Aug 2026 | UFC Fight Night - Nurmagomedov vs Song
-https://sonydaimenew.akamaized.net/hls/live/2022315/109054082908/ENG/master.m3u8?hdnea=exp=1788018640~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=ae049b6fcaf1b5ff7e2b9840da6a0a640567cb460cfce4730036efd5de95ed7a
 
 #EXTINF:-1 tvg-id="sonyliv-1090540806" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023100/1787815987684770_JPL_26_Mumbai-Kings-Xl-vs-Indore-Hawks_live_landscape_thumb.jpg" group-title="Cricket", Mumbai Kings vs Indore Hawks - 29 Aug 2026 | JITO Premier League 2026
 https://sonydaimenew.akamaized.net/hls/live/2018458/109054082908/ENG/master.m3u8?hdnea=exp=1788029434~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=865e134c9fdef5e56fabdf2e9cfadc7f54b9263df4dc4e46bc708d3b820676db
