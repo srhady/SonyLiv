@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "05:50:30 PM 30-08-2026"
+        "last_update": "06:20:33 PM 30-08-2026"
     },
     "live_matches": [
         {
@@ -268,6 +268,7 @@
                     "is_searchable": "Yes",
                     "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023100/1787817046893770_JPL_26_Pagaria-Strikers-Maharashtra-vs-Golden-Eagles-Delhi_live_landscape_thumb.jpg",
                     "variant_asset_languages": [],
+                    "broadcast_channel_hin": "सोनी स्पोर्ट्स तेन ५",
                     "ad_cluster_id": "ad_cluster_1",
                     "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023100/1787817002642770_JPL_26_Pagaria-Strikers-Maharashtra-vs-Golden-Eagles-Delhi_live_portrait_thumb.jpg",
                     "is_subtitle_cc_available": false,
