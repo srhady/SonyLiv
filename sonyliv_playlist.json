@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "05:20:27 PM 31-08-2026"
+        "last_update": "05:50:27 PM 31-08-2026"
     },
     "live_matches": [
         {
@@ -52,6 +52,7 @@
                     "variant_asset_languages": [
                         "PAN"
                     ],
+                    "broadcast_channel_hin": "सोनी स्पोर्ट्स तेन ५",
                     "ad_cluster_id": "ad_cluster_1",
                     "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023239/1788173597362893_PunjabT20_League26_Jalandhar_Warriors_vs_Fazilka_Falcons_rev_live_portrait_thumb.jpg",
                     "is_subtitle_cc_available": false,
