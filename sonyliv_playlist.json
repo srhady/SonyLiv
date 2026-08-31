@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "06:20:28 PM 31-08-2026"
+        "last_update": "06:50:31 PM 31-08-2026"
     },
     "live_matches": [
         {
@@ -52,6 +52,7 @@
                     "variant_asset_languages": [
                         "PAN"
                     ],
+                    "broadcast_channel_hin": "सोनी स्पोर्ट्स तेन ५",
                     "ad_cluster_id": "ad_cluster_1",
                     "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023240/1788174200667960_PunjabT20_League26_Mohali_Kings_vs_Bathinda_Royals_punjabi_live_portrait_thumb.jpg",
                     "is_subtitle_cc_available": false,
