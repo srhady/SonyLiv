@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "05:50:27 PM 31-08-2026"
+        "last_update": "06:20:28 PM 31-08-2026"
     },
     "live_matches": [
         {
@@ -21,7 +21,7 @@
                 "isCopyProtected": false,
                 "contractStartDate": 1788159600000,
                 "contractEndDate": 1788215400000,
-                "episodeTitle": "Jalandhar Warriors vs Fazilka Falcons - 31 Aug 2026",
+                "episodeTitle": "Mohali Kings vs Bathinda Royals - 31 Aug 2026",
                 "genres": [
                     "Cricket"
                 ],
@@ -38,26 +38,25 @@
                     "audio_languages": "HIN,PAN",
                     "snp_tags": "Suitable for all",
                     "packageid": "12m_mobile_saarc,Liv_Pre_Yupp,12m_saarc,1m_saarc,liv_premium_GP_1m,liv_premium_GP_1m_mobile,LIV_Pre_Mob_1M,liv_binge_1m",
-                    "masthead_logo_rectangualar": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023162/1788012559699314_PunjabT20_League26_Jalandhar_Warriors_vs_Fazilka_Falcons_live_masthead_logo_rectangular.png",
+                    "masthead_logo_rectangualar": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023162/1788013546425314_PunjabT20_League26_Mohali_Kings_vs_Bathinda_Royals_live_masthead_logo_rectangular.png",
                     "Maximum_Resolution": "FULL_HD",
-                    "masthead_logo_v1": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023162/1788012247477314_PunjabT20_League26_Jalandhar_Warriors_vs_Fazilka_Falcons_live_masthead_logo_v1.png",
+                    "masthead_logo_v1": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023162/1788013235357314_PunjabT20_League26_Mohali_Kings_vs_Bathinda_Royals_live_masthead_logo_v1.png",
                     "advertising": "AD SUPPORTED",
                     "emaAttributes": {},
-                    "tv_background_image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023239/1788173816923893_PunjabT20_League26_Jalandhar_Warriors_vs_Fazilka_Falcons_tv_Bg.jpg",
+                    "tv_background_image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023240/1788174213669960_PunjabT20_League26_Mohali_Kings_vs_Bathinda_Royals_tv_Bg.jpg",
                     "content_marquee_status": false,
                     "marquee_target_state": [],
-                    "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023238/1788173418431658_PunjabT20_League26_Jalandhar_Warriors_vs_Fazilka_Falcons_rev_masthead_mobile_v2.jpg",
+                    "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023238/1788173368089658_PunjabT20_League26_Mohali_Kings_vs_Bathinda_Royals_rev_masthead_mobile_v2.jpg",
                     "is_searchable": "Yes",
-                    "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023239/1788173572913893_PunjabT20_League26_Jalandhar_Warriors_vs_Fazilka_Falcons_rev_landscape_thumb.jpg",
+                    "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023240/1788173557311960_PunjabT20_League26_Mohali_Kings_vs_Bathinda_Royals_rev_landscape_thumb.jpg",
                     "variant_asset_languages": [
                         "PAN"
                     ],
-                    "broadcast_channel_hin": "सोनी स्पोर्ट्स तेन ५",
                     "ad_cluster_id": "ad_cluster_1",
-                    "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023239/1788173597362893_PunjabT20_League26_Jalandhar_Warriors_vs_Fazilka_Falcons_rev_live_portrait_thumb.jpg",
+                    "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023240/1788174200667960_PunjabT20_League26_Mohali_Kings_vs_Bathinda_Royals_punjabi_live_portrait_thumb.jpg",
                     "is_subtitle_cc_available": false,
                     "ssai_partners": "Google DAI",
-                    "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023239/1788173572913893_PunjabT20_League26_Jalandhar_Warriors_vs_Fazilka_Falcons_rev_landscape_thumb.jpg",
+                    "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023240/1788173557311960_PunjabT20_League26_Mohali_Kings_vs_Bathinda_Royals_rev_landscape_thumb.jpg",
                     "audio_language_list": [
                         {
                             "lang_code": "HIN",
@@ -84,7 +83,7 @@
                         "3+": "BD,NP,LK,BT,MV,PK"
                     },
                     "3+": "BD,NP,LK,BT,MV,PK",
-                    "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023162/1788012609830314_PunjabT20_League26_Jalandhar_Warriors_vs_Fazilka_Falcons_live_masthead_logo.png",
+                    "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023162/1788013331008314_PunjabT20_League26_Mohali_Kings_vs_Bathinda_Royals_live_masthead_logo.png",
                     "projected_max_concurrency": 100000,
                     "value": "SVOD",
                     "is_audio_desc_available": false,
@@ -98,7 +97,7 @@
                     "SVOD_countries": "_lk,_mv,_np,_bd,_bt,_pk,_in",
                     "is_auto_play_trailer": true,
                     "integrated_splash_available": "Yes",
-                    "masthead_large_v3": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023238/1788173431518658_PunjabT20_League26_Jalandhar_Warriors_vs_Fazilka_Falcons_rev_masthead_large_v3.jpg",
+                    "masthead_large_v3": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023238/1788173300790658_PunjabT20_League26_Mohali_Kings_vs_Bathinda_Royals_rev_masthead_large_v3.jpg",
                     "isDVR": false,
                     "isTimeLineMarker": false,
                     "isDownloadable": false,
@@ -126,7 +125,7 @@
                 "resultObj": {
                     "showPlayerStats": false,
                     "is_preview_enabled": false,
-                    "videoURL": "https://sonydaimenew.akamaized.net/hls/live/2022317/Cricket_3108/HIN/master.m3u8?hdnea=exp=1788182432~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=cb9b253cc52c1ed3e50902c7146bb340aaff77cc738cf367ca9d088ad1ac886e",
+                    "videoURL": "https://sonydaimenew.akamaized.net/hls/live/2022317/Cricket_3108/HIN/master.m3u8?hdnea=exp=1788200436~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=056dd89c67f58a38b987296a19b62f09e600bf00d5f74a6aa659870c04f14083",
                     "multiLanguageVideoURL": [],
                     "audioLanguages": [
                         {
@@ -161,7 +160,7 @@
                     "Maximum_Resolution": "FULL_HD",
                     "isWatermarked": "false",
                     "watermark_partner": "",
-                    "upfrontAudio": true,
+                    "upfrontAudio": false,
                     "pcVodLabel": "3+",
                     "promotionUrl": "",
                     "hasPromotion": false,
@@ -227,7 +226,7 @@
                     "multiAudioTrack": true,
                     "packId": "liv_premium_GP_1m"
                 },
-                "systemTime": 1788160832164
+                "systemTime": 1788178836942
             }
         },
         {
