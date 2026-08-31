@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "04:20:29 PM 31-08-2026"
+        "last_update": "05:20:27 PM 31-08-2026"
     },
     "live_matches": [
         {
@@ -43,21 +43,20 @@
                     "masthead_logo_v1": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023162/1788012247477314_PunjabT20_League26_Jalandhar_Warriors_vs_Fazilka_Falcons_live_masthead_logo_v1.png",
                     "advertising": "AD SUPPORTED",
                     "emaAttributes": {},
-                    "tv_background_image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023161/1788011113444753_PunjabT20_League26_Jalandhar_Warriors_vs_Fazilka_Falcons_tv_Bg.jpg",
+                    "tv_background_image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023239/1788173816923893_PunjabT20_League26_Jalandhar_Warriors_vs_Fazilka_Falcons_tv_Bg.jpg",
                     "content_marquee_status": false,
                     "marquee_target_state": [],
-                    "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023162/1788011940698314_PunjabT20_League26_Jalandhar_Warriors_vs_Fazilka_Falcons_masthead_mobile_v2.jpg",
+                    "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023238/1788173418431658_PunjabT20_League26_Jalandhar_Warriors_vs_Fazilka_Falcons_rev_masthead_mobile_v2.jpg",
                     "is_searchable": "Yes",
-                    "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023161/1788011085499753_PunjabT20_League26_Jalandhar_Warriors_vs_Fazilka_Falcons_landscape_thumb.jpg",
+                    "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023239/1788173572913893_PunjabT20_League26_Jalandhar_Warriors_vs_Fazilka_Falcons_rev_landscape_thumb.jpg",
                     "variant_asset_languages": [
                         "PAN"
                     ],
-                    "broadcast_channel_hin": "सोनी स्पोर्ट्स तेन ५",
                     "ad_cluster_id": "ad_cluster_1",
-                    "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023161/1788010929191753_PunjabT20_League26_Jalandhar_Warriors_vs_Fazilka_Falcons_live_portrait_thumb.jpg",
+                    "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023239/1788173597362893_PunjabT20_League26_Jalandhar_Warriors_vs_Fazilka_Falcons_rev_live_portrait_thumb.jpg",
                     "is_subtitle_cc_available": false,
                     "ssai_partners": "Google DAI",
-                    "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023161/1788011085499753_PunjabT20_League26_Jalandhar_Warriors_vs_Fazilka_Falcons_landscape_thumb.jpg",
+                    "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023239/1788173572913893_PunjabT20_League26_Jalandhar_Warriors_vs_Fazilka_Falcons_rev_landscape_thumb.jpg",
                     "audio_language_list": [
                         {
                             "lang_code": "HIN",
@@ -98,7 +97,7 @@
                     "SVOD_countries": "_lk,_mv,_np,_bd,_bt,_pk,_in",
                     "is_auto_play_trailer": true,
                     "integrated_splash_available": "Yes",
-                    "masthead_large_v3": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023162/1788012885834314_PunjabT20_League26_Jalandhar_Warriors_vs_Fazilka_Falcons_masthead_large_v3.jpg",
+                    "masthead_large_v3": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023238/1788173431518658_PunjabT20_League26_Jalandhar_Warriors_vs_Fazilka_Falcons_rev_masthead_large_v3.jpg",
                     "isDVR": false,
                     "isTimeLineMarker": false,
                     "isDownloadable": false,
