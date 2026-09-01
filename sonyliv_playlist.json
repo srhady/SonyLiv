@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "06:50:26 PM 01-09-2026"
+        "last_update": "07:20:35 PM 01-09-2026"
     },
     "live_matches": [
         {
@@ -52,6 +52,7 @@
                     "variant_asset_languages": [
                         "PAN"
                     ],
+                    "broadcast_channel_hin": "सोनी स्पोर्ट्स तेन ५",
                     "ad_cluster_id": "ad_cluster_1",
                     "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023241/1788174779089237_PunjabT20_League26_Jalandhar_Warriors_vs_Amritsar_Soormas_live_portrait_thumb.jpg",
                     "is_subtitle_cc_available": false,
@@ -561,7 +562,7 @@
                 "resultObj": {
                     "showPlayerStats": false,
                     "is_preview_enabled": false,
-                    "videoURL": "https://sonydaimenew.akamaized.net/hls/live/2005444/Criclive0109/ENG/master.m3u8?hdnea=exp=1788274234~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=dd2fb83570dc20c4b38a9a97affa5bc0b7cebf9f88d40771c87926f10ff40f64",
+                    "videoURL": "https://sonydaimenew.akamaized.net/hls/live/2005444/Criclive0109/ENG/master.m3u8?hdnea=exp=1788290439~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=468e48e3357ea20a61b0379d545110284ac6c1d5c854e35190a0311d6229a779",
                     "multiLanguageVideoURL": [],
                     "audioLanguages": [
                         {
@@ -658,7 +659,7 @@
                     "multiAudioTrack": true,
                     "packId": "liv_premium_GP_1m"
                 },
-                "systemTime": 1788252634008
+                "systemTime": 1788268839341
             }
         }
     ]
