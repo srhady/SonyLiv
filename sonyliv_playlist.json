@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "08:50:34 PM 01-09-2026"
+        "last_update": "09:20:34 PM 01-09-2026"
     },
     "live_matches": [
         {
@@ -52,6 +52,7 @@
                     "variant_asset_languages": [
                         "PAN"
                     ],
+                    "broadcast_channel_hin": "सोनी स्पोर्ट्स तेन ५",
                     "ad_cluster_id": "ad_cluster_1",
                     "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023324/1788272295687821_PT20_Jalandhar_Warriors_vs_Amritsar_Soormas_live_portrait_thumb.jpg",
                     "is_subtitle_cc_available": false,
@@ -125,7 +126,7 @@
                 "resultObj": {
                     "showPlayerStats": false,
                     "is_preview_enabled": false,
-                    "videoURL": "https://sonydaimenew.akamaized.net/hls/live/2094588/Criclive0109/HIN/master.m3u8?hdnea=exp=1788283231~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=9f61e27994e5fbd5b38a8c4994e4402ab15480cd9cc16a94181370c1a473e9cf",
+                    "videoURL": "https://sonydaimenew.akamaized.net/hls/live/2094588/Criclive0109/HIN/master.m3u8?hdnea=exp=1788297638~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=8d106517a9345b57f82b045c7d96876a95e5f90fcaff5d6f1d838be128e63229",
                     "multiLanguageVideoURL": [],
                     "audioLanguages": [
                         {
@@ -226,7 +227,7 @@
                     "multiAudioTrack": true,
                     "packId": "liv_premium_GP_1m"
                 },
-                "systemTime": 1788261631626
+                "systemTime": 1788276038358
             }
         },
         {
@@ -261,9 +262,9 @@
                     "audio_languages": "ENG",
                     "snp_tags": "Suitable for all",
                     "packageid": "12m_mobile_saarc,Liv_Pre_Yupp,12m_saarc,1m_saarc,liv_premium_GP_1m,liv_premium_GP_1m_mobile,LIV_Pre_Mob_1M,liv_binge_1m,liv_premium_cloud7_1m",
-                    "masthead_logo_rectangualar": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023280/1788177176000107_Ireland_tour_of_England_2026_match_masthead_logo_rectangualar_950x570_LIVE.png",
+                    "masthead_logo_rectangualar": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023332/1788275250666459_ENG_vs_IRE_masthead_logo_rectangualar_LIVE.png",
                     "Maximum_Resolution": "FULL_HD",
-                    "masthead_logo_v1": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023280/1788177176000107_Ireland_tour_of_England_2026_match_masthead_logo_V1_692x390_LIVE.png",
+                    "masthead_logo_v1": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023332/1788275259802459_ENG_vs_IRE_masthead_logo_v1_LIVE.png",
                     "advertising": "AD SUPPORTED",
                     "emaAttributes": {},
                     "tv_background_image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023293/1788243817657515_ENGW_vs_IREW_odi_tv_Bg.jpg",
@@ -272,7 +273,6 @@
                     "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023273/1788174414000182_Ireland_tour_of_England_2026_GOB_masthead_mobile_v2_984x1182.jpg",
                     "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023294/1788245104544595_ENGW_vs_IREW_1odi_landscape.jpg",
                     "variant_asset_languages": [],
-                    "broadcast_channel_hin": "सोनी स्पोर्ट्स तेन ५",
                     "ad_cluster_id": "ad_cluster_1",
                     "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023293/1788243430217515_ENGW_vs_IREW_1odi_live_portrait_thumb.jpg",
                     "is_subtitle_cc_available": false,
