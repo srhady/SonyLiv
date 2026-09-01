@@ -3,9 +3,233 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "12:20:26 PM 01-09-2026"
+        "last_update": "12:50:29 PM 01-09-2026"
     },
     "live_matches": [
+        {
+            "match_info": {
+                "contentId": 1090541059,
+                "externalId": "1090541059",
+                "objectType": "VOD",
+                "isLive": true,
+                "objectSubtype": "LIVE_SPORT",
+                "contentType": "VOD",
+                "contentSubtype": "LIVE_SPORT",
+                "title": "Sher-E-Punjab T20 League",
+                "longDescription": "Bathinda Royals face Ludhiana Lions in an exciting Sher-E-Punjab T20 League clash. Watch all the action LIVE, only on Sony LIV.",
+                "shortDescription": "Bathinda Royals face Ludhiana Lions in an exciting Sher-E-Punjab T20 League clash. Watch all the action LIVE, only on Sony LIV.",
+                "isCopyProtected": false,
+                "contractStartDate": 1788244200000,
+                "contractEndDate": 1788299100000,
+                "episodeTitle": "Bathinda Royals vs Ludhiana Lions - 1 Sep 2026",
+                "genres": [
+                    "Cricket"
+                ],
+                "originalAirDate": 1788246000000,
+                "pcExtendedRatings": [],
+                "isOnAir": true,
+                "isEncrypted": false,
+                "pcVodLabel": "3+",
+                "duration": 0,
+                "language": "HIN",
+                "isGeoBlocked": false,
+                "advertisingInfoList": [],
+                "emfAttributes": {
+                    "audio_languages": "HIN,PAN",
+                    "snp_tags": "Suitable for all",
+                    "packageid": "12m_mobile_saarc,Liv_Pre_Yupp,12m_saarc,1m_saarc,liv_premium_GP_1m,liv_premium_GP_1m_mobile,LIV_Pre_Mob_1M,liv_binge_1m",
+                    "masthead_logo_rectangualar": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023274/1788174506000383_Punjab_T20_League_2026_Match_masthead_logo_rectangualar_950x570_Bathinda_Royals_vs_Ludhiana_Lions_LIVE.png",
+                    "Maximum_Resolution": "FULL_HD",
+                    "masthead_logo_v1": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023274/1788174506000383_Punjab_T20_League_2026_Match_masthead_logo_V1_692x390_Bathinda_Royals_vs_Ludhiana_Lions_LIVE.png",
+                    "advertising": "AD SUPPORTED",
+                    "emaAttributes": {},
+                    "tv_background_image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023238/1788172219146658_PunjabT20_League26_Bathinda_Royals_vs_Ludhiana_Lions_tv_Bg.jpg",
+                    "content_marquee_status": false,
+                    "marquee_target_state": [],
+                    "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023274/1788174506000383_Punjab_T20_League_2026_Match_masthead_mobile_v2_984x1182_Bathinda_Royals_vs_Ludhiana_Lions.jpg",
+                    "is_searchable": "Yes",
+                    "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023238/1788172141615658_PunjabT20_League26_Bathinda_Royals_vs_Ludhiana_Lions_landscape_thumb.jpg",
+                    "variant_asset_languages": [
+                        "PAN"
+                    ],
+                    "broadcast_channel_hin": "सोनी स्पोर्ट्स तेन ५",
+                    "ad_cluster_id": "ad_cluster_1",
+                    "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023238/1788172295767658_PunjabT20_League26_Bathinda_Royals_vs_Ludhiana_Lions_live_portrait_thumb.jpg",
+                    "is_subtitle_cc_available": false,
+                    "ssai_partners": "Google DAI",
+                    "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023238/1788172141615658_PunjabT20_League26_Bathinda_Royals_vs_Ludhiana_Lions_landscape_thumb.jpg",
+                    "audio_language_list": [
+                        {
+                            "lang_code": "HIN",
+                            "lang_label": "Hindi"
+                        },
+                        {
+                            "lang_code": "PAN",
+                            "lang_label": "Punjabi"
+                        }
+                    ],
+                    "Maximum_Audio_Quality": "STEREO",
+                    "isTimeLineMarker_new": "false",
+                    "venue_name": "Punjab Cricket Association IS Bindra Stadium",
+                    "region_of_origin": "Hindi",
+                    "svod_advertising": "true",
+                    "is_multi_track_per_language_available": false,
+                    "broadcast_channel": "Sony Sports Ten 5",
+                    "Maximum_Video_Quality": "SDR",
+                    "isdvr": "No",
+                    "U": "IN",
+                    "theme_applied": false,
+                    "country_rating": {
+                        "U": "IN",
+                        "3+": "BD,NP,LK,BT,MV,PK"
+                    },
+                    "3+": "BD,NP,LK,BT,MV,PK",
+                    "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023274/1788174506000383_Punjab_T20_League_2026_Match_Masthead_logo_Bathinda_Royals_vs_Ludhiana_Lions_LIVE.png",
+                    "projected_max_concurrency": 100000,
+                    "value": "SVOD",
+                    "is_audio_desc_available": false,
+                    "target_impressions_per_week": 2000000,
+                    "live_label_display": true,
+                    "dai_asset_key": "GdXyj0gmRmGkNncprYKFBQ",
+                    "seo_tags": "Punjab T20 League 2026,Punjab T20,Punjab T20 League,Cricket Tournament,T20 Cricket,Tennis Ball Cricket,Indian Cricket,Cricket League,Sports Tournament,Community Sports,JITO Sports,Premier League 2026,Cricket Championship,Domestic Cricket,Punjab Cricket League,Amateur Cricket,Cricket Competition,Live Cricket,Cricket Highlights,Cricket Matches,Sports Event,India Cricket,Punjab Cricket,Cricket Fans,Cricket Action,Tournament Highlights,Cricket Updates,Cricket Season 2026",
+                    "Free_countries": "",
+                    "overlay_visibility": "0",
+                    "target_frequency_per_week": 3,
+                    "SVOD_countries": "_lk,_mv,_np,_bd,_bt,_pk,_in",
+                    "is_auto_play_trailer": true,
+                    "integrated_splash_available": "Yes",
+                    "masthead_large_v3": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023274/1788174506000383_Punjab_T20_League_2026_Match_masthead_large_v3_3200x1800_Bathinda_Royals_vs_Ludhiana_Lions.jpg",
+                    "isDVR": false,
+                    "isTimeLineMarker": false,
+                    "isDownloadable": false,
+                    "is_preview_enabled": false,
+                    "sprite_image_url": "",
+                    "tv_sprite_image_url": "",
+                    "kids_safe": false,
+                    "tl_marker": "",
+                    "icon_on_asset": {
+                        "play_focus_icon": "https://origin-staticv2.sonyliv.com/UI_icons/spotlight/focus_play_icon.png",
+                        "play_normal_icon": "https://origin-staticv2.sonyliv.com/UI_icons/spotlight/non_focused_play_icon.png"
+                    }
+                },
+                "isADVAllowed": false,
+                "ratingEligibility": true,
+                "ratingDisplay": false,
+                "titleBrief": "",
+                "baseContentId": 1090541059,
+                "isBaseAsset": true
+            },
+            "playback_info": {
+                "resultCode": "OK",
+                "message": "",
+                "errorDescription": "200-10000",
+                "resultObj": {
+                    "showPlayerStats": false,
+                    "is_preview_enabled": false,
+                    "videoURL": "https://sonydaimenew.akamaized.net/hls/live/2094588/Criclive0109/HIN/master.m3u8?hdnea=exp=1788267033~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=f38818bb31d393df533b92b8b75f85315edfd7fd4dd0c8d1803a25bbc217d8f6",
+                    "multiLanguageVideoURL": [],
+                    "audioLanguages": [
+                        {
+                            "audioLanguageName": "HIN",
+                            "audioLanguageLabel": "Hindi"
+                        },
+                        {
+                            "audioLanguageName": "PAN",
+                            "audioLanguageLabel": "Punjabi"
+                        }
+                    ],
+                    "trailer_url": "",
+                    "subtitle": [],
+                    "isEncrypted": false,
+                    "isDVR": false,
+                    "isDownloadable": false,
+                    "posterURL": "",
+                    "sprite_image_url": "",
+                    "tv_sprite_image_url": "",
+                    "dai_asset_key": "AmQPWgDqQUWpYQBuiuFZhw",
+                    "contextual_cue_point": {},
+                    "cuepoints": [],
+                    "isLive": true,
+                    "country_rating": {
+                        "U": "IN",
+                        "3+": "BD,NP,LK,BT,MV,PK"
+                    },
+                    "dai_asset_key_hlsfp": "",
+                    "dai_asset_key_wm": "",
+                    "Maximum_Video_Quality": "SDR",
+                    "Maximum_Audio_Quality": "STEREO",
+                    "Maximum_Resolution": "FULL_HD",
+                    "isWatermarked": "false",
+                    "watermark_partner": "",
+                    "upfrontAudio": true,
+                    "pcVodLabel": "3+",
+                    "promotionUrl": "",
+                    "hasPromotion": false,
+                    "contentProvider": "Global Broadcasting Solutions",
+                    "sony_match_id": "",
+                    "tl_marker": "",
+                    "checksum": "",
+                    "kid_mss": "",
+                    "parentId": "1790007849",
+                    "selectedLanguage": {
+                        "lang_label": "Hindi",
+                        "lang_code": "HIN",
+                        "lang_type": "main",
+                        "lang_identifier": ""
+                    },
+                    "originalLanguage": {
+                        "lang_label": "Hindi",
+                        "lang_code": "hin",
+                        "lang_type": "main",
+                        "lang_identifier": ""
+                    },
+                    "stateLanguage": {},
+                    "isFirstVideoPlayedInDevice": false,
+                    "targetedDelivery": {
+                        "td_server_hints": {
+                            "pip_bw_initial": 800000,
+                            "pip_bw_max": 7000000,
+                            "pip_live_initial_buffer": 8,
+                            "pip_live_target_latency": 10,
+                            "analytics_expt_id": "9UexVSmNVs"
+                        }
+                    },
+                    "parents": [
+                        {
+                            "parentId": 1590016505,
+                            "parentType": "BUNDLE",
+                            "parentSubType": "MATCH_TYPE"
+                        },
+                        {
+                            "parentId": 1790007849,
+                            "parentType": "GROUP_OF_BUNDLES",
+                            "parentSubType": "TOURNAMENT"
+                        }
+                    ],
+                    "additionalDataJson": {
+                        "adServer": "GAM",
+                        "ad_stack": "DAI-IMA",
+                        "audioCodec": "AAC",
+                        "audio_quality": "STEREO",
+                        "enc_format": "HLS",
+                        "fps": 25,
+                        "isDaiKey": true,
+                        "partners": [
+                            "ALL"
+                        ],
+                        "resolution": "SD",
+                        "videoCodec": "H264",
+                        "video_quality": "SDR"
+                    },
+                    "LA_Details": {},
+                    "is_audio_desc_available": false,
+                    "is_multi_track_per_language_available": false,
+                    "multiAudioTrack": true,
+                    "packId": "liv_premium_GP_1m"
+                },
+                "systemTime": 1788245433576
+            }
+        },
         {
             "match_info": {
                 "contentId": 1090541057,
