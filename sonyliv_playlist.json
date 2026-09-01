@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "01:20:31 PM 01-09-2026"
+        "last_update": "01:50:34 PM 01-09-2026"
     },
     "live_matches": [
         {
@@ -289,6 +289,7 @@
                     "is_searchable": "Yes",
                     "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023295/1788245765949942_JPL_26_Golden-Eagles-Delhi-vs-Royals-Hyderabad_live_landscape_thumb.jpg",
                     "variant_asset_languages": [],
+                    "broadcast_channel_hin": "सोनी स्पोर्ट्स तेन ५",
                     "ad_cluster_id": "ad_cluster_1",
                     "live_label_display": true,
                     "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023295/1788245738196942_JPL_26_Golden-Eagles-Delhi-vs-Royals-Hyderabad_live_portrait_thumb.jpg",
