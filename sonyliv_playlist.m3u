@@ -2,10 +2,13 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 05:20:27 PM 01-09-2026
+# last_update: 05:50:28 PM 01-09-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090541059" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023238/1788172141615658_PunjabT20_League26_Bathinda_Royals_vs_Ludhiana_Lions_landscape_thumb.jpg" group-title="Cricket", Bathinda Royals vs Ludhiana Lions - 1 Sep 2026 | Sher-E-Punjab T20 League
 https://sonydaimenew.akamaized.net/hls/live/2094588/Criclive0109/HIN/master.m3u8?hdnea=exp=1788283231~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=9f61e27994e5fbd5b38a8c4994e4402ab15480cd9cc16a94181370c1a473e9cf
+
+#EXTINF:-1 tvg-id="sonyliv-1090541157" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023294/1788245104544595_ENGW_vs_IREW_1odi_landscape.jpg" group-title="Cricket", 1st ODI - 1 Sep 2026 | Ireland Women's Tour of England 2026
+https://sonydaimenew.akamaized.net/hls/live/2018457/Criclive0109/ENG/master.m3u8?hdnea=exp=1788285037~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=a8a9012da629d24855c87285586f13b5d031fbd293bd4ae89301a37be66891a6
 
 #EXTINF:-1 tvg-id="sonyliv-1090541057" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023295/1788246025224942_JPL_26_Pagariya-Strikers-vs-Bangalore-Blasters_live_landscape_thumb.jpg" group-title="Cricket", Pagariya Strikers vs Bangalore Blasters - 1 Sep 2026 | JITO Premier League 2026
 https://sonydaimenew.akamaized.net/hls/live/2005444/Criclive0109/ENG/master.m3u8?hdnea=exp=1788274234~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=dd2fb83570dc20c4b38a9a97affa5bc0b7cebf9f88d40771c87926f10ff40f64
