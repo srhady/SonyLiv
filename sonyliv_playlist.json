@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "02:20:34 PM 02-09-2026"
+        "last_update": "02:50:29 PM 02-09-2026"
     },
     "live_matches": [
         {
@@ -43,21 +43,21 @@
                     "masthead_logo_v1": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023356/1788334081061694_Punjab_T20_League_2026_Match_masthead_logo_V1_692x390_Mohali_Kings_vs_Ludhiana_Lions_LIVE.png",
                     "advertising": "AD SUPPORTED",
                     "emaAttributes": {},
-                    "tv_background_image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023292/1788179754842802_Punjan_T20_Mohali-Kings-vs-Ludhiana-Lions_live_tv_Bg.jpg",
+                    "tv_background_image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023362/178833683280067_PT20_Mohali-Kings-vs-Ludhiana-Lions_live_punjab_tv_Bg.jpg",
                     "content_marquee_status": false,
                     "marquee_target_state": [],
                     "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023356/1788334081084694_Punjab_T20_League_2026_Match_masthead_mobile_v2_984x1182_Mohali_Kings_vs_Ludhiana_Lions.jpg",
                     "is_searchable": "Yes",
-                    "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023292/1788179695909802_Punjan_T20_Mohali-Kings-vs-Ludhiana-Lions_live_landscape_thumb.jpg",
+                    "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023362/178833536230867_PT20_Mohali-Kings-vs-Ludhiana-Lions_live_landscape_thumb.jpg",
                     "variant_asset_languages": [
                         "PAN"
                     ],
                     "broadcast_channel_hin": "सोनी स्पोर्ट्स तेन ५",
                     "ad_cluster_id": "ad_cluster_1",
-                    "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023292/1788179597424802_Punjan_T20_Mohali-Kings-vs-Ludhiana-Lions_live_portrait_thumb.jpg",
+                    "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023362/178833481063867_PT20_Mohali-Kings-vs-Ludhiana-Lions_live_portrait_thumb.jpg",
                     "is_subtitle_cc_available": false,
                     "ssai_partners": "Google DAI",
-                    "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023292/1788179695909802_Punjan_T20_Mohali-Kings-vs-Ludhiana-Lions_live_landscape_thumb.jpg",
+                    "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023362/178833536230867_PT20_Mohali-Kings-vs-Ludhiana-Lions_live_landscape_thumb.jpg",
                     "audio_language_list": [
                         {
                             "lang_code": "HIN",
@@ -289,6 +289,7 @@
                     "is_searchable": "Yes",
                     "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023297/178824727602054_JPL_26_Indore-Hawks-vs-Chennai-Strikers_live_landscape_thumb.jpg",
                     "variant_asset_languages": [],
+                    "broadcast_channel_hin": "सोनी स्पोर्ट्स तेन ५",
                     "ad_cluster_id": "ad_cluster_1",
                     "live_label_display": true,
                     "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023297/178824724600354_JPL_26_Indore-Hawks-vs-Chennai-Strikers_live_portrait_thumb.jpg",
@@ -339,7 +340,7 @@
                 "resultObj": {
                     "showPlayerStats": false,
                     "is_preview_enabled": false,
-                    "videoURL": "https://sonydaimenew.akamaized.net/hls/live/2094589/Criclive0209/ENG/master.m3u8?hdnea=exp=1788344437~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=43d7ad37a5aba719c291d8dab2f9d6c1c1057b167d81c15559d0e683612ee70c",
+                    "videoURL": "https://sonydaimenew.akamaized.net/hls/live/2094589/Criclive0209/ENG/master.m3u8?hdnea=exp=1788360632~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=05e386d569be1aa4ff404bb38b564ae35f1108a636a8d2e48a13f0e47b51186a",
                     "multiLanguageVideoURL": [],
                     "audioLanguages": [
                         {
@@ -370,7 +371,7 @@
                     "Maximum_Resolution": "FULL_HD",
                     "isWatermarked": "false",
                     "watermark_partner": "",
-                    "upfrontAudio": true,
+                    "upfrontAudio": false,
                     "pcVodLabel": "3+",
                     "promotionUrl": "",
                     "hasPromotion": false,
@@ -436,7 +437,7 @@
                     "multiAudioTrack": true,
                     "packId": "liv_premium_GP_1m"
                 },
-                "systemTime": 1788322837508
+                "systemTime": 1788339032722
             }
         }
     ]
