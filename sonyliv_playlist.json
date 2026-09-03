@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "06:20:30 PM 03-09-2026"
+        "last_update": "06:50:37 PM 03-09-2026"
     },
     "live_matches": [
         {
@@ -268,6 +268,7 @@
                     "variant_asset_languages": [
                         "PAN"
                     ],
+                    "broadcast_channel_hin": "सोनी स्पोर्ट्स तेन ५",
                     "ad_cluster_id": "ad_cluster_1",
                     "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023377/1788350994893870_PT20_Fazilka-Falcons-vs-Mohali-Kings_live_portrait_thumb.jpg",
                     "is_subtitle_cc_available": false,
@@ -555,7 +556,7 @@
                 "resultObj": {
                     "showPlayerStats": false,
                     "is_preview_enabled": false,
-                    "videoURL": "https://sonydaimenew.akamaized.net/hls/live/2005444/criclive0309/ENG/master.m3u8?hdnea=exp=1788445233~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=c279b2df132a1373ee65bbfb1376e40309d9881904a89c151b898431b4337ff5",
+                    "videoURL": "https://sonydaimenew.akamaized.net/hls/live/2005444/criclive0309/ENG/master.m3u8?hdnea=exp=1788461441~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=9baa35426894228b64c6a54d0f99e7ac02acabbc0bad66ad42f7e737fe262e73",
                     "multiLanguageVideoURL": [],
                     "audioLanguages": [
                         {
@@ -652,7 +653,7 @@
                     "multiAudioTrack": true,
                     "packId": "liv_premium_GP_1m"
                 },
-                "systemTime": 1788423633837
+                "systemTime": 1788439841355
             }
         },
         {
