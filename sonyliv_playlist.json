@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "09:20:30 PM 03-09-2026"
+        "last_update": "09:50:30 PM 03-09-2026"
     },
     "live_matches": [
         {
@@ -342,7 +342,7 @@
                 "resultObj": {
                     "showPlayerStats": false,
                     "is_preview_enabled": false,
-                    "videoURL": "https://sonydaimenew.akamaized.net/hls/live/2094588/criclive0309/HIN/master.m3u8?hdnea=exp=1788456036~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=cf2b216f09441aa268416ae0b39a8f115a67c76433db988e9e9d32943d79345c",
+                    "videoURL": "https://sonydaimenew.akamaized.net/hls/live/2094588/criclive0309/HIN/master.m3u8?hdnea=exp=1788472234~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=444452d082fb21665aea72a86dd18c24e18aec0917a8fff08b06e82bc864c2a0",
                     "multiLanguageVideoURL": [],
                     "audioLanguages": [
                         {
@@ -443,7 +443,7 @@
                     "multiAudioTrack": true,
                     "packId": "liv_premium_GP_1m"
                 },
-                "systemTime": 1788434436831
+                "systemTime": 1788450634271
             }
         },
         {
@@ -760,7 +760,7 @@
                 "resultObj": {
                     "showPlayerStats": false,
                     "is_preview_enabled": false,
-                    "videoURL": "https://sonydaimenew.akamaized.net/hls/live/2018457/Golf_Ome0309/ENG/master.m3u8?hdnea=exp=1788456044~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=ffea319518886c26ba7af6c03762ba65e83487d40a9a876ef3a718967d397da7",
+                    "videoURL": "https://sonydaimenew.akamaized.net/hls/live/2018457/Golf_Ome0309/ENG/master.m3u8?hdnea=exp=1788472242~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=0d0dce7cf90697adc83b230f1f5d4fef6d710d90b0545a3f0ae148638fb8c072",
                     "multiLanguageVideoURL": [],
                     "audioLanguages": [
                         {
@@ -791,7 +791,7 @@
                     "Maximum_Resolution": "FULL_HD",
                     "isWatermarked": "false",
                     "watermark_partner": "",
-                    "upfrontAudio": true,
+                    "upfrontAudio": false,
                     "pcVodLabel": "3+",
                     "promotionUrl": "",
                     "hasPromotion": false,
@@ -857,7 +857,7 @@
                     "multiAudioTrack": true,
                     "packId": "liv_premium_GP_1m"
                 },
-                "systemTime": 1788434444061
+                "systemTime": 1788450642570
             }
         }
     ]
