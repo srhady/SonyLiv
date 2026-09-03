@@ -2,7 +2,10 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 12:20:25 PM 03-09-2026
+# last_update: 12:50:29 PM 03-09-2026
+
+#EXTINF:-1 tvg-id="sonyliv-1090541268" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023377/1788350606714870_PT20_Bathinda-Royals-vs-Jalandhar-Warriors_live_landscape_thumb.jpg" group-title="Cricket", Bathinda Royals vs Jalandhar Warriors - 3 Sep 2026 | Sher-E-Punjab T20 League
+https://sonydaimenew.akamaized.net/hls/live/2094588/criclive0309/HIN/master.m3u8?hdnea=exp=1788439834~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=b6c81f7fee586720f5474a401328e4e60c7d97bbea17c5d8c87fc257d3ca0fc3
 
 #EXTINF:-1 tvg-id="sonyliv-1090541267" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023311/1788256517874994_JPL_26_Bangalore-Blasters-vs-Rajasthan-Rajvansh_live_landscape_thumb.jpg" group-title="Cricket", Bangalore Blasters vs Rajasthan Rajvansh - 3 Sep 2026 | JITO Premier League 2026
 https://sonydaimenew.akamaized.net/hls/live/2005444/criclive0309/ENG/master.m3u8?hdnea=exp=1788429034~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=2d45b8c1d70307107551221020fcac50079d38a7f45c828407daa07faec3e044
