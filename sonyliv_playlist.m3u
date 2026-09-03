@@ -2,10 +2,13 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 04:50:26 PM 03-09-2026
+# last_update: 05:20:33 PM 03-09-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090541268" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023377/1788350606714870_PT20_Bathinda-Royals-vs-Jalandhar-Warriors_live_landscape_thumb.jpg" group-title="Cricket", Bathinda Royals vs Jalandhar Warriors - 3 Sep 2026 | Sher-E-Punjab T20 League
-https://sonydaimenew.akamaized.net/hls/live/2094588/criclive0309/HIN/master.m3u8?hdnea=exp=1788439834~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=b6c81f7fee586720f5474a401328e4e60c7d97bbea17c5d8c87fc257d3ca0fc3
+https://sonydaimenew.akamaized.net/hls/live/2094588/criclive0309/HIN/master.m3u8?hdnea=exp=1788456036~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=cf2b216f09441aa268416ae0b39a8f115a67c76433db988e9e9d32943d79345c
 
 #EXTINF:-1 tvg-id="sonyliv-1090541267" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023311/1788256657160994_JPL_26_Golden-Eagles-Delhi-vs-Mumbai-Sobo-Stars_live_landscape_thumb.jpg" group-title="Cricket", Golden Eagles Delhi vs Mumbai Sobo Stars - 3 Sep 2026 | JITO Premier League 2026
 https://sonydaimenew.akamaized.net/hls/live/2005444/criclive0309/ENG/master.m3u8?hdnea=exp=1788445233~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=c279b2df132a1373ee65bbfb1376e40309d9881904a89c151b898431b4337ff5
+
+#EXTINF:-1 tvg-id="sonyliv-1090541269" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023367/1788341837266287_DP-World-2026-Omega-European-Masters_Day1_landscape_thumb.jpg" group-title="Golf", Omega European Masters - Day 1 - 3 Sep 2026 | DP World Tour
+https://sonydaimenew.akamaized.net/hls/live/2018457/Golf_Ome0309/ENG/master.m3u8?hdnea=exp=1788456044~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=ffea319518886c26ba7af6c03762ba65e83487d40a9a876ef3a718967d397da7
