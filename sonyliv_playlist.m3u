@@ -2,7 +2,7 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 09:20:37 PM 04-09-2026
+# last_update: 09:50:28 PM 04-09-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090541355" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023377/1788354027911870_PT20_Ludhiana-Lions-vs-Jalandhar-Warriors_live_landscape_thumb.jpg" group-title="Cricket", Ludhiana Lions vs Jalandhar Warriors - 4 Sep 2026 | Sher-E-Punjab T20 League
 https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0409/HIN/master.m3u8?hdnea=exp=1788544232~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=0d6cda8a698d413584ff2127c0929be39f37c97f0147c95e3e4abec667ee24b5
@@ -11,4 +11,4 @@ https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0409/HIN/master.m3u8
 https://sonydaimenew.akamaized.net/hls/live/2022318/criclive0409/ENG/master.m3u8?hdnea=exp=1788547832~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=f3d63236e7477042a4a8017b2a78b52e048e1668ac4ab32d86332a9c249a0d29
 
 #EXTINF:-1 tvg-id="sonyliv-1090541356" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023367/1788341850855287_DP-World-2026-Omega-European-Masters_Day2_landscape_thumb.jpg" group-title="Golf", Omega European Masters - Day 2 - 4 Sep 2026 | DP World Tour
-https://sonydaimenew.akamaized.net/hls/live/2022315/Golf_Ome0409/ENG/master.m3u8?hdnea=exp=1788542448~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=9ac74639a5b393a24583ad68acb8735208dd7dafc8ab595310e897657786ba27
+https://sonydaimenew.akamaized.net/hls/live/2022315/Golf_Ome0409/ENG/master.m3u8?hdnea=exp=1788558634~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=9a8bc3e7935739ecd6337cba3e99ce4fbffd48988243dc476a5867b5b99841f1
