@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "11:50:32 AM 04-09-2026"
+        "last_update": "12:20:27 PM 04-09-2026"
     },
     "live_matches": [
         {
@@ -63,12 +63,12 @@
                     "is_audio_desc_available": false,
                     "target_impressions_per_week": 2000000,
                     "is_searchable": "Yes",
-                    "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023468/1788465934799679_JPL_Qualifier1_Bangalore_Blaster_vs_Pune_Peshwar_live_landscape_thumb.jpg",
+                    "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023472/1788498900551134_JPL_Qualifier1_Bangalore_Blaster_vs_Pune_Peshwar_live_landscape_thumb_rev.jpg",
                     "variant_asset_languages": [],
                     "broadcast_channel_hin": "सोनी स्पोर्ट्स तेन ५",
                     "ad_cluster_id": "ad_cluster_1",
                     "live_label_display": true,
-                    "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023468/1788464401689679_JPL_Qualifier1_Bangalore_Blaster_vs_Pune_Peshwar_live_portrait_thumb.jpg",
+                    "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023472/1788498820408134_JPL_Qualifier1_Bangalore_Blaster_vs_Pune_Peshwar_live_portrait_thumb_rev.jpg",
                     "dai_asset_key": "ORHLqlgTTr6-KDzCQv-ylA",
                     "seo_tags": "JITO Premier League 2026,JITO,JITO Premier League,JPL 2026,Jain International Trade Organisation,Cricket Tournament,T20 Cricket,Tennis Ball Cricket,Indian Cricket,Cricket League,Sports Tournament,Community Sports,JITO Sports,Premier League 2026,Cricket Championship,Domestic Cricket,Mumbai Cricket,Amateur Cricket,Cricket Competition,Live Cricket,Cricket Highlights,Cricket Matches,Sports Event,India Cricket,JITO Cricket League,JPL Cricket,Cricket Fans,Cricket Action,Tournament Highlights,Cricket Updates,Cricket Season 2026",
                     "Free_countries": "_in",
@@ -77,7 +77,7 @@
                     "SVOD_countries": "_lk,_mv,_np,_bd,_bt,_pk",
                     "is_subtitle_cc_available": false,
                     "ssai_partners": "Google DAI",
-                    "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023468/1788465934799679_JPL_Qualifier1_Bangalore_Blaster_vs_Pune_Peshwar_live_landscape_thumb.jpg",
+                    "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023472/1788498900551134_JPL_Qualifier1_Bangalore_Blaster_vs_Pune_Peshwar_live_landscape_thumb_rev.jpg",
                     "audio_language_list": [
                         {
                             "lang_code": "ENG",
