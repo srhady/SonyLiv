@@ -3,7 +3,251 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "05:20:25 AM 07-09-2026"
+        "last_update": "05:50:25 AM 07-09-2026"
     },
-    "live_matches": []
+    "live_matches": [
+        {
+            "match_info": {
+                "contentId": 1090541680,
+                "externalId": "1090541680",
+                "objectType": "VOD",
+                "isLive": true,
+                "objectSubtype": "LIVE_SPORT",
+                "contentType": "VOD",
+                "contentSubtype": "LIVE_SPORT",
+                "title": "WWE",
+                "longDescription": "WWE Sunday Night Main Event blends nostalgia with modern storytelling, featuring stars from Raw and SmackDown. Tune in to catch all the action, LIVE on Sony LIV.",
+                "shortDescription": "WWE Sunday Night Main Event blends nostalgia with modern storytelling, featuring stars from Raw and SmackDown. Tune in to catch all the action, LIVE on Sony LIV.",
+                "isCopyProtected": false,
+                "contractStartDate": 1788737400000,
+                "contractEndDate": 1788755400000,
+                "episodeTitle": "Sunday Night Main Event - 7 Sep 2026",
+                "genres": [
+                    "Sport"
+                ],
+                "originalAirDate": 1788739200000,
+                "pcExtendedRatings": [],
+                "isOnAir": true,
+                "isEncrypted": false,
+                "pcVodLabel": "16+",
+                "duration": 0,
+                "language": "ENG",
+                "isGeoBlocked": false,
+                "advertisingInfoList": [],
+                "emfAttributes": {
+                    "region_of_origin": "English",
+                    "svod_advertising": "true",
+                    "audio_languages": "ENG,HIN,TAM,TEL,KAN",
+                    "U/A 16+": "IN",
+                    "snp_tags": "Language,Moderate Nudity",
+                    "is_multi_track_per_language_available": false,
+                    "packageid": "12m_mobile_saarc,Liv_Pre_Yupp,12m_saarc,1m_saarc,liv_premium_GP_1m,liv_premium_GP_1m_mobile,LIV_Pre_Mob_1M,liv_binge_1m,liv_premium_cloud7_1m",
+                    "masthead_logo_rectangualar": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023494/17885339881283_WWE_SNME_2026_GOB_masthead_logo_rectangualar_950x570_LIVE.png",
+                    "broadcast_channel": "Sony Sports Ten 1",
+                    "Maximum_Video_Quality": "SDR",
+                    "Maximum_Resolution": "FULL_HD",
+                    "masthead_logo_v1": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023494/17885339881763_WWE_SNME_2026_GOB_masthead_logo_V1_692x390_LIVE.png",
+                    "advertising": "AD SUPPORTED",
+                    "isdvr": "No",
+                    "emaAttributes": {},
+                    "tv_background_image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023492/178853175832928_WWE26_Main_Event_live_tv_bg.jpg",
+                    "country_rating": {
+                        "U/A 16+": "IN",
+                        "16+": "BD,NP,MV,BT,LK,AF,PK"
+                    },
+                    "masthead_logo": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023494/17885339880803_WWE_SNME_2026_GOB_Masthead_logo_LIVE.png",
+                    "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023494/17885339881923_WWE_SNME_2026_GOB_masthead_mobile_v2_984x1182.jpg",
+                    "value": "SVOD",
+                    "is_audio_desc_available": false,
+                    "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023492/178853153729228_WWE26_Main_Event_live_landscape_thumbnail.jpg",
+                    "variant_asset_languages": [
+                        "HIN",
+                        "TAM",
+                        "TEL",
+                        "KAN"
+                    ],
+                    "broadcast_channel_hin": "सोनी स्पोर्ट्स तेन १",
+                    "ad_cluster_id": "ad_cluster_1",
+                    "16+": "BD,NP,MV,BT,LK,AF,PK",
+                    "live_label_display": true,
+                    "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023492/178853187856728_WWE26_Main_Event_live_portrait_thumbnail.jpg",
+                    "dai_asset_key": "adxneMA9QhOs2WKeGJVvPQ",
+                    "seo_tags": "WWE Raw results,WWE SmackDown recap,WWE pay-per-view,WWE live stream,Roman Reigns news,Cody Rhodes update,Seth Rollins match,Rhea Ripley fight,WWE title match,WWE superstar returns,WWE backstage news,WWE breaking news,WWE match card,WWE live event,WWE top 10,WWE moments,WWE promos,WWE rivalries,WWE championship history,WWE tag team action,WWE women's division,WWE NXT update,WWE Hall of Fame,WWE draft news,WWE storyline twist,WWE match predictions,WWE press conference,WWE fan reactions",
+                    "Free_countries": "",
+                    "overlay_visibility": "0",
+                    "SVOD_countries": "_lk,_mv,_np,_bd,_bt,_af,_pk,_in",
+                    "is_subtitle_cc_available": false,
+                    "details_logo_image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023494/17885339883043_WWE_SNME_2026_GOB_Promo_Logo_Detail_Page_Logo_Mobile_LIVE.png",
+                    "ssai_partners": "Google DAI",
+                    "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023492/178853153729228_WWE26_Main_Event_live_landscape_thumbnail.jpg",
+                    "audio_language_list": [
+                        {
+                            "lang_code": "ENG",
+                            "lang_label": "English"
+                        },
+                        {
+                            "lang_code": "HIN",
+                            "lang_label": "Hindi"
+                        },
+                        {
+                            "lang_code": "TAM",
+                            "lang_label": "Tamil"
+                        },
+                        {
+                            "lang_code": "TEL",
+                            "lang_label": "Telugu"
+                        },
+                        {
+                            "lang_code": "KAN",
+                            "lang_label": "Kannada"
+                        }
+                    ],
+                    "Maximum_Audio_Quality": "STEREO",
+                    "is_auto_play_trailer": true,
+                    "integrated_splash_available": "Yes",
+                    "masthead_large_v3": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023494/17885339880323_WWE_SNME_2026_GOB_masthead_large_v3_3200x1800.jpg",
+                    "isDVR": false,
+                    "isTimeLineMarker": false,
+                    "isDownloadable": false,
+                    "is_preview_enabled": false,
+                    "sprite_image_url": "",
+                    "tv_sprite_image_url": "",
+                    "kids_safe": false,
+                    "tl_marker": "",
+                    "icon_on_asset": {
+                        "play_focus_icon": "https://origin-staticv2.sonyliv.com/UI_icons/spotlight/focus_play_icon.png",
+                        "play_normal_icon": "https://origin-staticv2.sonyliv.com/UI_icons/spotlight/non_focused_play_icon.png"
+                    }
+                },
+                "isADVAllowed": false,
+                "ratingEligibility": true,
+                "ratingDisplay": false,
+                "titleBrief": "",
+                "baseContentId": 1090541680,
+                "isBaseAsset": true
+            },
+            "playback_info": {
+                "resultCode": "OK",
+                "message": "",
+                "errorDescription": "200-10000",
+                "resultObj": {
+                    "showPlayerStats": false,
+                    "is_preview_enabled": false,
+                    "videoURL": "https://sonydaimenew.akamaized.net/hls/live/2018458/WWE_Sund0609/ENG/master.m3u8?hdnea=exp=1788760227~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=0cdb86bb17f713d5b10a3fc2edffc9384429d935eea2ccc5cc006f70765393bb",
+                    "multiLanguageVideoURL": [],
+                    "audioLanguages": [
+                        {
+                            "audioLanguageName": "ENG",
+                            "audioLanguageLabel": "English"
+                        },
+                        {
+                            "audioLanguageName": "HIN",
+                            "audioLanguageLabel": "Hindi"
+                        },
+                        {
+                            "audioLanguageName": "TEL",
+                            "audioLanguageLabel": "Telugu"
+                        },
+                        {
+                            "audioLanguageName": "TAM",
+                            "audioLanguageLabel": "Tamil"
+                        },
+                        {
+                            "audioLanguageName": "KAN",
+                            "audioLanguageLabel": "Kannada"
+                        }
+                    ],
+                    "trailer_url": "",
+                    "subtitle": [],
+                    "isEncrypted": false,
+                    "isDVR": false,
+                    "isDownloadable": false,
+                    "posterURL": "",
+                    "sprite_image_url": "",
+                    "tv_sprite_image_url": "",
+                    "dai_asset_key": "FoX2wfDaR4azEMpiywe61Q",
+                    "contextual_cue_point": {},
+                    "cuepoints": [],
+                    "isLive": true,
+                    "country_rating": {
+                        "U/A 16+": "IN",
+                        "16+": "BD,NP,MV,BT,LK,AF,PK"
+                    },
+                    "dai_asset_key_hlsfp": "",
+                    "dai_asset_key_wm": "",
+                    "Maximum_Video_Quality": "SDR",
+                    "Maximum_Audio_Quality": "STEREO",
+                    "Maximum_Resolution": "FULL_HD",
+                    "isWatermarked": "false",
+                    "watermark_partner": "",
+                    "upfrontAudio": true,
+                    "pcVodLabel": "16+",
+                    "promotionUrl": "",
+                    "hasPromotion": false,
+                    "contentProvider": "WWE",
+                    "sony_match_id": "",
+                    "tl_marker": "",
+                    "checksum": "",
+                    "kid_mss": "",
+                    "parentId": "1790006724",
+                    "selectedLanguage": {
+                        "lang_label": "English",
+                        "lang_code": "ENG",
+                        "lang_type": "main",
+                        "lang_identifier": ""
+                    },
+                    "originalLanguage": {
+                        "lang_label": "English",
+                        "lang_code": "eng",
+                        "lang_type": "main",
+                        "lang_identifier": ""
+                    },
+                    "stateLanguage": {},
+                    "isFirstVideoPlayedInDevice": false,
+                    "targetedDelivery": {
+                        "td_server_hints": {
+                            "pip_bw_initial": 800000,
+                            "pip_bw_max": 7000000,
+                            "pip_live_initial_buffer": 8,
+                            "pip_live_target_latency": 10,
+                            "analytics_expt_id": "9UexVSmNVs"
+                        }
+                    },
+                    "parents": [
+                        {
+                            "parentId": 1590014629,
+                            "parentType": "BUNDLE",
+                            "parentSubType": "MATCH_TYPE"
+                        },
+                        {
+                            "parentId": 1790006724,
+                            "parentType": "GROUP_OF_BUNDLES",
+                            "parentSubType": "TOURNAMENT"
+                        }
+                    ],
+                    "additionalDataJson": {
+                        "adServer": "GAM",
+                        "ad_stack": "DAI-IMA",
+                        "audioCodec": "AAC",
+                        "audio_quality": "STEREO",
+                        "enc_format": "HLS",
+                        "fps": 25,
+                        "isDaiKey": true,
+                        "partners": [
+                            "ALL"
+                        ],
+                        "resolution": "SD",
+                        "videoCodec": "H264",
+                        "video_quality": "SDR"
+                    },
+                    "LA_Details": {},
+                    "is_audio_desc_available": false,
+                    "is_multi_track_per_language_available": false,
+                    "multiAudioTrack": true,
+                    "packId": "liv_premium_GP_1m"
+                },
+                "systemTime": 1788738627768
+            }
+        }
+    ]
 }
