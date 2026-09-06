@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "08:20:27 PM 06-09-2026"
+        "last_update": "09:20:27 PM 06-09-2026"
     },
     "live_matches": [
         {
@@ -473,20 +473,21 @@
                     "masthead_logo_v1": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023571/178867873581350_Punjab_T20_League_2026_Ludhiana_Lions_vs_Fazilka_Falcons_live_masthead_logo_v1.png",
                     "advertising": "AD SUPPORTED",
                     "emaAttributes": {},
-                    "tv_background_image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023401/1788419742711373_PT20_Ludhiana-Lions-vs-Fazilka-Falcons_live_tv_Bg.jpg",
+                    "tv_background_image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023580/1788704042437144_Punjab_T20_League_2026_Ludhiana_Lions_vs_Fazilka_Falcons_tv_Bg.jpg",
                     "content_marquee_status": false,
                     "marquee_target_state": [],
                     "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023579/1788702918825686_Punjab_T20_League_2026_Ludhiana_Lions_vs_Fazilka_Falcons_masthead_mobile_v2.jpg",
                     "is_searchable": "Yes",
-                    "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023401/1788419688654373_PT20_Ludhiana-Lions-vs-Fazilka-Falcons_live_landscape_thumb.jpg",
+                    "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023580/1788703938951144_Punjab_T20_League_2026_Ludhiana_Lions_vs_Fazilka_Falcons_landscape_thumb.jpg",
                     "variant_asset_languages": [
                         "PAN"
                     ],
+                    "broadcast_channel_hin": "सोनी स्पोर्ट्स तेन ५",
                     "ad_cluster_id": "ad_cluster_1",
-                    "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023401/1788419628215373_PT20_Ludhiana-Lions-vs-Fazilka-Falcons_live_portrait_thumb.jpg",
+                    "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023580/1788703800754144_Punjab_T20_League_2026_Ludhiana_Lions_vs_Fazilka_Falcons_live_portrait_thumb.jpg",
                     "is_subtitle_cc_available": false,
                     "ssai_partners": "Google DAI",
-                    "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023401/1788419688654373_PT20_Ludhiana-Lions-vs-Fazilka-Falcons_live_landscape_thumb.jpg",
+                    "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023580/1788703938951144_Punjab_T20_League_2026_Ludhiana_Lions_vs_Fazilka_Falcons_landscape_thumb.jpg",
                     "audio_language_list": [
                         {
                             "lang_code": "HIN",
