@@ -2,7 +2,10 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 02:50:25 PM 06-09-2026
+# last_update: 03:20:29 PM 06-09-2026
+
+#EXTINF:-1 tvg-id="sonyliv-1090541545" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023357/1788333199816860_ENGW_vs_IREW_3odi_landscape.jpg" group-title="Cricket", 3rd ODI - 6 Sep 2026 | Ireland Women's Tour of England 2026
+https://sonydaimenew.akamaized.net/hls/live/2022318/criclive0609/ENG/master.m3u8?hdnea=exp=1788708033~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=056b1c8ae14925409f0bee17da645e13147990ee83bd38f8f8343c418503641a
 
 #EXTINF:-1 tvg-id="sonyliv-1090541651" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023497/1788536600255108_VCL26_Auction_live_landscape_thumb.jpg" group-title="Volleyball", Auction - 6 Sep 2026 | Volleyball Championship League 2026 
 https://sonydaimenew.akamaized.net/hls/live/2018457/Volleyba0609/ENG/master.m3u8?hdnea=exp=1788704434~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=174116ed2683345d0b90d685d7984f25f967fca2164f1aa3432be445d527a3f1
