@@ -2,13 +2,7 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 10:20:26 PM 06-09-2026
-
-#EXTINF:-1 tvg-id="sonyliv-1090541545" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023357/1788333199816860_ENGW_vs_IREW_3odi_landscape.jpg" group-title="Cricket", 3rd ODI - 6 Sep 2026 | Ireland Women's Tour of England 2026
-https://sonydaimenew.akamaized.net/hls/live/2022318/criclive0609/ENG/master.m3u8?hdnea=exp=1788724233~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=6630829b15727ec134b76a32aa5e0dca05002760c45de8ea3a09e9ffa9fbb01a
+# last_update: 10:50:33 PM 06-09-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090541579" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023580/1788703938951144_Punjab_T20_League_2026_Ludhiana_Lions_vs_Fazilka_Falcons_landscape_thumb.jpg" group-title="Cricket",  Ludhiana Lions vs Fazilka Falcons - 6 Sep 2026 | Sher-E-Punjab T20 League
 https://sonydaimenew.akamaized.net/hls/live/2094589/criclive0609/HIN/master.m3u8?hdnea=exp=1788731432~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=aa722577fca2f96750636f0e4f4a35e6703cd46fa7a8c3e384cb47b2ed0724e5
-
-#EXTINF:-1 tvg-id="sonyliv-1090541532" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023367/1788341923917287_DP-World-2026-Omega-European-Masters_Day4_landscape_thumb.jpg" group-title="Golf", Omega European Masters - Day 4 - 6 Sep 2026 | DP World Tour
-https://sonydaimenew.akamaized.net/hls/live/2022315/Golf_Ome0609/ENG/master.m3u8?hdnea=exp=1788724240~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=59d6d9330ea99187df18e7c272fda72e55c3798f3f0dfbbc208154142a2906c6
