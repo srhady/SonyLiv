@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "05:20:28 PM 07-09-2026"
+        "last_update": "05:50:30 PM 07-09-2026"
     },
     "live_matches": [
         {
@@ -126,7 +126,7 @@
                 "resultObj": {
                     "showPlayerStats": false,
                     "is_preview_enabled": false,
-                    "videoURL": "https://sonydaimenew.akamaized.net/hls/live/2022322/criclive0709/HIN/master.m3u8?hdnea=exp=1788785475~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=80857f19e7d38d201bda187d52eab5e70067e8b044071e95f643a8f8d394beb9",
+                    "videoURL": "https://sonydaimenew.akamaized.net/hls/live/2022322/criclive0709/HIN/master.m3u8?hdnea=exp=1788803446~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=50024cdee14188504248fd4c08a63d94819097d3e572ef933d6f489bf34c3ca8",
                     "multiLanguageVideoURL": [],
                     "audioLanguages": [
                         {
@@ -161,7 +161,7 @@
                     "Maximum_Resolution": "FULL_HD",
                     "isWatermarked": "false",
                     "watermark_partner": "",
-                    "upfrontAudio": true,
+                    "upfrontAudio": false,
                     "pcVodLabel": "3+",
                     "promotionUrl": "",
                     "hasPromotion": false,
@@ -227,7 +227,7 @@
                     "multiAudioTrack": true,
                     "packId": "liv_premium_GP_1m"
                 },
-                "systemTime": 1788763875631
+                "systemTime": 1788781846660
             }
         }
     ]
