@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "07:50:32 PM 08-09-2026"
+        "last_update": "08:20:30 PM 08-09-2026"
     },
     "live_matches": [
         {
@@ -43,20 +43,20 @@
                     "masthead_logo_v1": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023664/1788874970786731_PT20_Jalandhar_Warriors_vs_Ludhiana_Lions_live_masthead_logo_v1.png",
                     "advertising": "AD SUPPORTED",
                     "emaAttributes": {},
-                    "tv_background_image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023609/1788772161339263_PT20_Ludhiana-Lions-vs-Bathinda-Royals_tv_Bg.jpg",
+                    "tv_background_image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023665/1788875841245151_punjabt20_ludhiana_vs_bhatinda_punjabi_tv_Bg.jpg",
                     "content_marquee_status": false,
                     "marquee_target_state": [],
                     "masthead_mobile_v2": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023663/1788874732775704_PT20_Jalandhar_Warriors_vs_Ludhiana_Lions_masthead_mobile_v2.jpg",
                     "is_searchable": "Yes",
-                    "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023609/1788772125862263_PT20_Ludhiana-Lions-vs-Bathinda-Royals_landscape_thumb.jpg",
+                    "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023665/1788875797577152_punjabt20_ludhiana_vs_bhatinda_landscape_thumb.jpg",
                     "variant_asset_languages": [
                         "PAN"
                     ],
                     "ad_cluster_id": "ad_cluster_1",
-                    "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023609/1788772080210263_PT20_Ludhiana-Lions-vs-Bathinda-Royals_portrait_thumb.jpg",
+                    "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023665/1788875570405152_punjabt20_ludhiana_vs_bhatinda_live_portrait_thumb.jpg",
                     "is_subtitle_cc_available": false,
                     "ssai_partners": "Google DAI",
-                    "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023609/1788772125862263_PT20_Ludhiana-Lions-vs-Bathinda-Royals_landscape_thumb.jpg",
+                    "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023665/1788875797577152_punjabt20_ludhiana_vs_bhatinda_landscape_thumb.jpg",
                     "audio_language_list": [
                         {
                             "lang_code": "HIN",
@@ -227,217 +227,6 @@
                     "packId": "liv_premium_GP_1m"
                 },
                 "systemTime": 1788866435863
-            }
-        },
-        {
-            "match_info": {
-                "contentId": 1090541752,
-                "externalId": "1090541752",
-                "objectType": "VOD",
-                "isLive": true,
-                "objectSubtype": "LIVE_SPORT",
-                "contentType": "VOD",
-                "contentSubtype": "LIVE_SPORT",
-                "title": "UEFA Youth League 2026-27",
-                "longDescription": "Club Brugge take on Aston Villa in the UEFA Youth League 2026-27. Which side will come out on top? Catch all the action from this exciting clash, LIVE on Sony LIV.",
-                "shortDescription": "Club Brugge take on Aston Villa in the UEFA Youth League 2026-27. Which side will come out on top? Catch all the action from this exciting clash, LIVE on Sony LIV.",
-                "isCopyProtected": false,
-                "contractStartDate": 1788866700000,
-                "contractEndDate": 1788884700000,
-                "episodeTitle": "Club Brugge vs Aston Villa - 8 Sep 2026",
-                "genres": [
-                    "Football"
-                ],
-                "originalAirDate": 1788868500000,
-                "pcExtendedRatings": [],
-                "isOnAir": true,
-                "isEncrypted": false,
-                "pcVodLabel": "3+",
-                "duration": 0,
-                "language": "ENG",
-                "isGeoBlocked": false,
-                "advertisingInfoList": [],
-                "emfAttributes": {
-                    "audio_languages": "ENG",
-                    "snp_tags": "Suitable for all",
-                    "packageid": "12m_mobile_saarc,Liv_Pre_Yupp,12m_saarc,1m_saarc,liv_premium_GP_1m,liv_premium_GP_1m_mobile,LIV_Pre_Mob_1M,liv_binge_1m,liv_premium_cloud7_1m",
-                    "Maximum_Resolution": "FULL_HD",
-                    "advertising": "AD SUPPORTED",
-                    "emaAttributes": {},
-                    "kids_safe": false,
-                    "tv_background_image": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023587/1788715520760657_UYL26_Club_Brugge_vs_Aston_Villa_live_tv_bg.jpg",
-                    "content_marquee_status": false,
-                    "marquee_target_state": [],
-                    "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023587/1788715411067657_UYL26_Club_Brugge_vs_Aston_Villa_live_landscape_thumb.jpg",
-                    "variant_asset_languages": [],
-                    "broadcast_channel_hin": "सोनी स्पोर्ट्स तेन २",
-                    "ad_cluster_id": "ad_cluster_1",
-                    "portrait_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023587/1788715370730657_UYL26_Club_Brugge_vs_Aston_Villa_live_portrait_thumb.jpg",
-                    "is_subtitle_cc_available": false,
-                    "ssai_partners": "Google DAI",
-                    "landscape_thumb": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023587/1788715411067657_UYL26_Club_Brugge_vs_Aston_Villa_live_landscape_thumb.jpg",
-                    "audio_language_list": [
-                        {
-                            "lang_code": "ENG",
-                            "lang_label": "English"
-                        }
-                    ],
-                    "Maximum_Audio_Quality": "STEREO",
-                    "sub_license": "Yes",
-                    "venue_name": "The NEST Roeselare",
-                    "region_of_origin": "English",
-                    "svod_advertising": "true",
-                    "sub_category": "Sport",
-                    "is_multi_track_per_language_available": false,
-                    "broadcast_channel": "Sony Sports Ten 2",
-                    "Maximum_Video_Quality": "SDR",
-                    "isdvr": "No",
-                    "away_team": " Aston Villa",
-                    "U": "IN",
-                    "theme_applied": false,
-                    "country_rating": {
-                        "U": "IN",
-                        "3+": "BD,NP,LK,PK,AF,BT,MV"
-                    },
-                    "3+": "BD,NP,LK,PK,AF,BT,MV",
-                    "projected_max_concurrency": 100000,
-                    "value": "SVOD",
-                    "is_audio_desc_available": false,
-                    "target_impressions_per_week": 2000000,
-                    "live_label_display": true,
-                    "dai_asset_key": "5uT8FTtEQ8CSr75Rnh7fVQ",
-                    "seo_tags": "UEFA Youth League 2025,UEFA Youth League 2025–26,U19 football Europe,youth football tournament,UEFA fixtures,UEFA results,UEFA stats,Barcelona U19,Chelsea U19,Champions League Path,Domestic Champions Path,Real Madrid vs Olympique Marseille,UEFA Youth League fixtures,UEFA Youth League results,UEFA Youth League schedule,UEFA Youth League teams,UEFA Youth League standings,U19 European football,Real Madrid U19,Bayern Munich U19,Ajax U19,PSG U19,UEFA Youth League top scorers,UEFA Youth League stats,youth football highlights,UEFA Youth League live stream,teenage football stars,future football talent,UEFA youth competition,scouting youth players,UEFA Youth League knockout stage,UEFA Youth League final 2026",
-                    "Free_countries": "",
-                    "overlay_visibility": "0",
-                    "target_frequency_per_week": 3,
-                    "SVOD_countries": "_in,_bd,_np,_mv,_af,_pk,_bt,_lk",
-                    "home_team": " Club Brugge",
-                    "is_auto_play_trailer": true,
-                    "integrated_splash_available": "Yes",
-                    "isDVR": false,
-                    "isTimeLineMarker": false,
-                    "isDownloadable": false,
-                    "is_preview_enabled": false,
-                    "sprite_image_url": "",
-                    "tv_sprite_image_url": "",
-                    "tl_marker": "",
-                    "icon_on_asset": {
-                        "play_focus_icon": "https://origin-staticv2.sonyliv.com/UI_icons/spotlight/focus_play_icon.png",
-                        "play_normal_icon": "https://origin-staticv2.sonyliv.com/UI_icons/spotlight/non_focused_play_icon.png"
-                    }
-                },
-                "isADVAllowed": false,
-                "ratingEligibility": true,
-                "ratingDisplay": false,
-                "titleBrief": "",
-                "baseContentId": 1090541752,
-                "isBaseAsset": true
-            },
-            "playback_info": {
-                "resultCode": "OK",
-                "message": "",
-                "errorDescription": "200-10000",
-                "resultObj": {
-                    "showPlayerStats": false,
-                    "is_preview_enabled": false,
-                    "videoURL": "https://sonydaimenew.akamaized.net/hls/live/2018457/footlive0809/ENG/master.m3u8?hdnea=exp=1788889835~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=c76a8dbf7366c66fd385d2aa3c857a4832814feeee68440da5c66f374c6c09cd",
-                    "multiLanguageVideoURL": [],
-                    "audioLanguages": [
-                        {
-                            "audioLanguageName": "ENG",
-                            "audioLanguageLabel": "English"
-                        }
-                    ],
-                    "trailer_url": "",
-                    "subtitle": [],
-                    "isEncrypted": false,
-                    "isDVR": false,
-                    "isDownloadable": false,
-                    "posterURL": "",
-                    "sprite_image_url": "",
-                    "tv_sprite_image_url": "",
-                    "dai_asset_key": "OmHoNcoVR064pZ1gWNFs_Q",
-                    "contextual_cue_point": {},
-                    "cuepoints": [],
-                    "isLive": true,
-                    "country_rating": {
-                        "U": "IN",
-                        "3+": "BD,NP,LK,PK,AF,BT,MV"
-                    },
-                    "dai_asset_key_hlsfp": "",
-                    "dai_asset_key_wm": "",
-                    "Maximum_Video_Quality": "SDR",
-                    "Maximum_Audio_Quality": "STEREO",
-                    "Maximum_Resolution": "FULL_HD",
-                    "isWatermarked": "false",
-                    "watermark_partner": "",
-                    "upfrontAudio": true,
-                    "pcVodLabel": "3+",
-                    "promotionUrl": "",
-                    "hasPromotion": false,
-                    "contentProvider": "UEFA",
-                    "sony_match_id": "",
-                    "tl_marker": "",
-                    "checksum": "",
-                    "kid_mss": "",
-                    "parentId": "1700001391",
-                    "selectedLanguage": {
-                        "lang_label": "English",
-                        "lang_code": "ENG",
-                        "lang_type": "main",
-                        "lang_identifier": ""
-                    },
-                    "originalLanguage": {
-                        "lang_label": "English",
-                        "lang_code": "eng",
-                        "lang_type": "main",
-                        "lang_identifier": ""
-                    },
-                    "stateLanguage": {},
-                    "isFirstVideoPlayedInDevice": false,
-                    "targetedDelivery": {
-                        "td_server_hints": {
-                            "pip_bw_initial": 800000,
-                            "pip_bw_max": 7000000,
-                            "pip_live_initial_buffer": 8,
-                            "pip_live_target_latency": 10,
-                            "analytics_expt_id": "9UexVSmNVs"
-                        }
-                    },
-                    "parents": [
-                        {
-                            "parentId": 1590016531,
-                            "parentType": "BUNDLE",
-                            "parentSubType": "MATCH_TYPE"
-                        },
-                        {
-                            "parentId": 1700001391,
-                            "parentType": "GROUP_OF_BUNDLES",
-                            "parentSubType": "TOURNAMENT"
-                        }
-                    ],
-                    "additionalDataJson": {
-                        "adServer": "GAM",
-                        "ad_stack": "DAI-IMA",
-                        "audioCodec": "AAC",
-                        "audio_quality": "STEREO",
-                        "enc_format": "HLS",
-                        "fps": 25,
-                        "isDaiKey": true,
-                        "partners": [
-                            "ALL"
-                        ],
-                        "resolution": "SD",
-                        "videoCodec": "H264",
-                        "video_quality": "SDR"
-                    },
-                    "LA_Details": {},
-                    "is_audio_desc_available": false,
-                    "is_multi_track_per_language_available": false,
-                    "multiAudioTrack": true,
-                    "packId": "liv_premium_GP_1m"
-                },
-                "systemTime": 1788868235588
             }
         },
         {
