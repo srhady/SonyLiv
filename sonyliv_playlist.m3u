@@ -2,7 +2,10 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 05:20:30 PM 08-09-2026
+# last_update: 05:50:30 PM 08-09-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090541702" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023605/1788762164236395_PT20_Amritsar-Soormas-vs-Mohali-Kings_landscape_thumb.jpg" group-title="Cricket", Amritsar Soormas vs Mohali Kings - 8 Sep 2026 | Sher-E-Punjab T20 League 2026
 https://sonydaimenew.akamaized.net/hls/live/2094588/criclive0809/HIN/master.m3u8?hdnea=exp=1788888035~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=d14ada67badfaa85eb975bd42abbeccedcee276480bc5b24d8530829de0fa876
+
+#EXTINF:-1 tvg-id="sonyliv-1090541752" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023587/1788715411067657_UYL26_Club_Brugge_vs_Aston_Villa_live_landscape_thumb.jpg" group-title="Football", Club Brugge vs Aston Villa - 8 Sep 2026 | UEFA Youth League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2018457/footlive0809/ENG/master.m3u8?hdnea=exp=1788889835~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=c76a8dbf7366c66fd385d2aa3c857a4832814feeee68440da5c66f374c6c09cd
