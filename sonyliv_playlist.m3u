@@ -2,10 +2,13 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 09:50:28 PM 08-09-2026
+# last_update: 10:20:27 PM 08-09-2026
+
+#EXTINF:-1 tvg-id="sonyliv-1090541696" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023491/1788511646779822_UCL_26_MD1_Club-Brugge-vs-Aston-Villa_live_landscape_thumb.jpg" group-title="Football", Club Brugge vs Aston Villa - MD 1 - 8 Sep 2026 | UEFA Champions League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2022318/footlive0809/ENG/master.m3u8?hdnea=exp=1788906034~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=ea95b0dbadc66a82ace3a4fd13cd20fe1c357bc6117b921c7999d9926a28ba93
 
 #EXTINF:-1 tvg-id="sonyliv-1090541702" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023665/1788875797577152_punjabt20_ludhiana_vs_bhatinda_landscape_thumb.jpg" group-title="Cricket", Jalandhar Warriors vs Ludhiana Lions - 8 Sep 2026 | Sher-E-Punjab T20 League 2026
 https://sonydaimenew.akamaized.net/hls/live/2094588/criclive0809/HIN/master.m3u8?hdnea=exp=1788904238~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=19cc15d7b5524e8c51222c9c5383807dfd50ffa0b5a9bc41aeeddad3b3df48b4
 
-#EXTINF:-1 tvg-id="sonyliv-1090541755" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023588/1788716274000472_UYL26_Real_Madrid_vs_Inter_Milan_live_landscape_thumb.jpg" group-title="Football", Real Madrid vs Inter - 8 Sep 2026 | UEFA Youth League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2094589/footlive0809/ENG/master.m3u8?hdnea=exp=1788897035~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=4d90a3f117d38e8dae293356dc66a1cb3aaac268087bd3fc87d28a83f83e5bcd
+#EXTINF:-1 tvg-id="sonyliv-1090541697" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023491/1788513038876822_UCL_26_MD1_AEK-Athens-vs-LASK_live_landscape_thumb.jpg" group-title="Football", AEK Athens vs LASK - MD 1 - 8 Sep 2026 | UEFA Champions League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2005444/footlive0809/ENG/master.m3u8?hdnea=exp=1788906043~acl=/*~id=380022e3d5134de5b8816e7d51d14d45-1784647668051-019f8530c19e7c5ebc9e9e7dc8300b00~hmac=cb5b703d0d8f935b6cfc6fc9f14a26e850743497c2ffa2e1a2579b5a7cb014db
