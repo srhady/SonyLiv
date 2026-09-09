@@ -2,16 +2,4 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 02:50:32 AM 09-09-2026
-
-#EXTINF:-1 tvg-id="sonyliv-1090541700" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023491/1788515051391822_UCL_26_MD1_Porto-vs-Manchester-City_live_landscape_thumb.jpg" group-title="Football", Porto vs Man City - MD 1 - 9 Sep 2026 | UEFA Champions League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2022317/footlive0809/ENG/master.m3u8?hdnea=exp=1788934830~acl=/*~id=20201863653429028551406167300990~hmac=d6b3e18cad623661a05cdfdaf8558d5d9f6b79f548bd7369a5fad07a9344488e
-
-#EXTINF:-1 tvg-id="sonyliv-1090541798" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023491/1788513655488822_UCL_26_MD1_Real-Madrid-vs-Inter_live_landscape_thumb.jpg" group-title="Football", Real Madrid vs Inter - MD 1 - 9 Sep 2026 | UEFA Champions League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2022322/footlive0809/ENG/master.m3u8?hdnea=exp=1788934830~acl=/*~id=20201863653429028551406167300990~hmac=d6b3e18cad623661a05cdfdaf8558d5d9f6b79f548bd7369a5fad07a9344488e
-
-#EXTINF:-1 tvg-id="sonyliv-1090541701" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023491/1788516657640822_UCL_26_MD1_Dortmund-vs-Villarreal_live_landscape_thumb.jpg" group-title="Football", Dortmund vs Villarreal - MD 1 - 9 Sep 2026 | UEFA Champions League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2018458/footlive0809/ENG/master.m3u8?hdnea=exp=1788934830~acl=/*~id=20201863653429028551406167300990~hmac=d6b3e18cad623661a05cdfdaf8558d5d9f6b79f548bd7369a5fad07a9344488e
-
-#EXTINF:-1 tvg-id="sonyliv-1090541699" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023491/1788514202693822_UCL_26_MD1_Lille-vs-Real-Betis_live_landscape_thumb.jpg" group-title="Football", Lille vs Real Betis - MD 1 - 9 Sep 2026 | UEFA Champions League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2022315/footlive0809/ENG/master.m3u8?hdnea=exp=1788934830~acl=/*~id=20201863653429028551406167300990~hmac=d6b3e18cad623661a05cdfdaf8558d5d9f6b79f548bd7369a5fad07a9344488e
+# last_update: 09:20:33 AM 09-09-2026

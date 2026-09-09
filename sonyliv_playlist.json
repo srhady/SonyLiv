@@ -1,38 +1,13 @@
 {
     "token_info": {
-        "token": "?hdnea=exp=1788934830~acl=/*~id=20201863653429028551406167300990~hmac=d6b3e18cad623661a05cdfdaf8558d5d9f6b79f548bd7369a5fad07a9344488e",
-        "last_updated": 1788891628
+        "token": "?hdnea=exp=1788967227~acl=/*~id=08757863516732400232300038904611~hmac=fe32deb3daf0a107ec325eaad39072d0ce42249831c2803c87f130e610712545",
+        "last_updated": 1788924024
     },
     "playlist_info": {
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "02:50:32 AM 09-09-2026"
+        "last_update": "09:20:33 AM 09-09-2026"
     },
-    "live_matches": [
-        {
-            "match_id": "1090541700",
-            "title": "Porto vs Man City - MD 1 - 9 Sep 2026",
-            "tournament": "UEFA Champions League 2026-27",
-            "base_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/footlive0809/ENG/master.m3u8"
-        },
-        {
-            "match_id": "1090541798",
-            "title": "Real Madrid vs Inter - MD 1 - 9 Sep 2026",
-            "tournament": "UEFA Champions League 2026-27",
-            "base_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/footlive0809/ENG/master.m3u8"
-        },
-        {
-            "match_id": "1090541701",
-            "title": "Dortmund vs Villarreal - MD 1 - 9 Sep 2026",
-            "tournament": "UEFA Champions League 2026-27",
-            "base_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/footlive0809/ENG/master.m3u8"
-        },
-        {
-            "match_id": "1090541699",
-            "title": "Lille vs Real Betis - MD 1 - 9 Sep 2026",
-            "tournament": "UEFA Champions League 2026-27",
-            "base_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/footlive0809/ENG/master.m3u8"
-        }
-    ]
+    "live_matches": []
 }
