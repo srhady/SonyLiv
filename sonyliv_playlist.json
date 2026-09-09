@@ -7,32 +7,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "02:50:35 AM 10-09-2026"
+        "last_update": "03:20:37 AM 10-09-2026"
     },
-    "live_matches": [
-        {
-            "match_id": "1090541848",
-            "title": "Liverpool vs Atletico Madrid - MD 1 - 10 Sep 2026",
-            "tournament": "UEFA Champions League 2026-27",
-            "base_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/Footlive0909/ENG/master.m3u8"
-        },
-        {
-            "match_id": "1090541856",
-            "title": "Napoli vs Arsenal - MD 1 - 10 Sep 2026",
-            "tournament": "UEFA Champions League 2026-27",
-            "base_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/Footlive0909/ENG/master.m3u8"
-        },
-        {
-            "match_id": "1090541839",
-            "title": "PSG vs Slavia Bratislava - MD 1 - 10 Sep 2026",
-            "tournament": "UEFA Champions League 2026-27",
-            "base_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Footlive0909/ENG/master.m3u8"
-        },
-        {
-            "match_id": "1090541851",
-            "title": "Sporting CP vs Galatasaray - MD 1 - 10 Sep 2026",
-            "tournament": "UEFA Champions League 2026-27",
-            "base_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/Footlive0909/ENG/master.m3u8"
-        }
-    ]
+    "live_matches": []
 }
