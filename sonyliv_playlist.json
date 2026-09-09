@@ -7,7 +7,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "11:20:37 PM 09-09-2026"
+        "last_update": "11:50:34 PM 09-09-2026"
     },
     "live_matches": [
         {
@@ -15,18 +15,6 @@
             "title": "Barcelona vs Feyenoord - MD 1 - 9 Sep 2026",
             "tournament": "UEFA Champions League 2026-27",
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/footlive0909/ENG/master.m3u8"
-        },
-        {
-            "match_id": "1090541741",
-            "title": "Day 1 - 3rd Test - 9 Sep 2026",
-            "tournament": "Pakistan Tour of England 2026",
-            "base_url": "https://sonydaimenew.akamaized.net/hls/live/2037142/Criclive0909/ENG/master.m3u8"
-        },
-        {
-            "match_id": "1090541733",
-            "title": "Mohali Kings vs Bathinda Royals - 9 Sep 2026",
-            "tournament": "Sher-E-Punjab T20 League",
-            "base_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/criclive0909/HIN/master.m3u8"
         },
         {
             "match_id": "1090541736",
