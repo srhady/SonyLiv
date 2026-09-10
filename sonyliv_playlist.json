@@ -1,13 +1,13 @@
 {
     "token_info": {
-        "token": "?hdnea=exp=1788988831~acl=/*~id=62415026938628427784494396688495~hmac=d75d1f44dec53c1039710f390e6b0ac45f16df36c8d2db19db166342b22245ca",
-        "last_updated": 1788945628
+        "token": "?hdnea=exp=1789069831~acl=/*~id=19927657169765548910464109461033~hmac=77d66150a6c4232949488650dcc1c86557054f4f8843c69f7deca967b4b1aa7f",
+        "last_updated": 1789026626
     },
     "playlist_info": {
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "01:20:32 PM 10-09-2026"
+        "last_update": "01:50:33 PM 10-09-2026"
     },
     "live_matches": [
         {
