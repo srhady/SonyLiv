@@ -7,7 +7,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "05:50:32 PM 10-09-2026"
+        "last_update": "06:20:34 PM 10-09-2026"
     },
     "live_matches": [
         {
@@ -18,9 +18,15 @@
         },
         {
             "match_id": "1090541928",
-            "title": "Amritsar Soormas vs Jalandhar Warriors - 10 Sep 2026",
+            "title": "Fazilka Falcons vs Bathinda Royals - 10 Sep 2026",
             "tournament": "Sher-E-Punjab T20 League",
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1009/HIN/master.m3u8"
+        },
+        {
+            "match_id": "1090541930",
+            "title": "Amgen Irish Open - Day 1 - 10 Sep 2026",
+            "tournament": "DP World Tour",
+            "base_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/Golf_Amg1009/ENG/master.m3u8"
         }
     ]
 }
