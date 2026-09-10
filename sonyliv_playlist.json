@@ -7,16 +7,9 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "11:50:29 PM 10-09-2026"
+        "last_update": "12:20:37 AM 11-09-2026"
     },
     "live_matches": [
-        {
-            "match_id": "1090541928",
-            "title": "Fazilka Falcons vs Bathinda Royals - 10 Sep 2026",
-            "tournament": "Sher-E-Punjab T20 League",
-            "base_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1009/HIN/master.m3u8",
-            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023605/1788762984418395_PT20_Fazilka-Falcons-vs-Bathinda-Royals_landscape_thumb.jpg"
-        },
         {
             "match_id": "1090541953",
             "title": "India Women vs Bangladesh Women - Semi-final - 10 Sep 2026",
