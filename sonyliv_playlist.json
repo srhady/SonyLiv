@@ -7,38 +7,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "08:50:32 PM 10-09-2026"
+        "last_update": "09:21:04 PM 10-09-2026"
     },
-    "live_matches": [
-        {
-            "match_id": "1090541867",
-            "title": "Day 2 - 3rd Test - 10 Sep 2026",
-            "tournament": "Pakistan Tour of England 2026",
-            "base_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/criclive1009/ENG/master.m3u8"
-        },
-        {
-            "match_id": "1090541928",
-            "title": "Fazilka Falcons vs Bathinda Royals - 10 Sep 2026",
-            "tournament": "Sher-E-Punjab T20 League",
-            "base_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1009/HIN/master.m3u8"
-        },
-        {
-            "match_id": "1090541953",
-            "title": "India Women vs Bangladesh Women - Semi-final - 10 Sep 2026",
-            "tournament": "DP World Women's Asia Cup 2026",
-            "base_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi1009/ENG/master.m3u8"
-        },
-        {
-            "match_id": "1090541939",
-            "title": "Bayern vs Bodo/Glimt - MD 1 - 10 Sep 2026",
-            "tournament": "UEFA Youth League 2026-27",
-            "base_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/footlive1009/ENG/master.m3u8"
-        },
-        {
-            "match_id": "1090541930",
-            "title": "Amgen Irish Open - Day 1 - 10 Sep 2026",
-            "tournament": "DP World Tour",
-            "base_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/Golf_Amg1009/ENG/master.m3u8"
-        }
-    ]
+    "live_matches": []
 }
