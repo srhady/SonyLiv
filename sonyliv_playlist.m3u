@@ -2,10 +2,13 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 09:20:27 PM 12-09-2026
+# last_update: 09:50:30 PM 12-09-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090542233" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023874/1789168702915481_PT20_Semi_Final_Ludhiana_Lions_vs_Jalandhar_Warriors_live_landscape_thumb.jpg" group-title="Cricket", Ludhiana Lions vs Jalandhar Warriors - SF 2 - 12 Sep 2026 | Sher-E-Punjab T20 League 2026
 https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1209/HIN/master.m3u8?hdnea=exp=1789239039~acl=/*~id=18312086984706396017268295097690~hmac=22fb0394e786e3f760f5fd6e568036a9ff0247f42844b7c03b01348854b4d046
+
+#EXTINF:-1 tvg-id="sonyliv-1090542276" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023628/1788789800024248_Hyundai-Archery-World-Cup-Final_Compound-Men-Elite-QFs-to-Finals_landscape_thumb.jpg" group-title="Archery", Compound Men Elite QFs to Finals - 12 Sep 2026 | Hyundai Archery World Cup Final
+https://sonydaimenew.akamaized.net/hls/live/2018457/Compound1209/ENG/master.m3u8?hdnea=exp=1789271441~acl=/*~id=44860182479368830262310321006075~hmac=149868152feedd73fa3d82e6f48ac6faf99e94f764a294adfc8f5023e32f16d4
 
 #EXTINF:-1 tvg-id="sonyliv-1090542235" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023403/1788419126658889_DP_World_Tour_Amgen_Irish_Open_day3_landscape_thumb.jpg" group-title="Golf", Amgen Irish Open - Day 3 - 12 Sep 2026 | DP World Tour
 https://livecfdai-bau.slivcdn.com/out/v1/mpchgp431f/mpchea26/golf_amg1209-eng-1-ts-hls/master.m3u8?hdnea=exp=1789262439~acl=/*~id=90824958551661361923210940554021~hmac=4e125f44fe6d5943d1e8dabdf7f0cfed4212cf73cbadcc16670a18f98c94ec05
