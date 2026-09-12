@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "06:50:29 PM 12-09-2026"
+        "last_update": "07:20:39 PM 12-09-2026"
     },
     "live_matches": [
         {
@@ -13,7 +13,16 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/criclive1209/HIN/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023874/1789168702915481_PT20_Semi_Final_Ludhiana_Lions_vs_Jalandhar_Warriors_live_landscape_thumb.jpg",
             "token": "?hdnea=exp=1789239039~acl=/*~id=18312086984706396017268295097690~hmac=22fb0394e786e3f760f5fd6e568036a9ff0247f42844b7c03b01348854b4d046",
-            "token_updated": 1789217427
+            "token_updated": 1789219228
+        },
+        {
+            "match_id": "1090542235",
+            "title": "Amgen Irish Open - Day 3 - 12 Sep 2026",
+            "tournament": "DP World Tour",
+            "base_url": "https://livecfdai-bau.slivcdn.com/out/v1/mpchgp431f/mpchea26/golf_amg1209-eng-1-ts-hls/master.m3u8",
+            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023403/1788419126658889_DP_World_Tour_Amgen_Irish_Open_day3_landscape_thumb.jpg",
+            "token": "?hdnea=exp=1789262439~acl=/*~id=90824958551661361923210940554021~hmac=4e125f44fe6d5943d1e8dabdf7f0cfed4212cf73cbadcc16670a18f98c94ec05",
+            "token_updated": 1789219228
         }
     ]
 }
