@@ -3,17 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "06:20:29 AM 13-09-2026"
+        "last_update": "06:50:25 AM 13-09-2026"
     },
-    "live_matches": [
-        {
-            "match_id": "1090542394",
-            "title": "NOCHE UFC - Silva vs Delgado - 13 Sep 2026",
-            "tournament": "NOCHE UFC - Silva vs Delgado",
-            "base_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/Ufclive_1209/ENG/master.m3u8",
-            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023834/1789129040958699_UFC_Silva_vs_Delgado_landscape_thumb.jpg",
-            "token": "?hdnea=exp=1789289435~acl=/*~id=14000844105226145059963114022606~hmac=c04ecf2b99e36d62264ecd22abe7904e92677878dfbaf2191c52a5dd2f55e814",
-            "token_updated": 1789257025
-        }
-    ]
+    "live_matches": []
 }
