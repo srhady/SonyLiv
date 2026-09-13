@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "04:20:30 AM 14-09-2026"
+        "last_update": "04:50:29 AM 14-09-2026"
     },
     "live_matches": [
         {
@@ -13,7 +13,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/Recurve_1309/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023628/1788789825896248_Hyundai-Archery-World-Cup-Final_Recurve-Women-Elite-QFs-to-Finals_landscape_thumb.jpg",
             "token": "?hdnea=exp=1789374037~acl=/*~id=40398816963422880294947269231338~hmac=a92fe639e48231b21c5bd44bf95286b3f47298c76a787a2522c026f10d06a358",
-            "token_updated": 1789338025
+            "token_updated": 1789339826
         }
     ]
 }
