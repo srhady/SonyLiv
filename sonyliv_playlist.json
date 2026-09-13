@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "11:20:30 PM 13-09-2026"
+        "last_update": "11:50:26 PM 13-09-2026"
     },
     "live_matches": [
         {
@@ -13,7 +13,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/criclive1309/HIN/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023901/1789234896847462_PT20_Final_Amritsar_Soormas_vs_Ludhiana_Lions_live_landscape_thumb.jpg",
             "token": "?hdnea=exp=1789347045~acl=/*~id=61729219172855083481531084578657~hmac=e22944f029b52e6ad9400a53da48fba1f18f953808197e14d8f9d806217e5d6b",
-            "token_updated": 1789320027
+            "token_updated": 1789321824
         },
         {
             "match_id": "1090542250",
@@ -22,7 +22,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi1309/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023878/1789194991542998_AWC26_Final_IND_vs_SL_Live_landscape_thumb.jpg",
             "token": "?hdnea=exp=1789348835~acl=/*~id=82868129326429122428530884825032~hmac=41f4c640a90c24b1335f06873432ab65376ee894cab6fe3c083b41ec58d8bd5e",
-            "token_updated": 1789320027
+            "token_updated": 1789321824
         },
         {
             "match_id": "1090542287",
@@ -31,16 +31,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/Recurve_1309/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023628/1788789852900248_Hyundai-Archery-World-Cup-Final_Recurve-Men-Elite-QFs-to-Finals_landscape_thumb.jpg",
             "token": "?hdnea=exp=1789359640~acl=/*~id=15651920554572581310204573476111~hmac=b3d324571256c51556fb7c3785ade5e55c26554405f03b3ed33a7b5c969173ae",
-            "token_updated": 1789320027
-        },
-        {
-            "match_id": "1090542246",
-            "title": "Amgen Irish Open - Day 4 - 13 Sep 2026",
-            "tournament": "DP World Tour",
-            "base_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/Golf_Amg1309/ENG/master.m3u8",
-            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023403/1788419119521889_DP_World_Tour_Amgen_Irish_Open_day4_landscape_thumb.jpg",
-            "token": "?hdnea=exp=1789345239~acl=/*~id=44243433807142320378399804658078~hmac=c26c4b6b1aec7cfe0a6c58b83ee17b11aac431878183f711b80eeeeee30f009a",
-            "token_updated": 1789320027
+            "token_updated": 1789321824
         }
     ]
 }
