@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "11:50:28 PM 17-09-2026"
+        "last_update": "12:20:29 AM 18-09-2026"
     },
     "live_matches": [
         {
@@ -13,7 +13,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/criclive1709/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024092/1789658144438480_ENGvsSL26_2t20i_landscape_thumb.jpg",
             "token": "?hdnea=exp=1789708840~acl=/*~id=98958507771675793209147512988664~hmac=fab4acfe06e1cc55763ac686890ae62f73aaeae9db31d23b89d3843a28641a77",
-            "token_updated": 1789667425
+            "token_updated": 1789669226
         },
         {
             "match_id": "1090542648",
@@ -22,7 +22,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/Footlive1709/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023495/1788531414631688_UEL2627_MD1_OFI_Crete_vs_Hoffenheim_4sep_landscape_thumb.jpg",
             "token": "?hdnea=exp=1789705239~acl=/*~id=47698494843227088780874092583453~hmac=ac3b563669ba48f4726a28da27ad38bfb3571f5d7c8de65bfa0486531298ba53",
-            "token_updated": 1789667425
+            "token_updated": 1789669226
         },
         {
             "match_id": "1090542649",
@@ -31,7 +31,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/Footlive1709/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023495/1788532203409688_UEL2627_MD1_Levski_Sofia_vs_Salzburg_4sep_landscape_thumb.jpg",
             "token": "?hdnea=exp=1789705247~acl=/*~id=91054233544504039833976652336648~hmac=c272dfe731cbdd8c5ebb01329ff015682d96a631ac3dedef4e7c79935aefdd10",
-            "token_updated": 1789667425
+            "token_updated": 1789669226
         }
     ]
 }
