@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "12:50:26 PM 17-09-2026"
+        "last_update": "01:20:28 PM 17-09-2026"
     },
     "live_matches": [
         {
@@ -13,7 +13,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/criclive1709/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024055/1789582327474840_AG26_QF_Pakistan_vs_Thailand_landscape_thumb.jpg",
             "token": "?hdnea=exp=1789663835~acl=/*~id=57644709122269056211325315276836~hmac=03f983ea8ba4ad89d2dff23705512d10efefb57435ba8e4a672e34833f256677",
-            "token_updated": 1789627824
+            "token_updated": 1789629625
         }
     ]
 }
