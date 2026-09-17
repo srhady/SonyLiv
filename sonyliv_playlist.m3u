@@ -2,4 +2,7 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 04:20:28 PM 17-09-2026
+# last_update: 04:51:02 PM 17-09-2026
+
+#EXTINF:-1 tvg-id="sonyliv-1090542526" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023421/1788419411300492_DP_World_Tour_BMW_PGA_CHAMPIONSHIP_day1_landscape_thumb.jpg" group-title="Golf", BMW PGA Championship - Day 1 - 17 Sep 2026 | DP World Tour
+https://sonydaimenew.akamaized.net/hls/live/2005444/Golf_BMW1709/ENG/master.m3u8?hdnea=exp=1789685473~acl=/*~id=20192000311940308336030659552520~hmac=2ecea82ef8a1f80c12fbc458f9fa4f9dfdedc65587f717aa5be896d5375c4fac
