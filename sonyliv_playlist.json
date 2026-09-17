@@ -3,9 +3,18 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "12:20:29 AM 18-09-2026"
+        "last_update": "12:51:35 AM 18-09-2026"
     },
     "live_matches": [
+        {
+            "match_id": "1090542748",
+            "title": "Juventus vs N.E.C. - MD1 - 18 Sep 2026",
+            "tournament": "UEFA Europa League 2026-27",
+            "base_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/Footlive1709/ENG/master.m3u8",
+            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023495/1788531987736688_UEL2627_MD1_Juventus_vs_NEC_4sep_landscape_thumb.jpg",
+            "token": "?hdnea=exp=1789714242~acl=/*~id=33842501224503547446998357273498~hmac=498df48628bceb83bb59e9913b296761918cbbda978b7b0e0293ea574b661958",
+            "token_updated": 1789671027
+        },
         {
             "match_id": "1090542669",
             "title": "2nd T20I - 17 Sep 2026",
@@ -13,25 +22,61 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/criclive1709/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024092/1789658144438480_ENGvsSL26_2t20i_landscape_thumb.jpg",
             "token": "?hdnea=exp=1789708840~acl=/*~id=98958507771675793209147512988664~hmac=fab4acfe06e1cc55763ac686890ae62f73aaeae9db31d23b89d3843a28641a77",
-            "token_updated": 1789669226
+            "token_updated": 1789671027
         },
         {
-            "match_id": "1090542648",
-            "title": "OFI Crete vs Hoffenheim -  MD1 - 17 Sep 2026",
+            "match_id": "1090542751",
+            "title": "Crystal Palace vs Lech Poznan - MD1 - 18 Sep 2026",
             "tournament": "UEFA Europa League 2026-27",
-            "base_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/Footlive1709/ENG/master.m3u8",
-            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023495/1788531414631688_UEL2627_MD1_OFI_Crete_vs_Hoffenheim_4sep_landscape_thumb.jpg",
-            "token": "?hdnea=exp=1789705239~acl=/*~id=47698494843227088780874092583453~hmac=ac3b563669ba48f4726a28da27ad38bfb3571f5d7c8de65bfa0486531298ba53",
-            "token_updated": 1789669226
+            "base_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/Footlive1709/ENG/master.m3u8",
+            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023495/1788532891246688_UEL2627_MD1_Crystal_Palace_vs_Lech_Poznan_4sep_landscape_thumb.jpg",
+            "token": "?hdnea=exp=1789714252~acl=/*~id=23863775205631966793819838771269~hmac=e08e79063f80da3a2160a6f40319b49d1cf1c8359f87dcc7dec9f88a8a63115e",
+            "token_updated": 1789671027
         },
         {
-            "match_id": "1090542649",
-            "title": "Levski Sofia vs Salzburg - MD1 - 17 Sep 2026",
+            "match_id": "1090542749",
+            "title": "Real Sociedad vs Bournemouth - MD1 - 18 Sep 2026",
             "tournament": "UEFA Europa League 2026-27",
-            "base_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/Footlive1709/ENG/master.m3u8",
-            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023495/1788532203409688_UEL2627_MD1_Levski_Sofia_vs_Salzburg_4sep_landscape_thumb.jpg",
-            "token": "?hdnea=exp=1789705247~acl=/*~id=91054233544504039833976652336648~hmac=c272dfe731cbdd8c5ebb01329ff015682d96a631ac3dedef4e7c79935aefdd10",
-            "token_updated": 1789669226
+            "base_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/Footlive1709/ENG/master.m3u8",
+            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023495/1788532535195688_UEL2627_MD1_Real_Sociedad_vs_Bournemouth_4sep_landscape_thumb.jpg",
+            "token": "?hdnea=exp=1789714258~acl=/*~id=71543425378961874696389318215216~hmac=1b5898d162696268a9b49dcae468442c8052360c038f8880f042d683d0bc4dcf",
+            "token_updated": 1789671027
+        },
+        {
+            "match_id": "1090542752",
+            "title": "Besiktas vs Marseille - MD1 - 18 Sep 2026",
+            "tournament": "UEFA Europa League 2026-27",
+            "base_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/Footlive1709/ENG/master.m3u8",
+            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023495/1788533233404688_UEL2627_MD1_Besiktas_vs_Marseille_4sep_landscape_thumb.jpg",
+            "token": "?hdnea=exp=1789714268~acl=/*~id=04757765981567144795451856714555~hmac=497b7e1d2d2145582735cba7c6a865209472435285ab81e7243af2df238b7e24",
+            "token_updated": 1789671027
+        },
+        {
+            "match_id": "1090542754",
+            "title": "Celtic vs Ferencvaros - MD1 - 18 Sep 2026",
+            "tournament": "UEFA Europa League 2026-27",
+            "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive1709/ENG/master.m3u8",
+            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023495/1788534760819688_UEL2627_MD1_Celtic_vs_Ferencvaros_4sep_landscape_thumb.jpg",
+            "token": "?hdnea=exp=1789714276~acl=/*~id=02939643857977954209358537157391~hmac=a1fc269489799d346ee51068c826bdc302b9a6bcb44632a54caf6186f44e2383",
+            "token_updated": 1789671027
+        },
+        {
+            "match_id": "1090542753",
+            "title": "Viktoria Plzen vs Union SG - MD1 - 18 Sep 2026",
+            "tournament": "UEFA Europa League 2026-27",
+            "base_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/Footlive1709/ENG/master.m3u8",
+            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023495/1788534519058688_UEL2627_MD1_Viktoria_Plzen_vs_Union_SG_4sep_landscape_thumb.jpg",
+            "token": "?hdnea=exp=1789714268~acl=/*~id=04757765981567144795451856714555~hmac=497b7e1d2d2145582735cba7c6a865209472435285ab81e7243af2df238b7e24",
+            "token_updated": 1789671027
+        },
+        {
+            "match_id": "1090542755",
+            "title": "Lillestrom vs Torreense - MD1 - 18 Sep 2026",
+            "tournament": "UEFA Europa League 2026-27",
+            "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120305/Footlive1709/ENG/master.m3u8",
+            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023495/1788535295410688_UEL2627_MD1_Lillestrom_vs_Torreense_4sep_landscape_thumb.jpg",
+            "token": "?hdnea=exp=1789714268~acl=/*~id=04757765981567144795451856714555~hmac=497b7e1d2d2145582735cba7c6a865209472435285ab81e7243af2df238b7e24",
+            "token_updated": 1789671027
         }
     ]
 }
