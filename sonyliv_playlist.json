@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "10:20:47 PM 17-09-2026"
+        "last_update": "10:50:29 PM 17-09-2026"
     },
     "live_matches": [
         {
@@ -13,7 +13,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/Footlive1709/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023495/1788531414631688_UEL2627_MD1_OFI_Crete_vs_Hoffenheim_4sep_landscape_thumb.jpg",
             "token": "?hdnea=exp=1789705239~acl=/*~id=47698494843227088780874092583453~hmac=ac3b563669ba48f4726a28da27ad38bfb3571f5d7c8de65bfa0486531298ba53",
-            "token_updated": 1789662025
+            "token_updated": 1789663826
         },
         {
             "match_id": "1090542649",
@@ -22,7 +22,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/Footlive1709/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023495/1788532203409688_UEL2627_MD1_Levski_Sofia_vs_Salzburg_4sep_landscape_thumb.jpg",
             "token": "?hdnea=exp=1789705247~acl=/*~id=91054233544504039833976652336648~hmac=c272dfe731cbdd8c5ebb01329ff015682d96a631ac3dedef4e7c79935aefdd10",
-            "token_updated": 1789662025
+            "token_updated": 1789663826
         },
         {
             "match_id": "1090542526",
@@ -31,7 +31,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/Golf_BMW1709/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023421/1788419411300492_DP_World_Tour_BMW_PGA_CHAMPIONSHIP_day1_landscape_thumb.jpg",
             "token": "?hdnea=exp=1789685473~acl=/*~id=20192000311940308336030659552520~hmac=2ecea82ef8a1f80c12fbc458f9fa4f9dfdedc65587f717aa5be896d5375c4fac",
-            "token_updated": 1789662025
+            "token_updated": 1789663826
         }
     ]
 }
