@@ -2,7 +2,10 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 10:50:29 PM 17-09-2026
+# last_update: 11:20:29 PM 17-09-2026
+
+#EXTINF:-1 tvg-id="sonyliv-1090542669" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024092/1789658144438480_ENGvsSL26_2t20i_landscape_thumb.jpg" group-title="Cricket", 2nd T20I - 17 Sep 2026 | Sri Lanka Tour of England 2026
+https://sonydaimenew.akamaized.net/hls/live/2022316/criclive1709/ENG/master.m3u8?hdnea=exp=1789708840~acl=/*~id=98958507771675793209147512988664~hmac=fab4acfe06e1cc55763ac686890ae62f73aaeae9db31d23b89d3843a28641a77
 
 #EXTINF:-1 tvg-id="sonyliv-1090542648" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023495/1788531414631688_UEL2627_MD1_OFI_Crete_vs_Hoffenheim_4sep_landscape_thumb.jpg" group-title="Football", OFI Crete vs Hoffenheim -  MD1 - 17 Sep 2026 | UEFA Europa League 2026-27
 https://sonydaimenew.akamaized.net/hls/live/2018458/Footlive1709/ENG/master.m3u8?hdnea=exp=1789705239~acl=/*~id=47698494843227088780874092583453~hmac=ac3b563669ba48f4726a28da27ad38bfb3571f5d7c8de65bfa0486531298ba53
