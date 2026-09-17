@@ -2,13 +2,10 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 02:20:33 AM 18-09-2026
+# last_update: 02:50:34 AM 18-09-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090542748" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023495/1788531987736688_UEL2627_MD1_Juventus_vs_NEC_4sep_landscape_thumb.jpg" group-title="Football", Juventus vs N.E.C. - MD1 - 18 Sep 2026 | UEFA Europa League 2026-27
 https://sonydaimenew.akamaized.net/hls/live/2022317/Footlive1709/ENG/master.m3u8?hdnea=exp=1789714242~acl=/*~id=33842501224503547446998357273498~hmac=498df48628bceb83bb59e9913b296761918cbbda978b7b0e0293ea574b661958
-
-#EXTINF:-1 tvg-id="sonyliv-1090542669" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024092/1789658144438480_ENGvsSL26_2t20i_landscape_thumb.jpg" group-title="Cricket", 2nd T20I - 17 Sep 2026 | Sri Lanka Tour of England 2026
-https://sonydaimenew.akamaized.net/hls/live/2022316/criclive1709/ENG/master.m3u8?hdnea=exp=1789708840~acl=/*~id=98958507771675793209147512988664~hmac=fab4acfe06e1cc55763ac686890ae62f73aaeae9db31d23b89d3843a28641a77
 
 #EXTINF:-1 tvg-id="sonyliv-1090542751" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023495/1788532891246688_UEL2627_MD1_Crystal_Palace_vs_Lech_Poznan_4sep_landscape_thumb.jpg" group-title="Football", Crystal Palace vs Lech Poznan - MD1 - 18 Sep 2026 | UEFA Europa League 2026-27
 https://sonydaimenew.akamaized.net/hls/live/2022322/Footlive1709/ENG/master.m3u8?hdnea=exp=1789714252~acl=/*~id=23863775205631966793819838771269~hmac=e08e79063f80da3a2160a6f40319b49d1cf1c8359f87dcc7dec9f88a8a63115e
