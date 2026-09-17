@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "06:20:28 AM 17-09-2026"
+        "last_update": "06:50:28 AM 17-09-2026"
     },
     "live_matches": [
         {
@@ -13,7 +13,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/criclive1609/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024055/1789582375033840_AG26_QF_bangladesh_vs_china_landscape_thumb.jpg",
             "token": "?hdnea=exp=1789645836~acl=/*~id=98800373718164198429198911273257~hmac=e70544f95dd7b3b4d17b00f85b048ccfb403113c4a4e564ee93b3b5350aa7b94",
-            "token_updated": 1789604425
+            "token_updated": 1789606224
         }
     ]
 }
