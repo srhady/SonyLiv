@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "10:50:27 AM 18-09-2026"
+        "last_update": "11:20:31 AM 18-09-2026"
     },
     "live_matches": [
         {
@@ -13,7 +13,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/cricodi1809/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024066/1789618725032669_Asain_games_26_QF_IND_vs_JPN_live_landscape_thumb.jpg",
             "token": "?hdnea=exp=1789746633~acl=/*~id=99124452301996973151426864728567~hmac=af40513c86134359697890e268a93a6b64ef36388e080848f92e85ae440e1e5b",
-            "token_updated": 1789707025
+            "token_updated": 1789708828
         }
     ]
 }
