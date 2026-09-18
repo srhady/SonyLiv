@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "08:50:29 PM 18-09-2026"
+        "last_update": "09:21:04 PM 18-09-2026"
     },
     "live_matches": [
         {
@@ -13,7 +13,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/Golf_BMW1809/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023421/1788419421651492_DP_World_Tour_BMW_PGA_CHAMPIONSHIP_day2_landscape_thumb.jpg",
             "token": "?hdnea=exp=1789777244~acl=/*~id=56315968008852151158507270920697~hmac=338fb2294f13626ead9b76349a002a02ef72f9ee369490d0ee10a32f68fa7726",
-            "token_updated": 1789743026
+            "token_updated": 1789744862
         }
     ]
 }
