@@ -2,7 +2,10 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 06:51:03 PM 19-09-2026
+# last_update: 07:20:30 PM 19-09-2026
+
+#EXTINF:-1 tvg-id="sonyliv-1090542787" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024092/1789657985040480_ENGvsSL26_3t20i_landscape_thumb.jpg" group-title="Cricket", 3rd T20I - 19 Sep 2026 | Sri Lanka Tour of England 2026
+https://sonydaimenew.akamaized.net/hls/live/2120304/criclive1909/ENG/master.m3u8?hdnea=exp=1789867239~acl=/*~id=21195613403916179743840517613079~hmac=c5f270177aa3506e171d4e9751c069d55a4823a30324de9124fb9a11a017e774
 
 #EXTINF:-1 tvg-id="sonyliv-1090542788" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023421/1788419428341492_DP_World_Tour_BMW_PGA_CHAMPIONSHIP_day3_landscape_thumb.jpg" group-title="Golf", BMW PGA Championship - Day 3 - 19 Sep 2026 | DP World Tour
 https://sonydaimenew.akamaized.net/hls/live/2120306/Golf_BMW1909/ENG/master.m3u8?hdnea=exp=1789858238~acl=/*~id=28915019575922457520867230953421~hmac=9f56aa6dfe12e2ab98ca68f8c60f90bddccdeae11903324e51aa58ba7154af84
