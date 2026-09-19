@@ -3,18 +3,9 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "05:20:31 PM 19-09-2026"
+        "last_update": "05:50:31 PM 19-09-2026"
     },
     "live_matches": [
-        {
-            "match_id": "1090541377",
-            "title": "Opening Ceremony - 19 Sep 2026",
-            "tournament": "20th Asian Games Aichi-Nagoya 2026",
-            "base_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/AsianGam1909/ENG/master.m3u8",
-            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024184/1789798231834654_AG26_Opening_Ceremony_landscape_thumb.jpg",
-            "token": "?hdnea=exp=1789847479~acl=/*~id=65194787733168758066173947899973~hmac=be268cae8be128171c60a38e1b8149a36b0de5384205c6ca48e8a30cac143608",
-            "token_updated": 1789816826
-        },
         {
             "match_id": "1090542788",
             "title": "BMW PGA Championship - Day 3 - 19 Sep 2026",
@@ -22,7 +13,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120306/Golf_BMW1909/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023421/1788419428341492_DP_World_Tour_BMW_PGA_CHAMPIONSHIP_day3_landscape_thumb.jpg",
             "token": "?hdnea=exp=1789858238~acl=/*~id=28915019575922457520867230953421~hmac=9f56aa6dfe12e2ab98ca68f8c60f90bddccdeae11903324e51aa58ba7154af84",
-            "token_updated": 1789816826
+            "token_updated": 1789818625
         }
     ]
 }
