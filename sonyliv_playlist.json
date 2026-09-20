@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "06:50:38 PM 20-09-2026"
+        "last_update": "07:20:29 PM 20-09-2026"
     },
     "live_matches": [
         {
@@ -13,7 +13,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/AG_Strea1909/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024234/1789852034881646_AG26_Stream1_generic_landscape_thumb.jpg",
             "token": "?hdnea=exp=1789950037~acl=/*~id=50635070774098997971855851794689~hmac=1145d1300127fb2f17f3115ae5405bc9625dce09b3057e6981c8f5606acbd7b4",
-            "token_updated": 1789908627
+            "token_updated": 1789910427
         },
         {
             "match_id": "1090543049",
@@ -22,7 +22,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/CricLive2009/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024187/1789803954768990_MetroBankOneDayCup25_final_landscape_thumb.jpg",
             "token": "?hdnea=exp=1789941041~acl=/*~id=74876793339433776273922557818461~hmac=24b3d4090f2ba0c1a1490997083f4eb373863b070354541cb9a396f49fcb8573",
-            "token_updated": 1789908627
+            "token_updated": 1789910427
         },
         {
             "match_id": "1090541855",
@@ -31,7 +31,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/AG_AGMDS1909/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541855/thumbnail/1789887634129_1789301604665741_AG26_Volleyball_pictogram_landscape_thumb.jpg",
             "token": "?hdnea=exp=1789951833~acl=/*~id=05762039286292513251283953398008~hmac=4eb87bf72186df286b670c179524ad97a3d2b039508b75b7344c66f977c2b3c9",
-            "token_updated": 1789908627
+            "token_updated": 1789910427
         },
         {
             "match_id": "1090541369",
@@ -40,7 +40,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/AG_AGMDS1909/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541369/thumbnail/1789900806143_1789293450735348_AG26_Basketball_pictogram_landscape_thumb.jpg",
             "token": "?hdnea=exp=1789951838~acl=/*~id=15683809101267361236115814382370~hmac=d39e843d3798bc30b92c79ec73b2904697dc9fb12c8dc1595d7028a9b63a1697",
-            "token_updated": 1789908627
+            "token_updated": 1789910427
         },
         {
             "match_id": "1090542905",
@@ -49,7 +49,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/Golf_BMW2009/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023421/1788437884723492_DP_World_Tour_BMW_PGA_CHAMPIONSHIP_day4_landscape_thumb.jpg",
             "token": "?hdnea=exp=1789944643~acl=/*~id=80627067174324304977361495417199~hmac=2b35e6f7d93fdeef0edbbffebaff3a13ed8b2128eb32c9a25686f7b5e6cbc3f5",
-            "token_updated": 1789908627
+            "token_updated": 1789910427
         }
     ]
 }
