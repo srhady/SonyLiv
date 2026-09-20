@@ -2,7 +2,7 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 11:01:24 AM 20-09-2026
+# last_update: 11:20:28 AM 20-09-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090541378" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789301718758348_AG26_Beach_Volleyball_pictogram_landscape_thumb.jpg" group-title="Sports", Beach Volleyball - 20 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2037141/AG_Strea1909/ENG/master.m3u8?hdnea=exp=1789910436~acl=/*~id=53036067947188178310463023980725~hmac=ddb910e713ef150fac8926bfebbff3610dabf067cbe23627ff347a2b8522f821
@@ -13,7 +13,7 @@ https://sonydaimenew.akamaized.net/hls/live/2094587/AG_Strea1909/ENG/master.m3u8
 #EXTINF:-1 tvg-id="sonyliv-1090541385" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024234/1789852049069646_AG26_Stream3_hindi_generic_landscape_thumb.jpg" group-title="Badminton", Day 2 - 20 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2037142/AG_Strea1909/HIN/master.m3u8?hdnea=exp=1789910436~acl=/*~id=53036067947188178310463023980725~hmac=ddb910e713ef150fac8926bfebbff3610dabf067cbe23627ff347a2b8522f821
 
-#EXTINF:-1 tvg-id="sonyliv-1090541376" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789292948462348_AG26_Badminton_pictogram_landscape_thumb.jpg" group-title="Badminton", Women's Badminton - Badminton - 20 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+#EXTINF:-1 tvg-id="sonyliv-1090541376" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789299020142348_AG26_Handball_pictogram_landscape_thumb.jpg" group-title="Handball", Handball - 20 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2037139/AG_DX4_21909/ENG/master.m3u8?hdnea=exp=1789910464~acl=/*~id=74078906048070754202514891025883~hmac=67aef0675c42e9d314a10a7cac4da2ca19ab5fdc11534620cad4056dcc372dc1
 
 #EXTINF:-1 tvg-id="sonyliv-1090541386" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789301604665741_AG26_Volleyball_pictogram_landscape_thumb.jpg" group-title="Volleyball", Women's Volleyball - Volleyball - 20 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
@@ -25,7 +25,7 @@ https://sonydaimenew.akamaized.net/hls/live/2018458/AG_DX6_21909/ENG/master.m3u8
 #EXTINF:-1 tvg-id="sonyliv-1090541853" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789299380374741_AG26_Karate_pictogram_landscape_thumb.jpg" group-title="Karate", Men's and Women's Final - Karate - 20 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2022317/AG_DX7_21909/ENG/master.m3u8?hdnea=exp=1789910498~acl=/*~id=29302984597121492492039098266282~hmac=26b6ead6b773405427cf0c74b516d4187b29b025301140907e549d8a1d51fba0
 
-#EXTINF:-1 tvg-id="sonyliv-1090541854" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789301718758348_AG26_Beach_Volleyball_pictogram_landscape_thumb.jpg" group-title="Beach Volleyball", Men's and Women's Prelims - Beach Volleyball - 20 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+#EXTINF:-1 tvg-id="sonyliv-1090541854" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541854/thumbnail/1789881058660_1789300218628741_AG26_Sepaktakraw_pictogram_landscape_thumb.jpg" group-title="Sepaktakraw", Indonesia vs Republic of Korea - Women's Team Regu - Sepaktakraw - 20 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2022320/AG_DX8_21909/ENG/master.m3u8?hdnea=exp=1789910498~acl=/*~id=29302984597121492492039098266282~hmac=26b6ead6b773405427cf0c74b516d4187b29b025301140907e549d8a1d51fba0
 
 #EXTINF:-1 tvg-id="sonyliv-1090541855" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789299123285348_AG26_Hockey_pictogram_landscape_thumb.jpg" group-title="Hockey", Hockey - 20 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
