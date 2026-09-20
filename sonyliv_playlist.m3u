@@ -2,7 +2,7 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 10:50:28 AM 20-09-2026
+# last_update: 11:01:24 AM 20-09-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090541378" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789301718758348_AG26_Beach_Volleyball_pictogram_landscape_thumb.jpg" group-title="Sports", Beach Volleyball - 20 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2037141/AG_Strea1909/ENG/master.m3u8?hdnea=exp=1789910436~acl=/*~id=53036067947188178310463023980725~hmac=ddb910e713ef150fac8926bfebbff3610dabf067cbe23627ff347a2b8522f821
@@ -31,7 +31,7 @@ https://sonydaimenew.akamaized.net/hls/live/2022320/AG_DX8_21909/ENG/master.m3u8
 #EXTINF:-1 tvg-id="sonyliv-1090541855" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789299123285348_AG26_Hockey_pictogram_landscape_thumb.jpg" group-title="Hockey", Hockey - 20 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2022315/AG_AGMDS1909/ENG/master.m3u8?hdnea=exp=1789910522~acl=/*~id=94234119469154485599961184147912~hmac=edccfafe597d11a0c750ea5d3424843666a2eb3e3fcf17218f15571d6b3cb1c2
 
-#EXTINF:-1 tvg-id="sonyliv-1090541369" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789301604665741_AG26_Volleyball_pictogram_landscape_thumb.jpg" group-title="Volleyball", Volleyball - 20 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+#EXTINF:-1 tvg-id="sonyliv-1090541369" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541369/thumbnail/1789879806987_1789293450735348_AG26_Basketball_pictogram_landscape_thumb.jpg" group-title="Basketball", Kazakhstan vs Japan - Women - Basketball - 20 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2022316/AG_AGMDS1909/ENG/master.m3u8?hdnea=exp=1789910464~acl=/*~id=74078906048070754202514891025883~hmac=67aef0675c42e9d314a10a7cac4da2ca19ab5fdc11534620cad4056dcc372dc1
 
 #EXTINF:-1 tvg-id="sonyliv-1090541370" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541370/thumbnail/1789875544633_1789300835115741_AG26_Table_Tennis_pictogram_landscape_thumb.jpg" group-title="Table Tennis", Chinese Taipei vs Nepal - Men's Team - Table Tennis - 20 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
