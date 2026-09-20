@@ -3,9 +3,27 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "06:20:27 AM 20-09-2026"
+        "last_update": "06:51:48 AM 20-09-2026"
     },
     "live_matches": [
+        {
+            "match_id": "1090541367",
+            "title": "Pakistan Women vs Sri Lanka Women - Semi-Final - 20 Sep 2026",
+            "tournament": "20th Asian Games Aichi-Nagoya 2026",
+            "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120308/criclive1909/ENG/master.m3u8",
+            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024212/1789821616972902_AG26_womens_SF_pak_vs_sl_landscape_thumb.jpg",
+            "token": "?hdnea=exp=1789908634~acl=/*~id=40017688896549968377313889513979~hmac=d6c0a0571c5c69498d2053b16fbefa722f953b78e5cd15f7a69454e46b639176",
+            "token_updated": 1789865423
+        },
+        {
+            "match_id": "1090541381",
+            "title": "Indonesia vs Mongolia - Badminton - 20 Sep 2026",
+            "tournament": "20th Asian Games Aichi-Nagoya 2026",
+            "base_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/AG_Strea1909/ENG/master.m3u8",
+            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024234/1789852034881646_AG26_Stream1_generic_landscape_thumb.jpg",
+            "token": "?hdnea=exp=1789908641~acl=/*~id=44594673124227265573416367088762~hmac=2fce51333a58f4c33c6cc9627b23b775025b46685b5cd477cf8941db02e68e6c",
+            "token_updated": 1789865423
+        },
         {
             "match_id": "1090542963",
             "title": "UFC 331 - Van vs Pantoja 2 - 20 Sep 2026",
@@ -13,7 +31,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120305/UFC_331_1909/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024182/178977556799144_UFC_Van_vs_Pantoja_landscape_thumb.jpg",
             "token": "?hdnea=exp=1789901435~acl=/*~id=87535589550131472873531038309462~hmac=44c1dd5bebd3241ebf3a230cc7fea3b84561956c77389f9b69374791928a8fb3",
-            "token_updated": 1789861820
+            "token_updated": 1789865423
         }
     ]
 }
