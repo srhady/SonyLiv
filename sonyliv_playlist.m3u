@@ -2,10 +2,7 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 10:20:30 PM 20-09-2026
+# last_update: 10:50:30 PM 20-09-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090543049" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024187/1789803954768990_MetroBankOneDayCup25_final_landscape_thumb.jpg" group-title="Cricket", Leicestershire vs Middlesex - Final - 20 Sep 2026 | Metro Bank One Day Cup 2026
 https://sonydaimenew.akamaized.net/hls/live/2005444/CricLive2009/ENG/master.m3u8?hdnea=exp=1789941041~acl=/*~id=74876793339433776273922557818461~hmac=24b3d4090f2ba0c1a1490997083f4eb373863b070354541cb9a396f49fcb8573
-
-#EXTINF:-1 tvg-id="sonyliv-1090542905" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023421/1788437884723492_DP_World_Tour_BMW_PGA_CHAMPIONSHIP_day4_landscape_thumb.jpg" group-title="Golf", BMW PGA Championship - Day 4 - 20 Sep 2026 | DP World Tour
-https://sonydaimenew.akamaized.net/hls/live/2120307/Golf_BMW2009/ENG/master.m3u8?hdnea=exp=1789944643~acl=/*~id=80627067174324304977361495417199~hmac=2b35e6f7d93fdeef0edbbffebaff3a13ed8b2128eb32c9a25686f7b5e6cbc3f5
