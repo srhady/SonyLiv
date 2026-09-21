@@ -2,24 +2,24 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 07:50:42 AM 21-09-2026
+# last_update: 08:20:27 AM 21-09-2026
 
-#EXTINF:-1 tvg-id="sonyliv-1090541381" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024324/1789929873781517_AG26_Table_Tennis_Womens_Team_India_vs_Pakistan_live_landscape_thumb.jpg" group-title="Sports", India vs Pakistan - Women's Table Tennis - 21 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+#EXTINF:-1 tvg-id="sonyliv-1090541381" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024234/1789852034881646_AG26_Stream1_generic_landscape_thumb.jpg" group-title="Sports", Day 3 - 21 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2037139/AG_Strea2009/ENG/master.m3u8?hdnea=exp=1789995042~acl=/*~id=47480287947591599648177384096795~hmac=ada94450b00a8e15c964bfe4d9aa2be24b79f5d79aba7bdb9e1053c58f13cac5
 
-#EXTINF:-1 tvg-id="sonyliv-1090541854" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024325/1789935451359252_AG26_Swimming_Mens_100m_Breaststroke_Dhanush_Suresh_live_landscape_thumb.jpg" group-title="Swimming", India In Action - Swimming - 21 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+#EXTINF:-1 tvg-id="sonyliv-1090541854" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024325/1789935672432252_AG26_Swimming_Mens_4x_200m_Freestyle_Relay_Vedaant_Dhakshan_Aneesh_live_landscape_thumb.jpg" group-title="Swimming", India In Action - Swimming - 21 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2022317/AG_DX8_22009/ENG/master.m3u8?hdnea=exp=1789995079~acl=/*~id=80623298273352762738848063669485~hmac=f6053add08d63b0fb5a608eeaf9bb9d689d5008a63067871997060c2544b51d8
 
 #EXTINF:-1 tvg-id="sonyliv-1090541386" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789292948462348_AG26_Badminton_pictogram_landscape_thumb.jpg" group-title="Badminton", Men's Badminton - 21 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2022316/AG_DX5_22009/ENG/master.m3u8?hdnea=exp=1789993238~acl=/*~id=70814667559223238665044724513517~hmac=c1945915f2d80ec0a87c61d8a521b28ca4ae57f80cf3a01f4497a42d6f6f38df
 
-#EXTINF:-1 tvg-id="sonyliv-1090541379" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541379/thumbnail/1789948826999_1789299123285348_AG26_Hockey_pictogram_landscape_thumb.jpg" group-title="Hockey", Republic of Korea vs Kazakhstan - Women - Hockey - 21 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+#EXTINF:-1 tvg-id="sonyliv-1090541379" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541379/thumbnail/1789955667825_1789299123285348_AG26_Hockey_pictogram_landscape_thumb.jpg" group-title="Hockey", People's Republic of China vs Chinese Taipei - Women - Hockey - 21 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2037141/AG_DX1_22009/ENG/master.m3u8?hdnea=exp=1789991435~acl=/*~id=79880202323064330884117590143468~hmac=e2704264f329302077857f5e41b4dcff3e5ad76229f64d245f997710e5e945ff
 
 #EXTINF:-1 tvg-id="sonyliv-1090541380" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789292948462348_AG26_Badminton_pictogram_landscape_thumb.jpg" group-title="Badminton", Men's Badminton - 21 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2120304/AG_DX2_22009/ENG/master.m3u8?hdnea=exp=1789993247~acl=/*~id=17240741076492404648582311619429~hmac=f9506d6e290b46522054988b62ce42ed913f2a5b6c45459c067c3abebe21988a
 
-#EXTINF:-1 tvg-id="sonyliv-1090541385" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024324/1789932114986517_AG26_Table_Tennis_Womens_Team_India_vs_Pakistan_hindi_landscape_thumb.jpg" group-title="Sports", Table Tennis - India vs Pakistan - Women's Team - 21 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+#EXTINF:-1 tvg-id="sonyliv-1090541385" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024320/178992641642241_AG26_stream3_hindi_generic_landscape_thumb.jpg" group-title="Sports", Day 3 - 21 Sep 2026 (Hindi) | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2037142/AG_Strea2009/HIN/master.m3u8?hdnea=exp=1789995055~acl=/*~id=38078669082055110559114455715723~hmac=a704983c98fe5603b858485ce91f223253a91c7013cef61b29e98bbc0c889767
 
 #EXTINF:-1 tvg-id="sonyliv-1090541387" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789300835115741_AG26_Table_Tennis_pictogram_landscape_thumb.jpg" group-title="Table Tennis", India vs Pakistan - Women's Table Tennis - 21 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
