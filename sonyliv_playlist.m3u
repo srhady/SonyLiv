@@ -2,13 +2,25 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 05:50:27 AM 21-09-2026
+# last_update: 06:20:27 AM 21-09-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090541376" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024326/1789943763712759_AG26_21st_Sep_Sepaktakraw_Regu_India_vs_Japan_live_landscape_thumb.jpg" group-title="Sepaktakraw", India vs Japan - Sepaktakraw Regu - 21 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2120305/AG_DX4_22009/ENG/master.m3u8?hdnea=exp=1789991435~acl=/*~id=79880202323064330884117590143468~hmac=e2704264f329302077857f5e41b4dcff3e5ad76229f64d245f997710e5e945ff
 
-#EXTINF:-1 tvg-id="sonyliv-1090541379" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789299123285348_AG26_Hockey_pictogram_landscape_thumb.jpg" group-title="Hockey", Women's Hockey - 21 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+#EXTINF:-1 tvg-id="sonyliv-1090541386" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789292948462348_AG26_Badminton_pictogram_landscape_thumb.jpg" group-title="Badminton", Men's Badminton - 21 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2022316/AG_DX5_22009/ENG/master.m3u8?hdnea=exp=1789993238~acl=/*~id=70814667559223238665044724513517~hmac=c1945915f2d80ec0a87c61d8a521b28ca4ae57f80cf3a01f4497a42d6f6f38df
+
+#EXTINF:-1 tvg-id="sonyliv-1090541379" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541379/thumbnail/1789948826999_1789299123285348_AG26_Hockey_pictogram_landscape_thumb.jpg" group-title="Hockey", Republic of Korea vs Kazakhstan - Women - Hockey - 21 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2037141/AG_DX1_22009/ENG/master.m3u8?hdnea=exp=1789991435~acl=/*~id=79880202323064330884117590143468~hmac=e2704264f329302077857f5e41b4dcff3e5ad76229f64d245f997710e5e945ff
+
+#EXTINF:-1 tvg-id="sonyliv-1090541380" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789292948462348_AG26_Badminton_pictogram_landscape_thumb.jpg" group-title="Badminton", Men's Badminton - 21 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2120304/AG_DX2_22009/ENG/master.m3u8?hdnea=exp=1789993247~acl=/*~id=17240741076492404648582311619429~hmac=f9506d6e290b46522054988b62ce42ed913f2a5b6c45459c067c3abebe21988a
+
+#EXTINF:-1 tvg-id="sonyliv-1090541855" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789292948462348_AG26_Badminton_pictogram_landscape_thumb.jpg" group-title="Badminton", Malaysia vs Mongolia - Men's Team - Badminton - 21 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2094588/AG_AGMDS2009/ENG/master.m3u8?hdnea=exp=1789993238~acl=/*~id=70814667559223238665044724513517~hmac=c1945915f2d80ec0a87c61d8a521b28ca4ae57f80cf3a01f4497a42d6f6f38df
 
 #EXTINF:-1 tvg-id="sonyliv-1090541369" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789299123285348_AG26_Hockey_pictogram_landscape_thumb.jpg" group-title="Hockey", Korea vs Kazakhstan - Women's Hockey - 21 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2005445/AG_AGMDS2009/ENG/master.m3u8?hdnea=exp=1789991454~acl=/*~id=62848847169889564535007961897431~hmac=eb5c5683c8e6474a3e86de5fd34dcb3e535ea9f33ed8a2486d5aa91665759898
+
+#EXTINF:-1 tvg-id="sonyliv-1090541378" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789299301145348_AG26_Kabaddi_pictogram_landscape_thumb.jpg" group-title="Kabaddi", Men's & Women's - Kabaddi - 21 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2120307/AG_DX3_22009/ENG/master.m3u8?hdnea=exp=1789993268~acl=/*~id=55580977646979441441902343086473~hmac=aed75460889673c54cf36afd3ff290afd6ff26e13efa125a5bce09c02b1a3f53
