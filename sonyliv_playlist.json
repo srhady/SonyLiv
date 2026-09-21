@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "04:50:40 PM 21-09-2026"
+        "last_update": "05:20:42 PM 21-09-2026"
     },
     "live_matches": [
         {
@@ -13,7 +13,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/AG_Hocke2109/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024352/1789977683869714_AG_INDvsBAN_womens_kabbadi_landscape_thumb.jpg",
             "token": "?hdnea=exp=1790031039~acl=/*~id=66634938102034829111416553166741~hmac=151aba0b20b2dce27b964d10c7e17896527c3e904864036251d19af6d9615fe5",
-            "token_updated": 1789987823
+            "token_updated": 1789989628
         },
         {
             "match_id": "1090541381",
@@ -22,25 +22,25 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/AG_Strea2009/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024324/1789932731698517_AG26_Table_Tennis_mens_Team_India_vs_Pakistan_live_landscape_thumb.jpg",
             "token": "?hdnea=exp=1789995042~acl=/*~id=47480287947591599648177384096795~hmac=ada94450b00a8e15c964bfe4d9aa2be24b79f5d79aba7bdb9e1053c58f13cac5",
-            "token_updated": 1789987823
+            "token_updated": 1789989628
         },
         {
             "match_id": "1090541380",
-            "title": "Badminton - 21 Sep 2026",
+            "title": "Volleyball - 21 Sep 2026",
             "tournament": "20th Asian Games Aichi-Nagoya 2026",
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/AG_DX2_22009/ENG/master.m3u8",
-            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541380/thumbnail/1789970467466_1789292948462348_AG26_Badminton_pictogram_landscape_thumb.jpg",
+            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789301604665741_AG26_Volleyball_pictogram_landscape_thumb.jpg",
             "token": "?hdnea=exp=1789993247~acl=/*~id=17240741076492404648582311619429~hmac=f9506d6e290b46522054988b62ce42ed913f2a5b6c45459c067c3abebe21988a",
-            "token_updated": 1789987823
+            "token_updated": 1789989628
         },
         {
             "match_id": "1090541378",
-            "title": "Bangladesh vs Chinese Taipei - Men's Team - Kabaddi - 21 Sep 2026",
+            "title": "Bangladesh vs India - Women's Team - Kabaddi - 21 Sep 2026",
             "tournament": "20th Asian Games Aichi-Nagoya 2026",
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/AG_DX3_22009/ENG/master.m3u8",
-            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541378/thumbnail/1789983239493_1789299301145348_AG26_Kabaddi_pictogram_landscape_thumb.jpg",
+            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541378/thumbnail/1789988723682_1789299301145348_AG26_Kabaddi_pictogram_landscape_thumb.jpg",
             "token": "?hdnea=exp=1789993268~acl=/*~id=55580977646979441441902343086473~hmac=aed75460889673c54cf36afd3ff290afd6ff26e13efa125a5bce09c02b1a3f53",
-            "token_updated": 1789987823
+            "token_updated": 1789989628
         },
         {
             "match_id": "1090541385",
@@ -49,7 +49,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2037142/AG_Strea2009/HIN/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024324/1789932715931517_AG26_Table_Tennis_mens_Team_India_vs_Pakistan_hindi_landscape_thumb.jpg",
             "token": "?hdnea=exp=1789995055~acl=/*~id=38078669082055110559114455715723~hmac=a704983c98fe5603b858485ce91f223253a91c7013cef61b29e98bbc0c889767",
-            "token_updated": 1789987823
+            "token_updated": 1789989628
         },
         {
             "match_id": "1090541854",
@@ -58,7 +58,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/AG_DX8_22009/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789301604665741_AG26_Volleyball_pictogram_landscape_thumb.jpg",
             "token": "?hdnea=exp=1789995079~acl=/*~id=80623298273352762738848063669485~hmac=f6053add08d63b0fb5a608eeaf9bb9d689d5008a63067871997060c2544b51d8",
-            "token_updated": 1789987823
+            "token_updated": 1789989628
         },
         {
             "match_id": "1090541386",
@@ -67,7 +67,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/AG_DX5_22009/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789293150940348_AG26_Baseball_pictogram_landscape_thumb.jpg",
             "token": "?hdnea=exp=1789993238~acl=/*~id=70814667559223238665044724513517~hmac=c1945915f2d80ec0a87c61d8a521b28ca4ae57f80cf3a01f4497a42d6f6f38df",
-            "token_updated": 1789987823
+            "token_updated": 1789989628
         },
         {
             "match_id": "1090541379",
@@ -75,26 +75,17 @@
             "tournament": "20th Asian Games Aichi-Nagoya 2026",
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/AG_DX1_22009/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541379/thumbnail/1789984356585_1789299123285348_AG26_Hockey_pictogram_landscape_thumb.jpg",
-            "token": "?hdnea=exp=1789991435~acl=/*~id=79880202323064330884117590143468~hmac=e2704264f329302077857f5e41b4dcff3e5ad76229f64d245f997710e5e945ff",
-            "token_updated": 1789987823
-        },
-        {
-            "match_id": "1090541387",
-            "title": "Pakistan vs India - Men's Team - Table Tennis - 21 Sep 2026",
-            "tournament": "20th Asian Games Aichi-Nagoya 2026",
-            "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120308/AG_DX6_22009/ENG/master.m3u8",
-            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541387/thumbnail/1789984925815_1789300835115741_AG26_Table_Tennis_pictogram_landscape_thumb.jpg",
-            "token": "?hdnea=exp=1789995055~acl=/*~id=38078669082055110559114455715723~hmac=a704983c98fe5603b858485ce91f223253a91c7013cef61b29e98bbc0c889767",
-            "token_updated": 1789987823
+            "token": "?hdnea=exp=1790032835~acl=/*~id=52065112486763649518901465632256~hmac=4f4c5089e059b3ba027a68ca5f28edfe2a3a1ce9a990bac80c1a8f5cdf3bee25",
+            "token_updated": 1789989628
         },
         {
             "match_id": "1090541853",
-            "title": "Swimming - 21 Sep 2026",
+            "title": "Football - 21 Sep 2026",
             "tournament": "20th Asian Games Aichi-Nagoya 2026",
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/AG_DX7_22009/ENG/master.m3u8",
-            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789285629023741_AG26_Swimming_pictogram_landscape_thumb.jpg",
+            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789297879081348_AG26_Football_pictogram_landscape_thumb.jpg",
             "token": "?hdnea=exp=1789995070~acl=/*~id=22057628086045956480278865643585~hmac=82829990e4927b3089e5b35bad07fb219b1ea4beb7bc8e1385f78b3a64d27ae3",
-            "token_updated": 1789987823
+            "token_updated": 1789989628
         },
         {
             "match_id": "1090541855",
@@ -103,7 +94,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/AG_AGMDS2009/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789297879081348_AG26_Football_pictogram_landscape_thumb.jpg",
             "token": "?hdnea=exp=1789993238~acl=/*~id=70814667559223238665044724513517~hmac=c1945915f2d80ec0a87c61d8a521b28ca4ae57f80cf3a01f4497a42d6f6f38df",
-            "token_updated": 1789987823
+            "token_updated": 1789989628
         },
         {
             "match_id": "1090541369",
@@ -111,17 +102,8 @@
             "tournament": "20th Asian Games Aichi-Nagoya 2026",
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/AG_AGMDS2009/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789293150940348_AG26_Baseball_pictogram_landscape_thumb.jpg",
-            "token": "?hdnea=exp=1789991454~acl=/*~id=62848847169889564535007961897431~hmac=eb5c5683c8e6474a3e86de5fd34dcb3e535ea9f33ed8a2486d5aa91665759898",
-            "token_updated": 1789987823
-        },
-        {
-            "match_id": "1090541376",
-            "title": "People's Republic of China vs Indonesia - Women - Basketball - 21 Sep 2026",
-            "tournament": "20th Asian Games Aichi-Nagoya 2026",
-            "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120305/AG_DX4_22009/ENG/master.m3u8",
-            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541376/thumbnail/1789984768190_1789293450735348_AG26_Basketball_pictogram_landscape_thumb.jpg",
-            "token": "?hdnea=exp=1789991435~acl=/*~id=79880202323064330884117590143468~hmac=e2704264f329302077857f5e41b4dcff3e5ad76229f64d245f997710e5e945ff",
-            "token_updated": 1789987823
+            "token": "?hdnea=exp=1790032835~acl=/*~id=52065112486763649518901465632256~hmac=4f4c5089e059b3ba027a68ca5f28edfe2a3a1ce9a990bac80c1a8f5cdf3bee25",
+            "token_updated": 1789989628
         }
     ]
 }
