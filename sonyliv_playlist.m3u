@@ -2,7 +2,10 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 04:20:27 PM 21-09-2026
+# last_update: 04:50:28 PM 21-09-2026
+
+#EXTINF:-1 tvg-id="sonyliv-1090543296" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024352/1789977683869714_AG_INDvsBAN_womens_kabbadi_landscape_thumb.jpg" group-title="Sports", India vs Bangladesh - Women's Kabaddi - 21 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2094587/AG_Hocke2109/ENG/master.m3u8?hdnea=exp=1790031039~acl=/*~id=66634938102034829111416553166741~hmac=151aba0b20b2dce27b964d10c7e17896527c3e904864036251d19af6d9615fe5
 
 #EXTINF:-1 tvg-id="sonyliv-1090541381" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024324/1789932731698517_AG26_Table_Tennis_mens_Team_India_vs_Pakistan_live_landscape_thumb.jpg" group-title="Table Tennis", India In Action - Table Tennis - 21 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2037139/AG_Strea2009/ENG/master.m3u8?hdnea=exp=1789995042~acl=/*~id=47480287947591599648177384096795~hmac=ada94450b00a8e15c964bfe4d9aa2be24b79f5d79aba7bdb9e1053c58f13cac5
