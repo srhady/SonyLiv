@@ -2,10 +2,7 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 06:50:31 AM 21-09-2026
-
-#EXTINF:-1 tvg-id="sonyliv-1090541376" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024326/1789943763712759_AG26_21st_Sep_Sepaktakraw_Regu_India_vs_Japan_live_landscape_thumb.jpg" group-title="Sepaktakraw", India vs Japan - Sepaktakraw Regu - 21 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2120305/AG_DX4_22009/ENG/master.m3u8?hdnea=exp=1789991435~acl=/*~id=79880202323064330884117590143468~hmac=e2704264f329302077857f5e41b4dcff3e5ad76229f64d245f997710e5e945ff
+# last_update: 07:20:28 AM 21-09-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090541381" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024324/1789929873781517_AG26_Table_Tennis_Womens_Team_India_vs_Pakistan_live_landscape_thumb.jpg" group-title="Sports", India vs Pakistan - Women's Table Tennis - 21 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2037139/AG_Strea2009/ENG/master.m3u8?hdnea=exp=1789995042~acl=/*~id=47480287947591599648177384096795~hmac=ada94450b00a8e15c964bfe4d9aa2be24b79f5d79aba7bdb9e1053c58f13cac5
@@ -28,7 +25,7 @@ https://sonydaimenew.akamaized.net/hls/live/2037142/AG_Strea2009/HIN/master.m3u8
 #EXTINF:-1 tvg-id="sonyliv-1090541853" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789298392688348_AG26_Artistic_Gymnastics_pictogram_landscape_thumb.jpg" group-title="Artistic Gymnastics", Men's Final - Gymnastics - 21 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2018457/AG_DX7_22009/ENG/master.m3u8?hdnea=exp=1789995070~acl=/*~id=22057628086045956480278865643585~hmac=82829990e4927b3089e5b35bad07fb219b1ea4beb7bc8e1385f78b3a64d27ae3
 
-#EXTINF:-1 tvg-id="sonyliv-1090541854" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789285629023741_AG26_Swimming_pictogram_landscape_thumb.jpg" group-title="Swimming", Swimming - 21 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+#EXTINF:-1 tvg-id="sonyliv-1090541854" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024325/1789934459758252_AG26_Swimming_Mens_50m_Freestyle_Akash_Mani_live_landscape_thumb.jpg" group-title="Swimming", Swimming - Men's 50m Freestyle - 21 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2022317/AG_DX8_22009/ENG/master.m3u8?hdnea=exp=1789995079~acl=/*~id=80623298273352762738848063669485~hmac=f6053add08d63b0fb5a608eeaf9bb9d689d5008a63067871997060c2544b51d8
 
 #EXTINF:-1 tvg-id="sonyliv-1090541855" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789292948462348_AG26_Badminton_pictogram_landscape_thumb.jpg" group-title="Badminton", Malaysia vs Mongolia - Men's Team - Badminton - 21 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
@@ -37,5 +34,11 @@ https://sonydaimenew.akamaized.net/hls/live/2094588/AG_AGMDS2009/ENG/master.m3u8
 #EXTINF:-1 tvg-id="sonyliv-1090541369" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789299123285348_AG26_Hockey_pictogram_landscape_thumb.jpg" group-title="Hockey", Korea vs Kazakhstan - Women's Hockey - 21 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2005445/AG_AGMDS2009/ENG/master.m3u8?hdnea=exp=1789991454~acl=/*~id=62848847169889564535007961897431~hmac=eb5c5683c8e6474a3e86de5fd34dcb3e535ea9f33ed8a2486d5aa91665759898
 
+#EXTINF:-1 tvg-id="sonyliv-1090541376" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789300218628741_AG26_Sepaktakraw_pictogram_landscape_thumb.jpg" group-title="Sepaktakraw", Men's Sepaktakraw Regu - 21 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2120305/AG_DX4_22009/ENG/master.m3u8?hdnea=exp=1789991435~acl=/*~id=79880202323064330884117590143468~hmac=e2704264f329302077857f5e41b4dcff3e5ad76229f64d245f997710e5e945ff
+
 #EXTINF:-1 tvg-id="sonyliv-1090541378" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541378/thumbnail/1789950382764_1789299301145348_AG26_Kabaddi_pictogram_landscape_thumb.jpg" group-title="Kabaddi", Bangladesh vs Korea - Men's Team - Kabaddi - 21 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2120307/AG_DX3_22009/ENG/master.m3u8?hdnea=exp=1789993268~acl=/*~id=55580977646979441441902343086473~hmac=aed75460889673c54cf36afd3ff290afd6ff26e13efa125a5bce09c02b1a3f53
+
+#EXTINF:-1 tvg-id="sonyliv-1090541377" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789285629023741_AG26_Swimming_pictogram_landscape_thumb.jpg" group-title="Swimming", Heats - Swimming - 21 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2120306/AG_AGMDS2109/ENG/master.m3u8?hdnea=exp=1789996837~acl=/*~id=70948126744539310746713801496947~hmac=02b77155043b8995b8dee72275a0126ada6659758f884515e57b84f86b0b5679
