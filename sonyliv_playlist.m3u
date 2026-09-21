@@ -2,7 +2,7 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 01:20:30 PM 21-09-2026
+# last_update: 01:50:29 PM 21-09-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090541381" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789299301145348_AG26_Kabaddi_pictogram_landscape_thumb.jpg" group-title="Kabaddi", Kabaddi - 21 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2037139/AG_Strea2009/ENG/master.m3u8?hdnea=exp=1789995042~acl=/*~id=47480287947591599648177384096795~hmac=ada94450b00a8e15c964bfe4d9aa2be24b79f5d79aba7bdb9e1053c58f13cac5
@@ -40,5 +40,5 @@ https://sonydaimenew.akamaized.net/hls/live/2094588/AG_AGMDS2009/ENG/master.m3u8
 #EXTINF:-1 tvg-id="sonyliv-1090541369" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789293562515348_AG26_3x3_Basketball_pictogram_landscape_thumb.jpg" group-title="3x3 Basketball", 3x3 Basketball - 21 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2005445/AG_AGMDS2009/ENG/master.m3u8?hdnea=exp=1789991454~acl=/*~id=62848847169889564535007961897431~hmac=eb5c5683c8e6474a3e86de5fd34dcb3e535ea9f33ed8a2486d5aa91665759898
 
-#EXTINF:-1 tvg-id="sonyliv-1090541377" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789285629023741_AG26_Swimming_pictogram_landscape_thumb.jpg" group-title="Swimming", Day 3 - 21 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+#EXTINF:-1 tvg-id="sonyliv-1090541377" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789299123285348_AG26_Hockey_pictogram_landscape_thumb.jpg" group-title="Hockey", Hockey - 21 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2120306/AG_AGMDS2109/ENG/master.m3u8?hdnea=exp=1789996837~acl=/*~id=70948126744539310746713801496947~hmac=02b77155043b8995b8dee72275a0126ada6659758f884515e57b84f86b0b5679
