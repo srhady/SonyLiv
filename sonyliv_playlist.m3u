@@ -2,9 +2,9 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 05:50:33 PM 22-09-2026
+# last_update: 06:20:30 PM 22-09-2026
 
-#EXTINF:-1 tvg-id="sonyliv-1090541381" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024419/1790035495074272_AG26_22Sep_Hockey_Mens_India_vs_Sri_Lanka_live_landscape_thumb.jpg" group-title="Hockey", India vs Sri Lanka - Men's Hockey - 22 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+#EXTINF:-1 tvg-id="sonyliv-1090541381" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024234/1789852034881646_AG26_Stream1_generic_landscape_thumb.jpg" group-title="Kabaddi", Day 4 - 22 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2005445/AG_Strea2109/ENG/master.m3u8?hdnea=exp=1790099435~acl=/*~id=70149444725695190893980081931636~hmac=670d783f90c374437002dac7a5d2c2f94f71252b39d519231915e4db8951e853
 
 #EXTINF:-1 tvg-id="sonyliv-1090543392" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024408/1790022758022512_ENGvsSL26_1odi_landscape_thumb.jpg" group-title="Cricket", 1st ODI - 22 Sep 2026 | Sri Lanka Tour of England 2026
@@ -13,14 +13,8 @@ https://sonydaimenew.akamaized.net/hls/live/2120299/criclive2209/ENG/master.m3u8
 #EXTINF:-1 tvg-id="sonyliv-1090541386" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789300835115741_AG26_Table_Tennis_pictogram_landscape_thumb.jpg" group-title="Football", Table Tennis - 22 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2022316/AG_DX5_22109/ENG/master.m3u8?hdnea=exp=1790121036~acl=/*~id=64305861289704368683354456859032~hmac=fd0444cd5dfcd9e379da9c2245e8cd84fc931208c7693477891e42795a466633
 
-#EXTINF:-1 tvg-id="sonyliv-1090541385" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024419/1790035520222272_AG26_22Sep_Hockey_Mens_India_vs_Sri_Lanka_live_landscape_thumb_hindi.jpg" group-title="Hockey", India vs Sri Lanka - Men's Hockey - 22 Sep 2026 (Hindi) | 20th Asian Games Aichi-Nagoya 2026
+#EXTINF:-1 tvg-id="sonyliv-1090541385" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024320/178992641642241_AG26_stream3_hindi_generic_landscape_thumb.jpg" group-title="Hockey", Day 4 - 22 Sep 2026 (Hindi) | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2022320/AG_Strea2109/HIN/master.m3u8?hdnea=exp=1790099442~acl=/*~id=28419512106787709923816823730578~hmac=63de0e23ec1fe2adbc303127d2e054f3a92f871875c29d07ce01e9aa01b57ae9
-
-#EXTINF:-1 tvg-id="sonyliv-1090541853" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789300835115741_AG26_Table_Tennis_pictogram_landscape_thumb.jpg" group-title="Table Tennis", Table Tennis - 22 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2018457/AG_DX7_22109/ENG/master.m3u8?hdnea=exp=1790081433~acl=/*~id=62375406354496630387195453137526~hmac=2bba5d8b60759a906baca6161894a39657ebf4115341309fcb47a0a49098d900
-
-#EXTINF:-1 tvg-id="sonyliv-1090541380" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541380/thumbnail/1790071226869_1789299123285348_AG26_Hockey_pictogram_landscape_thumb.jpg" group-title="Hockey", India vs Sri Lanka - Men - Hockey - 22 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2120302/AG_DX2_22109/ENG/master.m3u8?hdnea=exp=1790119245~acl=/*~id=83400360098847224695047898279692~hmac=7a5a5aa8d0115e82e0f84fd6ff9c2eb5ca5d80b015f0c60ca89861a3d7f8d037
 
 #EXTINF:-1 tvg-id="sonyliv-1090541369" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789301604665741_AG26_Volleyball_pictogram_landscape_thumb.jpg" group-title="Volleyball", Volleyball - 22 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2120304/AG_AGMDS2109/ENG/master.m3u8?hdnea=exp=1790119248~acl=/*~id=55665308051033878645085405819405~hmac=22a0a780f5b85701406a2a9a29eaaf9b56210a4e8f8bf2caea9ad0d6a2e32dd6
