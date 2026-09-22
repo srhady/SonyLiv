@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "11:20:31 PM 22-09-2026"
+        "last_update": "11:50:32 PM 22-09-2026"
     },
     "live_matches": [
         {
@@ -13,7 +13,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/criclive2209/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024408/1790022758022512_ENGvsSL26_1odi_landscape_thumb.jpg",
             "token": "?hdnea=exp=1790119241~acl=/*~id=50654049683125740759741101629018~hmac=19152f9dbf5f48537d33fcf4b6c3441109e1b44f6c2ee5aed2b2f2809f223c0a",
-            "token_updated": 1790097626
+            "token_updated": 1790099428
         }
     ]
 }
