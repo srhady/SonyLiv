@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "04:50:29 PM 22-09-2026"
+        "last_update": "05:20:49 PM 22-09-2026"
     },
     "live_matches": [
         {
@@ -13,7 +13,16 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/AG_Strea2109/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024419/1790035495074272_AG26_22Sep_Hockey_Mens_India_vs_Sri_Lanka_live_landscape_thumb.jpg",
             "token": "?hdnea=exp=1790099435~acl=/*~id=70149444725695190893980081931636~hmac=670d783f90c374437002dac7a5d2c2f94f71252b39d519231915e4db8951e853",
-            "token_updated": 1790074227
+            "token_updated": 1790076031
+        },
+        {
+            "match_id": "1090543392",
+            "title": "1st ODI - 22 Sep 2026",
+            "tournament": "Sri Lanka Tour of England 2026",
+            "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/criclive2209/ENG/master.m3u8",
+            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024408/1790022758022512_ENGvsSL26_1odi_landscape_thumb.jpg",
+            "token": "?hdnea=exp=1790119241~acl=/*~id=50654049683125740759741101629018~hmac=19152f9dbf5f48537d33fcf4b6c3441109e1b44f6c2ee5aed2b2f2809f223c0a",
+            "token_updated": 1790076031
         },
         {
             "match_id": "1090541386",
@@ -22,7 +31,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/AG_DX5_22109/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789300835115741_AG26_Table_Tennis_pictogram_landscape_thumb.jpg",
             "token": "?hdnea=exp=1790079639~acl=/*~id=73294745606785922392101524604329~hmac=b811f2d900cce0d41bcc8e7f1653f2bd695c0a79df25fd46b9e9aeb395ef84e8",
-            "token_updated": 1790074227
+            "token_updated": 1790076031
         },
         {
             "match_id": "1090541385",
@@ -31,7 +40,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/AG_Strea2109/HIN/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024419/1790035520222272_AG26_22Sep_Hockey_Mens_India_vs_Sri_Lanka_live_landscape_thumb_hindi.jpg",
             "token": "?hdnea=exp=1790099442~acl=/*~id=28419512106787709923816823730578~hmac=63de0e23ec1fe2adbc303127d2e054f3a92f871875c29d07ce01e9aa01b57ae9",
-            "token_updated": 1790074227
+            "token_updated": 1790076031
         },
         {
             "match_id": "1090541853",
@@ -40,7 +49,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/AG_DX7_22109/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789300835115741_AG26_Table_Tennis_pictogram_landscape_thumb.jpg",
             "token": "?hdnea=exp=1790081433~acl=/*~id=62375406354496630387195453137526~hmac=2bba5d8b60759a906baca6161894a39657ebf4115341309fcb47a0a49098d900",
-            "token_updated": 1790074227
+            "token_updated": 1790076031
         },
         {
             "match_id": "1090541380",
@@ -48,17 +57,8 @@
             "tournament": "20th Asian Games Aichi-Nagoya 2026",
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/AG_DX2_22109/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541380/thumbnail/1790071226869_1789299123285348_AG26_Hockey_pictogram_landscape_thumb.jpg",
-            "token": "?hdnea=exp=1790077851~acl=/*~id=05017656500958446491746433329452~hmac=2321dd44689df3f7b1c38b11594cf10e4102c3dfb0cc09c503d6115ff9d4254f",
-            "token_updated": 1790074227
-        },
-        {
-            "match_id": "1090541854",
-            "title": "Artistic Gymnastics - 22 Sep 2026",
-            "tournament": "20th Asian Games Aichi-Nagoya 2026",
-            "base_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/AG_DX8_22109/ENG/master.m3u8",
-            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789298392688348_AG26_Artistic_Gymnastics_pictogram_landscape_thumb.jpg",
-            "token": "?hdnea=exp=1790081442~acl=/*~id=80711268328792724063348950009586~hmac=8bc21dc6e597911614dd5d2c840de3ccd2655802d47c3cbb2d90a81bf0186461",
-            "token_updated": 1790074227
+            "token": "?hdnea=exp=1790119245~acl=/*~id=83400360098847224695047898279692~hmac=7a5a5aa8d0115e82e0f84fd6ff9c2eb5ca5d80b015f0c60ca89861a3d7f8d037",
+            "token_updated": 1790076031
         },
         {
             "match_id": "1090541378",
@@ -67,7 +67,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/AG_DX3_22109/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541378/thumbnail/1790073621368_1789299301145348_AG26_Kabaddi_pictogram_landscape_thumb.jpg",
             "token": "?hdnea=exp=1790079639~acl=/*~id=73294745606785922392101524604329~hmac=b811f2d900cce0d41bcc8e7f1653f2bd695c0a79df25fd46b9e9aeb395ef84e8",
-            "token_updated": 1790074227
+            "token_updated": 1790076031
         },
         {
             "match_id": "1090541369",
@@ -75,8 +75,8 @@
             "tournament": "20th Asian Games Aichi-Nagoya 2026",
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/AG_AGMDS2109/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789301604665741_AG26_Volleyball_pictogram_landscape_thumb.jpg",
-            "token": "?hdnea=exp=1790077859~acl=/*~id=32735495888506557784911283262229~hmac=9384079dfc55ee8fd6d11e3552028060888c5b72f3c59c9f0155d10b5d1c41c9",
-            "token_updated": 1790074227
+            "token": "?hdnea=exp=1790119248~acl=/*~id=55665308051033878645085405819405~hmac=22a0a780f5b85701406a2a9a29eaaf9b56210a4e8f8bf2caea9ad0d6a2e32dd6",
+            "token_updated": 1790076031
         },
         {
             "match_id": "1090541377",
@@ -85,7 +85,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120305/AG_AGMDS2109/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789285629023741_AG26_Swimming_pictogram_landscape_thumb.jpg",
             "token": "?hdnea=exp=1790081433~acl=/*~id=62375406354496630387195453137526~hmac=2bba5d8b60759a906baca6161894a39657ebf4115341309fcb47a0a49098d900",
-            "token_updated": 1790074227
+            "token_updated": 1790076031
         },
         {
             "match_id": "1090541370",
@@ -94,7 +94,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/AG_AGMDS2209/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789297812134348_AG26_Fencing_pictogram_landscape_thumb.jpg",
             "token": "?hdnea=exp=1790104845~acl=/*~id=81858102786103963070165334933632~hmac=62c1dd6d2e8c2b7f55e4c796adafa1217ab0c8e253a9b6dee1801191fffc93bc",
-            "token_updated": 1790074227
+            "token_updated": 1790076031
         }
     ]
 }
