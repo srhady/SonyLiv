@@ -2,28 +2,22 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 02:50:28 PM 22-09-2026
-
-#EXTINF:-1 tvg-id="sonyliv-1090541371" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024444/1790057366959169_INDvsSL_Finla_live_1landscape_thumb.jpg" group-title="Cricket", Sri Lanka Women vs India Women - Gold Medal Match - 22 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi2209/ENG/master.m3u8?hdnea=exp=1790092234~acl=/*~id=84816493645182971157665171809221~hmac=7454cfe59de79a9be331f0779b79936bc97910339415988ff11253da8095cb0c
+# last_update: 03:20:31 PM 22-09-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090541381" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024447/1790058214938502_AG26_22Sep_Badminton_Mens_QF_India_vs_Japan_live_landscape_thumb.jpg" group-title="Badminton", India In Action - Badminton - 22 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2005445/AG_Strea2109/ENG/master.m3u8?hdnea=exp=1790099435~acl=/*~id=70149444725695190893980081931636~hmac=670d783f90c374437002dac7a5d2c2f94f71252b39d519231915e4db8951e853
 
-#EXTINF:-1 tvg-id="sonyliv-1090541386" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024425/1790040867014128_AG26_Boxing_mens_55kg_Jadumani_vs_Bahadur_live_landscape_thumb.jpg" group-title="Boxing", Jadumani Singh vs Chandra Bahadur - Men's 55kg Boxing - 22 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+#EXTINF:-1 tvg-id="sonyliv-1090541386" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789293652814348_AG26_Boxing_pictogram_landscape_thumb.jpg" group-title="Boxing", Boxing - 22 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2022316/AG_DX5_22109/ENG/master.m3u8?hdnea=exp=1790079639~acl=/*~id=73294745606785922392101524604329~hmac=b811f2d900cce0d41bcc8e7f1653f2bd695c0a79df25fd46b9e9aeb395ef84e8
 
-#EXTINF:-1 tvg-id="sonyliv-1090541380" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541380/thumbnail/1790064002934_1789299123285348_AG26_Hockey_pictogram_landscape_thumb.jpg" group-title="Hockey", Japan vs Bangladesh - Men - Hockey - 22 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2120302/AG_DX2_22109/ENG/master.m3u8?hdnea=exp=1790077851~acl=/*~id=05017656500958446491746433329452~hmac=2321dd44689df3f7b1c38b11594cf10e4102c3dfb0cc09c503d6115ff9d4254f
-
-#EXTINF:-1 tvg-id="sonyliv-1090543608" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024234/1789852057695646_AG26_Stream2_generic_landscape_thumb.jpg" group-title="Sports", Day 4 - 22 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2037139/Day4_Str2209/ENG/master.m3u8?hdnea=exp=1790108443~acl=/*~id=06570600719635513202419390211681~hmac=433f5f345df84f50f2c8f193feabe0454660a029bce72dfa699d45cb954189ca
+#EXTINF:-1 tvg-id="sonyliv-1090541385" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024447/1790058550720502_AG26_22Sep_Badminton_Mens_QF_India_vs_Japan_live_landscape_thumb_hindi.jpg" group-title="Badminton", India In Action - Badminton - 22 Sep 2026 (Hindi) | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2022320/AG_Strea2109/HIN/master.m3u8?hdnea=exp=1790099442~acl=/*~id=28419512106787709923816823730578~hmac=63de0e23ec1fe2adbc303127d2e054f3a92f871875c29d07ce01e9aa01b57ae9
 
 #EXTINF:-1 tvg-id="sonyliv-1090541853" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789285629023741_AG26_Swimming_pictogram_landscape_thumb.jpg" group-title="Swimming", Swimming - 22 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2018457/AG_DX7_22109/ENG/master.m3u8?hdnea=exp=1790081433~acl=/*~id=62375406354496630387195453137526~hmac=2bba5d8b60759a906baca6161894a39657ebf4115341309fcb47a0a49098d900
 
-#EXTINF:-1 tvg-id="sonyliv-1090541385" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024447/1790058550720502_AG26_22Sep_Badminton_Mens_QF_India_vs_Japan_live_landscape_thumb_hindi.jpg" group-title="Badminton", India In Action - Badminton - 22 Sep 2026 (Hindi) | 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2022320/AG_Strea2109/HIN/master.m3u8?hdnea=exp=1790099442~acl=/*~id=28419512106787709923816823730578~hmac=63de0e23ec1fe2adbc303127d2e054f3a92f871875c29d07ce01e9aa01b57ae9
+#EXTINF:-1 tvg-id="sonyliv-1090541380" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541380/thumbnail/1790064002934_1789299123285348_AG26_Hockey_pictogram_landscape_thumb.jpg" group-title="Hockey", Japan vs Bangladesh - Men - Hockey - 22 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2120302/AG_DX2_22109/ENG/master.m3u8?hdnea=exp=1790077851~acl=/*~id=05017656500958446491746433329452~hmac=2321dd44689df3f7b1c38b11594cf10e4102c3dfb0cc09c503d6115ff9d4254f
 
 #EXTINF:-1 tvg-id="sonyliv-1090541854" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789298392688348_AG26_Artistic_Gymnastics_pictogram_landscape_thumb.jpg" group-title="Artistic Gymnastics", Artistic Gymnastics - 22 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2022317/AG_DX8_22109/ENG/master.m3u8?hdnea=exp=1790081442~acl=/*~id=80711268328792724063348950009586~hmac=8bc21dc6e597911614dd5d2c840de3ccd2655802d47c3cbb2d90a81bf0186461
@@ -37,7 +31,7 @@ https://sonydaimenew.akamaized.net/hls/live/2120303/AG_DX3_22109/ENG/master.m3u8
 #EXTINF:-1 tvg-id="sonyliv-1090541387" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789292948462348_AG26_Badminton_pictogram_landscape_thumb.jpg" group-title="Badminton", Badminton - 22 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2120308/AG_DX6_22109/ENG/master.m3u8?hdnea=exp=1790079676~acl=/*~id=92565862841745163665135729349020~hmac=f237a1c78d628332f5579f0775d731b7a6f6e4d8eb2cbc0658989d2483e89ebd
 
-#EXTINF:-1 tvg-id="sonyliv-1090541369" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789299020142348_AG26_Handball_pictogram_landscape_thumb.jpg" group-title="Handball", Handball - 22 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+#EXTINF:-1 tvg-id="sonyliv-1090541369" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789293652814348_AG26_Boxing_pictogram_landscape_thumb.jpg" group-title="Boxing", Boxing - 22 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2120304/AG_AGMDS2109/ENG/master.m3u8?hdnea=exp=1790077859~acl=/*~id=32735495888506557784911283262229~hmac=9384079dfc55ee8fd6d11e3552028060888c5b72f3c59c9f0155d10b5d1c41c9
 
 #EXTINF:-1 tvg-id="sonyliv-1090541377" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789285629023741_AG26_Swimming_pictogram_landscape_thumb.jpg" group-title="Swimming", Swimming - 22 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
