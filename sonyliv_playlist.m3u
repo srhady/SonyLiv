@@ -2,7 +2,7 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 12:50:28 PM 22-09-2026
+# last_update: 01:20:35 PM 22-09-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090541371" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024444/1790057366959169_INDvsSL_Finla_live_1landscape_thumb.jpg" group-title="Cricket", Sri Lanka Women vs India Women - Gold Medal Match - 22 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2105079/cricodi2209/ENG/master.m3u8?hdnea=exp=1790092234~acl=/*~id=84816493645182971157665171809221~hmac=7454cfe59de79a9be331f0779b79936bc97910339415988ff11253da8095cb0c
@@ -28,7 +28,7 @@ https://sonydaimenew.akamaized.net/hls/live/2022317/AG_DX8_22109/ENG/master.m3u8
 #EXTINF:-1 tvg-id="sonyliv-1090541376" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789299380374741_AG26_Karate_pictogram_landscape_thumb.jpg" group-title="Karate", Karate - 22 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2120306/AG_DX4_22109/ENG/master.m3u8?hdnea=exp=1790081433~acl=/*~id=62375406354496630387195453137526~hmac=2bba5d8b60759a906baca6161894a39657ebf4115341309fcb47a0a49098d900
 
-#EXTINF:-1 tvg-id="sonyliv-1090541378" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541378/thumbnail/1790052883977_1789297879081348_AG26_Football_pictogram_landscape_thumb.jpg" group-title="Football", Vietnam vs Uzbekistan - Men - Football - 22 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+#EXTINF:-1 tvg-id="sonyliv-1090541378" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541378/thumbnail/1790060157982_1789299301145348_AG26_Kabaddi_pictogram_landscape_thumb.jpg" group-title="Kabaddi", Bangladesh vs Japan - Men's Team - Kabaddi - 22 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2120303/AG_DX3_22109/ENG/master.m3u8?hdnea=exp=1790079639~acl=/*~id=73294745606785922392101524604329~hmac=b811f2d900cce0d41bcc8e7f1653f2bd695c0a79df25fd46b9e9aeb395ef84e8
 
 #EXTINF:-1 tvg-id="sonyliv-1090541387" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789292948462348_AG26_Badminton_pictogram_landscape_thumb.jpg" group-title="Badminton", Badminton - 22 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
@@ -37,5 +37,8 @@ https://sonydaimenew.akamaized.net/hls/live/2120308/AG_DX6_22109/ENG/master.m3u8
 #EXTINF:-1 tvg-id="sonyliv-1090541369" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789299020142348_AG26_Handball_pictogram_landscape_thumb.jpg" group-title="Handball", Handball - 22 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2120304/AG_AGMDS2109/ENG/master.m3u8?hdnea=exp=1790077859~acl=/*~id=32735495888506557784911283262229~hmac=9384079dfc55ee8fd6d11e3552028060888c5b72f3c59c9f0155d10b5d1c41c9
 
-#EXTINF:-1 tvg-id="sonyliv-1090541377" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789297879081348_AG26_Football_pictogram_landscape_thumb.jpg" group-title="Football", Football - 22 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+#EXTINF:-1 tvg-id="sonyliv-1090541377" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789293562515348_AG26_3x3_Basketball_pictogram_landscape_thumb.jpg" group-title="3x3 Basketball", 3x3 Basketball - 22 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2120305/AG_AGMDS2109/ENG/master.m3u8?hdnea=exp=1790081433~acl=/*~id=62375406354496630387195453137526~hmac=2bba5d8b60759a906baca6161894a39657ebf4115341309fcb47a0a49098d900
+
+#EXTINF:-1 tvg-id="sonyliv-1090541370" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789297812134348_AG26_Fencing_pictogram_landscape_thumb.jpg" group-title="Fencing", Men's & Women's Foil Individual - Fencing - 22 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2120301/AG_AGMDS2209/ENG/master.m3u8?hdnea=exp=1790104845~acl=/*~id=81858102786103963070165334933632~hmac=62c1dd6d2e8c2b7f55e4c796adafa1217ab0c8e253a9b6dee1801191fffc93bc
