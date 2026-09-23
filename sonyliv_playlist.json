@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "05:50:41 PM 23-09-2026"
+        "last_update": "06:20:47 PM 23-09-2026"
     },
     "live_matches": [
         {
@@ -13,7 +13,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120306/AG_Strea2209/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789300835115741_AG26_Table_Tennis_pictogram_landscape_thumb.jpg",
             "token": "?hdnea=exp=1790191239~acl=/*~id=80535725456297424427585110989626~hmac=4d96a2eba733c14ad7107d746ac6259b6c2ac38ad45e224f6d71762d39c1a4b6",
-            "token_updated": 1790164224
+            "token_updated": 1790166027
         },
         {
             "match_id": "1090541380",
@@ -22,7 +22,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/AG_DX2_22209/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541380/thumbnail/1790159041436_1789297879081348_AG26_Football_pictogram_landscape_thumb.jpg",
             "token": "?hdnea=exp=1790205643~acl=/*~id=18819389652135859913797780425213~hmac=dd86b2555d7b760a359611a4ccca92c94a957f984143d3387c1fac872e05be95",
-            "token_updated": 1790164224
+            "token_updated": 1790166027
         },
         {
             "match_id": "1090541385",
@@ -31,16 +31,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/AG_Strea2209/HIN/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024320/178992641642241_AG26_stream3_hindi_generic_landscape_thumb.jpg",
             "token": "?hdnea=exp=1790189469~acl=/*~id=65786230356008192650239951937074~hmac=969bf434be774c6c9c24bbc0dc45cb4482ed9be1a8cd018d4eaa05814e0bcb80",
-            "token_updated": 1790164224
-        },
-        {
-            "match_id": "1090541376",
-            "title": "Chinese Taipei vs Nepal - Women's Team - Kabaddi - 23 Sep 2026",
-            "tournament": "20th Asian Games Aichi-Nagoya 2026",
-            "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120308/AG_DX4_22209/ENG/master.m3u8",
-            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541376/thumbnail/1790160374746_1789299301145348_AG26_Kabaddi_pictogram_landscape_thumb.jpg",
-            "token": "?hdnea=exp=1790207434~acl=/*~id=86609246755744573767979183754896~hmac=7eb884347efbe33f9eed265e45daf229616700fbdd2312ec7a83224b67108d23",
-            "token_updated": 1790164224
+            "token_updated": 1790166027
         },
         {
             "match_id": "1090541378",
@@ -49,7 +40,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/AG_DX3_22209/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789299123285348_AG26_Hockey_pictogram_landscape_thumb.jpg",
             "token": "?hdnea=exp=1790207441~acl=/*~id=78065015599502887322413406503164~hmac=c34e4dd9694d8866184bfb4a0b95652de229fc3a3a91a91bdfb6d6cc890070b4",
-            "token_updated": 1790164224
+            "token_updated": 1790166027
         },
         {
             "match_id": "1090541854",
@@ -57,8 +48,8 @@
             "tournament": "20th Asian Games Aichi-Nagoya 2026",
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/AG_DX8_22209/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789292948462348_AG26_Badminton_pictogram_landscape_thumb.jpg",
-            "token": "?hdnea=exp=1790167853~acl=/*~id=77119454312779977916123892471932~hmac=4ff7453ccc307af95c2a76cb1cf41a50ee176f587eb0ebdbff6f2a78a4571200",
-            "token_updated": 1790164224
+            "token": "?hdnea=exp=1790209234~acl=/*~id=18080115148477642277052992481840~hmac=ae30f19c6ceda13667c396c28e6a2c8fe8fe57e46ce5b4fc782057b76626463f",
+            "token_updated": 1790166027
         },
         {
             "match_id": "1090541387",
@@ -66,8 +57,8 @@
             "tournament": "20th Asian Games Aichi-Nagoya 2026",
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/AG_DX6_22209/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541387/thumbnail/1790161956008_1789297720785348_AG26_Esports_pictogram_landscape_thumb.jpg",
-            "token": "?hdnea=exp=1790167868~acl=/*~id=36316965248643635779611209584226~hmac=ea022c1bceaf893ec10313fbcd572794d44a664202645b2e1a55f7aca4494128",
-            "token_updated": 1790164224
+            "token": "?hdnea=exp=1790209243~acl=/*~id=99388130650995022799643511977160~hmac=1fa2b0934fbb37bb658fdcee78f5e9cfc8e9177c94eee9a0209b80eed10cf8c9",
+            "token_updated": 1790166027
         },
         {
             "match_id": "1090541377",
@@ -75,8 +66,8 @@
             "tournament": "20th Asian Games Aichi-Nagoya 2026",
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/AG_AGMDS2209/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789298392688348_AG26_Artistic_Gymnastics_pictogram_landscape_thumb.jpg",
-            "token": "?hdnea=exp=1790167846~acl=/*~id=01041633635296815262296202236013~hmac=7c9d568a483706becc5793f1663c0fd7c6b4e17458456ca3820c3baa16296231",
-            "token_updated": 1790164224
+            "token": "?hdnea=exp=1790209246~acl=/*~id=75111252858067383828141497328569~hmac=96c053dc894858179998cda7e43a5463ca561a265b942c23dc3d81dde9e67704",
+            "token_updated": 1790166027
         },
         {
             "match_id": "1090541369",
@@ -85,7 +76,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/AG_AGMDS2209/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789297879081348_AG26_Football_pictogram_landscape_thumb.jpg",
             "token": "?hdnea=exp=1790205651~acl=/*~id=36986826832886109183210403365392~hmac=c2926585cc09414b80232a035438a2a1f9c50afb247dfc6b1bad84b7691d7fe3",
-            "token_updated": 1790164224
+            "token_updated": 1790166027
         },
         {
             "match_id": "1090541370",
@@ -94,7 +85,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/AG_AGMDS2209/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789300835115741_AG26_Table_Tennis_pictogram_landscape_thumb.jpg",
             "token": "?hdnea=exp=1790202029~acl=/*~id=04146130061463076429832963832963~hmac=4e9dcceed84e9b99045210848be2542a27bc9be63f2fe4c7097ce21e3c705231",
-            "token_updated": 1790164224
+            "token_updated": 1790166027
         }
     ]
 }
