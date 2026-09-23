@@ -2,7 +2,7 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 05:20:37 PM 23-09-2026
+# last_update: 05:50:28 PM 23-09-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090541381" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789300835115741_AG26_Table_Tennis_pictogram_landscape_thumb.jpg" group-title="Sports", Table Tennis - 23 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2120306/AG_Strea2209/ENG/master.m3u8?hdnea=exp=1790191239~acl=/*~id=80535725456297424427585110989626~hmac=4d96a2eba733c14ad7107d746ac6259b6c2ac38ad45e224f6d71762d39c1a4b6
@@ -14,18 +14,15 @@ https://sonydaimenew.akamaized.net/hls/live/2120303/AG_DX2_22209/ENG/master.m3u8
 https://sonydaimenew.akamaized.net/hls/live/2094589/AG_Strea2209/HIN/master.m3u8?hdnea=exp=1790189469~acl=/*~id=65786230356008192650239951937074~hmac=969bf434be774c6c9c24bbc0dc45cb4482ed9be1a8cd018d4eaa05814e0bcb80
 
 #EXTINF:-1 tvg-id="sonyliv-1090541376" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541376/thumbnail/1790160374746_1789299301145348_AG26_Kabaddi_pictogram_landscape_thumb.jpg" group-title="Kabaddi", Chinese Taipei vs Nepal - Women's Team - Kabaddi - 23 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2120308/AG_DX4_22209/ENG/master.m3u8?hdnea=exp=1790166039~acl=/*~id=45561776413221165919113824248327~hmac=2e0c56d0b7b025f7596f953e0082fad5e8abc339c4864808135785cf97f9e63a
+https://sonydaimenew.akamaized.net/hls/live/2120308/AG_DX4_22209/ENG/master.m3u8?hdnea=exp=1790207434~acl=/*~id=86609246755744573767979183754896~hmac=7eb884347efbe33f9eed265e45daf229616700fbdd2312ec7a83224b67108d23
 
 #EXTINF:-1 tvg-id="sonyliv-1090541378" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789299123285348_AG26_Hockey_pictogram_landscape_thumb.jpg" group-title="Hockey", Hockey - 23 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2022317/AG_DX3_22209/ENG/master.m3u8?hdnea=exp=1790166048~acl=/*~id=15246129503507515786787513858542~hmac=45639e211a29d83f0d2c4fc2f8262e285da97b78882e45fcb6351bebe66be61e
-
-#EXTINF:-1 tvg-id="sonyliv-1090541379" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541379/thumbnail/1790157302577_1789299123285348_AG26_Hockey_pictogram_landscape_thumb.jpg" group-title="Hockey", Malaysia vs People's Republic of China - Women - Hockey - 23 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2120302/AG_DX1_22209/ENG/master.m3u8?hdnea=exp=1790205646~acl=/*~id=16348389317200637535763515210198~hmac=520b22163217da329bab595fd446fa40575d095ebc0eb75afdb8b0acfe35d435
+https://sonydaimenew.akamaized.net/hls/live/2022317/AG_DX3_22209/ENG/master.m3u8?hdnea=exp=1790207441~acl=/*~id=78065015599502887322413406503164~hmac=c34e4dd9694d8866184bfb4a0b95652de229fc3a3a91a91bdfb6d6cc890070b4
 
 #EXTINF:-1 tvg-id="sonyliv-1090541854" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789292948462348_AG26_Badminton_pictogram_landscape_thumb.jpg" group-title="Badminton", Men's and Women's Semifinals - Badminton - 23 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2018457/AG_DX8_22209/ENG/master.m3u8?hdnea=exp=1790167853~acl=/*~id=77119454312779977916123892471932~hmac=4ff7453ccc307af95c2a76cb1cf41a50ee176f587eb0ebdbff6f2a78a4571200
 
-#EXTINF:-1 tvg-id="sonyliv-1090541387" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541387/thumbnail/1790161956008_1789297720785348_AG26_Esports_pictogram_landscape_thumb.jpg" group-title="Esports", IR Iran vs Malaysia - Football [eFootball™] - Esports - 23 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+#EXTINF:-1 tvg-id="sonyliv-1090541387" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541387/thumbnail/1790161956008_1789297720785348_AG26_Esports_pictogram_landscape_thumb.jpg" group-title="Esports", Esports - 23 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2094588/AG_DX6_22209/ENG/master.m3u8?hdnea=exp=1790167868~acl=/*~id=36316965248643635779611209584226~hmac=ea022c1bceaf893ec10313fbcd572794d44a664202645b2e1a55f7aca4494128
 
 #EXTINF:-1 tvg-id="sonyliv-1090541377" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789298392688348_AG26_Artistic_Gymnastics_pictogram_landscape_thumb.jpg" group-title="Artistic Gymnastics", Artistic Gymnastics - 23 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
@@ -34,5 +31,5 @@ https://sonydaimenew.akamaized.net/hls/live/2022320/AG_AGMDS2209/ENG/master.m3u8
 #EXTINF:-1 tvg-id="sonyliv-1090541369" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789297879081348_AG26_Football_pictogram_landscape_thumb.jpg" group-title="Football", Football - 23 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2037139/AG_AGMDS2209/ENG/master.m3u8?hdnea=exp=1790205651~acl=/*~id=36986826832886109183210403365392~hmac=c2926585cc09414b80232a035438a2a1f9c50afb247dfc6b1bad84b7691d7fe3
 
-#EXTINF:-1 tvg-id="sonyliv-1090541370" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789301796678741_AG26_Weightlifting_pictogram_landscape_thumb.jpg" group-title="Weightlifting", Weightlifting - 23 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+#EXTINF:-1 tvg-id="sonyliv-1090541370" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789300835115741_AG26_Table_Tennis_pictogram_landscape_thumb.jpg" group-title="Table Tennis", Table Tennis - 23 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2037140/AG_AGMDS2209/ENG/master.m3u8?hdnea=exp=1790202029~acl=/*~id=04146130061463076429832963832963~hmac=4e9dcceed84e9b99045210848be2542a27bc9be63f2fe4c7097ce21e3c705231
