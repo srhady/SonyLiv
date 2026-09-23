@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "06:50:30 PM 23-09-2026"
+        "last_update": "07:20:29 PM 23-09-2026"
     },
     "live_matches": [
         {
@@ -13,7 +13,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120306/AG_Strea2209/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024234/1789852034881646_AG26_Stream1_generic_landscape_thumb.jpg",
             "token": "?hdnea=exp=1790191239~acl=/*~id=80535725456297424427585110989626~hmac=4d96a2eba733c14ad7107d746ac6259b6c2ac38ad45e224f6d71762d39c1a4b6",
-            "token_updated": 1790167828
+            "token_updated": 1790169626
         },
         {
             "match_id": "1090541385",
@@ -22,16 +22,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/AG_Strea2209/HIN/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024320/178992641642241_AG26_stream3_hindi_generic_landscape_thumb.jpg",
             "token": "?hdnea=exp=1790189469~acl=/*~id=65786230356008192650239951937074~hmac=969bf434be774c6c9c24bbc0dc45cb4482ed9be1a8cd018d4eaa05814e0bcb80",
-            "token_updated": 1790167828
-        },
-        {
-            "match_id": "1090541377",
-            "title": "Artistic Gymnastics - 23 Sep 2026",
-            "tournament": "20th Asian Games Aichi-Nagoya 2026",
-            "base_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/AG_AGMDS2209/ENG/master.m3u8",
-            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789298392688348_AG26_Artistic_Gymnastics_pictogram_landscape_thumb.jpg",
-            "token": "?hdnea=exp=1790209246~acl=/*~id=75111252858067383828141497328569~hmac=96c053dc894858179998cda7e43a5463ca561a265b942c23dc3d81dde9e67704",
-            "token_updated": 1790167828
+            "token_updated": 1790169626
         }
     ]
 }
