@@ -2,24 +2,21 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 04:20:26 PM 23-09-2026
+# last_update: 04:50:26 PM 23-09-2026
 
-#EXTINF:-1 tvg-id="sonyliv-1090541381" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024512/1790119595842245_AG26_23Sep_Badminton_Mens_India_vs_China_live_landscape_thumb.jpg" group-title="Badminton",  India vs People's Republic Of China - Badminton - 23 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+#EXTINF:-1 tvg-id="sonyliv-1090541381" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024234/1789852034881646_AG26_Stream1_generic_landscape_thumb.jpg" group-title="Sports", Day 5 - 23 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2120306/AG_Strea2209/ENG/master.m3u8?hdnea=exp=1790191239~acl=/*~id=80535725456297424427585110989626~hmac=4d96a2eba733c14ad7107d746ac6259b6c2ac38ad45e224f6d71762d39c1a4b6
 
-#EXTINF:-1 tvg-id="sonyliv-1090541385" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024530/1790143604314525_AG26_23Sep_Badminton_Mens_India_vs_China_live_landscape_thumb.jpg" group-title="Badminton",  India vs People's Republic of China - Badminton - 23 Sep 2026 (Hindi) | 20th Asian Games Aichi-Nagoya 2026
+#EXTINF:-1 tvg-id="sonyliv-1090541385" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024320/178992641642241_AG26_stream3_hindi_generic_landscape_thumb.jpg" group-title="Badminton", Day 5 - 23 Sep 2026 (Hindi) | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2094589/AG_Strea2209/HIN/master.m3u8?hdnea=exp=1790189469~acl=/*~id=65786230356008192650239951937074~hmac=969bf434be774c6c9c24bbc0dc45cb4482ed9be1a8cd018d4eaa05814e0bcb80
 
-#EXTINF:-1 tvg-id="sonyliv-1090541380" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789285629023741_AG26_Swimming_pictogram_landscape_thumb.jpg" group-title="Swimming", Swimming - 23 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+#EXTINF:-1 tvg-id="sonyliv-1090541380" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541380/thumbnail/1790159041436_1789297879081348_AG26_Football_pictogram_landscape_thumb.jpg" group-title="Football", Japan vs Thailand - Men - Football - 23 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2120303/AG_DX2_22209/ENG/master.m3u8?hdnea=exp=1790166032~acl=/*~id=57370961555033005109424487827832~hmac=c417c487165a6505b3e22cf406899d6a62e1837d2eb716bb54cca7f550821d3a
-
-#EXTINF:-1 tvg-id="sonyliv-1090541386" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789300294846741_AG26_Shooting_pictogram_landscape_thumb.jpg" group-title="Shooting", Shooting - 23 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2005444/AG_DX5_22209/ENG/master.m3u8?hdnea=exp=1790167834~acl=/*~id=24475982107275841442794529940325~hmac=7923742400a21680619ef27ab9135b4fab1dc2f482d6b94fe4bc6fd79c4d2565
 
 #EXTINF:-1 tvg-id="sonyliv-1090541378" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789299123285348_AG26_Hockey_pictogram_landscape_thumb.jpg" group-title="Hockey", Hockey - 23 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2022317/AG_DX3_22209/ENG/master.m3u8?hdnea=exp=1790166048~acl=/*~id=15246129503507515786787513858542~hmac=45639e211a29d83f0d2c4fc2f8262e285da97b78882e45fcb6351bebe66be61e
 
-#EXTINF:-1 tvg-id="sonyliv-1090541376" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541376/thumbnail/1790155585899_1789299301145348_AG26_Kabaddi_pictogram_landscape_thumb.jpg" group-title="Kabaddi", Chinese Taipei vs Japan - Men's Team - Kabaddi - 23 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+#EXTINF:-1 tvg-id="sonyliv-1090541376" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541376/thumbnail/1790160374746_1789299301145348_AG26_Kabaddi_pictogram_landscape_thumb.jpg" group-title="Kabaddi", Chinese Taipei vs Nepal - Women's Team - Kabaddi - 23 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2120308/AG_DX4_22209/ENG/master.m3u8?hdnea=exp=1790166039~acl=/*~id=45561776413221165919113824248327~hmac=2e0c56d0b7b025f7596f953e0082fad5e8abc339c4864808135785cf97f9e63a
 
 #EXTINF:-1 tvg-id="sonyliv-1090541379" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541379/thumbnail/1790157302577_1789299123285348_AG26_Hockey_pictogram_landscape_thumb.jpg" group-title="Hockey", Malaysia vs People's Republic of China - Women - Hockey - 23 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
