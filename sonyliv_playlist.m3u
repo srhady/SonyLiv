@@ -2,16 +2,13 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 01:50:28 AM 25-09-2026
+# last_update: 02:20:37 AM 25-09-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090543937" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023534/1788617523847612_UNL26_Portugal_vs_Wales_live_landscape_thumb.jpg" group-title="Football", Portugal vs Wales - 25 Sep 2026 | UEFA Nations League 2026-27
 https://sonydaimenew.akamaized.net/hls/live/2022320/footlive2409/ENG/master.m3u8?hdnea=exp=1790317260~acl=/*~id=79767437262495589425266008488527~hmac=ee131d5ec0d385b1101c63ce69840761d1afbed2cf95ec50ce2aa842da17afff
 
 #EXTINF:-1 tvg-id="sonyliv-1090543938" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023535/1788618296586899_UNL26_Netherlands_vs_Germany_live_landscape_thumb.jpg" group-title="Football", Netherlands vs Germany - 25 Sep 2026 | UEFA Nations League 2026-27
 https://sonydaimenew.akamaized.net/hls/live/2022322/footlive2409/ENG/master.m3u8?hdnea=exp=1790317268~acl=/*~id=56215624117035763547618140385831~hmac=38a269dfa265d4ff448e08441c3712ab6e7fbda36d1100858622b86ffedd95d7
-
-#EXTINF:-1 tvg-id="sonyliv-1090543916" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024408/1790022726639512_ENGvsSL26_2odi_landscape_thumb.jpg" group-title="Cricket", 2nd ODI - 24 Sep 2026 | Sri Lanka Tour of England 2026
-https://sonydaimenew.akamaized.net/hls/live/2120300/criclive2409/ENG/master.m3u8?hdnea=exp=1790292043~acl=/*~id=05322469157612312410549884814841~hmac=837fa35a9f1f7d96f1568a98c3ca27e3e16271fb54320066ace1545b4fa69bf2
 
 #EXTINF:-1 tvg-id="sonyliv-1090543944" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023552/1788629830077120_UNL26_Norway_vs_Denmark_live_landscape_thumb.jpg" group-title="Football", Norway vs Denmark - 25 Sep 2026 | UEFA Nations League 2026-27
 https://sonydaimenew.akamaized.net/hls/live/2037140/footlive2409/ENG/master.m3u8?hdnea=exp=1790317278~acl=/*~id=88838315128847821834256271674771~hmac=482dac42672f3d6c05c150febb65994eef1d124144bf3bf9cc02b51873b15a85
