@@ -2,7 +2,7 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 08:50:28 AM 24-09-2026
+# last_update: 09:20:27 AM 24-09-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090541381" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024589/1790194179251522_AG26_24Sep_Athletics_Womens_Heptathlon_High_Jump_live_landscape_thumb.jpg" group-title="Athletics", India In Action - Athletics - 24 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2120305/AG_Strea2309/ENG/master.m3u8?hdnea=exp=1790252437~acl=/*~id=98064687703727913880132220316673~hmac=894839b2b43f22cce2dc3721763f418490d5d7bb5c4f6465b332f2ff709937d7
@@ -16,13 +16,13 @@ https://sonydaimenew.akamaized.net/hls/live/2120306/AG_Strea2309/ENG/master.m3u8
 #EXTINF:-1 tvg-id="sonyliv-1090541385" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024589/1790194213294522_AG26_24Sep_Athletics_Womens_Heptathlon_High_Jump_live_landscape_thumb_hindi.jpg" group-title="Athletics", India In Action - Athletics - 24 Sep 2026 (Hindi) | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2120307/AG_Strea2309/HIN/master.m3u8?hdnea=exp=1790252453~acl=/*~id=87868019195337388133411085245512~hmac=fced67b4e1d6c1d251f492d7a2622aa3763088dc65765819d211eda4b4f8dc0a
 
-#EXTINF:-1 tvg-id="sonyliv-1090541379" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541379/thumbnail/1790214694428_1789299301145348_AG26_Kabaddi_pictogram_landscape_thumb.jpg" group-title="Kabaddi", Korea vs Japan - Men's Team - Kabaddi - 24 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+#EXTINF:-1 tvg-id="sonyliv-1090541379" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541379/thumbnail/1790219175678_1789299301145348_AG26_Kabaddi_pictogram_landscape_thumb.jpg" group-title="Kabaddi", Thailand vs Chinese Taipei - Women's Team - Kabaddi - 24 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2005444/AG_DX3_22309/ENG/master.m3u8?hdnea=exp=1790252437~acl=/*~id=98064687703727913880132220316673~hmac=894839b2b43f22cce2dc3721763f418490d5d7bb5c4f6465b332f2ff709937d7
 
 #EXTINF:-1 tvg-id="sonyliv-1090541380" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789292853755348_AG26_Athletics_pictogram_landscape_thumb.jpg" group-title="Athletics", Men's, Women's & Mixed - Track & Field - Athletics - 24 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2120308/AG_DX2_22309/ENG/master.m3u8?hdnea=exp=1790254243~acl=/*~id=49150523042337335478623844100029~hmac=e70fbda1f7c3f995e56251d66c124d8d70f5e36089c54776f753bd7968f26bb0
 
-#EXTINF:-1 tvg-id="sonyliv-1090541387" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541387/thumbnail/1790215575144_1789301718758348_AG26_Beach_Volleyball_pictogram_landscape_thumb.jpg" group-title="Beach Volleyball", Oman vs Philippines - Men - Beach Volleyball - 24 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+#EXTINF:-1 tvg-id="sonyliv-1090541387" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541387/thumbnail/1790219963930_1789293652814348_AG26_Boxing_pictogram_landscape_thumb.jpg" group-title="Boxing", Yesugen OYUNTSETSEG vs MARIA - Women's 51kg - Boxing - 24 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2018457/AG_DX6_22309/ENG/master.m3u8?hdnea=exp=1790250643~acl=/*~id=16189330549829653858531974726517~hmac=f3b6933ef5bfa318a27f8bcbd283799ed2cd555dffc40a8b8823ae67f6a69511
 
 #EXTINF:-1 tvg-id="sonyliv-1090541376" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789292853755348_AG26_Athletics_pictogram_landscape_thumb.jpg" group-title="Athletics", Men's, Women's & Mixed - Track & Field - Athletics - 24 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
@@ -31,7 +31,7 @@ https://sonydaimenew.akamaized.net/hls/live/2094588/AG_DX4_22309/ENG/master.m3u8
 #EXTINF:-1 tvg-id="sonyliv-1090541370" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789300835115741_AG26_Table_Tennis_pictogram_landscape_thumb.jpg" group-title="Athletics", Men's, Women's & Mixed - Track & Field - Athletics - 24 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2022316/AG_AGMDS2309/ENG/master.m3u8?hdnea=exp=1790254236~acl=/*~id=69800988215404253128623017148556~hmac=f10f76fdf1aafba1c0574fd5db5c5cca77a23dfb9f4767be95384629941d5b73
 
-#EXTINF:-1 tvg-id="sonyliv-1090541855" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789285629023741_AG26_Swimming_pictogram_landscape_thumb.jpg" group-title="Swimming", Swimming - 24 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+#EXTINF:-1 tvg-id="sonyliv-1090541855" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789301718758348_AG26_Beach_Volleyball_pictogram_landscape_thumb.jpg" group-title="Beach Volleyball", Beach Volleyball - 24 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2022315/AG_AGMDS2309/ENG/master.m3u8?hdnea=exp=1790254257~acl=/*~id=53762903168653930155746932786826~hmac=f08f2f20a9c3526e00f4009f3959eeb9a1dd0f8c08d836bf91bf93121f2af944
 
 #EXTINF:-1 tvg-id="sonyliv-1090541369" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789300218628741_AG26_Sepaktakraw_pictogram_landscape_thumb.jpg" group-title="Sepaktakraw", Thailand vs Japan - Men's Team Regu Semifinal - Sepaktakraw - 24 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
