@@ -2,25 +2,22 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 05:20:31 PM 24-09-2026
+# last_update: 05:50:32 PM 24-09-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090543916" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024408/1790022726639512_ENGvsSL26_2odi_landscape_thumb.jpg" group-title="Cricket", 2nd ODI - 24 Sep 2026 | Sri Lanka Tour of England 2026
 https://sonydaimenew.akamaized.net/hls/live/2120300/criclive2409/ENG/master.m3u8?hdnea=exp=1790292043~acl=/*~id=05322469157612312410549884814841~hmac=837fa35a9f1f7d96f1568a98c3ca27e3e16271fb54320066ace1545b4fa69bf2
 
-#EXTINF:-1 tvg-id="sonyliv-1090541381" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024644/1790243848560674_AG_Combo_Live_V2_landscape_thumb.jpg" group-title="Athletics", India In Action - 24 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2120305/AG_Strea2309/ENG/master.m3u8?hdnea=exp=1790252437~acl=/*~id=98064687703727913880132220316673~hmac=894839b2b43f22cce2dc3721763f418490d5d7bb5c4f6465b332f2ff709937d7
+#EXTINF:-1 tvg-id="sonyliv-1090541381" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024652/1790249177875786_Women_Triple_Jump_Final_landscape_thumb.jpg" group-title="Athletics", India In Action - 24 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2120305/AG_Strea2309/ENG/master.m3u8?hdnea=exp=1790293835~acl=/*~id=51822645245620376576093556478010~hmac=04e338e17cb91c6119e709988c33fd57e76b763301ff4d8ce828077171d06976
 
-#EXTINF:-1 tvg-id="sonyliv-1090541385" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024644/1790243875632674_AG_Combo_Live_V2_landscape_thumb_hindi.jpg" group-title="Athletics", India In Action - 24 Sep 2026 (Hindi) | 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2120307/AG_Strea2309/HIN/master.m3u8?hdnea=exp=1790252453~acl=/*~id=87868019195337388133411085245512~hmac=fced67b4e1d6c1d251f492d7a2622aa3763088dc65765819d211eda4b4f8dc0a
+#EXTINF:-1 tvg-id="sonyliv-1090541385" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024652/1790249167115786_Women_Triple_Jump_Final_landscape_thumb_hindi.jpg" group-title="Athletics", India In Action - 24 Sep 2026 (Hindi) | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2120307/AG_Strea2309/HIN/master.m3u8?hdnea=exp=1790293841~acl=/*~id=64678616043011283146682981060862~hmac=c49925bdfcd849c682a3b704f2f23d1e9174998a7de51d201a87b9e8e7e8fea6
 
 #EXTINF:-1 tvg-id="sonyliv-1090541378" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024609/1790210084372558_AG26_Kabaddi_Womens_Team_japan_vs_India_live_landscape_thumb.jpg" group-title="Kabaddi", Japan vs India - Women's Kabaddi - 24 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2120306/AG_Strea2309/ENG/master.m3u8?hdnea=exp=1790254236~acl=/*~id=69800988215404253128623017148556~hmac=f10f76fdf1aafba1c0574fd5db5c5cca77a23dfb9f4767be95384629941d5b73
 
 #EXTINF:-1 tvg-id="sonyliv-1090541379" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541379/thumbnail/1790247090698_1789299301145348_AG26_Kabaddi_pictogram_landscape_thumb.jpg" group-title="Kabaddi", Japan vs India - Women's Team - Kabaddi - 24 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2005444/AG_DX3_22309/ENG/master.m3u8?hdnea=exp=1790252437~acl=/*~id=98064687703727913880132220316673~hmac=894839b2b43f22cce2dc3721763f418490d5d7bb5c4f6465b332f2ff709937d7
-
-#EXTINF:-1 tvg-id="sonyliv-1090541380" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541380/thumbnail/1790243596350_1789299123285348_AG26_Hockey_pictogram_landscape_thumb.jpg" group-title="Hockey", People's Republic of China vs Pakistan - Men - Hockey - 24 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2120308/AG_DX2_22309/ENG/master.m3u8?hdnea=exp=1790254243~acl=/*~id=49150523042337335478623844100029~hmac=e70fbda1f7c3f995e56251d66c124d8d70f5e36089c54776f753bd7968f26bb0
+https://sonydaimenew.akamaized.net/hls/live/2005444/AG_DX3_22309/ENG/master.m3u8?hdnea=exp=1790293847~acl=/*~id=87898475368603065691743653857608~hmac=a9b145672fdf12d00f93f4bfc9b84d772d1efdfa0689261c971219b4440985ba
 
 #EXTINF:-1 tvg-id="sonyliv-1090541386" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541386/thumbnail/1790233057828_1789292948462348_AG26_Badminton_pictogram_landscape_thumb.jpg" group-title="Badminton", Indonesia vs People's Republic of China - Men's Team - Badminton - 24 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2005445/AG_DX5_22409/ENG/master.m3u8?hdnea=exp=1790275838~acl=/*~id=91184024245191279072163935119008~hmac=6ad64a5fd5fc3aa6a3580647016c2e02f472f92529709047fffcf6b82c467416
@@ -41,7 +38,7 @@ https://sonydaimenew.akamaized.net/hls/live/2094587/AG_DX8_22409/ENG/master.m3u8
 https://sonydaimenew.akamaized.net/hls/live/2022319/AG_AGMDS2309/ENG/master.m3u8?hdnea=exp=1790292048~acl=/*~id=68506284086935849896139253198545~hmac=f9723532f83089bb2ead1e042bac4a3a91378c2f6d366f642f7837e9a364a65d
 
 #EXTINF:-1 tvg-id="sonyliv-1090541377" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789292853755348_AG26_Athletics_pictogram_landscape_thumb.jpg" group-title="Athletics", Athletics - 24 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2018458/AG_AGMDS2309/ENG/master.m3u8?hdnea=exp=1790252437~acl=/*~id=98064687703727913880132220316673~hmac=894839b2b43f22cce2dc3721763f418490d5d7bb5c4f6465b332f2ff709937d7
+https://sonydaimenew.akamaized.net/hls/live/2018458/AG_AGMDS2309/ENG/master.m3u8?hdnea=exp=1790293835~acl=/*~id=51822645245620376576093556478010~hmac=04e338e17cb91c6119e709988c33fd57e76b763301ff4d8ce828077171d06976
 
 #EXTINF:-1 tvg-id="sonyliv-1090543924" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023647/1788844988198657_DP_World_Tour_FedEx_Open_de_France_Day1_landscape_thumb.jpg" group-title="Golf", FedEx Open de France - Day 1 - 24 Sep 2026 | DP World Tour
 https://sonydaimenew.akamaized.net/hls/live/2120301/golflive2409/ENG/master.m3u8?hdnea=exp=1790292062~acl=/*~id=95400735933630856014949973225989~hmac=f79b860d5606f6ef2585f9dbe10ecec7cd14fb2b6c56327039519b3c3ef54058
