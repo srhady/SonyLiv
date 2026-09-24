@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "09:50:26 PM 24-09-2026"
+        "last_update": "10:20:33 PM 24-09-2026"
     },
     "live_matches": [
         {
@@ -13,7 +13,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/criclive2409/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024408/1790022726639512_ENGvsSL26_2odi_landscape_thumb.jpg",
             "token": "?hdnea=exp=1790292043~acl=/*~id=05322469157612312410549884814841~hmac=837fa35a9f1f7d96f1568a98c3ca27e3e16271fb54320066ace1545b4fa69bf2",
-            "token_updated": 1790263232
+            "token_updated": 1790266831
         },
         {
             "match_id": "1090543926",
@@ -22,7 +22,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/footlive2409/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023532/1788615898381777_UNL26_Andorra_vs_Malta_live_landscape_thumb.jpg",
             "token": "?hdnea=exp=1790306441~acl=/*~id=63140662118095640389349475861765~hmac=c0d0722ef48f0fe4242d8d9de9de0b72cd351b4ecffaf2cae031a1590ec720be",
-            "token_updated": 1790263232
+            "token_updated": 1790266831
         },
         {
             "match_id": "1090543924",
@@ -31,7 +31,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/golflive2409/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023647/1788844988198657_DP_World_Tour_FedEx_Open_de_France_Day1_landscape_thumb.jpg",
             "token": "?hdnea=exp=1790292062~acl=/*~id=95400735933630856014949973225989~hmac=f79b860d5606f6ef2585f9dbe10ecec7cd14fb2b6c56327039519b3c3ef54058",
-            "token_updated": 1790263232
+            "token_updated": 1790266831
         }
     ]
 }
