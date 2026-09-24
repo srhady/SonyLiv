@@ -2,15 +2,12 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 01:20:29 PM 24-09-2026
+# last_update: 01:50:27 PM 24-09-2026
 
-#EXTINF:-1 tvg-id="sonyliv-1090541381" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024611/1790212069855305_AG26_Hockey_Mens_Korea_vs_India_live_landscape_thumb.jpg" group-title="Hockey", Republic Of Korea vs India - Hockey - 24 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+#EXTINF:-1 tvg-id="sonyliv-1090541381" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024234/1789852034881646_AG26_Stream1_generic_landscape_thumb.jpg" group-title="Sports", Day 6 - 24 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2120305/AG_Strea2309/ENG/master.m3u8?hdnea=exp=1790252437~acl=/*~id=98064687703727913880132220316673~hmac=894839b2b43f22cce2dc3721763f418490d5d7bb5c4f6465b332f2ff709937d7
 
-#EXTINF:-1 tvg-id="sonyliv-1090541367" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024552/1790161238344620_AG26_Mens-Cricket-Hong-Kong-China-vs-Malaysia_landscape_thumb.jpg" group-title="Cricket", Hong Kong,China vs Malaysia - 24 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2120299/AG2026_D2309/ENG/master.m3u8?hdnea=exp=1790268636~acl=/*~id=28271981364393866828254984096565~hmac=c349de8ff523d9ce4b6d028f3b166e61f24a1785932ab1b4552b81ba678a54ff
-
-#EXTINF:-1 tvg-id="sonyliv-1090541385" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024611/1790211935682305_AG26_Hockey_Mens_Korea_vs_India_hindi_landscape_thumb.jpg" group-title="Hockey", Republic Of Korea vs India - Hockey - 24 Sep 2026 (Hindi) | 20th Asian Games Aichi-Nagoya 2026
+#EXTINF:-1 tvg-id="sonyliv-1090541385" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024320/178992641642241_AG26_stream3_hindi_generic_landscape_thumb.jpg" group-title="Sports", Day 6 - 24 Sep 2026 (Hindi) | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2120307/AG_Strea2309/HIN/master.m3u8?hdnea=exp=1790252453~acl=/*~id=87868019195337388133411085245512~hmac=fced67b4e1d6c1d251f492d7a2622aa3763088dc65765819d211eda4b4f8dc0a
 
 #EXTINF:-1 tvg-id="sonyliv-1090541378" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789292948462348_AG26_Badminton_pictogram_landscape_thumb.jpg" group-title="Badminton", Badminton - 24 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
@@ -22,7 +19,7 @@ https://sonydaimenew.akamaized.net/hls/live/2018457/AG_DX6_22309/ENG/master.m3u8
 #EXTINF:-1 tvg-id="sonyliv-1090541379" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541379/thumbnail/1790232962745_1789299301145348_AG26_Kabaddi_pictogram_landscape_thumb.jpg" group-title="Kabaddi", Nepal vs Malaysia - Men's Team - Kabaddi - 24 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2005444/AG_DX3_22309/ENG/master.m3u8?hdnea=exp=1790252437~acl=/*~id=98064687703727913880132220316673~hmac=894839b2b43f22cce2dc3721763f418490d5d7bb5c4f6465b332f2ff709937d7
 
-#EXTINF:-1 tvg-id="sonyliv-1090541853" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789300652991741_AG26_Squash_pictogram_landscape_thumb.jpg" group-title="Squash", Squash - 24 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+#EXTINF:-1 tvg-id="sonyliv-1090541853" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789297812134348_AG26_Fencing_pictogram_landscape_thumb.jpg" group-title="Fencing", Fencing - 24 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2094589/AG_DX7_22409/ENG/master.m3u8?hdnea=exp=1790274034~acl=/*~id=12653548879966103410089995798970~hmac=d53552774a11ae0b3ccd3519781ea3be6d644d8765d165af78bdedecc2bc705a
 
 #EXTINF:-1 tvg-id="sonyliv-1090541386" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541386/thumbnail/1790233057828_1789292948462348_AG26_Badminton_pictogram_landscape_thumb.jpg" group-title="Badminton", Indonesia vs People's Republic of China - Men's Team - Badminton - 24 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
