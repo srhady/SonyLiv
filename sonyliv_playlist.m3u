@@ -2,7 +2,7 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 12:20:48 AM 25-09-2026
+# last_update: 12:50:32 AM 25-09-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090543937" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023534/1788617523847612_UNL26_Portugal_vs_Wales_live_landscape_thumb.jpg" group-title="Football", Portugal vs Wales - 25 Sep 2026 | UEFA Nations League 2026-27
 https://sonydaimenew.akamaized.net/hls/live/2022320/footlive2409/ENG/master.m3u8?hdnea=exp=1790317260~acl=/*~id=79767437262495589425266008488527~hmac=ee131d5ec0d385b1101c63ce69840761d1afbed2cf95ec50ce2aa842da17afff
@@ -15,6 +15,9 @@ https://sonydaimenew.akamaized.net/hls/live/2120300/criclive2409/ENG/master.m3u8
 
 #EXTINF:-1 tvg-id="sonyliv-1090543944" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023552/1788629830077120_UNL26_Norway_vs_Denmark_live_landscape_thumb.jpg" group-title="Football", Norway vs Denmark - 25 Sep 2026 | UEFA Nations League 2026-27
 https://sonydaimenew.akamaized.net/hls/live/2037140/footlive2409/ENG/master.m3u8?hdnea=exp=1790317278~acl=/*~id=88838315128847821834256271674771~hmac=482dac42672f3d6c05c150febb65994eef1d124144bf3bf9cc02b51873b15a85
+
+#EXTINF:-1 tvg-id="sonyliv-1090543943" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023537/178862115308953_UNL26_Serbia_vs_Greece_live_landscape_thumb.jpg" group-title="Football", Serbia vs Greece - 25 Sep 2026 | UEFA Nations League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2037139/footlive2409/ENG/master.m3u8?hdnea=exp=1790319038~acl=/*~id=59585973361778962277548205606026~hmac=a45c2f1efbc43a748b8279857a09ccb3403456d54920d5dc00ed761b0f7a1c72
 
 #EXTINF:-1 tvg-id="sonyliv-1090543947" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023553/1788630525483440_UNL26_Austria_vs_Israel_live_landscape_thumb.jpg" group-title="Football", Austria vs Israel - 25 Sep 2026 | UEFA Nations League 2026-27
 https://sonydaimenew.akamaized.net/hls/live/2037141/footlive2409/ENG/master.m3u8?hdnea=exp=1790317306~acl=/*~id=70425131978046743609164957780282~hmac=69489396b58f747b5e7b875a8877bdd3f4810cd804dcc04620c6a77b2cdab2a1
