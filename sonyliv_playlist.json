@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "12:50:39 AM 25-09-2026"
+        "last_update": "01:20:33 AM 25-09-2026"
     },
     "live_matches": [
         {
@@ -13,7 +13,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/footlive2409/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023534/1788617523847612_UNL26_Portugal_vs_Wales_live_landscape_thumb.jpg",
             "token": "?hdnea=exp=1790317260~acl=/*~id=79767437262495589425266008488527~hmac=ee131d5ec0d385b1101c63ce69840761d1afbed2cf95ec50ce2aa842da17afff",
-            "token_updated": 1790275830
+            "token_updated": 1790277627
         },
         {
             "match_id": "1090543938",
@@ -22,7 +22,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/footlive2409/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023535/1788618296586899_UNL26_Netherlands_vs_Germany_live_landscape_thumb.jpg",
             "token": "?hdnea=exp=1790317268~acl=/*~id=56215624117035763547618140385831~hmac=38a269dfa265d4ff448e08441c3712ab6e7fbda36d1100858622b86ffedd95d7",
-            "token_updated": 1790275830
+            "token_updated": 1790277627
         },
         {
             "match_id": "1090543916",
@@ -31,7 +31,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/criclive2409/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024408/1790022726639512_ENGvsSL26_2odi_landscape_thumb.jpg",
             "token": "?hdnea=exp=1790292043~acl=/*~id=05322469157612312410549884814841~hmac=837fa35a9f1f7d96f1568a98c3ca27e3e16271fb54320066ace1545b4fa69bf2",
-            "token_updated": 1790275830
+            "token_updated": 1790277627
         },
         {
             "match_id": "1090543944",
@@ -40,7 +40,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/footlive2409/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023552/1788629830077120_UNL26_Norway_vs_Denmark_live_landscape_thumb.jpg",
             "token": "?hdnea=exp=1790317278~acl=/*~id=88838315128847821834256271674771~hmac=482dac42672f3d6c05c150febb65994eef1d124144bf3bf9cc02b51873b15a85",
-            "token_updated": 1790275830
+            "token_updated": 1790277627
         },
         {
             "match_id": "1090543943",
@@ -49,7 +49,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/footlive2409/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023537/178862115308953_UNL26_Serbia_vs_Greece_live_landscape_thumb.jpg",
             "token": "?hdnea=exp=1790319038~acl=/*~id=59585973361778962277548205606026~hmac=a45c2f1efbc43a748b8279857a09ccb3403456d54920d5dc00ed761b0f7a1c72",
-            "token_updated": 1790275830
+            "token_updated": 1790277627
         },
         {
             "match_id": "1090543947",
@@ -58,7 +58,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2037141/footlive2409/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023553/1788630525483440_UNL26_Austria_vs_Israel_live_landscape_thumb.jpg",
             "token": "?hdnea=exp=1790317306~acl=/*~id=70425131978046743609164957780282~hmac=69489396b58f747b5e7b875a8877bdd3f4810cd804dcc04620c6a77b2cdab2a1",
-            "token_updated": 1790275830
+            "token_updated": 1790277627
         },
         {
             "match_id": "1090543948",
@@ -67,7 +67,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2037142/footlive2409/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023559/178863630759699_UNL26_Kosovo_vs_Republic_of_Ireland_live_landscape_thumb.jpg",
             "token": "?hdnea=exp=1790317323~acl=/*~id=40655376014218349761650836882736~hmac=9271b0f760c910823252b1038b66bcc6ad4eabb4e6dfac091e84418820a96878",
-            "token_updated": 1790275830
+            "token_updated": 1790277627
         },
         {
             "match_id": "1090543949",
@@ -76,7 +76,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/footlive2409/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023560/1788637005172990_UNL26_Liechtenstein_vs_Lithuania_live_landscape_thumb.jpg",
             "token": "?hdnea=exp=1790317340~acl=/*~id=45026087936546150401395916236391~hmac=6a0ed08fc81d6c98e7ce116c7ed3e5fffe9b7b1e1efe52a5e567464cfef5e1b7",
-            "token_updated": 1790275830
+            "token_updated": 1790277627
         }
     ]
 }
