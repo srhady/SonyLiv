@@ -2,7 +2,7 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 08:20:33 PM 24-09-2026
+# last_update: 08:50:28 PM 24-09-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090541381" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024234/1789852034881646_AG26_Stream1_generic_landscape_thumb.jpg" group-title="Sports", Day 6 - 24 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2120305/AG_Strea2309/ENG/master.m3u8?hdnea=exp=1790293835~acl=/*~id=51822645245620376576093556478010~hmac=04e338e17cb91c6119e709988c33fd57e76b763301ff4d8ce828077171d06976
@@ -10,14 +10,8 @@ https://sonydaimenew.akamaized.net/hls/live/2120305/AG_Strea2309/ENG/master.m3u8
 #EXTINF:-1 tvg-id="sonyliv-1090543916" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024408/1790022726639512_ENGvsSL26_2odi_landscape_thumb.jpg" group-title="Cricket", 2nd ODI - 24 Sep 2026 | Sri Lanka Tour of England 2026
 https://sonydaimenew.akamaized.net/hls/live/2120300/criclive2409/ENG/master.m3u8?hdnea=exp=1790292043~acl=/*~id=05322469157612312410549884814841~hmac=837fa35a9f1f7d96f1568a98c3ca27e3e16271fb54320066ace1545b4fa69bf2
 
-#EXTINF:-1 tvg-id="sonyliv-1090541854" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789300835115741_AG26_Table_Tennis_pictogram_landscape_thumb.jpg" group-title="Table Tennis", Table Tennis - 24 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2094587/AG_DX8_22409/ENG/master.m3u8?hdnea=exp=1790265035~acl=/*~id=07521325413085090192106769791887~hmac=d9ae929727b8916ed50616ff9f650ed27f8fb61cf4c5069cb72890968ff91df8
-
-#EXTINF:-1 tvg-id="sonyliv-1090541369" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789300835115741_AG26_Table_Tennis_pictogram_landscape_thumb.jpg" group-title="Table Tennis", Table Tennis - 24 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+#EXTINF:-1 tvg-id="sonyliv-1090541369" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789301796678741_AG26_Weightlifting_pictogram_landscape_thumb.jpg" group-title="Weightlifting", Weightlifting - 24 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2022319/AG_AGMDS2309/ENG/master.m3u8?hdnea=exp=1790292048~acl=/*~id=68506284086935849896139253198545~hmac=f9723532f83089bb2ead1e042bac4a3a91378c2f6d366f642f7837e9a364a65d
-
-#EXTINF:-1 tvg-id="sonyliv-1090541377" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789292853755348_AG26_Athletics_pictogram_landscape_thumb.jpg" group-title="Athletics", Athletics - 24 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2018458/AG_AGMDS2309/ENG/master.m3u8?hdnea=exp=1790293835~acl=/*~id=51822645245620376576093556478010~hmac=04e338e17cb91c6119e709988c33fd57e76b763301ff4d8ce828077171d06976
 
 #EXTINF:-1 tvg-id="sonyliv-1090543924" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023647/1788844988198657_DP_World_Tour_FedEx_Open_de_France_Day1_landscape_thumb.jpg" group-title="Golf", FedEx Open de France - Day 1 - 24 Sep 2026 | DP World Tour
 https://sonydaimenew.akamaized.net/hls/live/2120301/golflive2409/ENG/master.m3u8?hdnea=exp=1790292062~acl=/*~id=95400735933630856014949973225989~hmac=f79b860d5606f6ef2585f9dbe10ecec7cd14fb2b6c56327039519b3c3ef54058
