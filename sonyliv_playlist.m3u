@@ -2,34 +2,31 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 02:20:27 PM 25-09-2026
+# last_update: 02:50:30 PM 25-09-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090541378" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024716/1790295375886573_AG26_25Sep_Weightlifting_Womens_61kg_live_landscape_thumb.jpg" group-title="Weightlifting", India In Action - Weightlifting - 25 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2120307/AG_strea2409/ENG/master.m3u8?hdnea=exp=1790340635~acl=/*~id=93579877558300901969901778884004~hmac=e5b1fa6621af31738254ee2ca49854e6fb5b5b7b50cc7189d56a2f46e50a29c8
 
-#EXTINF:-1 tvg-id="sonyliv-1090541385" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024718/179029652074860_AG26_Badminton_Mens_Doubles_RD32_Satwiksairaj_Chirag_hindi_landscape_thumb.jpg" group-title="Badminton", India In Action - Badminton - 25 Sep 2026 (Hindi) | 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2120308/AG_strea2409/HIN/master.m3u8?hdnea=exp=1790360439~acl=/*~id=39177518229054803275185272493785~hmac=2ba7e73c07c5a0c34d1de363ba23019c1ecda3bb7259357745a20bd90525a31a
-
-#EXTINF:-1 tvg-id="sonyliv-1090541381" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024718/179029808582360_AG26_Badminton_Mens_Doubles_RD32_Satwiksairaj_Chirag_live_landscape_thumb.jpg" group-title="Badminton", India In Action - Badminton - 25 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+#EXTINF:-1 tvg-id="sonyliv-1090541381" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024234/1789852034881646_AG26_Stream1_generic_landscape_thumb.jpg" group-title="Sports", Day 7 - 25 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2120306/AG_Strea2409/ENG/master.m3u8?hdnea=exp=1790360433~acl=/*~id=67380659028228115656001568790276~hmac=591e2eb62759bca116823a44c273b91fc3f77302098460e4c9e256ba009e30f4
 
-#EXTINF:-1 tvg-id="sonyliv-1090541854" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541854/thumbnail/1790323951508_1789301796678741_AG26_Weightlifting_pictogram_landscape_thumb.jpg" group-title="Weightlifting", Women's 61kg - Weightlifting - 25 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2022315/AG_DX8_22409/ENG/master.m3u8?hdnea=exp=1790338843~acl=/*~id=86957971421292854823235684557756~hmac=505ecabcf50544ce1d500662ac5ba22ba7d48130f3fcfba091e00949d74480a7
-
-#EXTINF:-1 tvg-id="sonyliv-1090541387" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541387/thumbnail/1790323881980_1789293652814348_AG26_Boxing_pictogram_landscape_thumb.jpg" group-title="Boxing", ZHAO Xuan vs Nazym KYZAIBAY - Women's 54kg - Boxing - 25 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2094589/AG_DX6_22409/ENG/master.m3u8?hdnea=exp=1790338837~acl=/*~id=33147055831871944763334848520324~hmac=0eb683ca8cd8b032b5a2c8d37564c101c9dd47a06777c93c977eadbc8826f890
+#EXTINF:-1 tvg-id="sonyliv-1090541385" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024320/178992641642241_AG26_stream3_hindi_generic_landscape_thumb.jpg" group-title="Badminton", Day 7 - 25 Sep 2026 (Hindi) | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2120308/AG_strea2409/HIN/master.m3u8?hdnea=exp=1790360439~acl=/*~id=39177518229054803275185272493785~hmac=2ba7e73c07c5a0c34d1de363ba23019c1ecda3bb7259357745a20bd90525a31a
 
 #EXTINF:-1 tvg-id="sonyliv-1090541386" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541386/thumbnail/1790319363351_1789300835115741_AG26_Table_Tennis_pictogram_landscape_thumb.jpg" group-title="Table Tennis", India vs People's Republic of China - Women's Doubles - Table Tennis - 25 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2018457/AG_DX5_22509/ENG/master.m3u8?hdnea=exp=1790346033~acl=/*~id=59639370775068869128772853377535~hmac=9b870dbb4a440cf585a3426262e8a4baf2c1426d235a805cb1ce82d9fe323f58
 
-#EXTINF:-1 tvg-id="sonyliv-1090541379" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541379/thumbnail/1790319608920_1789293450735348_AG26_Basketball_pictogram_landscape_thumb.jpg" group-title="Basketball", People's Republic of China vs Republic of Korea - Women - Basketball - 25 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2094588/AG_DX3_22409/ENG/master.m3u8?hdnea=exp=1790340657~acl=/*~id=96822769577851772400935104069454~hmac=29cb01abe341d200c71fdf874244fa37c0548709f69bb9df02e9085f335f7fd0
-
 #EXTINF:-1 tvg-id="sonyliv-1090541380" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541380/thumbnail/1790322769324_1789299123285348_AG26_Hockey_pictogram_landscape_thumb.jpg" group-title="Hockey", Singapore vs Uzbekistan - Women - Hockey - 25 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2005444/AG_DX2_22409/ENG/master.m3u8?hdnea=exp=1790337052~acl=/*~id=40806734182321435368963376833350~hmac=c0b34f14682024512bdea8aab7c35ac0bd2e77448ebf72d477b819b09ed358fd
 
-#EXTINF:-1 tvg-id="sonyliv-1090541370" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789297671535348_AG26_Equestrian_pictogram_landscape_thumb.jpg" group-title="Equestrian", Equestrian - 25 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2120301/AG_Eques2409/ENG/master.m3u8?hdnea=exp=1790337052~acl=/*~id=40806734182321435368963376833350~hmac=c0b34f14682024512bdea8aab7c35ac0bd2e77448ebf72d477b819b09ed358fd
+#EXTINF:-1 tvg-id="sonyliv-1090541387" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541387/thumbnail/1790325466845_1789293652814348_AG26_Boxing_pictogram_landscape_thumb.jpg" group-title="Boxing", Enkhjargal MUNGUNTSETSEG vs YANG Leeyeong - Women's 54kg - Boxing - 25 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2094589/AG_DX6_22409/ENG/master.m3u8?hdnea=exp=1790338837~acl=/*~id=33147055831871944763334848520324~hmac=0eb683ca8cd8b032b5a2c8d37564c101c9dd47a06777c93c977eadbc8826f890
+
+#EXTINF:-1 tvg-id="sonyliv-1090541854" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541854/thumbnail/1790323951508_1789301796678741_AG26_Weightlifting_pictogram_landscape_thumb.jpg" group-title="Weightlifting", Women's 61kg - Weightlifting - 25 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2022315/AG_DX8_22409/ENG/master.m3u8?hdnea=exp=1790338843~acl=/*~id=86957971421292854823235684557756~hmac=505ecabcf50544ce1d500662ac5ba22ba7d48130f3fcfba091e00949d74480a7
+
+#EXTINF:-1 tvg-id="sonyliv-1090541379" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541379/thumbnail/1790319608920_1789293450735348_AG26_Basketball_pictogram_landscape_thumb.jpg" group-title="Basketball", People's Republic of China vs Republic of Korea - Women - Basketball - 25 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2094588/AG_DX3_22409/ENG/master.m3u8?hdnea=exp=1790340657~acl=/*~id=96822769577851772400935104069454~hmac=29cb01abe341d200c71fdf874244fa37c0548709f69bb9df02e9085f335f7fd0
 
 #EXTINF:-1 tvg-id="sonyliv-1090541376" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541376/thumbnail/1790319743571_1789292948462348_AG26_Badminton_pictogram_landscape_thumb.jpg" group-title="Badminton", India vs Thailand - Men's Doubles - Badminton - 25 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2005445/AG_DX4_22409/ENG/master.m3u8?hdnea=exp=1790338843~acl=/*~id=86957971421292854823235684557756~hmac=505ecabcf50544ce1d500662ac5ba22ba7d48130f3fcfba091e00949d74480a7
