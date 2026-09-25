@@ -2,7 +2,7 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 05:50:31 PM 25-09-2026
+# last_update: 06:20:32 PM 25-09-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090544164" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024705/1790285327473606_Laver_cup26_day1_session1_landscape_thumb.jpg" group-title="Tennis", Day 1 - Session 1 - 25 Sep 2026 | Laver Cup 2026
 https://sonydaimenew.akamaized.net/hls/live/2022322/tennisli2509/ENG/master.m3u8?hdnea=exp=1790380239~acl=/*~id=66479698721679747444379233724220~hmac=dcc04d2bd6a761b03a865876958b483196b8a2a3e4c65867584153c3cc2eafaa
@@ -16,16 +16,13 @@ https://sonydaimenew.akamaized.net/hls/live/2120306/AG_Strea2409/ENG/master.m3u8
 #EXTINF:-1 tvg-id="sonyliv-1090541376" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789292948462348_AG26_Badminton_pictogram_landscape_thumb.jpg" group-title="Badminton", Badminton - 25 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2005445/AG_DX4_22409/ENG/master.m3u8?hdnea=exp=1790380242~acl=/*~id=02847460506825878706221556123876~hmac=c57fb56aeddf7df0f54770dba83f0dd01e4a54533b56cafcf25e3d71e305358d
 
-#EXTINF:-1 tvg-id="sonyliv-1090541369" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789293562515348_AG26_3x3_Basketball_pictogram_landscape_thumb.jpg" group-title="3x3 Basketball", 3x3 Basketball - 25 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2018458/AG_MDS2_2409/ENG/master.m3u8?hdnea=exp=1790380247~acl=/*~id=71262975784397377949299263037356~hmac=889359ec7d7e5a2b4b087b673fea75d90a74589098bad5857c2a438eb8613a6d
-
 #EXTINF:-1 tvg-id="sonyliv-1090541855" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789297879081348_AG26_Football_pictogram_landscape_thumb.jpg" group-title="Football", Football - 25 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2022319/AG_MDS1_2409/ENG/master.m3u8?hdnea=exp=1790342434~acl=/*~id=59144723335396047984305053735121~hmac=b592a35573eaeba72b8f2df4d99c4ce945a45ba34e2473c64066d765dd2eb314
 
 #EXTINF:-1 tvg-id="sonyliv-1090541380" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789292853755348_AG26_Athletics_pictogram_landscape_thumb.jpg" group-title="Athletics", Athletics - 25 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2005444/AG_DX2_22409/ENG/master.m3u8?hdnea=exp=1790378437~acl=/*~id=25240111879560624432397032168989~hmac=c409032ad0a0620acb046566a4256cab05c4ff86d7f3aea60983c773573e8d99
 
-#EXTINF:-1 tvg-id="sonyliv-1090541387" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541387/thumbnail/1790331209223_1789293652814348_AG26_Boxing_pictogram_landscape_thumb.jpg" group-title="Boxing", Boxing - 25 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+#EXTINF:-1 tvg-id="sonyliv-1090541387" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789292853755348_AG26_Athletics_pictogram_landscape_thumb.jpg" group-title="Athletics", Athletics - 25 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2094589/AG_DX6_22409/ENG/master.m3u8?hdnea=exp=1790380247~acl=/*~id=71262975784397377949299263037356~hmac=889359ec7d7e5a2b4b087b673fea75d90a74589098bad5857c2a438eb8613a6d
 
 #EXTINF:-1 tvg-id="sonyliv-1090541854" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541854/thumbnail/1790329471679_1789292853755348_AG26_Athletics_pictogram_landscape_thumb.jpg" group-title="Athletics", Athletics - 25 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
