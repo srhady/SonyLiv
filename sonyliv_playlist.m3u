@@ -2,13 +2,13 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 11:20:27 PM 25-09-2026
+# last_update: 11:50:32 PM 25-09-2026
+
+#EXTINF:-1 tvg-id="sonyliv-1090544164" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024789/1790340619920764_Laver_cup26_day1_session2_live_landscape_thumb.jpg" group-title="Tennis", Day 1 - Session 2 - 25 Sep 2026 | Laver Cup 2026
+https://sonydaimenew.akamaized.net/hls/live/2022322/tennisli2509/ENG/master.m3u8?hdnea=exp=1790401841~acl=/*~id=00241375648798018520405090714736~hmac=9c2ad187bc5eeb47c62ddd13c4246b41def79c5055d51cd5c6e3e68f0af3a8ee
 
 #EXTINF:-1 tvg-id="sonyliv-1090544260" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023561/1788637773558485_UNL26_Georgia_vs_Northern_Ireland_live_landscape_thumb.jpg" group-title="Football", Georgia vs Northern Ireland - 25 Sep 2026 | UEFA Nations League 2026-27
 https://sonydaimenew.akamaized.net/hls/live/2037139/footlive2509/ENG/master.m3u8?hdnea=exp=1790392843~acl=/*~id=59901885393127476792056840927745~hmac=47f142c42be402a367b2b7b82035a661867594522ad8eb5ab680f6511304e3b8
 
 #EXTINF:-1 tvg-id="sonyliv-1090544263" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023563/1788639748339213_UNL26_Armenia_vs_Latvia_live_landscape_thumb.jpg" group-title="Football", Armenia vs Latvia - 25 Sep 2026 | UEFA Nations League 2026-27
 https://sonydaimenew.akamaized.net/hls/live/2037140/footlive2509/ENG/master.m3u8?hdnea=exp=1790392843~acl=/*~id=59901885393127476792056840927745~hmac=47f142c42be402a367b2b7b82035a661867594522ad8eb5ab680f6511304e3b8
-
-#EXTINF:-1 tvg-id="sonyliv-1090544116" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023647/1788844981232657_DP_World_Tour_FedEx_Open_de_France_Day2_landscape_thumb.jpg" group-title="Golf", FedEx Open de France - Day 2 - 25 Sep 2026 | DP World Tour
-https://sonydaimenew.akamaized.net/hls/live/2022320/golflive2509/ENG/master.m3u8?hdnea=exp=1790378453~acl=/*~id=94722613049793122434382246266478~hmac=be3f31d41734a61b1c79907cdaa7128f8c26e7c2975242455ce1a562ca371c60
