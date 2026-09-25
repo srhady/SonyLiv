@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "04:50:29 PM 25-09-2026"
+        "last_update": "05:20:53 PM 25-09-2026"
     },
     "live_matches": [
         {
@@ -13,7 +13,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120308/AG_strea2409/HIN/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024761/1790325194261494_athletics_live_india_in_action_landscape_thumb_hindi.jpg",
             "token": "?hdnea=exp=1790360439~acl=/*~id=39177518229054803275185272493785~hmac=2ba7e73c07c5a0c34d1de363ba23019c1ecda3bb7259357745a20bd90525a31a",
-            "token_updated": 1790333426
+            "token_updated": 1790335229
         },
         {
             "match_id": "1090541381",
@@ -22,16 +22,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120306/AG_Strea2409/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024761/1790325177849494_athletics_live_india_in_action_landscape_thumb.jpg",
             "token": "?hdnea=exp=1790360433~acl=/*~id=67380659028228115656001568790276~hmac=591e2eb62759bca116823a44c273b91fc3f77302098460e4c9e256ba009e30f4",
-            "token_updated": 1790333426
-        },
-        {
-            "match_id": "1090541378",
-            "title": "India In Action - Badminton - 25 Sep 2026",
-            "tournament": "20th Asian Games Aichi-Nagoya 2026",
-            "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/AG_strea2409/ENG/master.m3u8",
-            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024721/1790300722790868_AG26_Badminton_womens_Doubles_RD32_Gayatri_Treesa_live_landscape_thumb.jpg",
-            "token": "?hdnea=exp=1790340635~acl=/*~id=93579877558300901969901778884004~hmac=e5b1fa6621af31738254ee2ca49854e6fb5b5b7b50cc7189d56a2f46e50a29c8",
-            "token_updated": 1790333426
+            "token_updated": 1790335229
         },
         {
             "match_id": "1090541380",
@@ -39,8 +30,8 @@
             "tournament": "20th Asian Games Aichi-Nagoya 2026",
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/AG_DX2_22409/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789292853755348_AG26_Athletics_pictogram_landscape_thumb.jpg",
-            "token": "?hdnea=exp=1790337052~acl=/*~id=40806734182321435368963376833350~hmac=c0b34f14682024512bdea8aab7c35ac0bd2e77448ebf72d477b819b09ed358fd",
-            "token_updated": 1790333426
+            "token": "?hdnea=exp=1790378437~acl=/*~id=25240111879560624432397032168989~hmac=c409032ad0a0620acb046566a4256cab05c4ff86d7f3aea60983c773573e8d99",
+            "token_updated": 1790335229
         },
         {
             "match_id": "1090541387",
@@ -49,7 +40,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/AG_DX6_22409/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541387/thumbnail/1790331209223_1789293652814348_AG26_Boxing_pictogram_landscape_thumb.jpg",
             "token": "?hdnea=exp=1790338837~acl=/*~id=33147055831871944763334848520324~hmac=0eb683ca8cd8b032b5a2c8d37564c101c9dd47a06777c93c977eadbc8826f890",
-            "token_updated": 1790333426
+            "token_updated": 1790335229
         },
         {
             "match_id": "1090541854",
@@ -58,16 +49,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/AG_DX8_22409/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541854/thumbnail/1790329471679_1789292853755348_AG26_Athletics_pictogram_landscape_thumb.jpg",
             "token": "?hdnea=exp=1790338843~acl=/*~id=86957971421292854823235684557756~hmac=505ecabcf50544ce1d500662ac5ba22ba7d48130f3fcfba091e00949d74480a7",
-            "token_updated": 1790333426
-        },
-        {
-            "match_id": "1090541853",
-            "title": "Athletics - 25 Sep 2026",
-            "tournament": "20th Asian Games Aichi-Nagoya 2026",
-            "base_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/AG_DX7_22409/ENG/master.m3u8",
-            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789292853755348_AG26_Athletics_pictogram_landscape_thumb.jpg",
-            "token": "?hdnea=exp=1790340635~acl=/*~id=93579877558300901969901778884004~hmac=e5b1fa6621af31738254ee2ca49854e6fb5b5b7b50cc7189d56a2f46e50a29c8",
-            "token_updated": 1790333426
+            "token_updated": 1790335229
         },
         {
             "match_id": "1090541386",
@@ -76,7 +58,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/AG_DX5_22509/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541386/thumbnail/1790319363351_1789300835115741_AG26_Table_Tennis_pictogram_landscape_thumb.jpg",
             "token": "?hdnea=exp=1790346033~acl=/*~id=59639370775068869128772853377535~hmac=9b870dbb4a440cf585a3426262e8a4baf2c1426d235a805cb1ce82d9fe323f58",
-            "token_updated": 1790333426
+            "token_updated": 1790335229
         },
         {
             "match_id": "1090541369",
@@ -85,7 +67,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/AG_MDS2_2409/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789293562515348_AG26_3x3_Basketball_pictogram_landscape_thumb.jpg",
             "token": "?hdnea=exp=1790338861~acl=/*~id=18637016279553714097770793509434~hmac=dc19e586fc4f34d239d8a201df8a0f4fa7f0db2f7956f456bb4f83290b5fad76",
-            "token_updated": 1790333426
+            "token_updated": 1790335229
         },
         {
             "match_id": "1090541855",
@@ -94,7 +76,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/AG_MDS1_2409/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789297879081348_AG26_Football_pictogram_landscape_thumb.jpg",
             "token": "?hdnea=exp=1790342434~acl=/*~id=59144723335396047984305053735121~hmac=b592a35573eaeba72b8f2df4d99c4ce945a45ba34e2473c64066d765dd2eb314",
-            "token_updated": 1790333426
+            "token_updated": 1790335229
         },
         {
             "match_id": "1090541377",
@@ -102,8 +84,8 @@
             "tournament": "20th Asian Games Aichi-Nagoya 2026",
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/AG_MDS3_2409/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789298392688348_AG26_Artistic_Gymnastics_pictogram_landscape_thumb.jpg",
-            "token": "?hdnea=exp=1790337052~acl=/*~id=40806734182321435368963376833350~hmac=c0b34f14682024512bdea8aab7c35ac0bd2e77448ebf72d477b819b09ed358fd",
-            "token_updated": 1790333426
+            "token": "?hdnea=exp=1790378444~acl=/*~id=59427862030664772536522762400695~hmac=68cf4d6806f5376d70257199ce9ba8541ca7f4ada06aff1b29d987b97d1a1d36",
+            "token_updated": 1790335229
         },
         {
             "match_id": "1090541376",
@@ -112,7 +94,16 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/AG_DX4_22409/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789292948462348_AG26_Badminton_pictogram_landscape_thumb.jpg",
             "token": "?hdnea=exp=1790338843~acl=/*~id=86957971421292854823235684557756~hmac=505ecabcf50544ce1d500662ac5ba22ba7d48130f3fcfba091e00949d74480a7",
-            "token_updated": 1790333426
+            "token_updated": 1790335229
+        },
+        {
+            "match_id": "1090544116",
+            "title": "FedEx Open de France - Day 2 - 25 Sep 2026",
+            "tournament": "DP World Tour",
+            "base_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/golflive2509/ENG/master.m3u8",
+            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023647/1788844981232657_DP_World_Tour_FedEx_Open_de_France_Day2_landscape_thumb.jpg",
+            "token": "?hdnea=exp=1790378453~acl=/*~id=94722613049793122434382246266478~hmac=be3f31d41734a61b1c79907cdaa7128f8c26e7c2975242455ce1a562ca371c60",
+            "token_updated": 1790335229
         }
     ]
 }
