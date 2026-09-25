@@ -2,7 +2,7 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 03:50:30 AM 26-09-2026
+# last_update: 04:20:28 AM 26-09-2026
 
-#EXTINF:-1 tvg-id="sonyliv-1090544164" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024831/1790363071881721_Laver_cup26_Alcaraz_Mensik_vs_Bublik_Fritz_day1_session2_landscape_thumb.jpg" group-title="Tennis", Day 1 - Session 2 - 25 Sep 2026 | Laver Cup 2026
-https://sonydaimenew.akamaized.net/hls/live/2022322/tennisli2509/ENG/master.m3u8?hdnea=exp=1790401841~acl=/*~id=00241375648798018520405090714736~hmac=9c2ad187bc5eeb47c62ddd13c4246b41def79c5055d51cd5c6e3e68f0af3a8ee
+#EXTINF:-1 tvg-id="sonyliv-1090541378" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024841/179037011151861_AG26_26Sep_Athletics_Mens_Marathon_live_landscape_thumb.jpg" group-title="MARATHON", Men's Marathon - Athletics - 26 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2120301/AG_strea2509/ENG/master.m3u8?hdnea=exp=1790418035~acl=/*~id=35734745724062599657175865729110~hmac=9c35009c3eeac95f2a90c1a59c857a267420de14f9d7c4f2d8894086764dc96e
