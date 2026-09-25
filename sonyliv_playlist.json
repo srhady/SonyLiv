@@ -3,18 +3,9 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "02:50:28 AM 26-09-2026"
+        "last_update": "03:20:33 AM 26-09-2026"
     },
     "live_matches": [
-        {
-            "match_id": "1090544525",
-            "title": "Türkiye vs France - 26 Sep 2026",
-            "tournament": "UEFA Nations League 2026-27",
-            "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/Footlive2509/ENG/master.m3u8",
-            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024810/1790351939736564_UNL2627_Turkiye_vs_France_landscape_thumb.jpg",
-            "token": "?hdnea=exp=1790403637~acl=/*~id=68175210495668641149512467335788~hmac=3a1c26a4356296d627c09de40e378e4d096b29af24902a6f2ac1196ce92af0e9",
-            "token_updated": 1790369425
-        },
         {
             "match_id": "1090544164",
             "title": "Day 1 - Session 2 - 25 Sep 2026",
@@ -22,7 +13,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/tennisli2509/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024831/1790363071881721_Laver_cup26_Alcaraz_Mensik_vs_Bublik_Fritz_day1_session2_landscape_thumb.jpg",
             "token": "?hdnea=exp=1790401841~acl=/*~id=00241375648798018520405090714736~hmac=9c2ad187bc5eeb47c62ddd13c4246b41def79c5055d51cd5c6e3e68f0af3a8ee",
-            "token_updated": 1790369425
+            "token_updated": 1790371228
         }
     ]
 }
