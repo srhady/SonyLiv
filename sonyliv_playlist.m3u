@@ -2,7 +2,7 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 08:50:37 PM 25-09-2026
+# last_update: 09:20:30 PM 25-09-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090544165" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024708/1790286908372160_FIFA_international_friendlies_india_vs_panama_landscape_thumb.jpg" group-title="Football", India vs Panama - 25 Sep 2026 | India's International Friendlies 2026
 https://sonydaimenew.akamaized.net/hls/live/2018457/Footlive2509/ENG/master.m3u8?hdnea=exp=1790385635~acl=/*~id=34551706512416949372666734242307~hmac=82d6068182d935ced03d6471db3240ab3dc3ed217f6322fbdf34e5e781484878
@@ -10,8 +10,11 @@ https://sonydaimenew.akamaized.net/hls/live/2018457/Footlive2509/ENG/master.m3u8
 #EXTINF:-1 tvg-id="sonyliv-1090544164" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024788/1790340296721762_Laver_cup26_day1_session1_live_landscape_thumb.jpg" group-title="Tennis", Day 1 - Session 1 - 25 Sep 2026 | Laver Cup 2026
 https://sonydaimenew.akamaized.net/hls/live/2022322/tennisli2509/ENG/master.m3u8?hdnea=exp=1790380239~acl=/*~id=66479698721679747444379233724220~hmac=dcc04d2bd6a761b03a865876958b483196b8a2a3e4c65867584153c3cc2eafaa
 
-#EXTINF:-1 tvg-id="sonyliv-1090541381" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024211/1789811617720100_AG_generic_landscape_thumb.jpg" group-title="Athletics", Day 7 - 25 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2120306/AG_Strea2409/ENG/master.m3u8?hdnea=exp=1790360433~acl=/*~id=67380659028228115656001568790276~hmac=591e2eb62759bca116823a44c273b91fc3f77302098460e4c9e256ba009e30f4
+#EXTINF:-1 tvg-id="sonyliv-1090544260" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023561/1788637773558485_UNL26_Georgia_vs_Northern_Ireland_live_landscape_thumb.jpg" group-title="Football", Georgia vs Northern Ireland - 25 Sep 2026 | UEFA Nations League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2037139/footlive2509/ENG/master.m3u8?hdnea=exp=1790392843~acl=/*~id=59901885393127476792056840927745~hmac=47f142c42be402a367b2b7b82035a661867594522ad8eb5ab680f6511304e3b8
+
+#EXTINF:-1 tvg-id="sonyliv-1090544263" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023563/1788639748339213_UNL26_Armenia_vs_Latvia_live_landscape_thumb.jpg" group-title="Football", Armenia vs Latvia - 25 Sep 2026 | UEFA Nations League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2037140/footlive2509/ENG/master.m3u8?hdnea=exp=1790392843~acl=/*~id=59901885393127476792056840927745~hmac=47f142c42be402a367b2b7b82035a661867594522ad8eb5ab680f6511304e3b8
 
 #EXTINF:-1 tvg-id="sonyliv-1090544116" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023647/1788844981232657_DP_World_Tour_FedEx_Open_de_France_Day2_landscape_thumb.jpg" group-title="Golf", FedEx Open de France - Day 2 - 25 Sep 2026 | DP World Tour
 https://sonydaimenew.akamaized.net/hls/live/2022320/golflive2509/ENG/master.m3u8?hdnea=exp=1790378453~acl=/*~id=94722613049793122434382246266478~hmac=be3f31d41734a61b1c79907cdaa7128f8c26e7c2975242455ce1a562ca371c60
