@@ -2,7 +2,7 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 07:20:27 AM 25-09-2026
+# last_update: 07:50:28 AM 25-09-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090541378" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024696/1790277062998446_AG26_25Sep_Athletics_Womens_Heptathlon_Long_Jump_live_landscape_thumb.jpg" group-title="Athletics", India In Action - Athletics - 25 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2120307/AG_strea2409/ENG/master.m3u8?hdnea=exp=1790340635~acl=/*~id=93579877558300901969901778884004~hmac=e5b1fa6621af31738254ee2ca49854e6fb5b5b7b50cc7189d56a2f46e50a29c8
@@ -10,14 +10,17 @@ https://sonydaimenew.akamaized.net/hls/live/2120307/AG_strea2409/ENG/master.m3u8
 #EXTINF:-1 tvg-id="sonyliv-1090541367" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024653/1790246768445288_AG26_Mens-Cricket-CHINA-vs-OMAN_LIVE_landscape_thumb.jpg" group-title="Cricket", Hong Kong, China vs Oman - 25 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2120302/AG_DXCri2409/ENG/master.m3u8?hdnea=exp=1790337044~acl=/*~id=69492485067204782344731719514976~hmac=051303e120f4913ca636d5939c4ff41e0525058fb757599b0bd01f222e57aa94
 
-#EXTINF:-1 tvg-id="sonyliv-1090541385" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024696/1790277097784446_AG26_25Sep_Athletics_Womens_Heptathlon_Long_Jump_live_landscape_thumb_hindi.jpg" group-title="Athletics", India In Action - Athletics - 25 Sep 2026 (Hindi) | 20th Asian Games Aichi-Nagoya 2026
+#EXTINF:-1 tvg-id="sonyliv-1090541385" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024706/1790283634488527_AG26_25Sep_Squash_Mixed_Doubles_QF_live_landscape_thumb_hindi.jpg" group-title="Squash", India In Action - Squash - 25 Sep 2026 (Hindi) | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2120308/AG_strea2409/HIN/master.m3u8?hdnea=exp=1790340641~acl=/*~id=91081397239306196230384931811809~hmac=6fb89925ec4bf0ad647e40224efc7a8b7c550ef39b273b88f36e6165a11903a7
 
-#EXTINF:-1 tvg-id="sonyliv-1090541381" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024234/1789852034881646_AG26_Stream1_generic_landscape_thumb.jpg" group-title="Athletics", Men's & Women's Track & Field Finals - Athletics - 25 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+#EXTINF:-1 tvg-id="sonyliv-1090541381" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024706/1790283561950527_AG26_25Sep_Squash_Mixed_Doubles_QF_live_landscape_thumb.jpg" group-title="Squash", India In Action - Squash - 25 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2120306/AG_Strea2409/ENG/master.m3u8?hdnea=exp=1790340635~acl=/*~id=93579877558300901969901778884004~hmac=e5b1fa6621af31738254ee2ca49854e6fb5b5b7b50cc7189d56a2f46e50a29c8
 
-#EXTINF:-1 tvg-id="sonyliv-1090541379" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789285629023741_AG26_Swimming_pictogram_landscape_thumb.jpg" group-title="Swimming", Swimming - 25 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+#EXTINF:-1 tvg-id="sonyliv-1090541379" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024701/1790280879816899_AG26_25Sep_Swimming_Mens_400m_Freestyle_Dhakshan_live_landscape_thumb.jpg" group-title="Swimming", India In Action - Swimming - 25 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2094588/AG_DX3_22409/ENG/master.m3u8?hdnea=exp=1790340657~acl=/*~id=96822769577851772400935104069454~hmac=29cb01abe341d200c71fdf874244fa37c0548709f69bb9df02e9085f335f7fd0
+
+#EXTINF:-1 tvg-id="sonyliv-1090543296" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024495/1790100359681427_AG_generic_stream4_english_landscape_thumb.jpg" group-title="Sports", Day 7 - 25 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2120299/AG_strea2509/ENG/master.m3u8?hdnea=exp=1790344234~acl=/*~id=22011780896937167420134971011486~hmac=83ccd7996f0a1e041a6e5a89154965672c74af2c54dc08345c2ae341d59e8526
 
 #EXTINF:-1 tvg-id="sonyliv-1090541853" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789292853755348_AG26_Athletics_pictogram_landscape_thumb.jpg" group-title="Athletics", Men's & Women's Track & Field Finals - Athletics - 25 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2094587/AG_DX7_22409/ENG/master.m3u8?hdnea=exp=1790340635~acl=/*~id=93579877558300901969901778884004~hmac=e5b1fa6621af31738254ee2ca49854e6fb5b5b7b50cc7189d56a2f46e50a29c8
