@@ -2,7 +2,7 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 06:50:27 PM 26-09-2026
+# last_update: 07:20:31 PM 26-09-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090544604" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024853/1790380072911843_Laver_cup26_Cobolli_vs_Tien_day2_session1_landscape_thumb.jpg" group-title="Tennis", Day 2 - Session 1 - 26 Sep 2026 | Laver Cup 2026
 https://sonydaimenew.akamaized.net/hls/live/2120300/tennisli2609/ENG/master.m3u8?hdnea=exp=1790466635~acl=/*~id=76855608038276546667725630120860~hmac=736658a05c5b7a54da89bfaa910829ba7dcec3a34486df67ee1de65229bbe139
@@ -13,17 +13,14 @@ https://sonydaimenew.akamaized.net/hls/live/2022319/AG_strea2609/HIN/master.m3u8
 #EXTINF:-1 tvg-id="sonyliv-1090541381" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024906/1790325177849787_athletics_live_india_in_action_landscape_thumb.jpg" group-title="Athletics", India In Action - Athletics - 26 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2022315/AG_Strea2609/ENG/master.m3u8?hdnea=exp=1790454035~acl=/*~id=14650064533054131876670478826788~hmac=a9fc7efd45a9cb7223c59dc48fa5f617057264d4bef851417211c76be94ce819
 
+#EXTINF:-1 tvg-id="sonyliv-1090541854" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789292948462348_AG26_Badminton_pictogram_landscape_thumb.jpg" group-title="Badminton", Badminton - 26 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2120306/AG_DX8_22509/ENG/master.m3u8?hdnea=exp=1790466638~acl=/*~id=94005504795699855713018885071829~hmac=d280ab63fa8b683402c7388a93033a61a8c6cdb2e1b6f113882b2adabf3f22ec
+
 #EXTINF:-1 tvg-id="sonyliv-1090541377" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789293450735348_AG26_Basketball_pictogram_landscape_thumb.jpg" group-title="Basketball", Basketball - 26 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2094588/AG_MDS2_2509/ENG/master.m3u8?hdnea=exp=1790468433~acl=/*~id=30249823290687331112808920503177~hmac=ed6381e935e7f7fd7a9704b14f3f00ec9f30d39a751e080d86e4724f49df919a
 
-#EXTINF:-1 tvg-id="sonyliv-1090541370" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789299301145348_AG26_Kabaddi_pictogram_landscape_thumb.jpg" group-title="Kabaddi", Kabaddi - 26 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2094587/AG_MDS4_2609/ENG/master.m3u8?hdnea=exp=1790454035~acl=/*~id=14650064533054131876670478826788~hmac=a9fc7efd45a9cb7223c59dc48fa5f617057264d4bef851417211c76be94ce819
-
 #EXTINF:-1 tvg-id="sonyliv-1090544605" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023876/1789123985444737_UNL_26_Slovenia-vs-Scotland_live_landscape_thumb.jpg" group-title="Football", Slovenia vs Scotland - 26 Sep 2026 | UEFA Nations League 2026-27
 https://sonydaimenew.akamaized.net/hls/live/2120299/UNL_slov2609/ENG/master.m3u8?hdnea=exp=1790470236~acl=/*~id=89319618041301092717973094644792~hmac=5961596bc241598e295dda9ab887300022ff2f534a32b995af5fd4152f67cd71
-
-#EXTINF:-1 tvg-id="sonyliv-1090541854" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789292948462348_AG26_Badminton_pictogram_landscape_thumb.jpg" group-title="Badminton", Badminton - 26 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2120306/AG_DX8_22509/ENG/master.m3u8?hdnea=exp=1790466638~acl=/*~id=94005504795699855713018885071829~hmac=d280ab63fa8b683402c7388a93033a61a8c6cdb2e1b6f113882b2adabf3f22ec
 
 #EXTINF:-1 tvg-id="sonyliv-1090541380" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541380/thumbnail/1790422469008_1789292853755348_AG26_Athletics_pictogram_landscape_thumb.jpg" group-title="Athletics", Men's Triple Jump - Athletics - 26 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2120303/AG_DX2_22509/ENG/master.m3u8?hdnea=exp=1790464833~acl=/*~id=12043394872961177007996082744309~hmac=f3b2407bb0106bc29696b4cb051911a71d54d4700bbcc3395f5484325b748911
