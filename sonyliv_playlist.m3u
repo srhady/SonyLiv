@@ -2,13 +2,10 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 09:50:30 PM 26-09-2026
+# last_update: 10:20:26 PM 26-09-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090544604" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024855/1790381377640145_Laver_cup26_Zverev_vs_DeMinaur_day2_session1_landscape_thumb.jpg" group-title="Tennis", Day 2 - Session 1 - 26 Sep 2026 | Laver Cup 2026
 https://sonydaimenew.akamaized.net/hls/live/2120300/tennisli2609/ENG/master.m3u8?hdnea=exp=1790466635~acl=/*~id=76855608038276546667725630120860~hmac=736658a05c5b7a54da89bfaa910829ba7dcec3a34486df67ee1de65229bbe139
-
-#EXTINF:-1 tvg-id="sonyliv-1090541854" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024931/1790428370998318_Miyazaki_vs_sindhu_badminton_R3_landscape_thumb.jpg" group-title="Badminton", Tomoka Miyazaki vs PV Sindhu - Women's Singles - Badminton - 26 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2120306/AG_DX8_22509/ENG/master.m3u8?hdnea=exp=1790466638~acl=/*~id=94005504795699855713018885071829~hmac=d280ab63fa8b683402c7388a93033a61a8c6cdb2e1b6f113882b2adabf3f22ec
 
 #EXTINF:-1 tvg-id="sonyliv-1090544607" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023876/1789124317583736_UNL_26_Iceland-vs-Estonia_live_landscape_thumb.jpg" group-title="Football", Iceland vs Estonia - 26 Sep 2026 | UEFA Nations League 2026-27
 https://sonydaimenew.akamaized.net/hls/live/2022316/unl_esto2609/ENG/master.m3u8?hdnea=exp=1790479249~acl=/*~id=31584768229725726133231462609101~hmac=68f71ffa04e4ffb61d9ec1b9ac8b808afd74188335d46c8b34be0f5f8a9d0ffb
