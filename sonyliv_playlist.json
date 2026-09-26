@@ -3,17 +3,26 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "10:20:38 AM 26-09-2026"
+        "last_update": "10:50:34 AM 26-09-2026"
     },
     "live_matches": [
         {
-            "match_id": "1090541387",
-            "title": "India In Action - Shooting - 26 Sep 2026",
+            "match_id": "1090541853",
+            "title": "Jadumani Singh MANDENGBAM vs Carlo PAALAM - Men's 55kg - Boxing - 26 Sep 2026",
             "tournament": "20th Asian Games Aichi-Nagoya 2026",
-            "base_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/AG_DX6_22609/ENG/master.m3u8",
-            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024869/1790391046250929_AG26_Shooting_50m_Rifle_3_Positions_Women_Individual_FINAL_Vidarsa_and_Tilottama_live_landscape_thumb.jpg",
-            "token": "?hdnea=exp=1790434232~acl=/*~id=87602207554872074075893998424236~hmac=2522dc02f750d93653eb0a8703ddb03cbca7af597871c8e315282bcd701e3b44",
-            "token_updated": 1790396422
+            "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120305/AG_DX7_22509/ENG/master.m3u8",
+            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024856/1790380887273916_AG26_26Sep_Boxing_Mens_55kg_live_landscape_thumb.jpg",
+            "token": "?hdnea=exp=1790427034~acl=/*~id=83002504801078972566002112432855~hmac=5f75fa53544801c3cf43eacf51cb86226c8406cbbb5e0e172652905906fba0ea",
+            "token_updated": 1790398221
+        },
+        {
+            "match_id": "1090541376",
+            "title": "India In Action - Badminton - 26 Sep 2026",
+            "tournament": "20th Asian Games Aichi-Nagoya 2026",
+            "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120308/AG_DX4_22609/ENG/master.m3u8",
+            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024851/1790378189536351_AG26_25Sep_Badminton_Mens_Singles_Makhsut_vs_Ayush_live_landscape_thumb.jpg",
+            "token": "?hdnea=exp=1790432434~acl=/*~id=18207870519634578372090939017911~hmac=a5e1c0dcb4079a5ffae111394a17c10b4b9a67f03d208669d246b272e84936ec",
+            "token_updated": 1790398221
         },
         {
             "match_id": "1090543296",
@@ -22,16 +31,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/AG_strea2509/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024875/1790395448875854_AG26_Kabaddi_Womens_final_India_vs_Iran_live_landscape_thumb.jpg",
             "token": "?hdnea=exp=1790425234~acl=/*~id=94586865759155438701234430753543~hmac=2442bf938dd2e19cf86a4ed829d6e06fc048f69f9fb84ae64f5ccee6763a795e",
-            "token_updated": 1790396422
-        },
-        {
-            "match_id": "1090541376",
-            "title": "Unnati vs Ling Ching - Women's Singles - Badminton - 26 Sep 2026",
-            "tournament": "20th Asian Games Aichi-Nagoya 2026",
-            "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120308/AG_DX4_22609/ENG/master.m3u8",
-            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024850/1790377804984411_AG26_25Sep_Badminton_Womens_Singles_Unnati_vs_Ling_Ching_live_landscape_thumb.jpg",
-            "token": "?hdnea=exp=1790432434~acl=/*~id=18207870519634578372090939017911~hmac=a5e1c0dcb4079a5ffae111394a17c10b4b9a67f03d208669d246b272e84936ec",
-            "token_updated": 1790396422
+            "token_updated": 1790398221
         },
         {
             "match_id": "1090541378",
@@ -40,7 +40,16 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/AG_strea2509/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024839/1790368432961894_AG26_Generic_Stream2_live_landscape_thumb_clean.jpg",
             "token": "?hdnea=exp=1790418035~acl=/*~id=35734745724062599657175865729110~hmac=9c35009c3eeac95f2a90c1a59c857a267420de14f9d7c4f2d8894086764dc96e",
-            "token_updated": 1790396422
+            "token_updated": 1790398221
+        },
+        {
+            "match_id": "1090541367",
+            "title": "Malaysia vs Oman - 26 Sep 2026",
+            "tournament": "20th Asian Games Aichi-Nagoya 2026",
+            "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/AG_DXcri2509/ENG/master.m3u8",
+            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024800/1790345606308331_AG_26_MALAYSAI_VS_OMAN_LIVE_landscape_thumb.jpg",
+            "token": "?hdnea=exp=1790441433~acl=/*~id=15806219654232062574852959808365~hmac=1bcae8d6ab6fff3a42952778e3404a7b3ac6013b26519e5388f786ba2785aaaa",
+            "token_updated": 1790398221
         },
         {
             "match_id": "1090541380",
@@ -49,16 +58,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/AG_DX2_22509/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541380/thumbnail/1790394790459_1789299123285348_AG26_Hockey_pictogram_landscape_thumb.jpg",
             "token": "?hdnea=exp=1790423431~acl=/*~id=64227188775360714538234883293815~hmac=da812d3b6887bcc66b2c7d0a4d3e9778e3b18751e88cdc96284ab84a0a13b946",
-            "token_updated": 1790396422
-        },
-        {
-            "match_id": "1090541853",
-            "title": "ZHANG Jiamao vs Meroj SUFIJONOV - Men's 55kg - Boxing - 26 Sep 2026",
-            "tournament": "20th Asian Games Aichi-Nagoya 2026",
-            "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120305/AG_DX7_22509/ENG/master.m3u8",
-            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541853/thumbnail/1790396325619_1789293652814348_AG26_Boxing_pictogram_landscape_thumb.jpg",
-            "token": "?hdnea=exp=1790427034~acl=/*~id=83002504801078972566002112432855~hmac=5f75fa53544801c3cf43eacf51cb86226c8406cbbb5e0e172652905906fba0ea",
-            "token_updated": 1790396422
+            "token_updated": 1790398221
         },
         {
             "match_id": "1090541854",
@@ -67,7 +67,16 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120306/AG_DX8_22509/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541854/thumbnail/1790382960626_1789292948462348_AG26_Badminton_pictogram_landscape_thumb.jpg",
             "token": "?hdnea=exp=1790425234~acl=/*~id=94586865759155438701234430753543~hmac=2442bf938dd2e19cf86a4ed829d6e06fc048f69f9fb84ae64f5ccee6763a795e",
-            "token_updated": 1790396422
+            "token_updated": 1790398221
+        },
+        {
+            "match_id": "1090541387",
+            "title": "Shooting - 26 Sep 2026",
+            "tournament": "20th Asian Games Aichi-Nagoya 2026",
+            "base_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/AG_DX6_22609/ENG/master.m3u8",
+            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789300294846741_AG26_Shooting_pictogram_landscape_thumb.jpg",
+            "token": "?hdnea=exp=1790434232~acl=/*~id=87602207554872074075893998424236~hmac=2522dc02f750d93653eb0a8703ddb03cbca7af597871c8e315282bcd701e3b44",
+            "token_updated": 1790398221
         },
         {
             "match_id": "1090541369",
@@ -76,7 +85,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/AG_EDX_22509/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789297671535348_AG26_Equestrian_pictogram_landscape_thumb.jpg",
             "token": "?hdnea=exp=1790423442~acl=/*~id=28016161674685848809904521944532~hmac=905cd25d6d56e01574154cb9b166e82c4bd34e7350e55dc0d93ba85ef7bbedca",
-            "token_updated": 1790396422
+            "token_updated": 1790398221
         },
         {
             "match_id": "1090541855",
@@ -85,7 +94,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/AG_MDS1_2609/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789301796678741_AG26_Weightlifting_pictogram_landscape_thumb.jpg",
             "token": "?hdnea=exp=1790439638~acl=/*~id=94841095675342637592366062888694~hmac=2890a3749868e8425891f2b7f06bd1f9d3f3750e9d97f0589516d852cca89261",
-            "token_updated": 1790396422
+            "token_updated": 1790398221
         },
         {
             "match_id": "1090541377",
@@ -94,7 +103,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/AG_MDS2_2509/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789293652814348_AG26_Boxing_pictogram_landscape_thumb.jpg",
             "token": "?hdnea=exp=1790427034~acl=/*~id=83002504801078972566002112432855~hmac=5f75fa53544801c3cf43eacf51cb86226c8406cbbb5e0e172652905906fba0ea",
-            "token_updated": 1790396422
+            "token_updated": 1790398221
         }
     ]
 }
