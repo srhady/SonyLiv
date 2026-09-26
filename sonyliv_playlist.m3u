@@ -2,19 +2,22 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 11:50:28 PM 26-09-2026
+# last_update: 12:20:31 AM 27-09-2026
+
+#EXTINF:-1 tvg-id="sonyliv-1090544613" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024420/1790030560493628_UNL2627_England_vs_Spain_landscape_thumb.jpg" group-title="Football", England vs Spain - 27 Sep 2026 | UEFA Nations League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2022322/UNL_engv2609/ENG/master.m3u8?hdnea=exp=1790490038~acl=/*~id=58376343107197139481593502871829~hmac=4a70986e55354ce0acfa0b9c8e99e1cdeaf13bd1d79f541a6c57bbc3c0531772
 
 #EXTINF:-1 tvg-id="sonyliv-1090544604" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024857/1790382017179945_Laver_cup26_Alcaraz_vs_Fritz_day2_session2_landscape_thumb.jpg" group-title="Tennis", Alcaraz vs Fritz - Day 2 - Session 2 - 26 Sep 2026 | Laver Cup 2026
 https://sonydaimenew.akamaized.net/hls/live/2120300/tennisli2609/ENG/master.m3u8?hdnea=exp=1790466635~acl=/*~id=76855608038276546667725630120860~hmac=736658a05c5b7a54da89bfaa910829ba7dcec3a34486df67ee1de65229bbe139
 
-#EXTINF:-1 tvg-id="sonyliv-1090544607" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023876/1789124317583736_UNL_26_Iceland-vs-Estonia_live_landscape_thumb.jpg" group-title="Football", Iceland vs Estonia - 26 Sep 2026 | UEFA Nations League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2022316/unl_esto2609/ENG/master.m3u8?hdnea=exp=1790479249~acl=/*~id=31584768229725726133231462609101~hmac=68f71ffa04e4ffb61d9ec1b9ac8b808afd74188335d46c8b34be0f5f8a9d0ffb
+#EXTINF:-1 tvg-id="sonyliv-1090544619" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024420/1790032422635628_UNL2627_Czechia_vs_Croatia_landscape_thumb.jpg" group-title="Football", Czechia vs Croatia - 27 Sep 2026 | UEFA Nations League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2120305/UNL_Czec2609/ENG/master.m3u8?hdnea=exp=1790490038~acl=/*~id=58376343107197139481593502871829~hmac=4a70986e55354ce0acfa0b9c8e99e1cdeaf13bd1d79f541a6c57bbc3c0531772
 
-#EXTINF:-1 tvg-id="sonyliv-1090544609" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023876/1789193081403736_UNL_26_Faroe-Islands-vs-Kazakhstan_live_landscape_thumb.jpg" group-title="Football", Faroe Islands vs Kazakhstan - 26 Sep 2026 | UEFA Nations League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2022317/unl_faro2609/ENG/master.m3u8?hdnea=exp=1790479249~acl=/*~id=31584768229725726133231462609101~hmac=68f71ffa04e4ffb61d9ec1b9ac8b808afd74188335d46c8b34be0f5f8a9d0ffb
+#EXTINF:-1 tvg-id="sonyliv-1090544618" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024421/1790032251981813_UNL2627_North_Macedonia_vs_Switzerland_landscape_thumb.jpg" group-title="Football", North Macedonia vs Switzerland - 27 Sep 2026 | UEFA Nations League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2120306/Footlive2609/ENG/master.m3u8?hdnea=exp=1790490038~acl=/*~id=58376343107197139481593502871829~hmac=4a70986e55354ce0acfa0b9c8e99e1cdeaf13bd1d79f541a6c57bbc3c0531772
 
-#EXTINF:-1 tvg-id="sonyliv-1090544610" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023878/1789193761981998_UNL_26_San-Marino-vs-Finland_live_landscape_thumb.jpg" group-title="Football", San Marino vs Finland - 26 Sep 2026 | UEFA Nations League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2022320/unl_sanm2609/ENG/master.m3u8?hdnea=exp=1790479273~acl=/*~id=32565364222749902648191732712964~hmac=aaad7356cf62bcf708da13d0e4f9e3df9013fd09d420ecc121ab65bb8a6d3adc
+#EXTINF:-1 tvg-id="sonyliv-1090544616" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024420/1790030687983628_UNL2627_Albania_vs_Belarus_landscape_thumb.jpg" group-title="Football", Albania vs Belarus - 27 Sep 2026 | UEFA Nations League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2120302/Footlive2609/ENG/master.m3u8?hdnea=exp=1790490038~acl=/*~id=58376343107197139481593502871829~hmac=4a70986e55354ce0acfa0b9c8e99e1cdeaf13bd1d79f541a6c57bbc3c0531772
 
-#EXTINF:-1 tvg-id="sonyliv-1090544611" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024420/1790030329142628_UNL2627_Bulgaria_vs_Luxembourg_landscape_thumb.jpg" group-title="Football", Bulgaria vs Luxembourg - 26 Sep 2026 | UEFA Nations League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2037139/unl_Bulg2609/ENG/master.m3u8?hdnea=exp=1790479284~acl=/*~id=48595213654201266712189403134792~hmac=40734f0a044bafd0e34c0a42509305b7b3b30607574d0833bc305c55f229b91b
+#EXTINF:-1 tvg-id="sonyliv-1090544617" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024421/1790030876933813_UNL2627_Slovakia_vs_Moldova_landscape_thumb.jpg" group-title="Football", Slovakia vs Moldova - 27 Sep 2026 | UEFA Nations League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive2609/ENG/master.m3u8?hdnea=exp=1790490076~acl=/*~id=03328180222528380526153890951572~hmac=d4685294d0af220c96c0a854c7bbe63082528aff7c0878da09b92bf35ff0f777
