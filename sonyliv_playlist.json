@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "08:50:28 PM 26-09-2026"
+        "last_update": "09:21:24 PM 26-09-2026"
     },
     "live_matches": [
         {
@@ -13,34 +13,52 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/tennisli2609/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024855/1790381377640145_Laver_cup26_Zverev_vs_DeMinaur_day2_session1_landscape_thumb.jpg",
             "token": "?hdnea=exp=1790466635~acl=/*~id=76855608038276546667725630120860~hmac=736658a05c5b7a54da89bfaa910829ba7dcec3a34486df67ee1de65229bbe139",
-            "token_updated": 1790434225
-        },
-        {
-            "match_id": "1090541381",
-            "title": "India In Action - Athletics - 26 Sep 2026",
-            "tournament": "20th Asian Games Aichi-Nagoya 2026",
-            "base_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/AG_Strea2609/ENG/master.m3u8",
-            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024839/1790368025104894_AG26_Generic_Stream1_live_landscape_thumb_clean.jpg",
-            "token": "?hdnea=exp=1790454035~acl=/*~id=14650064533054131876670478826788~hmac=a9fc7efd45a9cb7223c59dc48fa5f617057264d4bef851417211c76be94ce819",
-            "token_updated": 1790434225
+            "token_updated": 1790436025
         },
         {
             "match_id": "1090541854",
-            "title": "Badminton - 26 Sep 2026",
+            "title": "Tomoka Miyazaki vs PV Sindhu - Women's Singles - Badminton - 26 Sep 2026",
             "tournament": "20th Asian Games Aichi-Nagoya 2026",
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120306/AG_DX8_22509/ENG/master.m3u8",
-            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789292948462348_AG26_Badminton_pictogram_landscape_thumb.jpg",
+            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024931/1790428370998318_Miyazaki_vs_sindhu_badminton_R3_landscape_thumb.jpg",
             "token": "?hdnea=exp=1790466638~acl=/*~id=94005504795699855713018885071829~hmac=d280ab63fa8b683402c7388a93033a61a8c6cdb2e1b6f113882b2adabf3f22ec",
-            "token_updated": 1790434225
+            "token_updated": 1790436025
         },
         {
-            "match_id": "1090544605",
-            "title": "Slovenia vs Scotland - 26 Sep 2026",
+            "match_id": "1090544607",
+            "title": "Iceland vs Estonia - 26 Sep 2026",
             "tournament": "UEFA Nations League 2026-27",
-            "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/UNL_slov2609/ENG/master.m3u8",
-            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023876/1789123985444737_UNL_26_Slovenia-vs-Scotland_live_landscape_thumb.jpg",
-            "token": "?hdnea=exp=1790470236~acl=/*~id=89319618041301092717973094644792~hmac=5961596bc241598e295dda9ab887300022ff2f534a32b995af5fd4152f67cd71",
-            "token_updated": 1790434225
+            "base_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/unl_esto2609/ENG/master.m3u8",
+            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023876/1789124317583736_UNL_26_Iceland-vs-Estonia_live_landscape_thumb.jpg",
+            "token": "?hdnea=exp=1790479249~acl=/*~id=31584768229725726133231462609101~hmac=68f71ffa04e4ffb61d9ec1b9ac8b808afd74188335d46c8b34be0f5f8a9d0ffb",
+            "token_updated": 1790436025
+        },
+        {
+            "match_id": "1090544609",
+            "title": "Faroe Islands vs Kazakhstan - 26 Sep 2026",
+            "tournament": "UEFA Nations League 2026-27",
+            "base_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/unl_faro2609/ENG/master.m3u8",
+            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023876/1789193081403736_UNL_26_Faroe-Islands-vs-Kazakhstan_live_landscape_thumb.jpg",
+            "token": "?hdnea=exp=1790479249~acl=/*~id=31584768229725726133231462609101~hmac=68f71ffa04e4ffb61d9ec1b9ac8b808afd74188335d46c8b34be0f5f8a9d0ffb",
+            "token_updated": 1790436025
+        },
+        {
+            "match_id": "1090544610",
+            "title": "San Marino vs Finland - 26 Sep 2026",
+            "tournament": "UEFA Nations League 2026-27",
+            "base_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/unl_sanm2609/ENG/master.m3u8",
+            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023878/1789193761981998_UNL_26_San-Marino-vs-Finland_live_landscape_thumb.jpg",
+            "token": "?hdnea=exp=1790479273~acl=/*~id=32565364222749902648191732712964~hmac=aaad7356cf62bcf708da13d0e4f9e3df9013fd09d420ecc121ab65bb8a6d3adc",
+            "token_updated": 1790436025
+        },
+        {
+            "match_id": "1090544611",
+            "title": "Bulgaria vs Luxembourg - 26 Sep 2026",
+            "tournament": "UEFA Nations League 2026-27",
+            "base_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/unl_Bulg2609/ENG/master.m3u8",
+            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024420/1790030329142628_UNL2627_Bulgaria_vs_Luxembourg_landscape_thumb.jpg",
+            "token": "?hdnea=exp=1790479284~acl=/*~id=48595213654201266712189403134792~hmac=40734f0a044bafd0e34c0a42509305b7b3b30607574d0833bc305c55f229b91b",
+            "token_updated": 1790436025
         }
     ]
 }
