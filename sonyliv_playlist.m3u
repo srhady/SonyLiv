@@ -2,18 +2,18 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 03:20:28 PM 26-09-2026
-
-#EXTINF:-1 tvg-id="sonyliv-1090541378" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024858/1790382307787481_AG26_26Sep_Hockey_Mens_Japan_vs_India_live_landscape_thumb.jpg" group-title="Hockey", Japan vs India - Hockey - 26 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2120301/AG_strea2509/ENG/master.m3u8?hdnea=exp=1790418035~acl=/*~id=35734745724062599657175865729110~hmac=9c35009c3eeac95f2a90c1a59c857a267420de14f9d7c4f2d8894086764dc96e
-
-#EXTINF:-1 tvg-id="sonyliv-1090541381" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024890/1790405394254677_AG_INDvsIRA_Mens_Kabbadi_final_landscape_thumb.jpg" group-title="Kabaddi", India vs Iran - Kabaddi - 26 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2022315/AG_Strea2609/ENG/master.m3u8?hdnea=exp=1790454035~acl=/*~id=14650064533054131876670478826788~hmac=a9fc7efd45a9cb7223c59dc48fa5f617057264d4bef851417211c76be94ce819
+# last_update: 03:50:25 PM 26-09-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090541385" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024890/1790405380309677_AG_INDvsIRA_Mens_Kabbadi_final_landscape_thumb_hindi.jpg" group-title="Kabaddi", India vs Iran - Kabaddi - 26 Sep 2026 (Hindi) | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2022319/AG_strea2609/HIN/master.m3u8?hdnea=exp=1790454051~acl=/*~id=63981569956786406281031467928769~hmac=20c79a44c559dd277b6df5c0852cdd8520ce0c7b9752922f268ff8ca2be75624
 
-#EXTINF:-1 tvg-id="sonyliv-1090541386" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541386/thumbnail/1790413535790_1789293652814348_AG26_Boxing_pictogram_landscape_thumb.jpg" group-title="Boxing", Bilguunsaikhan KHARKHUU vs Md Utsob AHMMED - Men's 55kg - Boxing - 26 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+#EXTINF:-1 tvg-id="sonyliv-1090541381" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024890/1790405394254677_AG_INDvsIRA_Mens_Kabbadi_final_landscape_thumb.jpg" group-title="Kabaddi", India vs Iran - Kabaddi - 26 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2022315/AG_Strea2609/ENG/master.m3u8?hdnea=exp=1790454035~acl=/*~id=14650064533054131876670478826788~hmac=a9fc7efd45a9cb7223c59dc48fa5f617057264d4bef851417211c76be94ce819
+
+#EXTINF:-1 tvg-id="sonyliv-1090541378" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024839/1790368432961894_AG26_Generic_Stream2_live_landscape_thumb_clean.jpg" group-title="Sports", Day 8 - 26 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2120301/AG_strea2509/ENG/master.m3u8?hdnea=exp=1790459428~acl=/*~id=68600263558354066276088532096711~hmac=79096ecf257d791bfc9f31d2b63816d0669654d954631cc916cb1854a6baefb4
+
+#EXTINF:-1 tvg-id="sonyliv-1090541386" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541386/thumbnail/1790415553294_1789293652814348_AG26_Boxing_pictogram_landscape_thumb.jpg" group-title="Boxing", PENG Chia-feng vs Huthaifa ESHISH - Men's 55kg - Boxing - 26 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2018457/AG_DX5_22609/ENG/master.m3u8?hdnea=exp=1790452231~acl=/*~id=80077770534932015649353468470165~hmac=ec858c9e83109c533cf7739cb61030a7cd82fe193d97054dec2ce3eeb78fe52c
 
 #EXTINF:-1 tvg-id="sonyliv-1090541377" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789293450735348_AG26_Basketball_pictogram_landscape_thumb.jpg" group-title="Basketball", Basketball - 26 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
