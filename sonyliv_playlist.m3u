@@ -2,21 +2,21 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 11:50:29 AM 26-09-2026
+# last_update: 12:20:27 PM 26-09-2026
 
-#EXTINF:-1 tvg-id="sonyliv-1090541378" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024867/1790386159824390_AG26_Squash_Womens_Singles_SF_Anahat_vs_Watanabe_live_landscape_thumb.jpg" group-title="Squash", India In Action - Squash - 26 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+#EXTINF:-1 tvg-id="sonyliv-1090541378" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024839/1790368432961894_AG26_Generic_Stream2_live_landscape_thumb_clean.jpg" group-title="Sports", Day 8 - 26 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2120301/AG_strea2509/ENG/master.m3u8?hdnea=exp=1790418035~acl=/*~id=35734745724062599657175865729110~hmac=9c35009c3eeac95f2a90c1a59c857a267420de14f9d7c4f2d8894086764dc96e
 
-#EXTINF:-1 tvg-id="sonyliv-1090543296" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024875/1790395448875854_AG26_Kabaddi_Womens_final_India_vs_Iran_live_landscape_thumb.jpg" group-title="Kabaddi", India vs Islamic Republic Of Iran - Gold Medal Match - Kabaddi - 26 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+#EXTINF:-1 tvg-id="sonyliv-1090543296" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024870/1790392197365510_AG26_Squash_Mens_Singles_SF_Muhammad_vs_Abhay_live_landscape_thumb.jpg" group-title="Squash", India In Action - Squash - 26 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2120304/AG_strea2509/ENG/master.m3u8?hdnea=exp=1790425234~acl=/*~id=94586865759155438701234430753543~hmac=2442bf938dd2e19cf86a4ed829d6e06fc048f69f9fb84ae64f5ccee6763a795e
 
 #EXTINF:-1 tvg-id="sonyliv-1090541367" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024800/1790345606308331_AG_26_MALAYSAI_VS_OMAN_LIVE_landscape_thumb.jpg" group-title="Cricket", Malaysia vs Oman - 26 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2120302/AG_DXcri2509/ENG/master.m3u8?hdnea=exp=1790441433~acl=/*~id=15806219654232062574852959808365~hmac=1bcae8d6ab6fff3a42952778e3404a7b3ac6013b26519e5388f786ba2785aaaa
 
-#EXTINF:-1 tvg-id="sonyliv-1090541380" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541380/thumbnail/1790394790459_1789299123285348_AG26_Hockey_pictogram_landscape_thumb.jpg" group-title="Hockey", Malaysia vs Pakistan - Men - Hockey - 26 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+#EXTINF:-1 tvg-id="sonyliv-1090541380" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541380/thumbnail/1790402115168_1789299123285348_AG26_Hockey_pictogram_landscape_thumb.jpg" group-title="Hockey", Sri Lanka vs Republic of Korea - Men - Hockey - 26 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2120303/AG_DX2_22509/ENG/master.m3u8?hdnea=exp=1790423431~acl=/*~id=64227188775360714538234883293815~hmac=da812d3b6887bcc66b2c7d0a4d3e9778e3b18751e88cdc96284ab84a0a13b946
 
-#EXTINF:-1 tvg-id="sonyliv-1090541853" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541853/thumbnail/1790400301987_1789293652814348_AG26_Boxing_pictogram_landscape_thumb.jpg" group-title="Boxing", KIM Gichae vs Irfan KHAN - Men's 90kg - Boxing - 26 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+#EXTINF:-1 tvg-id="sonyliv-1090541853" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541853/thumbnail/1790400301987_1789293652814348_AG26_Boxing_pictogram_landscape_thumb.jpg" group-title="Boxing", Boxing - 26 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2120305/AG_DX7_22509/ENG/master.m3u8?hdnea=exp=1790427034~acl=/*~id=83002504801078972566002112432855~hmac=5f75fa53544801c3cf43eacf51cb86226c8406cbbb5e0e172652905906fba0ea
 
 #EXTINF:-1 tvg-id="sonyliv-1090541854" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541854/thumbnail/1790382960626_1789292948462348_AG26_Badminton_pictogram_landscape_thumb.jpg" group-title="Badminton", Badminton - 26 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
