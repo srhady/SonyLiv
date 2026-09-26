@@ -2,9 +2,9 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 07:50:25 AM 26-09-2026
+# last_update: 08:20:26 AM 26-09-2026
 
-#EXTINF:-1 tvg-id="sonyliv-1090541378" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024845/1790372336608416_AG26_Athletics_India_in_Action_live_landscape_thumb.jpg" group-title="Athletics", India In Action - Athletics - 26 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+#EXTINF:-1 tvg-id="sonyliv-1090541378" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024839/1790368432961894_AG26_Generic_Stream2_live_landscape_thumb_clean.jpg" group-title="Sports", Day 8 - 26 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2120301/AG_strea2509/ENG/master.m3u8?hdnea=exp=1790418035~acl=/*~id=35734745724062599657175865729110~hmac=9c35009c3eeac95f2a90c1a59c857a267420de14f9d7c4f2d8894086764dc96e
 
 #EXTINF:-1 tvg-id="sonyliv-1090541367" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024800/1790345206713331_AG_26_JAPAN_VS_NEPAL_LIVE_landscape_thumb.jpg" group-title="Cricket", Japan vs Nepal - 26 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
@@ -13,13 +13,16 @@ https://sonydaimenew.akamaized.net/hls/live/2120302/AG_DXcri2509/ENG/master.m3u8
 #EXTINF:-1 tvg-id="sonyliv-1090543296" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024839/1790368607376894_AG26_Generic_Stream4_live_landscape_thumb_clean.jpg" group-title="Sports", Day 8 - 26 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2120304/AG_strea2509/ENG/master.m3u8?hdnea=exp=1790425234~acl=/*~id=94586865759155438701234430753543~hmac=2442bf938dd2e19cf86a4ed829d6e06fc048f69f9fb84ae64f5ccee6763a795e
 
-#EXTINF:-1 tvg-id="sonyliv-1090541853" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541853/thumbnail/1790386798884_1789300835115741_AG26_Table_Tennis_pictogram_landscape_thumb.jpg" group-title="Table Tennis", Orawan vs SUN - Women's Singles - Table Tennis - 26 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+#EXTINF:-1 tvg-id="sonyliv-1090541853" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789300835115741_AG26_Table_Tennis_pictogram_landscape_thumb.jpg" group-title="Table Tennis", Table Tennis - 26 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2120305/AG_DX7_22509/ENG/master.m3u8?hdnea=exp=1790427034~acl=/*~id=83002504801078972566002112432855~hmac=5f75fa53544801c3cf43eacf51cb86226c8406cbbb5e0e172652905906fba0ea
+
+#EXTINF:-1 tvg-id="sonyliv-1090541376" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789292948462348_AG26_Badminton_pictogram_landscape_thumb.jpg" group-title="Badminton", Women's Badminton - 26 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2120308/AG_DX4_22609/ENG/master.m3u8?hdnea=exp=1790432434~acl=/*~id=18207870519634578372090939017911~hmac=a5e1c0dcb4079a5ffae111394a17c10b4b9a67f03d208669d246b272e84936ec
 
 #EXTINF:-1 tvg-id="sonyliv-1090541369" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789297671535348_AG26_Equestrian_pictogram_landscape_thumb.jpg" group-title="Equestrian", Equestrian - 26 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2005444/AG_EDX_22509/ENG/master.m3u8?hdnea=exp=1790423442~acl=/*~id=28016161674685848809904521944532~hmac=905cd25d6d56e01574154cb9b166e82c4bd34e7350e55dc0d93ba85ef7bbedca
 
-#EXTINF:-1 tvg-id="sonyliv-1090541380" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541380/thumbnail/1790380441827_1789299123285348_AG26_Hockey_pictogram_landscape_thumb.jpg" group-title="Hockey", Oman vs Thailand - Men - Hockey - 26 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+#EXTINF:-1 tvg-id="sonyliv-1090541380" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541380/thumbnail/1790387969081_1789299123285348_AG26_Hockey_pictogram_landscape_thumb.jpg" group-title="Hockey", Bangladesh vs Indonesia - Men - Hockey - 26 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2120303/AG_DX2_22509/ENG/master.m3u8?hdnea=exp=1790423431~acl=/*~id=64227188775360714538234883293815~hmac=da812d3b6887bcc66b2c7d0a4d3e9778e3b18751e88cdc96284ab84a0a13b946
 
 #EXTINF:-1 tvg-id="sonyliv-1090541854" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541854/thumbnail/1790382960626_1789292948462348_AG26_Badminton_pictogram_landscape_thumb.jpg" group-title="Badminton", Lakshya vs Kean Yew - Men's Singles - Badminton - 26 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
