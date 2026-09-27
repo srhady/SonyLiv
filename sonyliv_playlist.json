@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "12:20:59 AM 28-09-2026"
+        "last_update": "12:50:31 AM 28-09-2026"
     },
     "live_matches": [
         {
@@ -13,7 +13,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/unl_norw2709/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024421/1790033649993813_UNL2627_Norway_vs_Portugal_landscape_thumb.jpg",
             "token": "?hdnea=exp=1790576442~acl=/*~id=30505081718288822240968826553507~hmac=805eed643bc3923c8c1c932618c5fa540c7e6266e6d7784b64ee0b5cd381edc2",
-            "token_updated": 1790533225
+            "token_updated": 1790535028
         },
         {
             "match_id": "1090544915",
@@ -22,7 +22,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive2709/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024420/1790033530496628_UNL2627_Germany_vs_Greece_landscape_thumb.jpg",
             "token": "?hdnea=exp=1790576450~acl=/*~id=16422133955778319088885742792734~hmac=fad424ff6a6cf905966f1b4ea7f922c728a884246b19c8f697ebe97c0bd73781",
-            "token_updated": 1790533225
+            "token_updated": 1790535028
         },
         {
             "match_id": "1090544917",
@@ -31,16 +31,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/unl_isra2709/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024420/1790033790885628_UNL2627_Israel_vs_Republic_of_Ireland_landscape_thumb.jpg",
             "token": "?hdnea=exp=1790576459~acl=/*~id=17083404964175380512329029288193~hmac=824e0a8a5aa4782384858d34be13374ead783b3439a45b6fe694e25bb5e91a03",
-            "token_updated": 1790533225
-        },
-        {
-            "match_id": "1090544869",
-            "title": "Malta vs Liechtenstein - 27 Sep 2026",
-            "tournament": "UEFA International Friendlies",
-            "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/footlive2709/ENG/master.m3u8",
-            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024415/1790027406665502_UEFA_INT_friendly_MD2_Malta_vs_Liechtenstein_landscape_thumb.jpg",
-            "token": "?hdnea=exp=1790567442~acl=/*~id=15199441655067008444221769034447~hmac=795dfac8ad57d9813db0e57da1a862f5acabef4365570e006773036a44a944cb",
-            "token_updated": 1790533225
+            "token_updated": 1790535028
         }
     ]
 }
