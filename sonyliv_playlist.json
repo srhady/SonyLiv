@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "05:51:26 AM 27-09-2026"
+        "last_update": "06:20:47 AM 27-09-2026"
     },
     "live_matches": [
         {
@@ -13,7 +13,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/AG_MDS2_2609/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024975/1790451094011299_AG26_27Sep_Athletics_Womens_Marathon_Race_Walk_live_landscape_thumb.jpg",
             "token": "?hdnea=exp=1790504439~acl=/*~id=79063572479575880271526683051111~hmac=ac1892aa2f8704244242277114339d472d34323ba37c6309fc3338cfc5ff23cd",
-            "token_updated": 1790466622
+            "token_updated": 1790468422
         },
         {
             "match_id": "1090544867",
@@ -22,7 +22,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/UFC_UFC_2609/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024969/1790446935803307_UFC_Rosas_vs_Barcelos_live_landscape_thumb.jpg",
             "token": "?hdnea=exp=1790509844~acl=/*~id=50811292464980150086484430495509~hmac=ab7460a6da0d68a2caafbe7196f3136f5d7411f5b74e6db3b7202136dd130434",
-            "token_updated": 1790466622
+            "token_updated": 1790468422
         },
         {
             "match_id": "1090541378",
@@ -31,7 +31,16 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/AG_strea2609/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024979/1790454098823373_AG26_27Sep_Sepaktakraw_Womens_Doubles_India_vs_RepublicOFKorea_live_landscape_thumb.jpg",
             "token": "?hdnea=exp=1790509844~acl=/*~id=50811292464980150086484430495509~hmac=ab7460a6da0d68a2caafbe7196f3136f5d7411f5b74e6db3b7202136dd130434",
-            "token_updated": 1790466622
+            "token_updated": 1790468422
+        },
+        {
+            "match_id": "1090541385",
+            "title": "Gayatri/Treesa vs Pearly/Thinaah - Women's Doubles Quarterfinals - Badminton - 27 Sep 2026",
+            "tournament": "20th Asian Games Aichi-Nagoya 2026",
+            "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120308/AG_DX3_22609/ENG/master.m3u8",
+            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024983/1790456764135522_AG26_27Sep_Badminton_Womens_Doubles_QF_live_landscape_thumb.jpg",
+            "token": "?hdnea=exp=1790511631~acl=/*~id=86009485668887569421112784222008~hmac=db5c948f51fd2a9787f337a768c3c9479c898c03e1529249051c58ee9a4a5e6a",
+            "token_updated": 1790468422
         },
         {
             "match_id": "1090541370",
@@ -40,7 +49,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/AG_MDS4_2609/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789299123285348_AG26_Hockey_pictogram_landscape_thumb.jpg",
             "token": "?hdnea=exp=1790509844~acl=/*~id=50811292464980150086484430495509~hmac=ab7460a6da0d68a2caafbe7196f3136f5d7411f5b74e6db3b7202136dd130434",
-            "token_updated": 1790466622
+            "token_updated": 1790468422
         },
         {
             "match_id": "1090541387",
@@ -49,7 +58,16 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/AG_DX6_22609/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789300218628741_AG26_Sepaktakraw_pictogram_landscape_thumb.jpg",
             "token": "?hdnea=exp=1790509844~acl=/*~id=50811292464980150086484430495509~hmac=ab7460a6da0d68a2caafbe7196f3136f5d7411f5b74e6db3b7202136dd130434",
-            "token_updated": 1790466622
+            "token_updated": 1790468422
+        },
+        {
+            "match_id": "1090541376",
+            "title": "Men's, Women's & Mixed Quarterfinals - Badminton - 27 Sep 2026",
+            "tournament": "20th Asian Games Aichi-Nagoya 2026",
+            "base_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/AG_DX4_22609/ENG/master.m3u8",
+            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789292948462348_AG26_Badminton_pictogram_landscape_thumb.jpg",
+            "token": "?hdnea=exp=1790511631~acl=/*~id=86009485668887569421112784222008~hmac=db5c948f51fd2a9787f337a768c3c9479c898c03e1529249051c58ee9a4a5e6a",
+            "token_updated": 1790468422
         },
         {
             "match_id": "1090541379",
@@ -58,7 +76,16 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/AG_DX1_22609/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789299123285348_AG26_Hockey_pictogram_landscape_thumb.jpg",
             "token": "?hdnea=exp=1790509844~acl=/*~id=50811292464980150086484430495509~hmac=ab7460a6da0d68a2caafbe7196f3136f5d7411f5b74e6db3b7202136dd130434",
-            "token_updated": 1790466622
+            "token_updated": 1790468422
+        },
+        {
+            "match_id": "1090541369",
+            "title": "Equestrian - 27 Sep 2026",
+            "tournament": "20th Asian Games Aichi-Nagoya 2026",
+            "base_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/AG_EDX_22609/ENG/master.m3u8",
+            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789297671535348_AG26_Equestrian_pictogram_landscape_thumb.jpg",
+            "token": "?hdnea=exp=1790511631~acl=/*~id=86009485668887569421112784222008~hmac=db5c948f51fd2a9787f337a768c3c9479c898c03e1529249051c58ee9a4a5e6a",
+            "token_updated": 1790468422
         }
     ]
 }
