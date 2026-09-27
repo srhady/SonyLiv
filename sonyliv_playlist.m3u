@@ -2,7 +2,7 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 01:20:28 PM 27-09-2026
+# last_update: 01:50:29 PM 27-09-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090541381" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025027/1790492843316879_AG26_27Sep_Squash_Mens_Singles_Final_live_landscape_thumb.jpg" group-title="Squash", India In Action - Squash - 27 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2120301/AG_strea2709/ENG/master.m3u8?hdnea=exp=1790517035~acl=/*~id=57704072709844161209097904046895~hmac=6c8429f52ffc2e148b6df6782b9fd116aba732d41dfb409ce05b6bef53efe39c
@@ -19,7 +19,7 @@ https://sonydaimenew.akamaized.net/hls/live/2022319/AG_DX6_22609/ENG/master.m3u8
 #EXTINF:-1 tvg-id="sonyliv-1090541385" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789297720785348_AG26_Esports_pictogram_landscape_thumb.jpg" group-title="Esports", Esports - 27 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2120308/AG_DX3_22609/ENG/master.m3u8?hdnea=exp=1790511631~acl=/*~id=86009485668887569421112784222008~hmac=db5c948f51fd2a9787f337a768c3c9479c898c03e1529249051c58ee9a4a5e6a
 
-#EXTINF:-1 tvg-id="sonyliv-1090541854" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541854/thumbnail/1790490258635_1789297812134348_AG26_Fencing_pictogram_landscape_thumb.jpg" group-title="Fencing", Japan vs Republic of Korea - Men's Épée Team - Fencing - 27 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+#EXTINF:-1 tvg-id="sonyliv-1090541854" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541854/thumbnail/1790493671422_1789297812134348_AG26_Fencing_pictogram_landscape_thumb.jpg" group-title="Fencing", Hong Kong, China vs Kazakhstan - Men's Épée Team - Fencing - 27 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2037140/AG_DX8_22709/ENG/master.m3u8?hdnea=exp=1790520640~acl=/*~id=88611368256637938251292154911205~hmac=84cef4f533ebc080b67fd971dd3f68d62fdd180b548511cf97443997d7895931
 
 #EXTINF:-1 tvg-id="sonyliv-1090541376" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789292610507348_AG26_Artistic_Swimming_pictogram_landscape_thumb.jpg" group-title="Artistic Swimming", Artistic Swimming - 27 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
