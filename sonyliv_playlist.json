@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "09:50:42 PM 27-09-2026"
+        "last_update": "10:20:27 PM 27-09-2026"
     },
     "live_matches": [
         {
@@ -13,16 +13,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/criclive2709/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024408/1790022736852512_ENGvsSL26_3odi_landscape_thumb.jpg",
             "token": "?hdnea=exp=1790544032~acl=/*~id=94549746042195441414919381662442~hmac=95e09da6d7e4a59ae5f2740e0effa5928c46e5a24f6d0caec0fa865e3f3e91da",
-            "token_updated": 1790524225
-        },
-        {
-            "match_id": "1090544845",
-            "title": "Alexander Zverev vs Learner Tien - Day 3 - Session 5 - 27 Sep 2026",
-            "tournament": "Laver Cup 2026",
-            "base_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/tennisli2709/ENG/master.m3u8",
-            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025007/1790481726264282_Lavercup26_Zverev_vs_Tien_day3_S1_landscape_thumb.jpg",
-            "token": "?hdnea=exp=1790549436~acl=/*~id=98862390410023550836936546842121~hmac=091505630495c62d603898ba9e96f008fc17a1e34a2727d2fc7715a6935a9816",
-            "token_updated": 1790524225
+            "token_updated": 1790526024
         },
         {
             "match_id": "1090544914",
@@ -31,7 +22,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/unl_serb2709/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024421/1790033112462813_UNL2627_Serbia_vs_Netherlands_landscape_thumb.jpg",
             "token": "?hdnea=exp=1790565643~acl=/*~id=74864067768216202508038223347005~hmac=c8c498352ae858da99c431a35376f01df9465a471eaa6e0f1d4f1786d5a4a13d",
-            "token_updated": 1790524225
+            "token_updated": 1790526024
         },
         {
             "match_id": "1090544911",
@@ -40,7 +31,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/unl_denm2709/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024420/1790032728490628_UNL2627_Denmark_vs_Wales_landscape_thumb.jpg",
             "token": "?hdnea=exp=1790565655~acl=/*~id=54354352166057617013285768580986~hmac=4c7e2c495a9811142ed47a7ac1568cf0350b30c73b1c8d53b6bd2be3d9392abe",
-            "token_updated": 1790524225
+            "token_updated": 1790526024
         },
         {
             "match_id": "1090544912",
@@ -49,7 +40,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120305/unl_aust2709/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024420/1790032886016628_UNL2627_Austria_vs_Kosovo_landscape_thumb.jpg",
             "token": "?hdnea=exp=1790565668~acl=/*~id=96408922190099656534613220511301~hmac=a6e5a6ca59ea13cc963e613ee4f919b62c18a86db44b6c143fc49351a0c7463a",
-            "token_updated": 1790524225
+            "token_updated": 1790526024
         },
         {
             "match_id": "1090544913",
@@ -58,7 +49,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120306/unl_gibr2709/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024420/1790033002084628_UNL2627_Gibraltar_vs_Andorra_landscape_thumb.jpg",
             "token": "?hdnea=exp=1790565676~acl=/*~id=54964701696086285728521798260389~hmac=45c85c8b1f40e635a8746219b13fa850b5260d3ed3d7dec21644fbeba67e1b6f",
-            "token_updated": 1790524225
+            "token_updated": 1790526024
         },
         {
             "match_id": "1090544869",
@@ -67,16 +58,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/footlive2709/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024415/1790027406665502_UEFA_INT_friendly_MD2_Malta_vs_Liechtenstein_landscape_thumb.jpg",
             "token": "?hdnea=exp=1790567442~acl=/*~id=15199441655067008444221769034447~hmac=795dfac8ad57d9813db0e57da1a862f5acabef4365570e006773036a44a944cb",
-            "token_updated": 1790524225
-        },
-        {
-            "match_id": "1090544844",
-            "title": "FedEx Open de France - Day 4 - 27 Sep 2026",
-            "tournament": "DP World Tour",
-            "base_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/golflive2709/ENG/master.m3u8",
-            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023647/1788844966332657_DP_World_Tour_FedEx_Open_de_France_Day4_landscape_thumb.jpg",
-            "token": "?hdnea=exp=1790547641~acl=/*~id=99942259528161264500458548336024~hmac=8aa954c30ba0cde166b0f700b10853649214d8dbdfbd702e6aaa8ab3e51f65d0",
-            "token_updated": 1790524225
+            "token_updated": 1790526024
         }
     ]
 }
