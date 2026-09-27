@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "02:50:26 PM 27-09-2026"
+        "last_update": "03:20:32 PM 27-09-2026"
     },
     "live_matches": [
         {
@@ -13,16 +13,25 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/AG_strea2709/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024839/1790368025104894_AG26_Generic_Stream1_live_landscape_thumb_clean.jpg",
             "token": "?hdnea=exp=1790517035~acl=/*~id=57704072709844161209097904046895~hmac=6c8429f52ffc2e148b6df6782b9fd116aba732d41dfb409ce05b6bef53efe39c",
-            "token_updated": 1790499023
+            "token_updated": 1790500823
+        },
+        {
+            "match_id": "1090544843",
+            "title": "3rd ODI - 27 Sep 2026",
+            "tournament": "Sri Lanka Tour of England 2026",
+            "base_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/criclive2709/ENG/master.m3u8",
+            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024408/1790022736852512_ENGvsSL26_3odi_landscape_thumb.jpg",
+            "token": "?hdnea=exp=1790544032~acl=/*~id=94549746042195441414919381662442~hmac=95e09da6d7e4a59ae5f2740e0effa5928c46e5a24f6d0caec0fa865e3f3e91da",
+            "token_updated": 1790500823
         },
         {
             "match_id": "1090541386",
-            "title": "Navbakhor KHAMIDOVA vs PARVEEN - Women's 65kg - Boxing - 27 Sep 2026",
+            "title": "Abdumalik KHALOKOV vs Junmilardo OGAYRE - Men's 60kg - Boxing - 27 Sep 2026",
             "tournament": "20th Asian Games Aichi-Nagoya 2026",
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/AG_DX5_22709/ENG/master.m3u8",
-            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024987/1790462236702801_AG26_27Sep_Boxing_Womens_65kg_live_landscape_thumb.jpg",
+            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541386/thumbnail/1790500163782_1789293652814348_AG26_Boxing_pictogram_landscape_thumb.jpg",
             "token": "?hdnea=exp=1790515237~acl=/*~id=62496731952965798578226232555290~hmac=3eea44fafdd21c31c0fbe294bff52fc1c734c6c60c36ad46872bb83e8760ac91",
-            "token_updated": 1790499023
+            "token_updated": 1790500823
         },
         {
             "match_id": "1090541378",
@@ -31,16 +40,16 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/AG_strea2609/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024839/1790368432961894_AG26_Generic_Stream2_live_landscape_thumb_clean.jpg",
             "token": "?hdnea=exp=1790509844~acl=/*~id=50811292464980150086484430495509~hmac=ab7460a6da0d68a2caafbe7196f3136f5d7411f5b74e6db3b7202136dd130434",
-            "token_updated": 1790499023
+            "token_updated": 1790500823
         },
         {
             "match_id": "1090541387",
-            "title": "India vs Vietnam - Men - Volleyball - 27 Sep 2026",
+            "title": "Athletics - 27 Sep 2026",
             "tournament": "20th Asian Games Aichi-Nagoya 2026",
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/AG_DX6_22609/ENG/master.m3u8",
-            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541387/thumbnail/1790492422431_1789301604665741_AG26_Volleyball_pictogram_landscape_thumb.jpg",
+            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789292853755348_AG26_Athletics_pictogram_landscape_thumb.jpg",
             "token": "?hdnea=exp=1790509844~acl=/*~id=50811292464980150086484430495509~hmac=ab7460a6da0d68a2caafbe7196f3136f5d7411f5b74e6db3b7202136dd130434",
-            "token_updated": 1790499023
+            "token_updated": 1790500823
         },
         {
             "match_id": "1090541385",
@@ -49,16 +58,16 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120308/AG_DX3_22609/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789297720785348_AG26_Esports_pictogram_landscape_thumb.jpg",
             "token": "?hdnea=exp=1790511631~acl=/*~id=86009485668887569421112784222008~hmac=db5c948f51fd2a9787f337a768c3c9479c898c03e1529249051c58ee9a4a5e6a",
-            "token_updated": 1790499023
+            "token_updated": 1790500823
         },
         {
             "match_id": "1090541854",
-            "title": "People's Republic of China vs Republic of Korea - Women's Sabre Team - Fencing - 27 Sep 2026",
+            "title": "Uzbekistan vs Japan - Women's Sabre Team - Fencing - 27 Sep 2026",
             "tournament": "20th Asian Games Aichi-Nagoya 2026",
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/AG_DX8_22709/ENG/master.m3u8",
-            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541854/thumbnail/1790497452734_1789297812134348_AG26_Fencing_pictogram_landscape_thumb.jpg",
+            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541854/thumbnail/1790499592355_1789297812134348_AG26_Fencing_pictogram_landscape_thumb.jpg",
             "token": "?hdnea=exp=1790520640~acl=/*~id=88611368256637938251292154911205~hmac=84cef4f533ebc080b67fd971dd3f68d62fdd180b548511cf97443997d7895931",
-            "token_updated": 1790499023
+            "token_updated": 1790500823
         },
         {
             "match_id": "1090541376",
@@ -67,7 +76,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/AG_DX4_22609/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789292610507348_AG26_Artistic_Swimming_pictogram_landscape_thumb.jpg",
             "token": "?hdnea=exp=1790511631~acl=/*~id=86009485668887569421112784222008~hmac=db5c948f51fd2a9787f337a768c3c9479c898c03e1529249051c58ee9a4a5e6a",
-            "token_updated": 1790499023
+            "token_updated": 1790500823
         },
         {
             "match_id": "1090541853",
@@ -76,7 +85,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/AG_DX7_22609/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541853/thumbnail/1790497050966_1789301796678741_AG26_Weightlifting_pictogram_landscape_thumb.jpg",
             "token": "?hdnea=exp=1790513432~acl=/*~id=32981526189542744808909116718081~hmac=a078fb8a6071c1d25d79cefd67cda9673a0aaff18c381b87386423fbd21a0bcf",
-            "token_updated": 1790499023
+            "token_updated": 1790500823
         },
         {
             "match_id": "1090541379",
@@ -85,7 +94,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/AG_DX1_22609/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541379/thumbnail/1790495685234_1789299123285348_AG26_Hockey_pictogram_landscape_thumb.jpg",
             "token": "?hdnea=exp=1790509844~acl=/*~id=50811292464980150086484430495509~hmac=ab7460a6da0d68a2caafbe7196f3136f5d7411f5b74e6db3b7202136dd130434",
-            "token_updated": 1790499023
+            "token_updated": 1790500823
         },
         {
             "match_id": "1090541855",
@@ -94,7 +103,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/AG_MDS1_2709/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789299123285348_AG26_Hockey_pictogram_landscape_thumb.jpg",
             "token": "?hdnea=exp=1790517054~acl=/*~id=55573343852454611742226042067477~hmac=568b32026c4ad3f221cb8690b48f40bbdc18562d5e0e8f02ca78c700bbddb1bf",
-            "token_updated": 1790499023
+            "token_updated": 1790500823
         },
         {
             "match_id": "1090543298",
@@ -103,16 +112,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/AG_MDS3_2609/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789293652814348_AG26_Boxing_pictogram_landscape_thumb.jpg",
             "token": "?hdnea=exp=1790513440~acl=/*~id=07322085261987856525006559996848~hmac=1f1067c83697f0ba2dec0ea862424256e6a139a8dcddd3c950003bb8d802dca4",
-            "token_updated": 1790499023
-        },
-        {
-            "match_id": "1090541380",
-            "title": "People's Republic of China vs Vietnam - Women - Handball - 27 Sep 2026",
-            "tournament": "20th Asian Games Aichi-Nagoya 2026",
-            "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/AG_DX2_22709/ENG/master.m3u8",
-            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541380/thumbnail/1790490606018_1789299020142348_AG26_Handball_pictogram_landscape_thumb.jpg",
-            "token": "?hdnea=exp=1790517044~acl=/*~id=84647360443519550221103918219278~hmac=ec9c99e2483efef49e6fa9fc60cda22c3009f14de81b9099dbfc600f5e94fd6c",
-            "token_updated": 1790499023
+            "token_updated": 1790500823
         },
         {
             "match_id": "1090541370",
@@ -121,7 +121,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/AG_MDS4_2609/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789301718758348_AG26_Beach_Volleyball_pictogram_landscape_thumb.jpg",
             "token": "?hdnea=exp=1790509844~acl=/*~id=50811292464980150086484430495509~hmac=ab7460a6da0d68a2caafbe7196f3136f5d7411f5b74e6db3b7202136dd130434",
-            "token_updated": 1790499023
+            "token_updated": 1790500823
         },
         {
             "match_id": "1090541377",
@@ -130,7 +130,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/AG_MDS2_2609/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789301796678741_AG26_Weightlifting_pictogram_landscape_thumb.jpg",
             "token": "?hdnea=exp=1790504439~acl=/*~id=79063572479575880271526683051111~hmac=ac1892aa2f8704244242277114339d472d34323ba37c6309fc3338cfc5ff23cd",
-            "token_updated": 1790499023
+            "token_updated": 1790500823
         }
     ]
 }
