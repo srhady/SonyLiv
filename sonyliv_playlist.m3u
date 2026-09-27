@@ -2,7 +2,7 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 09:20:33 PM 27-09-2026
+# last_update: 09:50:29 PM 27-09-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090544843" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024408/1790022736852512_ENGvsSL26_3odi_landscape_thumb.jpg" group-title="Cricket", 3rd ODI - 27 Sep 2026 | Sri Lanka Tour of England 2026
 https://sonydaimenew.akamaized.net/hls/live/2022317/criclive2709/ENG/master.m3u8?hdnea=exp=1790544032~acl=/*~id=94549746042195441414919381662442~hmac=95e09da6d7e4a59ae5f2740e0effa5928c46e5a24f6d0caec0fa865e3f3e91da
@@ -21,6 +21,9 @@ https://sonydaimenew.akamaized.net/hls/live/2120305/unl_aust2709/ENG/master.m3u8
 
 #EXTINF:-1 tvg-id="sonyliv-1090544913" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024420/1790033002084628_UNL2627_Gibraltar_vs_Andorra_landscape_thumb.jpg" group-title="Football", Gibraltar vs Andorra - 27 Sep 2026 | UEFA Nations League 2026-27
 https://sonydaimenew.akamaized.net/hls/live/2120306/unl_gibr2709/ENG/master.m3u8?hdnea=exp=1790565676~acl=/*~id=54964701696086285728521798260389~hmac=45c85c8b1f40e635a8746219b13fa850b5260d3ed3d7dec21644fbeba67e1b6f
+
+#EXTINF:-1 tvg-id="sonyliv-1090544869" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024415/1790027406665502_UEFA_INT_friendly_MD2_Malta_vs_Liechtenstein_landscape_thumb.jpg" group-title="Football", Malta vs Liechtenstein - 27 Sep 2026 | UEFA International Friendlies
+https://sonydaimenew.akamaized.net/hls/live/2120300/footlive2709/ENG/master.m3u8?hdnea=exp=1790567442~acl=/*~id=15199441655067008444221769034447~hmac=795dfac8ad57d9813db0e57da1a862f5acabef4365570e006773036a44a944cb
 
 #EXTINF:-1 tvg-id="sonyliv-1090544844" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023647/1788844966332657_DP_World_Tour_FedEx_Open_de_France_Day4_landscape_thumb.jpg" group-title="Golf", FedEx Open de France - Day 4 - 27 Sep 2026 | DP World Tour
 https://sonydaimenew.akamaized.net/hls/live/2022320/golflive2709/ENG/master.m3u8?hdnea=exp=1790547641~acl=/*~id=99942259528161264500458548336024~hmac=8aa954c30ba0cde166b0f700b10853649214d8dbdfbd702e6aaa8ab3e51f65d0
