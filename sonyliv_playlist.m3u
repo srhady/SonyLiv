@@ -2,7 +2,7 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 05:20:27 PM 27-09-2026
+# last_update: 05:50:27 PM 27-09-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090541381" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025038/1790325177849163_athletics_live_india_in_action_landscape_thumb.jpg" group-title="Athletics", India In Action - Athletics - 27 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2120301/AG_strea2709/ENG/master.m3u8?hdnea=exp=1790517035~acl=/*~id=57704072709844161209097904046895~hmac=6c8429f52ffc2e148b6df6782b9fd116aba732d41dfb409ce05b6bef53efe39c
@@ -22,7 +22,7 @@ https://sonydaimenew.akamaized.net/hls/live/2120303/AG_strea2609/ENG/master.m3u8
 #EXTINF:-1 tvg-id="sonyliv-1090541855" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789292853755348_AG26_Athletics_pictogram_landscape_thumb.jpg" group-title="Athletics", Athletics - 27 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2018457/AG_MDS1_2709/ENG/master.m3u8?hdnea=exp=1790517054~acl=/*~id=55573343852454611742226042067477~hmac=568b32026c4ad3f221cb8690b48f40bbdc18562d5e0e8f02ca78c700bbddb1bf
 
-#EXTINF:-1 tvg-id="sonyliv-1090541386" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541386/thumbnail/1790506698359_1789293652814348_AG26_Boxing_pictogram_landscape_thumb.jpg" group-title="Boxing", Amir ESMAEILI VANDAEI vs BAYIKEWUZI Danabieke - Men's +90kg - Boxing - 27 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+#EXTINF:-1 tvg-id="sonyliv-1090541386" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541386/thumbnail/1790508985334_1789300835115741_AG26_Table_Tennis_pictogram_landscape_thumb.jpg" group-title="Table Tennis", WANG vs SUN - Women's Singles - Table Tennis - 27 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2005445/AG_DX5_22709/ENG/master.m3u8?hdnea=exp=1790515237~acl=/*~id=62496731952965798578226232555290~hmac=3eea44fafdd21c31c0fbe294bff52fc1c734c6c60c36ad46872bb83e8760ac91
 
 #EXTINF:-1 tvg-id="sonyliv-1090541387" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541387/thumbnail/1790502876285_1789292853755348_AG26_Athletics_pictogram_landscape_thumb.jpg" group-title="Athletics", Women's Long Jump - Athletics - 27 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
@@ -32,7 +32,7 @@ https://sonydaimenew.akamaized.net/hls/live/2022319/AG_DX6_22609/ENG/master.m3u8
 https://sonydaimenew.akamaized.net/hls/live/2037140/AG_DX8_22709/ENG/master.m3u8?hdnea=exp=1790520640~acl=/*~id=88611368256637938251292154911205~hmac=84cef4f533ebc080b67fd971dd3f68d62fdd180b548511cf97443997d7895931
 
 #EXTINF:-1 tvg-id="sonyliv-1090541376" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789292853755348_AG26_Athletics_pictogram_landscape_thumb.jpg" group-title="Athletics", Athletics - 27 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2005444/AG_DX4_22609/ENG/master.m3u8?hdnea=exp=1790511631~acl=/*~id=86009485668887569421112784222008~hmac=db5c948f51fd2a9787f337a768c3c9479c898c03e1529249051c58ee9a4a5e6a
+https://sonydaimenew.akamaized.net/hls/live/2005444/AG_DX4_22609/ENG/master.m3u8?hdnea=exp=1790553031~acl=/*~id=63797574805889858158325049203287~hmac=2a7cedebe815730d5868cad670f5bab3e7ba528914ca5ad7da6005d20b2edf32
 
 #EXTINF:-1 tvg-id="sonyliv-1090541853" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789292853755348_AG26_Athletics_pictogram_landscape_thumb.jpg" group-title="Athletics", Athletics - 27 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2018458/AG_DX7_22609/ENG/master.m3u8?hdnea=exp=1790513432~acl=/*~id=32981526189542744808909116718081~hmac=a078fb8a6071c1d25d79cefd67cda9673a0aaff18c381b87386423fbd21a0bcf
