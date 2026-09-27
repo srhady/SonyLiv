@@ -2,19 +2,16 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 11:50:35 PM 27-09-2026
+# last_update: 12:20:32 AM 28-09-2026
 
-#EXTINF:-1 tvg-id="sonyliv-1090544914" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024421/1790033112462813_UNL2627_Serbia_vs_Netherlands_landscape_thumb.jpg" group-title="Football", Serbia vs Netherlands - 27 Sep 2026 | UEFA Nations League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2022322/unl_serb2709/ENG/master.m3u8?hdnea=exp=1790565643~acl=/*~id=74864067768216202508038223347005~hmac=c8c498352ae858da99c431a35376f01df9465a471eaa6e0f1d4f1786d5a4a13d
+#EXTINF:-1 tvg-id="sonyliv-1090544916" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024421/1790033649993813_UNL2627_Norway_vs_Portugal_landscape_thumb.jpg" group-title="Football", Norway vs Portugal - 28 Sep 2026 | UEFA Nations League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2120299/unl_norw2709/ENG/master.m3u8?hdnea=exp=1790576442~acl=/*~id=30505081718288822240968826553507~hmac=805eed643bc3923c8c1c932618c5fa540c7e6266e6d7784b64ee0b5cd381edc2
 
-#EXTINF:-1 tvg-id="sonyliv-1090544911" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024420/1790032728490628_UNL2627_Denmark_vs_Wales_landscape_thumb.jpg" group-title="Football", Denmark vs Wales - 27 Sep 2026 | UEFA Nations League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2120304/unl_denm2709/ENG/master.m3u8?hdnea=exp=1790565655~acl=/*~id=54354352166057617013285768580986~hmac=4c7e2c495a9811142ed47a7ac1568cf0350b30c73b1c8d53b6bd2be3d9392abe
+#EXTINF:-1 tvg-id="sonyliv-1090544915" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024420/1790033530496628_UNL2627_Germany_vs_Greece_landscape_thumb.jpg" group-title="Football", Germany vs Greece - 28 Sep 2026 | UEFA Nations League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive2709/ENG/master.m3u8?hdnea=exp=1790576450~acl=/*~id=16422133955778319088885742792734~hmac=fad424ff6a6cf905966f1b4ea7f922c728a884246b19c8f697ebe97c0bd73781
 
-#EXTINF:-1 tvg-id="sonyliv-1090544912" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024420/1790032886016628_UNL2627_Austria_vs_Kosovo_landscape_thumb.jpg" group-title="Football", Austria vs Kosovo - 27 Sep 2026 | UEFA Nations League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2120305/unl_aust2709/ENG/master.m3u8?hdnea=exp=1790565668~acl=/*~id=96408922190099656534613220511301~hmac=a6e5a6ca59ea13cc963e613ee4f919b62c18a86db44b6c143fc49351a0c7463a
-
-#EXTINF:-1 tvg-id="sonyliv-1090544913" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024420/1790033002084628_UNL2627_Gibraltar_vs_Andorra_landscape_thumb.jpg" group-title="Football", Gibraltar vs Andorra - 27 Sep 2026 | UEFA Nations League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2120306/unl_gibr2709/ENG/master.m3u8?hdnea=exp=1790565676~acl=/*~id=54964701696086285728521798260389~hmac=45c85c8b1f40e635a8746219b13fa850b5260d3ed3d7dec21644fbeba67e1b6f
+#EXTINF:-1 tvg-id="sonyliv-1090544917" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024420/1790033790885628_UNL2627_Israel_vs_Republic_of_Ireland_landscape_thumb.jpg" group-title="Football", Israel vs Republic of Ireland - 28 Sep 2026 | UEFA Nations League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2120303/unl_isra2709/ENG/master.m3u8?hdnea=exp=1790576459~acl=/*~id=17083404964175380512329029288193~hmac=824e0a8a5aa4782384858d34be13374ead783b3439a45b6fe694e25bb5e91a03
 
 #EXTINF:-1 tvg-id="sonyliv-1090544869" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024415/1790027406665502_UEFA_INT_friendly_MD2_Malta_vs_Liechtenstein_landscape_thumb.jpg" group-title="Football", Malta vs Liechtenstein - 27 Sep 2026 | UEFA International Friendlies
 https://sonydaimenew.akamaized.net/hls/live/2120300/footlive2709/ENG/master.m3u8?hdnea=exp=1790567442~acl=/*~id=15199441655067008444221769034447~hmac=795dfac8ad57d9813db0e57da1a862f5acabef4365570e006773036a44a944cb
