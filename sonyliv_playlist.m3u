@@ -2,4 +2,19 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 05:20:28 AM 29-09-2026
+# last_update: 05:50:31 AM 29-09-2026
+
+#EXTINF:-1 tvg-id="sonyliv-1090541367" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025159/1790591344093509_AG26_MENS_CRICKET_QF_SL_VS_NEP_LIVE_landscape_thumb.jpg" group-title="Cricket", Sri Lanka vs Nepal - Quarter-Final - 28 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2120299/ag_dxcri2809/ENG/master.m3u8?hdnea=exp=1790682638~acl=/*~id=74414133964330930732156761841760~hmac=dc8a81fd63a55e8eafa4753c85fcf7938e2185b2237fb02511a9aedfcbe32217
+
+#EXTINF:-1 tvg-id="sonyliv-1090541380" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789301604665741_AG26_Volleyball_pictogram_landscape_thumb.jpg" group-title="Volleyball", Qatar vs Vietnam - Men's Beach Volleyball - 29 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2005444/ag_dx2_22809/ENG/master.m3u8?hdnea=exp=1790682638~acl=/*~id=74414133964330930732156761841760~hmac=dc8a81fd63a55e8eafa4753c85fcf7938e2185b2237fb02511a9aedfcbe32217
+
+#EXTINF:-1 tvg-id="sonyliv-1090541853" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789297720785348_AG26_Esports_pictogram_landscape_thumb.jpg" group-title="Esports", PUBG - Esports - 29 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2022316/ag_dx7_22809/ENG/master.m3u8?hdnea=exp=1790682638~acl=/*~id=74414133964330930732156761841760~hmac=dc8a81fd63a55e8eafa4753c85fcf7938e2185b2237fb02511a9aedfcbe32217
+
+#EXTINF:-1 tvg-id="sonyliv-1090541377" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789293295442741_AG26_Softball_pictogram_landscape_thumb.jpg" group-title="Softball", Phillipines vs Thailand - Softball - 29 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2120300/ag_mds2_2809/ENG/master.m3u8?hdnea=exp=1790682658~acl=/*~id=66735722010397802780054753906573~hmac=bfbd547b0cd5091355ee66d558c95514320edd713a819f340da6093797e91df2
+
+#EXTINF:-1 tvg-id="sonyliv-1090543298" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025226/1790624332925850_AG26_Generic_Sport_Sepaktakraw_Finals_live_landscape_thumb.jpg" group-title="Sepaktakraw", Sepaktakraw Finals - 29 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2120304/ag_mds3_2809/ENG/master.m3u8?hdnea=exp=1790682638~acl=/*~id=74414133964330930732156761841760~hmac=dc8a81fd63a55e8eafa4753c85fcf7938e2185b2237fb02511a9aedfcbe32217
