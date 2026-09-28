@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "05:20:40 PM 28-09-2026"
+        "last_update": "05:50:34 PM 28-09-2026"
     },
     "live_matches": [
         {
@@ -13,7 +13,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/ag_strea2709/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025038/1790325177849163_athletics_live_india_in_action_landscape_thumb.jpg",
             "token": "?hdnea=exp=1790599834~acl=/*~id=06235574132159815601145124041233~hmac=157ee460105beecc54096ca81200610e06ebfaf9465756601fffe5e71972176e",
-            "token_updated": 1790594424
+            "token_updated": 1790596226
         },
         {
             "match_id": "1090541385",
@@ -22,7 +22,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/ag_strea2809/HIN/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025053/1790507716280859_athletics_live_india_in_action_landscape_thumb_multi.jpg",
             "token": "?hdnea=exp=1790628641~acl=/*~id=54742727601384494536787917435496~hmac=a5558bec34f749a35c30bd23ce7206f633307f98fda84b057798a6aef7961179",
-            "token_updated": 1790594424
+            "token_updated": 1790596226
         },
         {
             "match_id": "1090541380",
@@ -31,16 +31,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/ag_dx2_22709/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025111/1790548484069263_AG26_28Sep_Hockey_Mens_India_vs_Bangladesh_live_landscape_thumb.jpg",
             "token": "?hdnea=exp=1790637630~acl=/*~id=61863240754968183258135919066226~hmac=a11ff170805a7e7aefa440e66930537ddb28923bb8bf6713380cba8228b5cc2e",
-            "token_updated": 1790594424
-        },
-        {
-            "match_id": "1090541386",
-            "title": "Men's Javelin Throw - Athletics - 28 Sep 2026",
-            "tournament": "20th Asian Games Aichi-Nagoya 2026",
-            "base_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/ag_dx5_22809/ENG/master.m3u8",
-            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541386/thumbnail/1790594182278_1789292853755348_AG26_Athletics_pictogram_landscape_thumb.jpg",
-            "token": "?hdnea=exp=1790607032~acl=/*~id=25358520602221257753460844649247~hmac=e5649c68498fed9a61feddb07067b93afa0a0bad6c4c70ef88b49328b424a0fa",
-            "token_updated": 1790594424
+            "token_updated": 1790596226
         },
         {
             "match_id": "1090541855",
@@ -49,7 +40,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/ag_mds1_2709/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789292853755348_AG26_Athletics_pictogram_landscape_thumb.jpg",
             "token": "?hdnea=exp=1790599852~acl=/*~id=64864188041744029923084436429194~hmac=478ed979e4c7f5d1a03dfd675d81856622e31f3ae500bb01455e548f6e42029e",
-            "token_updated": 1790594424
+            "token_updated": 1790596226
         },
         {
             "match_id": "1090541387",
@@ -58,7 +49,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/ag_dx6_22709/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541387/thumbnail/1790589618301_1789301604665741_AG26_Volleyball_pictogram_landscape_thumb.jpg",
             "token": "?hdnea=exp=1790599852~acl=/*~id=64864188041744029923084436429194~hmac=478ed979e4c7f5d1a03dfd675d81856622e31f3ae500bb01455e548f6e42029e",
-            "token_updated": 1790594424
+            "token_updated": 1790596226
         },
         {
             "match_id": "1090541376",
@@ -66,8 +57,8 @@
             "tournament": "20th Asian Games Aichi-Nagoya 2026",
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/ag_dx4_22709/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789292853755348_AG26_Athletics_pictogram_landscape_thumb.jpg",
-            "token": "?hdnea=exp=1790598035~acl=/*~id=38418569009342767078254525662211~hmac=c89deca2789dad98f02c7b853239d65fa3ffc6e1bbea3786adf5f232488eb22e",
-            "token_updated": 1790594424
+            "token": "?hdnea=exp=1790639434~acl=/*~id=01079861290062040213759107468445~hmac=851ba5d3aade0fae4753e5d4fdd8967cba77f2337cb3a77cc3ad086c1f94d7e7",
+            "token_updated": 1790596226
         },
         {
             "match_id": "1090541377",
@@ -76,16 +67,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/ag_mds2_2709/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789300835115741_AG26_Table_Tennis_pictogram_landscape_thumb.jpg",
             "token": "?hdnea=exp=1790599883~acl=/*~id=15997905684868562848308481139703~hmac=b36fef59d4db6ca2bb49d8f2bdc0088e53ada7eab2fb48d3bf9a2d859a2d71a4",
-            "token_updated": 1790594424
-        },
-        {
-            "match_id": "1090543298",
-            "title": "Volleyball - 28 Sep 2026",
-            "tournament": "20th Asian Games Aichi-Nagoya 2026",
-            "base_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/ag_mds3_2709/ENG/master.m3u8",
-            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789301604665741_AG26_Volleyball_pictogram_landscape_thumb.jpg",
-            "token": "?hdnea=exp=1790637634~acl=/*~id=54797033421851072468378934660538~hmac=ecd2ee0909eab261d3d832f34de1bab74f99c0286e91b92a3c34cdf5413c86a0",
-            "token_updated": 1790594424
+            "token_updated": 1790596226
         },
         {
             "match_id": "1090541370",
@@ -94,7 +76,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/ag_mds4_2709/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789301604665741_AG26_Volleyball_pictogram_landscape_thumb.jpg",
             "token": "?hdnea=exp=1790637640~acl=/*~id=84356695617493791616609665452114~hmac=f32f82622c7e9ce9b240c8283460939be75843af74773c8dbdc8f387ca6db133",
-            "token_updated": 1790594424
+            "token_updated": 1790596226
         }
     ]
 }
