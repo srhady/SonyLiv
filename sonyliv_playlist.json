@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "10:50:31 PM 29-09-2026"
+        "last_update": "11:20:30 PM 29-09-2026"
     },
     "live_matches": [
         {
@@ -13,7 +13,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/Footlive2909/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024420/1790035798963628_UNL2627_Finland_vs_Belarus_landscape_thumb.jpg",
             "token": "?hdnea=exp=1790738443~acl=/*~id=39854717211051073220205463013578~hmac=ccaa2268e815b3d2bf1367752ecf6d0e948783fb44b4eaac060bd86339754752",
-            "token_updated": 1790700628
+            "token_updated": 1790702427
         },
         {
             "match_id": "1090545353",
@@ -22,7 +22,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/Footlive2909/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024421/1790036032905813_UNL2627_Moldova_vs_Faroe_Islands_landscape_thumb.jpg",
             "token": "?hdnea=exp=1790738452~acl=/*~id=47608934045361329696119929801839~hmac=265230dd8ca2e7a7d13f9f05d4ca2420c34b3d602e455cca6e0539c010171c5f",
-            "token_updated": 1790700628
+            "token_updated": 1790702427
         }
     ]
 }
