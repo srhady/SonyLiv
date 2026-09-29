@@ -2,9 +2,9 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 08:50:30 AM 29-09-2026
+# last_update: 09:20:27 AM 29-09-2026
 
-#EXTINF:-1 tvg-id="sonyliv-1090541381" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025226/1790624140219850_AG26_Generic_Sport_Badminton_Finals_live_landscape_thumb.jpg" group-title="Badminton", Men's, Women's, Mixed Finals - Badminton - 29 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+#EXTINF:-1 tvg-id="sonyliv-1090541381" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025226/1790624140219850_AG26_Generic_Sport_Badminton_Finals_live_landscape_thumb.jpg" group-title="Badminton", Men's and Women's Finals - Badminton - 29 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2120302/ag_strea2909/ENG/master.m3u8?hdnea=exp=1790689833~acl=/*~id=47169153383488941746943330468168~hmac=c6aa7018a441f97b6ed940d6e607c22bb37aa554c8c06b6781ef6535e3d8a427
 
 #EXTINF:-1 tvg-id="sonyliv-1090541385" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025226/1790624227507850_AG26_Generic_Sport_Badminton_Finals_live_landscape_thumb_hindi.jpg" group-title="Badminton", Men's, Women's, Mixed Finals - Badminton - 29 Sep 2026 (Hindi) | 20th Asian Games Aichi-Nagoya 2026
@@ -13,14 +13,14 @@ https://sonydaimenew.akamaized.net/hls/live/2094589/ag_strea2909/HIN/master.m3u8
 #EXTINF:-1 tvg-id="sonyliv-1090541386" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541386/thumbnail/1790643630073_1789301604665741_AG26_Volleyball_pictogram_landscape_thumb.jpg" group-title="Volleyball", Hong Kong, China vs Vietnam - Men - Volleyball - 29 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2018458/ag_dx5_22809/ENG/master.m3u8?hdnea=exp=1790686242~acl=/*~id=95707119853179470880145951936018~hmac=dc3a643cfcce178091588ca2418e66c9dd4a77b3552412e220e5e8d7955214ba
 
+#EXTINF:-1 tvg-id="sonyliv-1090541853" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789297720785348_AG26_Esports_pictogram_landscape_thumb.jpg" group-title="Esports", PUBG - Esports - 29 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2022316/ag_dx7_22809/ENG/master.m3u8?hdnea=exp=1790682638~acl=/*~id=74414133964330930732156761841760~hmac=dc8a81fd63a55e8eafa4753c85fcf7938e2185b2237fb02511a9aedfcbe32217
+
 #EXTINF:-1 tvg-id="sonyliv-1090541380" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541380/thumbnail/1790648101501_1789301718758348_AG26_Beach_Volleyball_pictogram_landscape_thumb.jpg" group-title="Beach Volleyball", Indonesia vs Oman - Men - Beach Volleyball - 29 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2005444/ag_dx2_22809/ENG/master.m3u8?hdnea=exp=1790682638~acl=/*~id=74414133964330930732156761841760~hmac=dc8a81fd63a55e8eafa4753c85fcf7938e2185b2237fb02511a9aedfcbe32217
 
 #EXTINF:-1 tvg-id="sonyliv-1090541855" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789301604665741_AG26_Volleyball_pictogram_landscape_thumb.jpg" group-title="Volleyball", Kazakhastan vs Thailand - Men's Volleyball - 29 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2022319/ag_mds1_2809/ENG/master.m3u8?hdnea=exp=1790686242~acl=/*~id=95707119853179470880145951936018~hmac=dc3a643cfcce178091588ca2418e66c9dd4a77b3552412e220e5e8d7955214ba
-
-#EXTINF:-1 tvg-id="sonyliv-1090541853" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789297720785348_AG26_Esports_pictogram_landscape_thumb.jpg" group-title="Esports", PUBG - Esports - 29 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2022316/ag_dx7_22809/ENG/master.m3u8?hdnea=exp=1790682638~acl=/*~id=74414133964330930732156761841760~hmac=dc8a81fd63a55e8eafa4753c85fcf7938e2185b2237fb02511a9aedfcbe32217
 
 #EXTINF:-1 tvg-id="sonyliv-1090543296" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025226/1790623923337850_AG26_Generic_Sport_Weightlifting_Finals_landscape_thumb.jpg" group-title="Weightlifting", Men's and Women's Final - Weightlifting - 29 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2018457/ag_dx3_22809/ENG/master.m3u8?hdnea=exp=1790686259~acl=/*~id=72312876000049145137545503702655~hmac=f1824b047cc064c8eeb5caba6978560da04d36343b4d90e3bf3ebed39b070634
@@ -28,7 +28,7 @@ https://sonydaimenew.akamaized.net/hls/live/2018457/ag_dx3_22809/ENG/master.m3u8
 #EXTINF:-1 tvg-id="sonyliv-1090541377" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789292948462348_AG26_Badminton_pictogram_landscape_thumb.jpg" group-title="Badminton", Badminton - 29 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2120300/ag_mds2_2809/ENG/master.m3u8?hdnea=exp=1790682658~acl=/*~id=66735722010397802780054753906573~hmac=bfbd547b0cd5091355ee66d558c95514320edd713a819f340da6093797e91df2
 
-#EXTINF:-1 tvg-id="sonyliv-1090543298" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025226/1790624332925850_AG26_Generic_Sport_Sepaktakraw_Finals_live_landscape_thumb.jpg" group-title="Sepaktakraw", Sepaktakraw Finals - 29 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+#EXTINF:-1 tvg-id="sonyliv-1090543298" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789300218628741_AG26_Sepaktakraw_pictogram_landscape_thumb.jpg" group-title="Sepaktakraw", Sepaktakraw - 29 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2120304/ag_mds3_2809/ENG/master.m3u8?hdnea=exp=1790682638~acl=/*~id=74414133964330930732156761841760~hmac=dc8a81fd63a55e8eafa4753c85fcf7938e2185b2237fb02511a9aedfcbe32217
 
 #EXTINF:-1 tvg-id="sonyliv-1090541370" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789301796678741_AG26_Weightlifting_pictogram_landscape_thumb.jpg" group-title="Weightlifting", Weightlifting - 29 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
