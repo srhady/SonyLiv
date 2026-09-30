@@ -2,7 +2,7 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 08:50:31 PM 30-09-2026
+# last_update: 09:20:36 PM 30-09-2026
 
-#EXTINF:-1 tvg-id="sonyliv-1090541385" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024839/1790368025104894_AG26_Generic_Stream1_live_landscape_thumb_clean.jpg" group-title="Sports", Day 12 - 30 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2120299/ag_strea2909/ENG/master.m3u8?hdnea=exp=1790810431~acl=/*~id=72485697055333046493379522301852~hmac=de2821fff1944acfc233eb24642c465c6923cbf8876a5feaaafb4e8a8bfcabb4
+#EXTINF:-1 tvg-id="sonyliv-1090545705" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024415/1790029127566502_UEFA_INT_friendly_MD2_Lithuania_vs_Andorra_landscape_thumb.jpg" group-title="Football", Lithuania vs Andorra - 30 Sep 2026 | UEFA International Friendlies
+https://sonydaimenew.akamaized.net/hls/live/2022316/Footlive3009/ENG/master.m3u8?hdnea=exp=1790824847~acl=/*~id=86411463764682491393386580722232~hmac=c4bee9a02355ec6e8f5640ce8b340c602b9b94f194c174ed928750608e2b4666
