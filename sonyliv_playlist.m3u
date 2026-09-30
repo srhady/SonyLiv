@@ -2,13 +2,16 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 06:20:30 AM 30-09-2026
+# last_update: 06:50:29 AM 30-09-2026
 
-#EXTINF:-1 tvg-id="sonyliv-1090541385" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025329/179071446275070_AG26_Archery_Womens_Semi_Final_live_landscape_thumb.jpg" group-title="Archery", Republic of Korea vs India - Archery - Compound Women's Team Semifinal - 30 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+#EXTINF:-1 tvg-id="sonyliv-1090541385" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024839/1790368025104894_AG26_Generic_Stream1_live_landscape_thumb_clean.jpg" group-title="Archery", Archery - 30 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2120299/ag_strea2909/ENG/master.m3u8?hdnea=exp=1790769033~acl=/*~id=19244849977852223505395745200666~hmac=2e989dac1cdc52e57a0b000969f1fc04ed23093b88884efb796452f4bdc47615
 
-#EXTINF:-1 tvg-id="sonyliv-1090541381" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025329/179071390912970_AG26_Archery_Womens_Semi_Final_live_landscape_thumb_HTTK.jpg" group-title="Archery", Archery - 30 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+#EXTINF:-1 tvg-id="sonyliv-1090541381" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024839/1790368493065894_AG26_Generic_Stream3_live_landscape_thumb_clean.jpg" group-title="Archery", Archery - 30 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2120300/ag_strea2909/HIN/master.m3u8?hdnea=exp=1790770837~acl=/*~id=18556418162688324692849439423751~hmac=89bdff25413e6c9adb72017c37739b0a48877f7e73f9977331bcbfd7c4ded984
+
+#EXTINF:-1 tvg-id="sonyliv-1090541379" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789300652991741_AG26_Squash_pictogram_landscape_thumb.jpg" group-title="Squash", Squash - 30 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2120307/ag_dx1_32909/ENG/master.m3u8?hdnea=exp=1790772634~acl=/*~id=29954765390457393882828830520479~hmac=0a4641532106f3388812fb30a2f420593348b46f4b4f05d2a8dea6f599801030
 
 #EXTINF:-1 tvg-id="sonyliv-1090543296" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789297720785348_AG26_Esports_pictogram_landscape_thumb.jpg" group-title="Esports", Esports - 30 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2120308/ag_dx3_32909/ENG/master.m3u8?hdnea=exp=1790769033~acl=/*~id=19244849977852223505395745200666~hmac=2e989dac1cdc52e57a0b000969f1fc04ed23093b88884efb796452f4bdc47615
@@ -24,3 +27,6 @@ https://sonydaimenew.akamaized.net/hls/live/2094589/ag_mds4_2909/ENG/master.m3u8
 
 #EXTINF:-1 tvg-id="sonyliv-1090541377" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789285619786348_AG26_archery_pictogram_landscape_thumb.jpg" group-title="Archery", Archery  - 30 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2120305/ag_mds2_2909/ENG/master.m3u8?hdnea=exp=1790769033~acl=/*~id=19244849977852223505395745200666~hmac=2e989dac1cdc52e57a0b000969f1fc04ed23093b88884efb796452f4bdc47615
+
+#EXTINF:-1 tvg-id="sonyliv-1090541378" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024839/1790368432961894_AG26_Generic_Stream2_live_landscape_thumb_clean.jpg" group-title="Sepaktakraw", Sepaktakraw - 30 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2120304/ag_strea2909/ENG/master.m3u8?hdnea=exp=1790772634~acl=/*~id=29954765390457393882828830520479~hmac=0a4641532106f3388812fb30a2f420593348b46f4b4f05d2a8dea6f599801030
