@@ -2,12 +2,12 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 09:50:29 AM 30-09-2026
+# last_update: 10:20:28 AM 30-09-2026
 
-#EXTINF:-1 tvg-id="sonyliv-1090541385" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024839/1790368025104894_AG26_Generic_Stream1_live_landscape_thumb_clean.jpg" group-title="Sports", Day 12 - 30 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+#EXTINF:-1 tvg-id="sonyliv-1090541385" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025365/1790739930440914_archery_INDvsKOR_live_landscape_thumb.jpg" group-title="Archery", India In Action -Archery - 30 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2120299/ag_strea2909/ENG/master.m3u8?hdnea=exp=1790769033~acl=/*~id=19244849977852223505395745200666~hmac=2e989dac1cdc52e57a0b000969f1fc04ed23093b88884efb796452f4bdc47615
 
-#EXTINF:-1 tvg-id="sonyliv-1090541381" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024839/1790368493065894_AG26_Generic_Stream3_live_landscape_thumb_clean.jpg" group-title="Sports", Day 12 - 30 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+#EXTINF:-1 tvg-id="sonyliv-1090541381" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025365/1790740214666914_archery_INDvsKOR_live_landscape_thumb_multi.jpg" group-title="Archery", India In Action -Archery - 30 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2120300/ag_strea2909/HIN/master.m3u8?hdnea=exp=1790770837~acl=/*~id=18556418162688324692849439423751~hmac=89bdff25413e6c9adb72017c37739b0a48877f7e73f9977331bcbfd7c4ded984
 
 #EXTINF:-1 tvg-id="sonyliv-1090541378" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024839/1790368432961894_AG26_Generic_Stream2_live_landscape_thumb_clean.jpg" group-title="Sports", Day 12 - 30 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
@@ -31,5 +31,5 @@ https://sonydaimenew.akamaized.net/hls/live/2120305/ag_mds2_2909/ENG/master.m3u8
 #EXTINF:-1 tvg-id="sonyliv-1090543298" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789299207639348_AG26_Judo_pictogram_landscape_thumb.jpg" group-title="Judo", Judo - 30 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2094588/ag_mds3_2909/ENG/master.m3u8?hdnea=exp=1790769079~acl=/*~id=56769000876767830180256141455703~hmac=97f74e2f537963af709a5a51ddf6037e86663410fedc2c8a28de0a28e81acba8
 
-#EXTINF:-1 tvg-id="sonyliv-1090541370" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789297720785348_AG26_Esports_pictogram_landscape_thumb.jpg" group-title="Esports", Esports - 30 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
+#EXTINF:-1 tvg-id="sonyliv-1090541370" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789293652814348_AG26_Boxing_pictogram_landscape_thumb.jpg" group-title="Boxing", Boxing - 30 Sep 2026 | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2094589/ag_mds4_2909/ENG/master.m3u8?hdnea=exp=1790769033~acl=/*~id=19244849977852223505395745200666~hmac=2e989dac1cdc52e57a0b000969f1fc04ed23093b88884efb796452f4bdc47615
