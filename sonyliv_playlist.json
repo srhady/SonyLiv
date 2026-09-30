@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "03:50:28 PM 30-09-2026"
+        "last_update": "04:20:36 PM 30-09-2026"
     },
     "live_matches": [
         {
@@ -13,7 +13,16 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/ag_strea2909/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024839/1790368025104894_AG26_Generic_Stream1_live_landscape_thumb_clean.jpg",
             "token": "?hdnea=exp=1790769033~acl=/*~id=19244849977852223505395745200666~hmac=2e989dac1cdc52e57a0b000969f1fc04ed23093b88884efb796452f4bdc47615",
-            "token_updated": 1790761825
+            "token_updated": 1790763627
+        },
+        {
+            "match_id": "1090545783",
+            "title": "India vs Republic Of Korea - Hockey - 30 Sep 2026",
+            "tournament": "20th Asian Games Aichi-Nagoya 2026",
+            "base_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/ag_strea3009/ENG/master.m3u8",
+            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025396/1790755855203434_AG26_30Sep_Hockey_Womens_Semi_Final_live_landscape_thumb.jpg",
+            "token": "?hdnea=exp=1790806836~acl=/*~id=73148747730190275531665805062616~hmac=7bc37dcaf1d10831a50c52861c120b5fcace11511ce4a7796bcf07c033c8e2d6",
+            "token_updated": 1790763627
         },
         {
             "match_id": "1090541378",
@@ -22,16 +31,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/ag_strea2909/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024839/1790368432961894_AG26_Generic_Stream2_live_landscape_thumb_clean.jpg",
             "token": "?hdnea=exp=1790772634~acl=/*~id=29954765390457393882828830520479~hmac=0a4641532106f3388812fb30a2f420593348b46f4b4f05d2a8dea6f599801030",
-            "token_updated": 1790761825
-        },
-        {
-            "match_id": "1090541381",
-            "title": "Day 12 - 30 Sep 2026",
-            "tournament": "20th Asian Games Aichi-Nagoya 2026",
-            "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/ag_strea2909/HIN/master.m3u8",
-            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024839/1790368493065894_AG26_Generic_Stream3_live_landscape_thumb_clean.jpg",
-            "token": "?hdnea=exp=1790770837~acl=/*~id=18556418162688324692849439423751~hmac=89bdff25413e6c9adb72017c37739b0a48877f7e73f9977331bcbfd7c4ded984",
-            "token_updated": 1790761825
+            "token_updated": 1790763627
         },
         {
             "match_id": "1090541370",
@@ -40,7 +40,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/ag_mds4_2909/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789285244661348_AG26_Diving_pictogram_landscape_thumb.jpg",
             "token": "?hdnea=exp=1790769033~acl=/*~id=19244849977852223505395745200666~hmac=2e989dac1cdc52e57a0b000969f1fc04ed23093b88884efb796452f4bdc47615",
-            "token_updated": 1790761825
+            "token_updated": 1790763627
         },
         {
             "match_id": "1090541377",
@@ -49,7 +49,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120305/ag_mds2_2909/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789299207639348_AG26_Judo_pictogram_landscape_thumb.jpg",
             "token": "?hdnea=exp=1790769033~acl=/*~id=19244849977852223505395745200666~hmac=2e989dac1cdc52e57a0b000969f1fc04ed23093b88884efb796452f4bdc47615",
-            "token_updated": 1790761825
+            "token_updated": 1790763627
         },
         {
             "match_id": "1090541855",
@@ -58,7 +58,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/ag_mds1_2909/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789301849823741_AG26_Wrestling_pictogram_landscape_thumb.jpg",
             "token": "?hdnea=exp=1790769088~acl=/*~id=86894233202059025580570457759464~hmac=14e26c4bfab9fa6092a251be500916a817ef61ea25c4c3c2083c05fb004ac2d9",
-            "token_updated": 1790761825
+            "token_updated": 1790763627
         }
     ]
 }
