@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "05:50:29 PM 30-09-2026"
+        "last_update": "06:20:33 PM 30-09-2026"
     },
     "live_matches": [
         {
@@ -13,34 +13,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/ag_strea2909/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024839/1790368025104894_AG26_Generic_Stream1_live_landscape_thumb_clean.jpg",
             "token": "?hdnea=exp=1790810431~acl=/*~id=72485697055333046493379522301852~hmac=de2821fff1944acfc233eb24642c465c6923cbf8876a5feaaafb4e8a8bfcabb4",
-            "token_updated": 1790769027
-        },
-        {
-            "match_id": "1090545783",
-            "title": "India vs Republic Of Korea - Hockey - 30 Sep 2026",
-            "tournament": "20th Asian Games Aichi-Nagoya 2026",
-            "base_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/ag_strea3009/ENG/master.m3u8",
-            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025396/1790755855203434_AG26_30Sep_Hockey_Womens_Semi_Final_live_landscape_thumb.jpg",
-            "token": "?hdnea=exp=1790806836~acl=/*~id=73148747730190275531665805062616~hmac=7bc37dcaf1d10831a50c52861c120b5fcace11511ce4a7796bcf07c033c8e2d6",
-            "token_updated": 1790769027
-        },
-        {
-            "match_id": "1090541378",
-            "title": "Day 12 - 30 Sep 2026",
-            "tournament": "20th Asian Games Aichi-Nagoya 2026",
-            "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/ag_strea2909/ENG/master.m3u8",
-            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024839/1790368432961894_AG26_Generic_Stream2_live_landscape_thumb_clean.jpg",
-            "token": "?hdnea=exp=1790772634~acl=/*~id=29954765390457393882828830520479~hmac=0a4641532106f3388812fb30a2f420593348b46f4b4f05d2a8dea6f599801030",
-            "token_updated": 1790769027
-        },
-        {
-            "match_id": "1090541370",
-            "title": "Football - 30 Sep 2026",
-            "tournament": "20th Asian Games Aichi-Nagoya 2026",
-            "base_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/ag_mds4_2909/ENG/master.m3u8",
-            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789297879081348_AG26_Football_pictogram_landscape_thumb.jpg",
-            "token": "?hdnea=exp=1790810435~acl=/*~id=44053454469900853481837600857341~hmac=92d83959b7f3eb66dfe3f608dbe0a0d20bbdb1af5752119f04f644e112c5a606",
-            "token_updated": 1790769027
+            "token_updated": 1790770831
         },
         {
             "match_id": "1090541855",
@@ -49,7 +22,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/ag_mds1_2909/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789301849823741_AG26_Wrestling_pictogram_landscape_thumb.jpg",
             "token": "?hdnea=exp=1790810438~acl=/*~id=07133388173134721976015256997432~hmac=6bc61c9e0db99fa7373b971d557de48a39d20e8cd6e9644dc75fcf4bc4032c61",
-            "token_updated": 1790769027
+            "token_updated": 1790770831
         }
     ]
 }
