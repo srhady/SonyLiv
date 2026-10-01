@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "05:50:41 PM 01-10-2026"
+        "last_update": "06:20:42 PM 01-10-2026"
     },
     "live_matches": [
         {
@@ -13,16 +13,16 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/ag_strea0110/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025467/1790814728666127_AG26_Generic_Stream5_live_landscape_thumb_clean.jpg",
             "token": "?hdnea=exp=1790880634~acl=/*~id=04688349102589832231584920972393~hmac=4b321ffdb3d9a04d442e7da4ab283e78f248aaa61e964fb23358808a4eca7c13",
-            "token_updated": 1790855428
+            "token_updated": 1790857227
         },
         {
-            "match_id": "1090543298",
-            "title": "Wrestling - 1 Oct 2026",
-            "tournament": "20th Asian Games Aichi-Nagoya 2026",
-            "base_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/ag_mds3_0110/ENG/master.m3u8",
-            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789301849823741_AG26_Wrestling_pictogram_landscape_thumb.jpg",
-            "token": "?hdnea=exp=1790878836~acl=/*~id=54999867828510547510832008843772~hmac=798571e2f8bcbc71c8402ccb9c2291669130404b88b98f7f4b770664b2129765",
-            "token_updated": 1790855428
+            "match_id": "1090545726",
+            "title": "Alfred Dunhill Links Championship - Day 1 - 1 Oct 2026",
+            "tournament": "DP World Tour",
+            "base_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/Golf_Alf0110/ENG/master.m3u8",
+            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025118/1790561740000673_DPWorldTour26_Alfred_Dunhill_Links_Championship_Day1_landscape_thumb.jpg",
+            "token": "?hdnea=exp=1790900442~acl=/*~id=12310054921308077528541891910238~hmac=2b5a339e526524c7c3e2785aef1c414f4e2dc3c871105833c4db8836a76e7d47",
+            "token_updated": 1790857227
         }
     ]
 }
