@@ -2,18 +2,15 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 05:50:27 AM 01-10-2026
+# last_update: 06:20:28 AM 01-10-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090541367" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025422/1790772771135414_AG26_pak_vs_ban_SF_live_landscpae_thumb.jpg" group-title="Cricket", Pakistan vs Bangladesh - Semifinal - 1 Oct 2026 | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2120299/AG_DXcri3009/ENG/master.m3u8?hdnea=exp=1790853632~acl=/*~id=63007396512083183335282935725676~hmac=3496becc4a507d3d7e2798c5271dcfb499ff429839694cc6f8747a3b8438acf3
 
-#EXTINF:-1 tvg-id="sonyliv-1090541386" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024839/1790368025104894_AG26_Generic_Stream1_live_landscape_thumb_clean.jpg" group-title="Archery", Women's Finals - Archery - 1 Oct 2026 | 20th Asian Games Aichi-Nagoya 2026
+#EXTINF:-1 tvg-id="sonyliv-1090541386" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789285619786348_AG26_archery_pictogram_landscape_thumb.jpg" group-title="Archery", Archery - 1 Oct 2026 | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2120301/ag_strea3009/ENG/master.m3u8?hdnea=exp=1790855434~acl=/*~id=85920699754924198705640911730828~hmac=faebb41a5244429060e64c5b5e27e9bb755ca1e38da6eef5b8a31611d1148dfc
 
-#EXTINF:-1 tvg-id="sonyliv-1090541387" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789300218628741_AG26_Sepaktakraw_pictogram_landscape_thumb.jpg" group-title="Sepaktakraw", Men's & Women's Sepaktakraw - 1 Oct 2026 | 20th Asian Games Aichi-Nagoya 2026
-https://sonydaimenew.akamaized.net/hls/live/2120300/ag_dx6_03009/ENG/master.m3u8?hdnea=exp=1790855441~acl=/*~id=75890453950899871820782937897517~hmac=a4d8f18730d20bbb68db3800d278b7d120bb49c82ea41f187dc553613d16f658
-
-#EXTINF:-1 tvg-id="sonyliv-1090541378" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024839/1790368441086894_AG26_Generic_Stream2_live_landscape_thumb_english.jpg" group-title="Sepaktakraw", Men's & Women's Sepaktakraw - 1 Oct 2026 | 20th Asian Games Aichi-Nagoya 2026
+#EXTINF:-1 tvg-id="sonyliv-1090541378" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025456/1790807936459180_AG26_1st_Oct_Sepaktakraw_Mens_Quadrant_live_landscape_thumb.jpg" group-title="Sepaktakraw", India vs Vietnam - Men's Quadrant - Sepaktakraw - 1 Oct 2026 | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2120303/ag_strea3009/ENG/master.m3u8?hdnea=exp=1790855450~acl=/*~id=05619847520081141572847890968893~hmac=736c29cc2f402d55e2f624439b68ee29b5c468e55fa459a10e0c15fc25182630
 
 #EXTINF:-1 tvg-id="sonyliv-1090541370" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025449/179080184543314_AG26_Rugby_Sevens_pictogram_live_landscape_thumb.jpg" group-title="Rugby Sevens", Rugby 7s - 1 Oct 2026 | 20th Asian Games Aichi-Nagoya 2026
@@ -21,6 +18,12 @@ https://sonydaimenew.akamaized.net/hls/live/2005444/ag_mds4_3009/ENG/master.m3u8
 
 #EXTINF:-1 tvg-id="sonyliv-1090541855" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789301718758348_AG26_Beach_Volleyball_pictogram_landscape_thumb.jpg" group-title="Beach Volleyball", Beach Volleyball - 1 Oct 2026 | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2120305/ag_mds1_3009/ENG/master.m3u8?hdnea=exp=1790855450~acl=/*~id=05619847520081141572847890968893~hmac=736c29cc2f402d55e2f624439b68ee29b5c468e55fa459a10e0c15fc25182630
+
+#EXTINF:-1 tvg-id="sonyliv-1090541387" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789300218628741_AG26_Sepaktakraw_pictogram_landscape_thumb.jpg" group-title="Sepaktakraw", Men's & Women's Sepaktakraw - 1 Oct 2026 | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2120300/ag_dx6_03009/ENG/master.m3u8?hdnea=exp=1790855441~acl=/*~id=75890453950899871820782937897517~hmac=a4d8f18730d20bbb68db3800d278b7d120bb49c82ea41f187dc553613d16f658
+
+#EXTINF:-1 tvg-id="sonyliv-1090541853" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025449/179080184543314_AG26_Rugby_Sevens_pictogram_live_landscape_thumb.jpg" group-title="Rugby Sevens", People's Republic of China vs Malaysia - Men - Rugby Sevens - 1 Oct 2026 | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2120308/ag_dx7_03009/ENG/master.m3u8?hdnea=exp=1790857236~acl=/*~id=47923604069966017783007303785662~hmac=de0914e66ecd701c97a684630f6095acc1b5aa258e0d011fdcd4a71e19c98e75
 
 #EXTINF:-1 tvg-id="sonyliv-1090541377" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789285619786348_AG26_archery_pictogram_landscape_thumb.jpg" group-title="Archery", Archery - 1 Oct 2026 | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2094588/ag_mds2_3009/ENG/master.m3u8?hdnea=exp=1790855450~acl=/*~id=05619847520081141572847890968893~hmac=736c29cc2f402d55e2f624439b68ee29b5c468e55fa459a10e0c15fc25182630
