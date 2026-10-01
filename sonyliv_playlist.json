@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "11:20:27 AM 01-10-2026"
+        "last_update": "11:50:28 AM 01-10-2026"
     },
     "live_matches": [
         {
@@ -11,9 +11,9 @@
             "title": "India In Action - Archery - 1 Oct 2026",
             "tournament": "20th Asian Games Aichi-Nagoya 2026",
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/ag_strea3009/ENG/master.m3u8",
-            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025450/1790801268598406_AG26_1stOct_Archery_Mens_Individual_Semi_Final_live_landscape_thumb.jpg",
+            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025454/1790806510223810_AG26_1stOct_Archery_Mens_Individual_Bronze_Match_live_landscape_thumb.jpg",
             "token": "?hdnea=exp=1790855434~acl=/*~id=85920699754924198705640911730828~hmac=faebb41a5244429060e64c5b5e27e9bb755ca1e38da6eef5b8a31611d1148dfc",
-            "token_updated": 1790832024
+            "token_updated": 1790833826
         },
         {
             "match_id": "1090541371",
@@ -22,16 +22,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2094590/cricodi0110/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025424/1790777187142361_AG26_IND_vs_SL_SF_live__landscape_thumb.jpg",
             "token": "?hdnea=exp=1790871639~acl=/*~id=16063157075646356756283926938030~hmac=84887ca2b740c77cfd061dac57d450c3df0e34d66aad8500e2c63b7700b0cffc",
-            "token_updated": 1790832024
-        },
-        {
-            "match_id": "1090541370",
-            "title": "Judo - 1 Oct 2026",
-            "tournament": "20th Asian Games Aichi-Nagoya 2026",
-            "base_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/ag_mds4_3009/ENG/master.m3u8",
-            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789299207639348_AG26_Judo_pictogram_landscape_thumb.jpg",
-            "token": "?hdnea=exp=1790855450~acl=/*~id=05619847520081141572847890968893~hmac=736c29cc2f402d55e2f624439b68ee29b5c468e55fa459a10e0c15fc25182630",
-            "token_updated": 1790832024
+            "token_updated": 1790833826
         },
         {
             "match_id": "1090541378",
@@ -40,7 +31,16 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/ag_strea3009/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024839/1790368432961894_AG26_Generic_Stream2_live_landscape_thumb_clean.jpg",
             "token": "?hdnea=exp=1790855450~acl=/*~id=05619847520081141572847890968893~hmac=736c29cc2f402d55e2f624439b68ee29b5c468e55fa459a10e0c15fc25182630",
-            "token_updated": 1790832024
+            "token_updated": 1790833826
+        },
+        {
+            "match_id": "1090541370",
+            "title": "Judo - 1 Oct 2026",
+            "tournament": "20th Asian Games Aichi-Nagoya 2026",
+            "base_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/ag_mds4_3009/ENG/master.m3u8",
+            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789299207639348_AG26_Judo_pictogram_landscape_thumb.jpg",
+            "token": "?hdnea=exp=1790855450~acl=/*~id=05619847520081141572847890968893~hmac=736c29cc2f402d55e2f624439b68ee29b5c468e55fa459a10e0c15fc25182630",
+            "token_updated": 1790833826
         },
         {
             "match_id": "1090541853",
@@ -49,16 +49,16 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120308/ag_dx7_03009/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541853/thumbnail/1790826314431_1789300066350741_AG26_Rugby_pictogram_landscape_thumb.jpg",
             "token": "?hdnea=exp=1790857236~acl=/*~id=47923604069966017783007303785662~hmac=de0914e66ecd701c97a684630f6095acc1b5aa258e0d011fdcd4a71e19c98e75",
-            "token_updated": 1790832024
+            "token_updated": 1790833826
         },
         {
             "match_id": "1090541855",
-            "title": "Wrestling - 1 Oct 2026",
+            "title": "Sepaktakraw - 1 Oct 2026",
             "tournament": "20th Asian Games Aichi-Nagoya 2026",
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120305/ag_mds1_3009/ENG/master.m3u8",
-            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789301849823741_AG26_Wrestling_pictogram_landscape_thumb.jpg",
+            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789300218628741_AG26_Sepaktakraw_pictogram_landscape_thumb.jpg",
             "token": "?hdnea=exp=1790855450~acl=/*~id=05619847520081141572847890968893~hmac=736c29cc2f402d55e2f624439b68ee29b5c468e55fa459a10e0c15fc25182630",
-            "token_updated": 1790832024
+            "token_updated": 1790833826
         },
         {
             "match_id": "1090541380",
@@ -67,7 +67,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/ag_dx2_03009/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789299123285348_AG26_Hockey_pictogram_landscape_thumb.jpg",
             "token": "?hdnea=exp=1790862633~acl=/*~id=52469549066928850239267539656950~hmac=81b439d89ccc08ea6b357a9c5d63b2547a14bf13f4d42add06f60ac73bc84cf6",
-            "token_updated": 1790832024
+            "token_updated": 1790833826
         },
         {
             "match_id": "1090541379",
@@ -76,16 +76,16 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120306/ag_edx1_3009/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789300652991741_AG26_Squash_pictogram_landscape_thumb.jpg",
             "token": "?hdnea=exp=1790860848~acl=/*~id=53239537297521591387912619401960~hmac=83cfc7e72ded3e9f6a06d9db1308b46decee22e0315947ae590be14559a3097a",
-            "token_updated": 1790832024
+            "token_updated": 1790833826
         },
         {
             "match_id": "1090541377",
-            "title": "Rugby - 1 Oct 2026",
+            "title": "Archery - 1 Oct 2026",
             "tournament": "20th Asian Games Aichi-Nagoya 2026",
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/ag_mds2_3009/ENG/master.m3u8",
-            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789300066350741_AG26_Rugby_pictogram_landscape_thumb.jpg",
+            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789285619786348_AG26_archery_pictogram_landscape_thumb.jpg",
             "token": "?hdnea=exp=1790855450~acl=/*~id=05619847520081141572847890968893~hmac=736c29cc2f402d55e2f624439b68ee29b5c468e55fa459a10e0c15fc25182630",
-            "token_updated": 1790832024
+            "token_updated": 1790833826
         },
         {
             "match_id": "1090541376",
@@ -94,7 +94,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/ag_dx4_00110/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789285619786348_AG26_archery_pictogram_landscape_thumb.jpg",
             "token": "?hdnea=exp=1790871648~acl=/*~id=25844689994461484402075426127658~hmac=5ee865efca16f1b369702e24bb8c4d53ec514b2dcf471ab8581ad10e556c72f3",
-            "token_updated": 1790832024
+            "token_updated": 1790833826
         },
         {
             "match_id": "1090541854",
@@ -103,7 +103,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/ag_dx8_00110/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541854/thumbnail/1790827211916_1789301604665741_AG26_Volleyball_pictogram_landscape_thumb.jpg",
             "token": "?hdnea=exp=1790871671~acl=/*~id=10087233319163503923055706777241~hmac=c83802562907147ddf3d6b60f8ce373e60b2a4dc51e1b64a6bf20f83a6e506fd",
-            "token_updated": 1790832024
+            "token_updated": 1790833826
         }
     ]
 }
