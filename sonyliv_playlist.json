@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "03:50:28 AM 02-10-2026"
+        "last_update": "04:20:28 AM 02-10-2026"
     },
     "live_matches": [
         {
@@ -13,7 +13,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/ag_dx5_00110/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025576/1790883954328809_AG26_2nd_Oct_Gold_Mens_live_landscape_thumb.jpg",
             "token": "?hdnea=exp=1790932836~acl=/*~id=36689614383447670994324810889023~hmac=9c5b3dd3e2698a050ff828efcc4cb8df32ba30bd4014d6b6f3eb79edf4438251",
-            "token_updated": 1790891426
+            "token_updated": 1790893226
         }
     ]
 }
