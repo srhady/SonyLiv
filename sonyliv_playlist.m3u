@@ -2,7 +2,7 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 02:50:50 AM 02-10-2026
+# last_update: 03:20:29 AM 02-10-2026
 
-#EXTINF:-1 tvg-id="sonyliv-1090545734" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025381/1790741352461668_UNL2627_Republic_of_Ireland_vs_Austria_landscape_thumb.jpg" group-title="Football", Republic of Ireland vs Austria - 2 Oct 2026 | UEFA Nations League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2120307/Footlive0110/ENG/master.m3u8?hdnea=exp=1790922077~acl=/*~id=62897635173395004053636664825523~hmac=da0d916323c68fcb93584b7a0b25800136494929e32f737b58352336016d8de3
+#EXTINF:-1 tvg-id="sonyliv-1090541386" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025576/1790883954328809_AG26_2nd_Oct_Gold_Mens_live_landscape_thumb.jpg" group-title="Golf", Golf - 2 Oct 2026 | 20th Asian Games Aichi-Nagoya 2026
+https://sonydaimenew.akamaized.net/hls/live/2120303/ag_dx5_00110/ENG/master.m3u8?hdnea=exp=1790932836~acl=/*~id=36689614383447670994324810889023~hmac=9c5b3dd3e2698a050ff828efcc4cb8df32ba30bd4014d6b6f3eb79edf4438251
