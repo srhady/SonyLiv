@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "05:20:58 PM 01-10-2026"
+        "last_update": "05:50:41 PM 01-10-2026"
     },
     "live_matches": [
         {
@@ -13,34 +13,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/ag_strea0110/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025467/1790814728666127_AG26_Generic_Stream5_live_landscape_thumb_clean.jpg",
             "token": "?hdnea=exp=1790880634~acl=/*~id=04688349102589832231584920972393~hmac=4b321ffdb3d9a04d442e7da4ab283e78f248aaa61e964fb23358808a4eca7c13",
-            "token_updated": 1790853627
-        },
-        {
-            "match_id": "1090541378",
-            "title": "Day 13 - 1 Oct 2026",
-            "tournament": "20th Asian Games Aichi-Nagoya 2026",
-            "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/ag_strea3009/ENG/master.m3u8",
-            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024839/1790368432961894_AG26_Generic_Stream2_live_landscape_thumb_clean.jpg",
-            "token": "?hdnea=exp=1790855450~acl=/*~id=05619847520081141572847890968893~hmac=736c29cc2f402d55e2f624439b68ee29b5c468e55fa459a10e0c15fc25182630",
-            "token_updated": 1790853627
-        },
-        {
-            "match_id": "1090541380",
-            "title": "Malaysia vs Republic of Korea - Men - Hockey - 1 Oct 2026",
-            "tournament": "20th Asian Games Aichi-Nagoya 2026",
-            "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/ag_dx2_03009/ENG/master.m3u8",
-            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541380/thumbnail/1790848496149_1789299123285348_AG26_Hockey_pictogram_landscape_thumb.jpg",
-            "token": "?hdnea=exp=1790862633~acl=/*~id=52469549066928850239267539656950~hmac=81b439d89ccc08ea6b357a9c5d63b2547a14bf13f4d42add06f60ac73bc84cf6",
-            "token_updated": 1790853627
-        },
-        {
-            "match_id": "1090541379",
-            "title": "Squash - 1 Oct 2026",
-            "tournament": "20th Asian Games Aichi-Nagoya 2026",
-            "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120306/ag_edx1_3009/ENG/master.m3u8",
-            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789300652991741_AG26_Squash_pictogram_landscape_thumb.jpg",
-            "token": "?hdnea=exp=1790860848~acl=/*~id=53239537297521591387912619401960~hmac=83cfc7e72ded3e9f6a06d9db1308b46decee22e0315947ae590be14559a3097a",
-            "token_updated": 1790853627
+            "token_updated": 1790855428
         },
         {
             "match_id": "1090543298",
@@ -49,16 +22,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/ag_mds3_0110/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789301849823741_AG26_Wrestling_pictogram_landscape_thumb.jpg",
             "token": "?hdnea=exp=1790878836~acl=/*~id=54999867828510547510832008843772~hmac=798571e2f8bcbc71c8402ccb9c2291669130404b88b98f7f4b770664b2129765",
-            "token_updated": 1790853627
-        },
-        {
-            "match_id": "1090541854",
-            "title": "Japan vs Qatar - Men - Volleyball - 1 Oct 2026",
-            "tournament": "20th Asian Games Aichi-Nagoya 2026",
-            "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/ag_dx8_00110/ENG/master.m3u8",
-            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541854/thumbnail/1790850020052_1789301604665741_AG26_Volleyball_pictogram_landscape_thumb.jpg",
-            "token": "?hdnea=exp=1790871671~acl=/*~id=10087233319163503923055706777241~hmac=c83802562907147ddf3d6b60f8ce373e60b2a4dc51e1b64a6bf20f83a6e506fd",
-            "token_updated": 1790853627
+            "token_updated": 1790855428
         }
     ]
 }
