@@ -3,9 +3,18 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "08:50:28 PM 01-10-2026"
+        "last_update": "09:21:00 PM 01-10-2026"
     },
     "live_matches": [
+        {
+            "match_id": "1090545728",
+            "title": "Azerbaijan vs Liechtenstein - 1 Oct 2026",
+            "tournament": "UEFA Nations League 2026-27",
+            "base_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Footlive0110/ENG/master.m3u8",
+            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025240/1790650314984639_UNL2627_MD3_Azerbaijan_vs_LiechTenstein_landscape_thumb.jpg",
+            "token": "?hdnea=exp=1790911260~acl=/*~id=90929653931195751812920234535787~hmac=69e83da0125cbc281e5783029a3e95136a48f7611c155eef4d05f6a652037700",
+            "token_updated": 1790868036
+        },
         {
             "match_id": "1090545726",
             "title": "Alfred Dunhill Links Championship - Day 1 - 1 Oct 2026",
@@ -13,7 +22,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/Golf_Alf0110/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025118/1790561740000673_DPWorldTour26_Alfred_Dunhill_Links_Championship_Day1_landscape_thumb.jpg",
             "token": "?hdnea=exp=1790900442~acl=/*~id=12310054921308077528541891910238~hmac=2b5a339e526524c7c3e2785aef1c414f4e2dc3c871105833c4db8836a76e7d47",
-            "token_updated": 1790866226
+            "token_updated": 1790868036
         }
     ]
 }
