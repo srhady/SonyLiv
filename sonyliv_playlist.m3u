@@ -2,16 +2,10 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 09:50:30 PM 02-10-2026
+# last_update: 10:20:31 PM 02-10-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090546408" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025381/1790742085086668_UNL2627_Latvia_vs_MonTenegro_landscape_thumb.jpg" group-title="Football", Latvia vs Montenegro - 2 Oct 2026 | UEFA Nations League 2026-27
 https://sonydaimenew.akamaized.net/hls/live/2120306/Footlive0210/ENG/master.m3u8?hdnea=exp=1790999442~acl=/*~id=71241835114395652851607175180036~hmac=d77447883b98add56f8c3fe36e4d2a85ea5e164ea27e5d36981de8e41d06383f
 
 #EXTINF:-1 tvg-id="sonyliv-1090546411" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025380/1790744934581683_UNL2627_Cyprus_vs_Armenia_landscape_thumb.jpg" group-title="Football", Cyprus vs Armenia - 2 Oct 2026 | UEFA Nations League 2026-27
 https://sonydaimenew.akamaized.net/hls/live/2120307/Footlive0210/ENG/master.m3u8?hdnea=exp=1790999468~acl=/*~id=99738528497797379785684814301713~hmac=37b7557a2ca83ebffce67515d34ccab36617f63b15934a3de256c6d5df58e4e1
-
-#EXTINF:-1 tvg-id="sonyliv-1090546407" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025381/1790741981754668_UNL2627_Kazakhstan_vs_Moldova_landscape_thumb.jpg" group-title="Football", Kazakhstan vs Moldova - 2 Oct 2026 | UEFA Nations League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive0210/ENG/master.m3u8?hdnea=exp=1790992242~acl=/*~id=33311002120307309761144598114552~hmac=7bbaaf80d87ab506179878558bd6b9cf64d1f6b32694436b8c835861f7675255
-
-#EXTINF:-1 tvg-id="sonyliv-1090546406" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025118/1790561614716673_DPWorldTour26_Alfred_Dunhill_Links_Championship_Day2_landscape_thumb.jpg" group-title="Golf", Alfred Dunhill Links Championship - Day 2 - 2 Oct 2026 | DP World Tour
-https://sonydaimenew.akamaized.net/hls/live/2120299/Golf_Alf0210/ENG/master.m3u8?hdnea=exp=1790981439~acl=/*~id=69603097088952966920362619341906~hmac=8e630cb1070f6c9854bcb8729d99096aa272d90ec8ab62202e1622dc082f179b
