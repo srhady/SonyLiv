@@ -2,15 +2,15 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 07:50:49 AM 02-10-2026
+# last_update: 08:20:27 AM 02-10-2026
 
-#EXTINF:-1 tvg-id="sonyliv-1090543297" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025585/1790890208887584_AG26_2nd_Oct_Wrestling_Womens_Wrestling_50kg_RD16_Dipanshi_live_landscape_thumb.jpg" group-title="Wrestling", India In Action - Wrestling - 2 Oct 2026 | 20th Asian Games Aichi-Nagoya 2026
+#EXTINF:-1 tvg-id="sonyliv-1090543297" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025586/1790892417875534_AG26_2nd_Oct_Wrestling_Mens_Freestyle_125kg_RD16_Rajat_live_landscape_thumb.jpg" group-title="Wrestling", India In Action - Wrestling - 2 Oct 2026 | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2022315/ag_strea0110/ENG/master.m3u8?hdnea=exp=1790943633~acl=/*~id=39342262395456519119082838798273~hmac=1a938b098681b49a9dc6d268885bdb762b966b92bdeb40e2b5d90b527e171e1b
 
 #EXTINF:-1 tvg-id="sonyliv-1090541378" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025583/1790888212808467_AG26_2nd_Oct_Volleyball_India_vs_Republic_of_Korea_live_landscape_thumb.jpg" group-title="Volleyball", India vs Republic Of Korea - Classification - Men's Volleyball - 2 Oct 2026 | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2022316/ag_strea0110/ENG/master.m3u8?hdnea=exp=1790947235~acl=/*~id=49029392833953740598144979972342~hmac=a870c638f6fcc39b867b5edc58dde45ad768f07c0e788c4298c261e5b5f1e461
 
-#EXTINF:-1 tvg-id="sonyliv-1090541381" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025585/1790890333190584_AG26_2nd_Oct_Wrestling_Womens_Wrestling_50kg_RD16_Dipanshi_live_landscape_thumb_multi_lang.jpg" group-title="Wrestling", India In Action - Wrestling - 2 Oct 2026 | 20th Asian Games Aichi-Nagoya 2026
+#EXTINF:-1 tvg-id="sonyliv-1090541381" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025586/1790892451069534_AG26_2nd_Oct_Wrestling_Mens_Freestyle_125kg_RD16_Rajat_live_landscape_thumb_multi_lang.jpg" group-title="Wrestling", India In Action - Wrestling - 2 Oct 2026 | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2022317/ag_strea0110/HIN/master.m3u8?hdnea=exp=1790943640~acl=/*~id=96709797876726601682873278510693~hmac=8738175bfceb370fc0e758bfaea9bbac76c5988a072457b7400a91943bb7ff16
 
 #EXTINF:-1 tvg-id="sonyliv-1090541386" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025576/1790883954328809_AG26_2nd_Oct_Gold_Mens_live_landscape_thumb.jpg" group-title="Golf", Golf - 2 Oct 2026 | 20th Asian Games Aichi-Nagoya 2026
