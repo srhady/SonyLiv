@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "04:20:34 PM 02-10-2026"
+        "last_update": "04:50:39 PM 02-10-2026"
     },
     "live_matches": [
         {
@@ -13,7 +13,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/ag_strea0210/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025467/1790814728666127_AG26_Generic_Stream5_live_landscape_thumb_clean.jpg",
             "token": "?hdnea=exp=1790974245~acl=/*~id=83455216657809727556897113571492~hmac=12407a4c6d541519f90e62e9e1a83c15f3c1233e7fcd41775b48b17f6c80a03d",
-            "token_updated": 1790936425
+            "token_updated": 1790938226
         },
         {
             "match_id": "1090543296",
@@ -22,16 +22,16 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/ag_strea0210/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024839/1790368493065894_AG26_Generic_Stream3_live_landscape_thumb_clean.jpg",
             "token": "?hdnea=exp=1790974245~acl=/*~id=83455216657809727556897113571492~hmac=12407a4c6d541519f90e62e9e1a83c15f3c1233e7fcd41775b48b17f6c80a03d",
-            "token_updated": 1790936425
+            "token_updated": 1790938226
         },
         {
             "match_id": "1090541853",
-            "title": "Beach Volleyball - 2 Oct 2026",
+            "title": "Japan vs China - Men - Volleyball - 2 Oct 2026",
             "tournament": "20th Asian Games Aichi-Nagoya 2026",
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/ag_dx7_00110/ENG/master.m3u8",
-            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541853/thumbnail/1790914334812_1789301718758348_AG26_Beach_Volleyball_pictogram_landscape_thumb.jpg",
+            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541853/thumbnail/1790936421609_1789301604665741_AG26_Volleyball_pictogram_landscape_thumb.jpg",
             "token": "?hdnea=exp=1790943640~acl=/*~id=96709797876726601682873278510693~hmac=8738175bfceb370fc0e758bfaea9bbac76c5988a072457b7400a91943bb7ff16",
-            "token_updated": 1790936425
+            "token_updated": 1790938226
         },
         {
             "match_id": "1090541854",
@@ -40,7 +40,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120308/ag_dx8_00210/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541854/thumbnail/1790931672228_1789298767394741_AG26_Rhythmic_Gymnastics_pictogram_landscape_thumb.jpg",
             "token": "?hdnea=exp=1790959858~acl=/*~id=60101763037620798011503803937414~hmac=cb3674fda7478acdd1ab26d8a4ae526c0aba800643979561c107018abade51c0",
-            "token_updated": 1790936425
+            "token_updated": 1790938226
         },
         {
             "match_id": "1090541855",
@@ -49,7 +49,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/ag_mds1_0110/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789301156639741_AG26_Taekwondo_pictogram_landscape_thumb.jpg",
             "token": "?hdnea=exp=1790943640~acl=/*~id=96709797876726601682873278510693~hmac=8738175bfceb370fc0e758bfaea9bbac76c5988a072457b7400a91943bb7ff16",
-            "token_updated": 1790936425
+            "token_updated": 1790938226
         },
         {
             "match_id": "1090541377",
@@ -58,7 +58,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/ag_mds2_0110/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789293652814348_AG26_Boxing_pictogram_landscape_thumb.jpg",
             "token": "?hdnea=exp=1790943640~acl=/*~id=96709797876726601682873278510693~hmac=8738175bfceb370fc0e758bfaea9bbac76c5988a072457b7400a91943bb7ff16",
-            "token_updated": 1790936425
+            "token_updated": 1790938226
         },
         {
             "match_id": "1090543298",
@@ -67,7 +67,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/ag_mds3_0110/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789301849823741_AG26_Wrestling_pictogram_landscape_thumb.jpg",
             "token": "?hdnea=exp=1790947243~acl=/*~id=54969641390469150075485280669252~hmac=451d64deac38aadbd297129d8b4c492b0609105a62be713a5fa460d86409fc57",
-            "token_updated": 1790936425
+            "token_updated": 1790938226
         },
         {
             "match_id": "1090541370",
@@ -76,7 +76,16 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/ag_mds4_0110/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789299207639348_AG26_Judo_pictogram_landscape_thumb.jpg",
             "token": "?hdnea=exp=1790943640~acl=/*~id=96709797876726601682873278510693~hmac=8738175bfceb370fc0e758bfaea9bbac76c5988a072457b7400a91943bb7ff16",
-            "token_updated": 1790936425
+            "token_updated": 1790938226
+        },
+        {
+            "match_id": "1090546406",
+            "title": "Alfred Dunhill Links Championship - Day 2 - 2 Oct 2026",
+            "tournament": "DP World Tour",
+            "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/Golf_Alf0210/ENG/master.m3u8",
+            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025118/1790561614716673_DPWorldTour26_Alfred_Dunhill_Links_Championship_Day2_landscape_thumb.jpg",
+            "token": "?hdnea=exp=1790981439~acl=/*~id=69603097088952966920362619341906~hmac=8e630cb1070f6c9854bcb8729d99096aa272d90ec8ab62202e1622dc082f179b",
+            "token_updated": 1790938226
         }
     ]
 }
