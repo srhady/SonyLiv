@@ -2,12 +2,12 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 10:50:26 AM 02-10-2026
+# last_update: 11:20:27 AM 02-10-2026
 
-#EXTINF:-1 tvg-id="sonyliv-1090543297" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025597/1790903387870936_AG26_Boxing_Womens75kg_GoldMatch_BaoZiyi_vs_Lovlina_live_landscape_thumb.jpg" group-title="Boxing", India In Action - Boxing - 2 Oct 2026 | 20th Asian Games Aichi-Nagoya 2026
+#EXTINF:-1 tvg-id="sonyliv-1090543297" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024839/1790368025104894_AG26_Generic_Stream1_live_landscape_thumb_clean.jpg" group-title="Sports", Day 14 - 2 Oct 2026 | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2022315/ag_strea0110/ENG/master.m3u8?hdnea=exp=1790943633~acl=/*~id=39342262395456519119082838798273~hmac=1a938b098681b49a9dc6d268885bdb762b966b92bdeb40e2b5d90b527e171e1b
 
-#EXTINF:-1 tvg-id="sonyliv-1090541381" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025597/1790903374706936_AG26_Boxing_Womens75kg_GoldMatch_BaoZiyi_vs_Lovlina_multi_live_landscape_thumb.jpg" group-title="Boxing", India In Action - Boxing - 2 Oct 2026 | 20th Asian Games Aichi-Nagoya 2026
+#EXTINF:-1 tvg-id="sonyliv-1090541381" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025600/1790909330919382_AG26_Archery_Recurve_Mens_Team_Semifinals_Iran_vs_India_multi_live_landscape_thumb.jpg" group-title="Archery", India In Action - Archery - 2 Oct 2026 | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2022317/ag_strea0110/HIN/master.m3u8?hdnea=exp=1790943640~acl=/*~id=96709797876726601682873278510693~hmac=8738175bfceb370fc0e758bfaea9bbac76c5988a072457b7400a91943bb7ff16
 
 #EXTINF:-1 tvg-id="sonyliv-1090541378" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024839/1790368432961894_AG26_Generic_Stream2_live_landscape_thumb_clean.jpg" group-title="Sports", Day 14 - 2 Oct 2026 | 20th Asian Games Aichi-Nagoya 2026
