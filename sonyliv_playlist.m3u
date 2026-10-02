@@ -2,10 +2,22 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 11:50:35 PM 02-10-2026
+# last_update: 12:20:31 AM 03-10-2026
 
-#EXTINF:-1 tvg-id="sonyliv-1090546408" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025381/1790742085086668_UNL2627_Latvia_vs_MonTenegro_landscape_thumb.jpg" group-title="Football", Latvia vs Montenegro - 2 Oct 2026 | UEFA Nations League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2120306/Footlive0210/ENG/master.m3u8?hdnea=exp=1790999442~acl=/*~id=71241835114395652851607175180036~hmac=d77447883b98add56f8c3fe36e4d2a85ea5e164ea27e5d36981de8e41d06383f
+#EXTINF:-1 tvg-id="sonyliv-1090546413" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025380/1790745313722683_UNL2627_France_vs_Italy_landscape_thumb.jpg" group-title="Football", France vs Italy - 3 Oct 2026 | UEFA Nations League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2120305/Footlive0210/ENG/master.m3u8?hdnea=exp=1791008439~acl=/*~id=30329442264509295102047211461786~hmac=5e3a63bcec45fcc069805e89eb5940ee26bc151fc8566e526beb1867a13aeabc
 
-#EXTINF:-1 tvg-id="sonyliv-1090546411" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025380/1790744934581683_UNL2627_Cyprus_vs_Armenia_landscape_thumb.jpg" group-title="Football", Cyprus vs Armenia - 2 Oct 2026 | UEFA Nations League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2120307/Footlive0210/ENG/master.m3u8?hdnea=exp=1790999468~acl=/*~id=99738528497797379785684814301713~hmac=37b7557a2ca83ebffce67515d34ccab36617f63b15934a3de256c6d5df58e4e1
+#EXTINF:-1 tvg-id="sonyliv-1090546414" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025380/1790745452538683_UNL2627_Belgium_vs_Turkiye_landscape_thumb.jpg" group-title="Football", Belgium vs Türkiye - 3 Oct 2026 | UEFA Nations League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2005444/Footlive0210/ENG/master.m3u8?hdnea=exp=1791008455~acl=/*~id=90093362462931834708630252702650~hmac=19c01d225b38f441c5f43f43ebe2a469755fc79bdb0efc83294866e5fd71750b
+
+#EXTINF:-1 tvg-id="sonyliv-1090546415" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025380/1790745793215683_UNL2627_Hungary_vs_Georgia_landscape_thumb.jpg" group-title="Football", Hungary vs Georgia - 3 Oct 2026 | UEFA Nations League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2037139/Footlive0210/ENG/master.m3u8?hdnea=exp=1791008455~acl=/*~id=90093362462931834708630252702650~hmac=19c01d225b38f441c5f43f43ebe2a469755fc79bdb0efc83294866e5fd71750b
+
+#EXTINF:-1 tvg-id="sonyliv-1090546417" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025380/1790747163415683_UNL2627_Bosnia_vs_Sweden_landscape_thumb.jpg" group-title="Football", Bosnia & Herzegovina vs Sweden - 3 Oct 2026 | UEFA Nations League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive0210/ENG/master.m3u8?hdnea=exp=1791008505~acl=/*~id=90875443020908368996488326496706~hmac=683be5e9f4744ba6444c21dd9752e94540a8384920dc70d819f8bb61d3b19fca
+
+#EXTINF:-1 tvg-id="sonyliv-1090546412" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025381/1790745198261668_UNL2627_Ukraine_vs_Northern_Ireland_landscape_thumb.jpg" group-title="Football", Ukraine vs Northern Ireland - 3 Oct 2026 | UEFA Nations League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2094588/Footlive0210/ENG/master.m3u8?hdnea=exp=1791008514~acl=/*~id=59524991020366908684474837498034~hmac=f7622c8cdffcf7c6bc43c7f27aed00eeebcf1cdc2899ee3be17eb1242f56b53d
+
+#EXTINF:-1 tvg-id="sonyliv-1090546418" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025380/1790747295212683_UNL2627_Faroe_Islands_vs_Slovakia_landscape_thumb.jpg" group-title="Football", Faroe Islands vs Slovakia - 3 Oct 2026 | UEFA Nations League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2005445/Footlive0210/ENG/master.m3u8?hdnea=exp=1791008439~acl=/*~id=30329442264509295102047211461786~hmac=5e3a63bcec45fcc069805e89eb5940ee26bc151fc8566e526beb1867a13aeabc
