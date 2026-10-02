@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "11:20:28 PM 02-10-2026"
+        "last_update": "11:50:35 PM 02-10-2026"
     },
     "live_matches": [
         {
@@ -13,7 +13,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120306/Footlive0210/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025381/1790742085086668_UNL2627_Latvia_vs_MonTenegro_landscape_thumb.jpg",
             "token": "?hdnea=exp=1790999442~acl=/*~id=71241835114395652851607175180036~hmac=d77447883b98add56f8c3fe36e4d2a85ea5e164ea27e5d36981de8e41d06383f",
-            "token_updated": 1790961626
+            "token_updated": 1790963432
         },
         {
             "match_id": "1090546411",
@@ -22,7 +22,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/Footlive0210/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025380/1790744934581683_UNL2627_Cyprus_vs_Armenia_landscape_thumb.jpg",
             "token": "?hdnea=exp=1790999468~acl=/*~id=99738528497797379785684814301713~hmac=37b7557a2ca83ebffce67515d34ccab36617f63b15934a3de256c6d5df58e4e1",
-            "token_updated": 1790961626
+            "token_updated": 1790963432
         }
     ]
 }
