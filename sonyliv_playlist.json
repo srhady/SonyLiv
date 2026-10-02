@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "01:20:36 PM 02-10-2026"
+        "last_update": "01:50:31 PM 02-10-2026"
     },
     "live_matches": [
         {
@@ -13,16 +13,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2022315/ag_strea0110/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024839/1790368025104894_AG26_Generic_Stream1_live_landscape_thumb_clean.jpg",
             "token": "?hdnea=exp=1790943633~acl=/*~id=39342262395456519119082838798273~hmac=1a938b098681b49a9dc6d268885bdb762b966b92bdeb40e2b5d90b527e171e1b",
-            "token_updated": 1790925629
-        },
-        {
-            "match_id": "1090541387",
-            "title": "Golf - 2 Oct 2026",
-            "tournament": "20th Asian Games Aichi-Nagoya 2026",
-            "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/ag_dx6_00110/ENG/master.m3u8",
-            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025577/1790884368356652_AG26_2nd_Oct_Golf_Womens_live_landscape_thumb.jpg",
-            "token": "?hdnea=exp=1790943681~acl=/*~id=45741492942295657217504810330017~hmac=af4afafd8369055ffc3807d5054db975dd3918c9365cfbf2c6885bbfe93e4048",
-            "token_updated": 1790925629
+            "token_updated": 1790927424
         },
         {
             "match_id": "1090541853",
@@ -31,7 +22,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/ag_dx7_00110/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541853/thumbnail/1790914334812_1789301718758348_AG26_Beach_Volleyball_pictogram_landscape_thumb.jpg",
             "token": "?hdnea=exp=1790943640~acl=/*~id=96709797876726601682873278510693~hmac=8738175bfceb370fc0e758bfaea9bbac76c5988a072457b7400a91943bb7ff16",
-            "token_updated": 1790925629
+            "token_updated": 1790927424
         },
         {
             "match_id": "1090541854",
@@ -40,7 +31,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120308/ag_dx8_00210/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541854/thumbnail/1790924417888_1789301604665741_AG26_Volleyball_pictogram_landscape_thumb.jpg",
             "token": "?hdnea=exp=1790959858~acl=/*~id=60101763037620798011503803937414~hmac=cb3674fda7478acdd1ab26d8a4ae526c0aba800643979561c107018abade51c0",
-            "token_updated": 1790925629
+            "token_updated": 1790927424
         },
         {
             "match_id": "1090541376",
@@ -49,7 +40,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2022319/ag_edx1_0210/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789300652991741_AG26_Squash_pictogram_landscape_thumb.jpg",
             "token": "?hdnea=exp=1790959850~acl=/*~id=26668325382059578649468874066801~hmac=d449649a15995fa45d8b2b771376f13aabf559f8c4d21abc889841e9dc650ff5",
-            "token_updated": 1790925629
+            "token_updated": 1790927424
         },
         {
             "match_id": "1090541855",
@@ -58,7 +49,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/ag_mds1_0110/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025449/179080184543314_AG26_Rugby_Sevens_pictogram_live_landscape_thumb.jpg",
             "token": "?hdnea=exp=1790943640~acl=/*~id=96709797876726601682873278510693~hmac=8738175bfceb370fc0e758bfaea9bbac76c5988a072457b7400a91943bb7ff16",
-            "token_updated": 1790925629
+            "token_updated": 1790927424
         },
         {
             "match_id": "1090541377",
@@ -67,7 +58,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/ag_mds2_0110/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789293652814348_AG26_Boxing_pictogram_landscape_thumb.jpg",
             "token": "?hdnea=exp=1790943640~acl=/*~id=96709797876726601682873278510693~hmac=8738175bfceb370fc0e758bfaea9bbac76c5988a072457b7400a91943bb7ff16",
-            "token_updated": 1790925629
+            "token_updated": 1790927424
         },
         {
             "match_id": "1090543298",
@@ -76,7 +67,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/ag_mds3_0110/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789301604665741_AG26_Volleyball_pictogram_landscape_thumb.jpg",
             "token": "?hdnea=exp=1790947243~acl=/*~id=54969641390469150075485280669252~hmac=451d64deac38aadbd297129d8b4c492b0609105a62be713a5fa460d86409fc57",
-            "token_updated": 1790925629
+            "token_updated": 1790927424
         },
         {
             "match_id": "1090541370",
@@ -85,7 +76,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/ag_mds4_0110/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789294192890348_AG26_Ju_Jitsu_pictogram_landscape_thumb.jpg",
             "token": "?hdnea=exp=1790943640~acl=/*~id=96709797876726601682873278510693~hmac=8738175bfceb370fc0e758bfaea9bbac76c5988a072457b7400a91943bb7ff16",
-            "token_updated": 1790925629
+            "token_updated": 1790927424
         }
     ]
 }
