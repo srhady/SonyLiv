@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "01:50:28 PM 03-10-2026"
+        "last_update": "02:20:32 PM 03-10-2026"
     },
     "live_matches": [
         {
@@ -13,7 +13,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2043696/cricodi0310/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025707/1790998700702362_AG26_ind_vs_pak_final_live_landscape_thumb.jpg",
             "token": "?hdnea=exp=1791040837~acl=/*~id=84012445627073631830832636064491~hmac=663cceff79a96579c065d3ec51baac34f140e457907080916be464252363e1c4",
-            "token_updated": 1791013824
+            "token_updated": 1791015624
         },
         {
             "match_id": "1090543297",
@@ -22,7 +22,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/ag_strea0210/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024839/1790368025104894_AG26_Generic_Stream1_live_landscape_thumb_clean.jpg",
             "token": "?hdnea=exp=1791028232~acl=/*~id=50248688657880867239989772037814~hmac=e17773620c5157e6c859cbdff1cb0be1be2a073acc0316feecb714f70a40f3b4",
-            "token_updated": 1791013824
+            "token_updated": 1791015624
         },
         {
             "match_id": "1090541380",
@@ -31,7 +31,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/ag_dx2_00210/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/blitz_assets/1090541380/thumbnail/1791003565492_1789299123285348_AG26_Hockey_pictogram_landscape_thumb.jpg",
             "token": "?hdnea=exp=1791028232~acl=/*~id=50248688657880867239989772037814~hmac=e17773620c5157e6c859cbdff1cb0be1be2a073acc0316feecb714f70a40f3b4",
-            "token_updated": 1791013824
+            "token_updated": 1791015624
         },
         {
             "match_id": "1090541370",
@@ -39,8 +39,8 @@
             "tournament": "20th Asian Games Aichi-Nagoya 2026",
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/ag_mds4_0210/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789297941567348_AG26_Golf_pictogram_landscape_thumb.jpg",
-            "token": "?hdnea=exp=1791017438~acl=/*~id=22996757667710002841757752074188~hmac=8a6ccbf86c352cbbe8cfc73355fb54ea8d4d2d6858d0c089ef590f2020cbdd16",
-            "token_updated": 1791013824
+            "token": "?hdnea=exp=1791058832~acl=/*~id=08429568719682706116188112177312~hmac=f1a238c14faf47a068e4b0e3b9f16c457f62fc6a6a0a447e1a3c62548290508d",
+            "token_updated": 1791015624
         },
         {
             "match_id": "1090541386",
@@ -49,7 +49,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/ag_dx5_00310/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789301604665741_AG26_Volleyball_pictogram_landscape_thumb.jpg",
             "token": "?hdnea=exp=1791042635~acl=/*~id=16654853601436551659895089208426~hmac=4bfb75f021ce40a83675b13bbd15e063d42715a9532c6febbd8a08c606a47451",
-            "token_updated": 1791013824
+            "token_updated": 1791015624
         },
         {
             "match_id": "1090541378",
@@ -58,7 +58,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/ag_strea0210/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000024839/1790368432961894_AG26_Generic_Stream2_live_landscape_thumb_clean.jpg",
             "token": "?hdnea=exp=1791024644~acl=/*~id=46657219117778403527314187298168~hmac=51e42ffe7fc4506657ba9d46dfe6829ca18ceb250956c73d2b61fe4a182a4b15",
-            "token_updated": 1791013824
+            "token_updated": 1791015624
         },
         {
             "match_id": "1090541377",
@@ -67,16 +67,16 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/ag_mds2_0210/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789301156639741_AG26_Taekwondo_pictogram_landscape_thumb.jpg",
             "token": "?hdnea=exp=1791028239~acl=/*~id=93467340249046866773260439860543~hmac=95b6ba1dec3af5fea8a33d8187e193f7a1d10d20d0d2a3a5a2b2db2093030504",
-            "token_updated": 1791013824
+            "token_updated": 1791015624
         },
         {
             "match_id": "1090541855",
-            "title": "Archery - 3 Oct 2026",
+            "title": "Judo - 3 Oct 2026",
             "tournament": "20th Asian Games Aichi-Nagoya 2026",
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/ag_mds1_0210/ENG/master.m3u8",
-            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789285619786348_AG26_archery_pictogram_landscape_thumb.jpg",
+            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789299207639348_AG26_Judo_pictogram_landscape_thumb.jpg",
             "token": "?hdnea=exp=1791028262~acl=/*~id=98601785485711092808063264943013~hmac=52b9670e28542601eac5f3735aae5cb1fc8f5b338ee628c0e2fa41e9ebf02b7d",
-            "token_updated": 1791013824
+            "token_updated": 1791015624
         },
         {
             "match_id": "1090543298",
@@ -85,7 +85,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/ag_mds3_0210/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025449/179080184543314_AG26_Rugby_Sevens_pictogram_live_landscape_thumb.jpg",
             "token": "?hdnea=exp=1791028232~acl=/*~id=50248688657880867239989772037814~hmac=e17773620c5157e6c859cbdff1cb0be1be2a073acc0316feecb714f70a40f3b4",
-            "token_updated": 1791013824
+            "token_updated": 1791015624
         }
     ]
 }
