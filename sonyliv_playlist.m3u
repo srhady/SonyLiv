@@ -2,12 +2,12 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 05:20:28 PM 03-10-2026
+# last_update: 05:50:29 PM 03-10-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090546707" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025756/1791018989707852_AG26_Mens_Hockey_Final_India_vs_Malaysia_live_landscape_thumb.jpg" group-title="Hockey", India vs Malaysia - Men's Finals - Hockey - 3 Oct 2026 | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2120307/ag_strea0310/ENG/master.m3u8?hdnea=exp=1791062437~acl=/*~id=88304891389122297769710143860964~hmac=c5994d88937c4f79db007fe6a8a4f5695f62f837d9f98bf6981bd0bf44451aeb
 
-#EXTINF:-1 tvg-id="sonyliv-1090543296" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789301849823741_AG26_Wrestling_pictogram_landscape_thumb.jpg" group-title="Wrestling", Wrestling - Finals - 3 Oct 2026 | 20th Asian Games Aichi-Nagoya 2026
+#EXTINF:-1 tvg-id="sonyliv-1090543296" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789301849823741_AG26_Wrestling_pictogram_landscape_thumb.jpg" group-title="Wrestling", Wrestling - 3 Oct 2026 | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2120306/ag_strea0310/ENG/master.m3u8?hdnea=exp=1791060635~acl=/*~id=24919849605430259593738012037900~hmac=d616d61699481ac01191751216be97564fabf85d13c7f02d8f51cccc5f4b9681
 
 #EXTINF:-1 tvg-id="sonyliv-1090541370" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789297879081348_AG26_Football_pictogram_landscape_thumb.jpg" group-title="Football", Football - 3 Oct 2026 | 20th Asian Games Aichi-Nagoya 2026
@@ -24,3 +24,6 @@ https://sonydaimenew.akamaized.net/hls/live/2018457/ag_mds1_0210/ENG/master.m3u8
 
 #EXTINF:-1 tvg-id="sonyliv-1090543298" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789301849823741_AG26_Wrestling_pictogram_landscape_thumb.jpg" group-title="Wrestling", Wrestling - 3 Oct 2026 | 20th Asian Games Aichi-Nagoya 2026
 https://sonydaimenew.akamaized.net/hls/live/2018458/ag_mds3_0210/ENG/master.m3u8?hdnea=exp=1791069631~acl=/*~id=84710811373365085127933281773029~hmac=1a853e8ac0e54d36abd9bdce0d30d64614f8db896a651d75b316dda32bd7fdb9
+
+#EXTINF:-1 tvg-id="sonyliv-1090546606" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025118/1790561622197673_DPWorldTour26_Alfred_Dunhill_Links_Championship_Day3_landscape_thumb.jpg" group-title="Golf", Alfred Dunhill Links Championship - Day 3 - 3 Oct 2026 | DP World Tour
+https://sonydaimenew.akamaized.net/hls/live/2022317/golflive0310/ENG/master.m3u8?hdnea=exp=1791071442~acl=/*~id=60705449284913385413257355408452~hmac=68633fcb85e354e7721ff6db9df40cbe75660299486daabd4aeacace7ac21c60
