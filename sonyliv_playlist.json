@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "01:20:31 AM 04-10-2026"
+        "last_update": "01:50:30 AM 04-10-2026"
     },
     "live_matches": [
         {
@@ -13,7 +13,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive0310/",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025445/1790794130646993_UNL2627_MD4_Spain_vs_Czechia_landscape_thumb.jpg",
             "token": "?hdnea=exp=1791094840~acl=/*~id=54689128546043421073287297300025~hmac=3c254508584bd7537831b0ecfcdee3be0ff43b6897ff233e8a83740989b6b24c",
-            "token_updated": 1791055229,
+            "token_updated": 1791057028,
             "audio_list": [
                 {
                     "lang_code": "ENG",
@@ -28,7 +28,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120308/Footlive0310/",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025445/1790794256973993_UNL2627_MD4_Switzerland_vs_Slovenia_landscape_thumb.jpg",
             "token": "?hdnea=exp=1791094847~acl=/*~id=29857471698863511311167754058006~hmac=b9fcb55ab971e083be4c6ace9b0af0de4626c9afd602243ba39c5f6d9ac1fbde",
-            "token_updated": 1791055229,
+            "token_updated": 1791057028,
             "audio_list": [
                 {
                     "lang_code": "ENG",
@@ -43,7 +43,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Footlive0310/",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025445/1790794384535993_UNL2627_MD4_North_Macedonia_vs_Scotland_landscape_thumb.jpg",
             "token": "?hdnea=exp=1791094840~acl=/*~id=54689128546043421073287297300025~hmac=3c254508584bd7537831b0ecfcdee3be0ff43b6897ff233e8a83740989b6b24c",
-            "token_updated": 1791055229,
+            "token_updated": 1791057028,
             "audio_list": [
                 {
                     "lang_code": "ENG",
