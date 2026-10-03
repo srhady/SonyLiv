@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "05:50:42 PM 03-10-2026"
+        "last_update": "06:20:30 PM 03-10-2026"
     },
     "live_matches": [
         {
@@ -13,7 +13,29 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/ag_strea0310/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025756/1791018989707852_AG26_Mens_Hockey_Final_India_vs_Malaysia_live_landscape_thumb.jpg",
             "token": "?hdnea=exp=1791062437~acl=/*~id=88304891389122297769710143860964~hmac=c5994d88937c4f79db007fe6a8a4f5695f62f837d9f98bf6981bd0bf44451aeb",
-            "token_updated": 1791028226
+            "token_updated": 1791030027,
+            "audio_list": [
+                {
+                    "lang_code": "ENG",
+                    "lang_label": "English"
+                },
+                {
+                    "lang_code": "HIN",
+                    "lang_label": "Hindi"
+                },
+                {
+                    "lang_code": "TAM",
+                    "lang_label": "Tamil"
+                },
+                {
+                    "lang_code": "TEL",
+                    "lang_label": "Telugu"
+                },
+                {
+                    "lang_code": "KAN",
+                    "lang_label": "Kannada"
+                }
+            ]
         },
         {
             "match_id": "1090543296",
@@ -22,7 +44,17 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120306/ag_strea0310/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789301849823741_AG26_Wrestling_pictogram_landscape_thumb.jpg",
             "token": "?hdnea=exp=1791060635~acl=/*~id=24919849605430259593738012037900~hmac=d616d61699481ac01191751216be97564fabf85d13c7f02d8f51cccc5f4b9681",
-            "token_updated": 1791028226
+            "token_updated": 1791030027,
+            "audio_list": [
+                {
+                    "lang_code": "ENG",
+                    "lang_label": "English"
+                },
+                {
+                    "lang_code": "HIN",
+                    "lang_label": "Hindi"
+                }
+            ]
         },
         {
             "match_id": "1090541370",
@@ -31,7 +63,13 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/ag_mds4_0210/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789297879081348_AG26_Football_pictogram_landscape_thumb.jpg",
             "token": "?hdnea=exp=1791058832~acl=/*~id=08429568719682706116188112177312~hmac=f1a238c14faf47a068e4b0e3b9f16c457f62fc6a6a0a447e1a3c62548290508d",
-            "token_updated": 1791028226
+            "token_updated": 1791030027,
+            "audio_list": [
+                {
+                    "lang_code": "ENG",
+                    "lang_label": "English"
+                }
+            ]
         },
         {
             "match_id": "1090541386",
@@ -40,7 +78,13 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/ag_dx5_00310/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789301604665741_AG26_Volleyball_pictogram_landscape_thumb.jpg",
             "token": "?hdnea=exp=1791042635~acl=/*~id=16654853601436551659895089208426~hmac=4bfb75f021ce40a83675b13bbd15e063d42715a9532c6febbd8a08c606a47451",
-            "token_updated": 1791028226
+            "token_updated": 1791030027,
+            "audio_list": [
+                {
+                    "lang_code": "ENG",
+                    "lang_label": "English"
+                }
+            ]
         },
         {
             "match_id": "1090541377",
@@ -49,7 +93,13 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/ag_mds2_0210/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789298767394741_AG26_Rhythmic_Gymnastics_pictogram_landscape_thumb.jpg",
             "token": "?hdnea=exp=1791069631~acl=/*~id=84710811373365085127933281773029~hmac=1a853e8ac0e54d36abd9bdce0d30d64614f8db896a651d75b316dda32bd7fdb9",
-            "token_updated": 1791028226
+            "token_updated": 1791030027,
+            "audio_list": [
+                {
+                    "lang_code": "ENG",
+                    "lang_label": "English"
+                }
+            ]
         },
         {
             "match_id": "1090541855",
@@ -58,7 +108,13 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/ag_mds1_0210/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023915/1789299123285348_AG26_Hockey_pictogram_landscape_thumb.jpg",
             "token": "?hdnea=exp=1791069631~acl=/*~id=84710811373365085127933281773029~hmac=1a853e8ac0e54d36abd9bdce0d30d64614f8db896a651d75b316dda32bd7fdb9",
-            "token_updated": 1791028226
+            "token_updated": 1791030027,
+            "audio_list": [
+                {
+                    "lang_code": "ENG",
+                    "lang_label": "English"
+                }
+            ]
         },
         {
             "match_id": "1090543298",
@@ -67,7 +123,13 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/ag_mds3_0210/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000023916/1789301849823741_AG26_Wrestling_pictogram_landscape_thumb.jpg",
             "token": "?hdnea=exp=1791069631~acl=/*~id=84710811373365085127933281773029~hmac=1a853e8ac0e54d36abd9bdce0d30d64614f8db896a651d75b316dda32bd7fdb9",
-            "token_updated": 1791028226
+            "token_updated": 1791030027,
+            "audio_list": [
+                {
+                    "lang_code": "ENG",
+                    "lang_label": "English"
+                }
+            ]
         },
         {
             "match_id": "1090546606",
@@ -76,7 +138,13 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/golflive0310/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025118/1790561622197673_DPWorldTour26_Alfred_Dunhill_Links_Championship_Day3_landscape_thumb.jpg",
             "token": "?hdnea=exp=1791071442~acl=/*~id=60705449284913385413257355408452~hmac=68633fcb85e354e7721ff6db9df40cbe75660299486daabd4aeacace7ac21c60",
-            "token_updated": 1791028226
+            "token_updated": 1791030027,
+            "audio_list": [
+                {
+                    "lang_code": "ENG",
+                    "lang_label": "English"
+                }
+            ]
         }
     ]
 }
