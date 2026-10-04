@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "12:50:35 AM 05-10-2026"
+        "last_update": "01:20:32 AM 05-10-2026"
     },
     "live_matches": [
         {
@@ -13,7 +13,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/Footlive0410/",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025563/1790824955115953_UNL2627_MD4_Portugal_vs_Norway_landscape_thumb.jpg",
             "token": "?hdnea=exp=1791181235~acl=/*~id=47987196680457414852985663169275~hmac=fc14e380a81e024e6416332bcce366dec6c0e5cb3efc935aab70e92a48a44bca",
-            "token_updated": 1791139825,
+            "token_updated": 1791141628,
             "audio_list": [
                 {
                     "lang_code": "ENG",
@@ -28,7 +28,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/Footlive0410/",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025563/1790826239896953_UNL2627_MD4_Greece_vs_Germany_landscape_thumb.jpg",
             "token": "?hdnea=exp=1791181247~acl=/*~id=06433787307046542698691667272555~hmac=0c73e7253a1a0b2f006c0b4d3957afcb9c867d93df8d945a17c04743db75b954",
-            "token_updated": 1791139825,
+            "token_updated": 1791141628,
             "audio_list": [
                 {
                     "lang_code": "ENG",
@@ -43,7 +43,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/Footlive0410/",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025563/1790825055764953_UNL2627_MD4_Netherlands_vs_Serbia_landscape_thumb.jpg",
             "token": "?hdnea=exp=1791183035~acl=/*~id=38178237747827790748568701768509~hmac=f0f4cc84d5a16f844e5be58dc18557ec24dd574efdef51be70e4e1e58949d0dc",
-            "token_updated": 1791139825,
+            "token_updated": 1791141628,
             "audio_list": [
                 {
                     "lang_code": "ENG",
@@ -58,7 +58,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Footlive0410/",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025563/1790826480522953_UNL2627_MD4_Wales_vs_Denmark_landscape_thumb.jpg",
             "token": "?hdnea=exp=1791181281~acl=/*~id=46313128070197975081988183216686~hmac=944806f1707c1eab9cf3b656c48b93c43d6d42b8c755841ad147fb88c81d5b33",
-            "token_updated": 1791139825,
+            "token_updated": 1791141628,
             "audio_list": [
                 {
                     "lang_code": "ENG",
@@ -73,7 +73,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/Footlive0410/",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025563/1790826368427953_UNL2627_MD4_Republic_of_Ireland_vs_Israel_landscape_thumb.jpg",
             "token": "?hdnea=exp=1791181247~acl=/*~id=06433787307046542698691667272555~hmac=0c73e7253a1a0b2f006c0b4d3957afcb9c867d93df8d945a17c04743db75b954",
-            "token_updated": 1791139825,
+            "token_updated": 1791141628,
             "audio_list": [
                 {
                     "lang_code": "ENG",
