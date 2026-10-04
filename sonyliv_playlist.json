@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "11:20:33 PM 04-10-2026"
+        "last_update": "11:50:33 PM 04-10-2026"
     },
     "live_matches": [
         {
@@ -13,7 +13,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive0410/",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025445/1790795255287993_UNL2627_MD4_Kosovo_vs_Austria_landscape_thumb.jpg",
             "token": "?hdnea=exp=1791170438~acl=/*~id=08922464962888233002080627803239~hmac=f47b2b14697e97819a2e0088a3a3e0a267f1aff6d21e671deaa9bbb128f8fbbb",
-            "token_updated": 1791134430,
+            "token_updated": 1791136227,
             "audio_list": [
                 {
                     "lang_code": "ENG",
@@ -28,7 +28,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120308/Footlive0410/",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025445/1790795407473993_UNL2627_MD4_Malta_vs_Andorra_landscape_thumb.jpg",
             "token": "?hdnea=exp=1791170451~acl=/*~id=49942054377503995884123288737081~hmac=5e44a13982713fc689270f1eb6dea66addaaf5bf1560fa51c98b5337111b5278",
-            "token_updated": 1791134430,
+            "token_updated": 1791136227,
             "audio_list": [
                 {
                     "lang_code": "ENG",
