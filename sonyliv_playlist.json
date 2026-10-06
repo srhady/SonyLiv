@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "06:51:03 PM 06-10-2026"
+        "last_update": "07:20:40 PM 06-10-2026"
     },
     "live_matches": [
         {
@@ -13,7 +13,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/Footlive0610/",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025876/1791196705518723_IND_vs_URU_live_landscape_thumb.jpg",
             "token": "?hdnea=exp=1791334246~acl=/*~id=02720950807454468065600685015845~hmac=0b2332b9e4bb6dd81824108be8848b1b77a53a8dd50b75326e5a277eeeb22de0",
-            "token_updated": 1791291031,
+            "token_updated": 1791292829,
             "audio_list": [
                 {
                     "lang_code": "ENG",
@@ -44,7 +44,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/Volleyba0610/",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025877/1791197268369540_VCL_Emperia-Marathas-vs-Punjab-Aerostrikers_live_landscape_thumb.jpg",
             "token": "?hdnea=exp=1791334255~acl=/*~id=86287522498117049550673295674549~hmac=90a5dcd30d3954d40ecf9fc5e25fc149d67c2e20ce8a6681ba57356044ebad32",
-            "token_updated": 1791291031,
+            "token_updated": 1791292829,
             "audio_list": [
                 {
                     "lang_code": "ENG",
@@ -63,11 +63,26 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/Footlive0610/",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025876/1791196784948723_IND_vs_URU_live_landscape_thumb_benagli.jpg",
             "token": "?hdnea=exp=1791334255~acl=/*~id=86287522498117049550673295674549~hmac=90a5dcd30d3954d40ecf9fc5e25fc149d67c2e20ce8a6681ba57356044ebad32",
-            "token_updated": 1791291031,
+            "token_updated": 1791292829,
             "audio_list": [
                 {
                     "lang_code": "BEN",
                     "lang_label": "Bengali"
+                }
+            ]
+        },
+        {
+            "match_id": "1090547220",
+            "title": "Kazakhstan vs Faroe Islands",
+            "tournament": "UEFA Nations League 2026-27",
+            "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive0610/",
+            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025582/1790880464463804_UNL2627_MD4_Kazakhstan_vs_Faroe_Islands_landscape_thumb.jpg",
+            "token": "?hdnea=exp=1791336040~acl=/*~id=12437333618821553730941650761285~hmac=dd6482a0cadf4cfb70f1065c55c1f24a512c840b83fa2d0d69a6ecce861023ec",
+            "token_updated": 1791292829,
+            "audio_list": [
+                {
+                    "lang_code": "ENG",
+                    "lang_label": "English"
                 }
             ]
         }
