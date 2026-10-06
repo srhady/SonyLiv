@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "12:21:55 AM 07-10-2026"
+        "last_update": "12:50:42 AM 07-10-2026"
     },
     "live_matches": [
         {
@@ -13,7 +13,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120308/Footlive0610/",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025582/1790888006590804_UNL2627_MD4_Croatia_vs_Spain_landscape_thumb.jpg",
             "token": "?hdnea=exp=1791354038~acl=/*~id=95399075564759817973331535507990~hmac=0f31dd781929a1734fa90d19150cb1322b592a4112d2243b31fac27668aa2778",
-            "token_updated": 1791310829,
+            "token_updated": 1791312632,
             "audio_list": [
                 {
                     "lang_code": "ENG",
@@ -28,7 +28,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Footlive0610/",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025582/1790888134629804_UNL2627_MD4_England_vs_Czechia_landscape_thumb.jpg",
             "token": "?hdnea=exp=1791354046~acl=/*~id=57025304477259262861274872541259~hmac=0a7c2c7162c11ec102552c07e7c811cac2142004650c03aeec6003fe95c331d9",
-            "token_updated": 1791310829,
+            "token_updated": 1791312632,
             "audio_list": [
                 {
                     "lang_code": "ENG",
@@ -43,7 +43,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120305/Footlive0610/",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025582/1790888252342804_UNL2627_MD4_Scotland_vs_Slovenia_landscape_thumb.jpg",
             "token": "?hdnea=exp=1791354061~acl=/*~id=84293138492419147874849506917535~hmac=57c0d0a40ee924d0a172391a797d5e2c4be0bc1827e63b0777603b2a04439bac",
-            "token_updated": 1791310829,
+            "token_updated": 1791312632,
             "audio_list": [
                 {
                     "lang_code": "ENG",
@@ -58,7 +58,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/criclive0610/",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025582/1790880578676804_UNL2627_MD4_Switzerland_vs_North_Macedonia_landscape_thumb.jpg",
             "token": "?hdnea=exp=1791354069~acl=/*~id=36451029528244255467600552895344~hmac=51e800927fc18b97f37974e9380fe7ffb7dce0431932515d0e6d20f91dfa9f78",
-            "token_updated": 1791310829,
+            "token_updated": 1791312632,
             "audio_list": [
                 {
                     "lang_code": "ENG",
@@ -73,7 +73,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/criclive0610/",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025582/1790887734360804_UNL2627_MD4_Moldova_vs_Slovakia_landscape_thumb.jpg",
             "token": "?hdnea=exp=1791354069~acl=/*~id=36451029528244255467600552895344~hmac=51e800927fc18b97f37974e9380fe7ffb7dce0431932515d0e6d20f91dfa9f78",
-            "token_updated": 1791310829,
+            "token_updated": 1791312632,
             "audio_list": [
                 {
                     "lang_code": "ENG",
@@ -88,7 +88,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive0610/",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025582/1790887403237804_UNL2627_MD4_Belarus_vs_Finland_landscape_thumb.jpg",
             "token": "?hdnea=exp=1791354061~acl=/*~id=84293138492419147874849506917535~hmac=57c0d0a40ee924d0a172391a797d5e2c4be0bc1827e63b0777603b2a04439bac",
-            "token_updated": 1791310829,
+            "token_updated": 1791312632,
             "audio_list": [
                 {
                     "lang_code": "ENG",
@@ -103,7 +103,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/criclive0610/",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025582/1790887864024804_UNL2627_MD4_Estonia_vs_Iceland_landscape_thumb.jpg",
             "token": "?hdnea=exp=1791354061~acl=/*~id=84293138492419147874849506917535~hmac=57c0d0a40ee924d0a172391a797d5e2c4be0bc1827e63b0777603b2a04439bac",
-            "token_updated": 1791310829,
+            "token_updated": 1791312632,
             "audio_list": [
                 {
                     "lang_code": "ENG",
@@ -118,7 +118,22 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120306/Footlive0610/",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025582/1790887630230804_UNL2627_MD4_Luxembourg_vs_Bulgaria_landscape_thumb.jpg",
             "token": "?hdnea=exp=1791354061~acl=/*~id=84293138492419147874849506917535~hmac=57c0d0a40ee924d0a172391a797d5e2c4be0bc1827e63b0777603b2a04439bac",
-            "token_updated": 1791310829,
+            "token_updated": 1791312632,
+            "audio_list": [
+                {
+                    "lang_code": "ENG",
+                    "lang_label": "English"
+                }
+            ]
+        },
+        {
+            "match_id": "1090547288",
+            "title": "Albania vs San Marino",
+            "tournament": "UEFA Nations League 2026-27",
+            "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/Footlive0610/",
+            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025582/1790887204398804_UNL2627_MD4_Albania_vs_San_Marino_landscape_thumb.jpg",
+            "token": "?hdnea=exp=1791355842~acl=/*~id=80420059042309221530449101927661~hmac=6765b3e94c16d347ab39403cfc4d573cc718b58fd2554e32d8debf00e2c9ff21",
+            "token_updated": 1791312632,
             "audio_list": [
                 {
                     "lang_code": "ENG",
