@@ -3,32 +3,9 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "09:50:24 PM 10-10-2026"
+        "last_update": "10:20:24 PM 10-10-2026"
     },
     "live_matches": [
-        {
-            "match_id": "1090547647",
-            "title": "FC Goa vs Chennaiyin FC",
-            "tournament": "MG Indian Super League 2026-27",
-            "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive1010/",
-            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026083/1791560288594403_ISL_Goa_vs_chennai_landscape_Thum.jpg",
-            "token": "?hdnea=exp=1791683438~acl=/*~id=21609555778864856001558541648777~hmac=192a77f92796f5e2596b456883e685e5fb473f00126bbae32b7343c1615b50bf",
-            "token_updated": 1791647421,
-            "audio_list": [
-                {
-                    "lang_code": "ENG",
-                    "lang_label": "English"
-                },
-                {
-                    "lang_code": "HIN",
-                    "lang_label": "Hindi"
-                },
-                {
-                    "lang_code": "TAM",
-                    "lang_label": "Tamil"
-                }
-            ]
-        },
         {
             "match_id": "1090547535",
             "title": "Delhi Dynamites vs Hoogly Hitters",
@@ -36,7 +13,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/Volleyba1010/",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026058/179137498177852_VCL_Delhi-Dynamites-vs-Hoogly-Hitters_live_landscape_thumb.jpg",
             "token": "?hdnea=exp=1791683438~acl=/*~id=21609555778864856001558541648777~hmac=192a77f92796f5e2596b456883e685e5fb473f00126bbae32b7343c1615b50bf",
-            "token_updated": 1791647421,
+            "token_updated": 1791649222,
             "audio_list": [
                 {
                     "lang_code": "ENG",
@@ -45,36 +22,6 @@
                 {
                     "lang_code": "HIN",
                     "lang_label": "Hindi"
-                }
-            ]
-        },
-        {
-            "match_id": "1090547537",
-            "title": "Rajputana Royals vs Kakatiya Knights",
-            "tournament": "Archery Premier League 2026",
-            "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120308/Archery_1010/",
-            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026053/1791529925078684_APL26_Rajputana-Royals-vs-Kakatiya-Knights_live_landscape_thumb.jpg",
-            "token": "?hdnea=exp=1791683460~acl=/*~id=98138470456180511501118299521004~hmac=f541f91ca64678e5e3f0531631ec5a8de6d94c8d81d213b578644fe8a75b7629",
-            "token_updated": 1791647421,
-            "audio_list": [
-                {
-                    "lang_code": "ENG",
-                    "lang_label": "English"
-                }
-            ]
-        },
-        {
-            "match_id": "1090547534",
-            "title": "Open de Espana Presented By Madrid - Day 3",
-            "tournament": "DP World Tour",
-            "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/Golf_DPW1010/",
-            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025235/1790649388803310_DP_World_Tour_2026_OpendeEspana_presentedby_Madrid_Day3_landscape_thumb.jpg",
-            "token": "?hdnea=exp=1791674435~acl=/*~id=18423025070604368853146253552318~hmac=c733fe8020f2098016f432363ceab06a50931d15e6dece2a7593d8b2965771de",
-            "token_updated": 1791647421,
-            "audio_list": [
-                {
-                    "lang_code": "ENG",
-                    "lang_label": "English"
                 }
             ]
         }
