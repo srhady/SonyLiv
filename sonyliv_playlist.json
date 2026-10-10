@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "05:20:35 PM 10-10-2026"
+        "last_update": "05:50:24 PM 10-10-2026"
     },
     "live_matches": [
         {
@@ -13,7 +13,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/footlive1010/",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026081/1791559712200647_ISL_Bengaluru_vs_SportingClub_Delhi_landscape_Thum.jpg",
             "token": "?hdnea=exp=1791672634~acl=/*~id=31834631435200242716008604398618~hmac=a3b58f47dc48512102d4368905bbaec66e8c205be3de90046e3670afc7245e7e",
-            "token_updated": 1791631223,
+            "token_updated": 1791633022,
             "audio_list": [
                 {
                     "lang_code": "ENG",
@@ -32,7 +32,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/Golf_DPW1010/",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025235/1790649388803310_DP_World_Tour_2026_OpendeEspana_presentedby_Madrid_Day3_landscape_thumb.jpg",
             "token": "?hdnea=exp=1791674435~acl=/*~id=18423025070604368853146253552318~hmac=c733fe8020f2098016f432363ceab06a50931d15e6dece2a7593d8b2965771de",
-            "token_updated": 1791631223,
+            "token_updated": 1791633022,
             "audio_list": [
                 {
                     "lang_code": "ENG",
