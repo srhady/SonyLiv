@@ -2,7 +2,7 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 08:50:25 PM 10-10-2026
+# last_update: 09:20:23 PM 10-10-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090547647" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026083/1791560288594403_ISL_Goa_vs_chennai_landscape_Thum.jpg" group-title="Football", FC Goa vs Chennaiyin FC - MG Indian Super League 2026-27 [English]
 https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive1010/ENG/master.m3u8?hdnea=exp=1791683438~acl=/*~id=21609555778864856001558541648777~hmac=192a77f92796f5e2596b456883e685e5fb473f00126bbae32b7343c1615b50bf
@@ -13,10 +13,10 @@ https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive1010/HIN/master.m3u8
 #EXTINF:-1 tvg-id="sonyliv-1090547647" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026083/1791560288594403_ISL_Goa_vs_chennai_landscape_Thum.jpg" group-title="Football", FC Goa vs Chennaiyin FC - MG Indian Super League 2026-27 [Tamil]
 https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive1010/TAM/master.m3u8?hdnea=exp=1791683438~acl=/*~id=21609555778864856001558541648777~hmac=192a77f92796f5e2596b456883e685e5fb473f00126bbae32b7343c1615b50bf
 
-#EXTINF:-1 tvg-id="sonyliv-1090547535" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025989/1791373944150475_VCL_Rajasthan-Spikers-vs-Ayodhya-Garjan_live_landscape_thumb.jpg" group-title="Volleyball", Rajasthan Spikers vs Ayodhya Garjan - Volleyball Championship League 2026  [English]
+#EXTINF:-1 tvg-id="sonyliv-1090547535" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026058/179137498177852_VCL_Delhi-Dynamites-vs-Hoogly-Hitters_live_landscape_thumb.jpg" group-title="Volleyball", Delhi Dynamites vs Hoogly Hitters - Volleyball Championship League 2026  [English]
 https://sonydaimenew.akamaized.net/hls/live/2120300/Volleyba1010/ENG/master.m3u8?hdnea=exp=1791683438~acl=/*~id=21609555778864856001558541648777~hmac=192a77f92796f5e2596b456883e685e5fb473f00126bbae32b7343c1615b50bf
 
-#EXTINF:-1 tvg-id="sonyliv-1090547535" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025989/1791373944150475_VCL_Rajasthan-Spikers-vs-Ayodhya-Garjan_live_landscape_thumb.jpg" group-title="Volleyball", Rajasthan Spikers vs Ayodhya Garjan - Volleyball Championship League 2026  [Hindi]
+#EXTINF:-1 tvg-id="sonyliv-1090547535" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026058/179137498177852_VCL_Delhi-Dynamites-vs-Hoogly-Hitters_live_landscape_thumb.jpg" group-title="Volleyball", Delhi Dynamites vs Hoogly Hitters - Volleyball Championship League 2026  [Hindi]
 https://sonydaimenew.akamaized.net/hls/live/2120300/Volleyba1010/HIN/master.m3u8?hdnea=exp=1791683438~acl=/*~id=21609555778864856001558541648777~hmac=192a77f92796f5e2596b456883e685e5fb473f00126bbae32b7343c1615b50bf
 
 #EXTINF:-1 tvg-id="sonyliv-1090547537" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026051/1791529625526250_APL26_Prithviraj-Yodhas-vs-Chero-Archers_live_landscape_thumb.jpg" group-title="Archery", Prithviraj Yodhas vs Chero Archers - Archery Premier League 2026 [English]
