@@ -3,28 +3,9 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "09:50:23 PM 11-10-2026"
+        "last_update": "10:20:29 PM 11-10-2026"
     },
     "live_matches": [
-        {
-            "match_id": "1090547704",
-            "title": "Churchill Brothers FC vs Mumbai City FC",
-            "tournament": "MG Indian Super League 2026-27",
-            "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/Footlive1110/",
-            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026115/1791634833928493_Churchill_Brothers_FC-vs_Mumbai_City_FC_landscape_Thum.jpg",
-            "token": "?hdnea=exp=1791769835~acl=/*~id=79195673746224071666027373284931~hmac=6d07e9b9364810590d0c42849f88d35297c55e5048dd417a40995fd97aa9c70f",
-            "token_updated": 1791733820,
-            "audio_list": [
-                {
-                    "lang_code": "ENG",
-                    "lang_label": "English"
-                },
-                {
-                    "lang_code": "HIN",
-                    "lang_label": "Hindi"
-                }
-            ]
-        },
         {
             "match_id": "1090547695",
             "title": "Namma Bengaluru Smashers vs Haryana Hurricanes",
@@ -32,7 +13,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/Volleyba1110/",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026058/179137556416152_VCL_Namma-Bengaluru-Smashers-vs-Haryana-Hurricane_live_landscape_thumb.jpg",
             "token": "?hdnea=exp=1791766237~acl=/*~id=76106323387378837626134410955870~hmac=7e268941dd7f9a99b4f1927c7056ae51215ad2d119e07ce9c6fe7f2cf1e04626",
-            "token_updated": 1791733820,
+            "token_updated": 1791735624,
             "audio_list": [
                 {
                     "lang_code": "ENG",
@@ -41,21 +22,6 @@
                 {
                     "lang_code": "HIN",
                     "lang_label": "Hindi"
-                }
-            ]
-        },
-        {
-            "match_id": "1090547697",
-            "title": "Mighty Marathas vs Rajputana Royals",
-            "tournament": "Archery Premier League 2026",
-            "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Archery_1110/",
-            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026051/1791529454329250_APL26_Mighty-Marathas-vs-Rajputana-Royals_live_landscape_thumb.jpg",
-            "token": "?hdnea=exp=1791771633~acl=/*~id=64009528623649768668253581666217~hmac=6aa15bf84447b18cc6c06697e691149299e317cbe1d876e191439b5f8e17c17e",
-            "token_updated": 1791733820,
-            "audio_list": [
-                {
-                    "lang_code": "ENG",
-                    "lang_label": "English"
                 }
             ]
         }
