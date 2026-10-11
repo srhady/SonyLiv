@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "06:50:37 PM 11-10-2026"
+        "last_update": "07:20:25 PM 11-10-2026"
     },
     "live_matches": [
         {
@@ -13,7 +13,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/Footlive1110/",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026115/1791633393598493_Inter_kashi_vs_Kerala_Blasters_landscape_Thum.jpg",
             "token": "?hdnea=exp=1791759037~acl=/*~id=02847233169168721007469738813838~hmac=5b100ff69cfb8be8d35722b32f95fd2081c544eb22f421329ee2e73ffdee9945",
-            "token_updated": 1791723022,
+            "token_updated": 1791724822,
             "audio_list": [
                 {
                     "lang_code": "ENG",
@@ -36,7 +36,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/Volleyba1110/",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026058/179137524645252_VCL_Garvi-Gujjus-vs-Emperia-Marathas_live_landscape_thumb.jpg",
             "token": "?hdnea=exp=1791766237~acl=/*~id=76106323387378837626134410955870~hmac=7e268941dd7f9a99b4f1927c7056ae51215ad2d119e07ce9c6fe7f2cf1e04626",
-            "token_updated": 1791723022,
+            "token_updated": 1791724822,
             "audio_list": [
                 {
                     "lang_code": "ENG",
@@ -55,7 +55,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/Golf_DPW1110/",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025235/1790649396018310_DP_World_Tour_2026_OpendeEspana_presentedby_Madrid_Day4_landscape_thumb.jpg",
             "token": "?hdnea=exp=1791759049~acl=/*~id=98401504105099429630401042091060~hmac=663c0fe443617843cab5f6b76a7a9d8dbd60b749a616b3de0e311ab35d7ef2cb",
-            "token_updated": 1791723022,
+            "token_updated": 1791724822,
             "audio_list": [
                 {
                     "lang_code": "ENG",
