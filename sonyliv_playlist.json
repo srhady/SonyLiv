@@ -3,39 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "08:50:23 AM 11-10-2026"
+        "last_update": "09:20:23 AM 11-10-2026"
     },
-    "live_matches": [
-        {
-            "match_id": "1090547698",
-            "title": "UFC Fight Night - Allen vs Duncan",
-            "tournament": "UFC Fight Night - Allen vs Duncan ",
-            "base_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/UFC_UFCF1010/",
-            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026110/1791631371235860_UFC_Fight_Night_Allen_vs_Duncan_landscape_thumb.jpg",
-            "token": "?hdnea=exp=1791719432~acl=/*~id=01813927801899697735761595448912~hmac=9a7a55d83832df4256809fc941d040ae29d56c11bb1c56faba020030c0f591e0",
-            "token_updated": 1791687020,
-            "audio_list": [
-                {
-                    "lang_code": "ENG",
-                    "lang_label": "English"
-                },
-                {
-                    "lang_code": "HIN",
-                    "lang_label": "Hindi"
-                },
-                {
-                    "lang_code": "TAM",
-                    "lang_label": "Tamil"
-                },
-                {
-                    "lang_code": "TEL",
-                    "lang_label": "Telugu"
-                },
-                {
-                    "lang_code": "KAN",
-                    "lang_label": "Kannada"
-                }
-            ]
-        }
-    ]
+    "live_matches": []
 }
