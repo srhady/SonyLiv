@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "08:20:33 PM 11-10-2026"
+        "last_update": "08:50:27 PM 11-10-2026"
     },
     "live_matches": [
         {
@@ -13,7 +13,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/Footlive1110/",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026115/1791634833928493_Churchill_Brothers_FC-vs_Mumbai_City_FC_landscape_Thum.jpg",
             "token": "?hdnea=exp=1791769835~acl=/*~id=79195673746224071666027373284931~hmac=6d07e9b9364810590d0c42849f88d35297c55e5048dd417a40995fd97aa9c70f",
-            "token_updated": 1791728421,
+            "token_updated": 1791730221,
             "audio_list": [
                 {
                     "lang_code": "ENG",
@@ -27,12 +27,12 @@
         },
         {
             "match_id": "1090547695",
-            "title": "Garvi Gujjus vs Emperia Marathas",
+            "title": "Namma Bengaluru Smashers vs Haryana Hurricanes",
             "tournament": "Volleyball Championship League 2026 ",
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/Volleyba1110/",
-            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026058/179137524645252_VCL_Garvi-Gujjus-vs-Emperia-Marathas_live_landscape_thumb.jpg",
+            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026058/179137556416152_VCL_Namma-Bengaluru-Smashers-vs-Haryana-Hurricane_live_landscape_thumb.jpg",
             "token": "?hdnea=exp=1791766237~acl=/*~id=76106323387378837626134410955870~hmac=7e268941dd7f9a99b4f1927c7056ae51215ad2d119e07ce9c6fe7f2cf1e04626",
-            "token_updated": 1791728421,
+            "token_updated": 1791730221,
             "audio_list": [
                 {
                     "lang_code": "ENG",
@@ -46,12 +46,12 @@
         },
         {
             "match_id": "1090547697",
-            "title": "Chero Archers vs Kakatiya Knights",
+            "title": "Chola Chiefs vs Prithviraj Yodhas",
             "tournament": "Archery Premier League 2026",
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Archery_1110/",
-            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026053/1791530090679684_APL26_Chero-Archers-vs-Kakatiya-Knights_live-landscape_thumb.jpg",
+            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026053/1791530219632684_APL26_Chola-Chiefs-vs-Prithviraj-Yodhas_live_landscape_thumb.jpg",
             "token": "?hdnea=exp=1791771633~acl=/*~id=64009528623649768668253581666217~hmac=6aa15bf84447b18cc6c06697e691149299e317cbe1d876e191439b5f8e17c17e",
-            "token_updated": 1791728421,
+            "token_updated": 1791730221,
             "audio_list": [
                 {
                     "lang_code": "ENG",
@@ -66,7 +66,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/Golf_DPW1110/",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025235/1790649396018310_DP_World_Tour_2026_OpendeEspana_presentedby_Madrid_Day4_landscape_thumb.jpg",
             "token": "?hdnea=exp=1791759049~acl=/*~id=98401504105099429630401042091060~hmac=663c0fe443617843cab5f6b76a7a9d8dbd60b749a616b3de0e311ab35d7ef2cb",
-            "token_updated": 1791728421,
+            "token_updated": 1791730221,
             "audio_list": [
                 {
                     "lang_code": "ENG",
