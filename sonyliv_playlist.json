@@ -3,17 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "07:20:35 PM 12-10-2026"
+        "last_update": "07:50:28 PM 12-10-2026"
     },
-    "live_matches": [
-        {
-            "match_id": "1090547710",
-            "title": "NorthEast United FC vs Mohun Bagan Super Giant  - 12 Oct 2026",
-            "tournament": "MG Indian Super League 2026-27",
-            "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120305/Footlive1210/ENG/master.m3u8",
-            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026115/1791632348927493_NorthEast_United_vs_Mohun_Bagan_landscape_Thum.jpg",
-            "token": "?hdnea=exp=1791854435~acl=/*~id=00105267898015913402094844035583~hmac=ed8883471881e4c18b6ad0790689d2f262ae714d8eb90d6d25f4d581ecfd983f",
-            "token_updated": 1791811224
-        }
-    ]
+    "live_matches": []
 }
