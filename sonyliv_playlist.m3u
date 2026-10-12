@@ -1,14 +1,1 @@
-#EXTM3U
-# name: SonyLiv Matches Full Data
-# telegram: https://t.me/livesportsplay
-# owner: Md Sohanur Rahman Hady
-# last_update: 09:20:26 PM 12-10-2026
 
-#EXTINF:-1 tvg-id="sonyliv-1090547710" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026115/1791632348927493_NorthEast_United_vs_Mohun_Bagan_landscape_Thum.jpg" group-title="Football", NorthEast United FC vs Mohun Bagan Super Giant  - 12 Oct 2026 | MG Indian Super League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2118982/footlive1210/ENG/master.m3u8?hdnea=exp=1791858308~acl=/*~id=71725754180886958012796219533736~hmac=4bc8a07e6755b1b6658a6cf38e11903208c7d0fc908488ac0a31dfefda23d91a
-
-#EXTINF:-1 tvg-id="sonyliv-1090547705" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026058/179137610904052_VCL_Tamil-Titans-vs-Hoogly-Hitters_live_landscape_thumb.jpg" group-title="Volleyball", Tamil Titans vs Hooghly Hitters - 12 Oct 2026 | Volleyball Championship League 2026 
-https://sonydaimenew.akamaized.net/hls/live/2118981/Volleyba1210/ENG/master.m3u8?hdnea=exp=1791858068~acl=/*~id=76792822849124786388006877813645~hmac=bdb017aee40dde31294c01bfbfd738b60a1c7e6208b86757a0ee4d549e6b637c
-
-#EXTINF:-1 tvg-id="sonyliv-1090547706" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026133/1791660412490741_APL26_Chola_Chiefs_vs_Rajputana_Royals_live_landscape_thumb.jpg" group-title="Archery", Chola Chiefs vs Rajputana Royals - 12 Oct 2026 | Archery Premier League 2026
-https://sonydaimenew.akamaized.net/hls/live/2118980/Archery_1210/ENG/master.m3u8?hdnea=exp=1791858068~acl=/*~id=76792822849124786388006877813645~hmac=bdb017aee40dde31294c01bfbfd738b60a1c7e6208b86757a0ee4d549e6b637c
