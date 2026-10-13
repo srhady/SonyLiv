@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "09:50:28 PM 13-10-2026"
+        "last_update": "10:20:53 PM 13-10-2026"
     },
     "live_matches": [
         {
@@ -13,25 +13,25 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Volleyba1310/ENG/std_lrh-800300010.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026137/1791665683051503_VCL_Bengaluru_Smashers_vs_Delhi_Dynamites_live_landscape_thumb.jpg",
             "token": "?hdnea=exp=1791939048~acl=/*~id=01426733967562979593053095689932~hmac=5b79483b49d8573a2f43fb84a27b3168bb30d6c332e9cd968bd42e9b1493cb62",
-            "token_updated": 1791906624
+            "token_updated": 1791908423
         },
         {
-            "match_id": "1090547796",
-            "title": "Chola Chiefs vs Kakatiya Knights - 13 Oct 2026",
-            "tournament": "Archery Premier League 2026",
-            "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/Archery_1310/ENG/std_lrh-800300010.m3u8",
-            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026134/1791662536266703_APL26_Chola_Chiefs_vs_Kakatiya_Knights_live_landscape_thumb.jpg",
-            "token": "?hdnea=exp=1791942654~acl=/*~id=52202277425947946907390348955007~hmac=d7b92e679ec3889bb3acec38f2a5067ae38a049d1581742f514808cfee46858d",
-            "token_updated": 1791906624
+            "match_id": "1090547842",
+            "title": "Lens vs Sporting CP - MD2 - 13 Oct 2026",
+            "tournament": "UEFA Champions League 2026-27",
+            "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive1310/ENG/std_lrh-800300010.m3u8",
+            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025857/1791169760121329_UCL2627_MD2_Lens_vs_SportingCP_landscape_thumb.jpg",
+            "token": "?hdnea=exp=1791951643~acl=/*~id=48008506554638385024598208552323~hmac=365fe173278ac77b8411a7f0651fbaf8ab5f196ca6594305ed9e6d446db4684a",
+            "token_updated": 1791908423
         },
         {
-            "match_id": "1090547795",
-            "title": "Villarreal vs Napoli - 13 Oct 2026",
-            "tournament": "UEFA Youth League 2026-27",
-            "base_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/Footlive1310/ENG/std_lrh-800300010.m3u8",
-            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025826/179109030000422_UYL26_Villarreal_vs_Napoli_live_landscape_thumb.jpg",
-            "token": "?hdnea=exp=1791942671~acl=/*~id=53571488147588431695791173069995~hmac=fcec0f3cc8abfd36018b1e06f7a79af2df8fbf24f4736a88fe17fc79cb744edf",
-            "token_updated": 1791906624
+            "match_id": "1090547843",
+            "title": "Sabah vs Slavia Praha - 13 Oct 2026",
+            "tournament": "UEFA Champions League 2026-27",
+            "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/Footlive1310/ENG/std_lrh-800300010.m3u8",
+            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025857/1791170232100329_UCL2627_MD2_Sabah_vs_Slavia_Praha_landscape_thumb.jpg",
+            "token": "?hdnea=exp=1791951652~acl=/*~id=37612463050887949662377689323105~hmac=4a3bc6d49fdf11857769a0e9a05ed9009dd4e12ad7cbbd8eeaf51ae96a80666c",
+            "token_updated": 1791908423
         }
     ]
 }
