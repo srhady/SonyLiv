@@ -2,7 +2,7 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 07:50:31 PM 13-10-2026
+# last_update: 08:20:27 PM 13-10-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090547794" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026137/1791665185857503_VCL_Garvi_Gujjus_vs_Rajasthan_Spikers_live_landscape_thumb.jpg" group-title="Volleyball", Garvi Gujjus vs Rajasthan Spikers - 13 Oct 2026 | Volleyball Championship League 2026 
 https://sonydaimenew.akamaized.net/hls/live/2120302/Volleyba1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791939048~acl=/*~id=01426733967562979593053095689932~hmac=5b79483b49d8573a2f43fb84a27b3168bb30d6c332e9cd968bd42e9b1493cb62
@@ -12,6 +12,3 @@ https://sonydaimenew.akamaized.net/hls/live/2120303/Archery_1310/ENG/std_lrh-800
 
 #EXTINF:-1 tvg-id="sonyliv-1090547795" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025826/179109030000422_UYL26_Villarreal_vs_Napoli_live_landscape_thumb.jpg" group-title="Football", Villarreal vs Napoli - 13 Oct 2026 | UEFA Youth League 2026-27
 https://sonydaimenew.akamaized.net/hls/live/2022316/Footlive1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791942671~acl=/*~id=53571488147588431695791173069995~hmac=fcec0f3cc8abfd36018b1e06f7a79af2df8fbf24f4736a88fe17fc79cb744edf
-
-#EXTINF:-1 tvg-id="sonyliv-1090547793" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025825/17910890252552_UYL26_Leipzig_vs_Eindhoven_MD2_live_landscape_thumb.jpg" group-title="Football", Leipzig vs Eindhoven - MD 2 - 13 Oct 2026 | UEFA Youth League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2018458/Footlive1310/ENG/std_lrh-800300010.m3u8?hdnea=exp=1791935438~acl=/*~id=00119085913359027116346560149471~hmac=16528902974f64ab0a7e66b92a6f9ff39fa3191113af2e6b18bebc0a339ecc82
