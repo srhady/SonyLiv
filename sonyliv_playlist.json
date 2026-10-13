@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "09:20:27 PM 13-10-2026"
+        "last_update": "09:50:28 PM 13-10-2026"
     },
     "live_matches": [
         {
@@ -13,16 +13,16 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Volleyba1310/ENG/std_lrh-800300010.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026137/1791665683051503_VCL_Bengaluru_Smashers_vs_Delhi_Dynamites_live_landscape_thumb.jpg",
             "token": "?hdnea=exp=1791939048~acl=/*~id=01426733967562979593053095689932~hmac=5b79483b49d8573a2f43fb84a27b3168bb30d6c332e9cd968bd42e9b1493cb62",
-            "token_updated": 1791904823
+            "token_updated": 1791906624
         },
         {
             "match_id": "1090547796",
-            "title": "Prithviraj Yodhas vs Mighty Marathas - 13 Oct 2026",
+            "title": "Chola Chiefs vs Kakatiya Knights - 13 Oct 2026",
             "tournament": "Archery Premier League 2026",
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/Archery_1310/ENG/std_lrh-800300010.m3u8",
-            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026134/1791662341885703_APL26_Prithviraj_Yodhas_vs_Mighty_Marathas_live_landscape_thumb.jpg",
+            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026134/1791662536266703_APL26_Chola_Chiefs_vs_Kakatiya_Knights_live_landscape_thumb.jpg",
             "token": "?hdnea=exp=1791942654~acl=/*~id=52202277425947946907390348955007~hmac=d7b92e679ec3889bb3acec38f2a5067ae38a049d1581742f514808cfee46858d",
-            "token_updated": 1791904823
+            "token_updated": 1791906624
         },
         {
             "match_id": "1090547795",
@@ -31,7 +31,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/Footlive1310/ENG/std_lrh-800300010.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025826/179109030000422_UYL26_Villarreal_vs_Napoli_live_landscape_thumb.jpg",
             "token": "?hdnea=exp=1791942671~acl=/*~id=53571488147588431695791173069995~hmac=fcec0f3cc8abfd36018b1e06f7a79af2df8fbf24f4736a88fe17fc79cb744edf",
-            "token_updated": 1791904823
+            "token_updated": 1791906624
         }
     ]
 }
