@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "10:20:53 PM 13-10-2026"
+        "last_update": "10:50:27 PM 13-10-2026"
     },
     "live_matches": [
         {
@@ -13,7 +13,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Volleyba1310/ENG/std_lrh-800300010.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026137/1791665683051503_VCL_Bengaluru_Smashers_vs_Delhi_Dynamites_live_landscape_thumb.jpg",
             "token": "?hdnea=exp=1791939048~acl=/*~id=01426733967562979593053095689932~hmac=5b79483b49d8573a2f43fb84a27b3168bb30d6c332e9cd968bd42e9b1493cb62",
-            "token_updated": 1791908423
+            "token_updated": 1791910224
         },
         {
             "match_id": "1090547842",
@@ -22,7 +22,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive1310/ENG/std_lrh-800300010.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025857/1791169760121329_UCL2627_MD2_Lens_vs_SportingCP_landscape_thumb.jpg",
             "token": "?hdnea=exp=1791951643~acl=/*~id=48008506554638385024598208552323~hmac=365fe173278ac77b8411a7f0651fbaf8ab5f196ca6594305ed9e6d446db4684a",
-            "token_updated": 1791908423
+            "token_updated": 1791910224
         },
         {
             "match_id": "1090547843",
@@ -31,7 +31,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/Footlive1310/ENG/std_lrh-800300010.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025857/1791170232100329_UCL2627_MD2_Sabah_vs_Slavia_Praha_landscape_thumb.jpg",
             "token": "?hdnea=exp=1791951652~acl=/*~id=37612463050887949662377689323105~hmac=4a3bc6d49fdf11857769a0e9a05ed9009dd4e12ad7cbbd8eeaf51ae96a80666c",
-            "token_updated": 1791908423
+            "token_updated": 1791910224
         }
     ]
 }
