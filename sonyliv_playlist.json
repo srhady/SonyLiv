@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "05:50:39 PM 13-10-2026"
+        "last_update": "06:20:27 PM 13-10-2026"
     },
     "live_matches": [
         {
@@ -13,7 +13,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/Footlive1310/ENG/std_lrh-800300010.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025825/17910890252552_UYL26_Leipzig_vs_Eindhoven_MD2_live_landscape_thumb.jpg",
             "token": "?hdnea=exp=1791935438~acl=/*~id=00119085913359027116346560149471~hmac=16528902974f64ab0a7e66b92a6f9ff39fa3191113af2e6b18bebc0a339ecc82",
-            "token_updated": 1791892223
+            "token_updated": 1791894023
         }
     ]
 }
