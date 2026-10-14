@@ -2,7 +2,7 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 07:50:25 PM 14-10-2026
+# last_update: 08:20:29 PM 14-10-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090547989" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026292/179196198898858_ISL_Punjab_FC_vs_Odisha_FC_live_landscape_thumb.jpg" group-title="Football", Punjab FC vs Odisha FC - 14 Oct 2026 | MG Indian Super League 2026-27
 https://sonydaimenew.akamaized.net/hls/live/2120303/Footlive1410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792027242~acl=/*~id=47832958779743490850823996883334~hmac=59906442bef5413eb2ddb4ccac00ccc5910099ba629b5ea6ba9fba207b895c2f
@@ -13,5 +13,5 @@ https://sonydaimenew.akamaized.net/hls/live/2120300/Volleyba1410/ENG/std_lrh-800
 #EXTINF:-1 tvg-id="sonyliv-1090547997" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026135/1791662919535929_APL26_Chero_Archers_vs_Prithviraj_Yodhas_live_landscape_thumb.jpg" group-title="Archery", Chero Archers vs Prithviraj Yodhas - 14 Oct 2026 | Archery Premier League 2026
 https://sonydaimenew.akamaized.net/hls/live/2022316/Archery_1410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792029034~acl=/*~id=80797106669150376393090532978879~hmac=2f4c22512279b0fc352df9378904865bc382ad364a1d8f17cec59b5dc929b6f3
 
-#EXTINF:-1 tvg-id="sonyliv-1090547981" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025828/1791091406768672_UYL26_Roma_vs_Real_Madrid_live_landscape_thumb.jpg" group-title="Football", Roma vs Real Madrid - MD 2 - 14 Oct 2026 | UEFA Youth League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive1410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792021840~acl=/*~id=56487956887525358312160359686766~hmac=dafd741da711854fe7b8eaacd1246a3fa782e9593f12e0a3a94149232091a704
+#EXTINF:-1 tvg-id="sonyliv-1090547983" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025830/179109334636999_UYL26_Manchester_City_vs_PSG_live_landscape_thumb.jpg" group-title="Football", Manchester City vs PSG - MD 2 - 14 Oct 2026 | UEFA Youth League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2018458/Footlive1410/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792030842~acl=/*~id=89373671144174086242000849075955~hmac=173cf5ea6565b93a4b63d7e3302f9a240e624a77d88533524411b68dd37236e0
