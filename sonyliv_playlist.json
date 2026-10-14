@@ -3,71 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "02:50:28 AM 15-10-2026"
+        "last_update": "03:20:27 AM 15-10-2026"
     },
-    "live_matches": [
-        {
-            "match_id": "1090548030",
-            "title": "Man City vs PSG - 15 Oct 2026",
-            "tournament": "UEFA Champions League 2026-27",
-            "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120305/Footlive1410/ENG/std_lrh-800300010.m3u8",
-            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025857/1791174791870329_UCL2627_MD2_Man_City_vs_PSG_landscape_thumb.jpg",
-            "token": "?hdnea=exp=1792047035~acl=/*~id=19957819045871406253677790351832~hmac=b3526ac29c9d7ca18622be7a7f4a547ba2bea905acc9891896881ec369e6a251",
-            "token_updated": 1792011025
-        },
-        {
-            "match_id": "1090548031",
-            "title": "Roma vs Real Madrid - 15 Oct 2026",
-            "tournament": "UEFA Champions League 2026-27",
-            "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120306/Footlive1410/ENG/std_lrh-800300010.m3u8",
-            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025857/1791175023698329_UCL2627_MD2_Roma_vs_Real_Madrid_landscape_thumb.jpg",
-            "token": "?hdnea=exp=1792047044~acl=/*~id=92236486969063497840172052138138~hmac=557d1da9c76fc27f8ee02ddc6ab883cfc2c2aafe2e58383303d3b5cb28a16722",
-            "token_updated": 1792011025
-        },
-        {
-            "match_id": "1090548036",
-            "title": "Aston Villa vs Fenerbahçe - 15 Oct 2026",
-            "tournament": "UEFA Champions League 2026-27",
-            "base_url": "https://sonydaimenew.akamaized.net/hls/live/2005445/Footlive1410/ENG/std_lrh-800300010.m3u8",
-            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025857/1791175309408329_UCL2627_MD2_Aston_Villa_vs_Fenerbahce_landscape_thumb.jpg",
-            "token": "?hdnea=exp=1792047053~acl=/*~id=99231794015211555033160185734133~hmac=714369fec9da4c1a183f508e2e5f68fd49fa0668b57681f32b037185be31fb4c",
-            "token_updated": 1792011025
-        },
-        {
-            "match_id": "1090548038",
-            "title": "Bodo/Glimt vs Dortmund - 15 Oct 2026",
-            "tournament": "UEFA Champions League 2026-27",
-            "base_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/Footlive1410/ENG/std_lrh-800300010.m3u8",
-            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025857/1791175843132329_UCL2627_MD2_Bodo_vs_Dortmund_landscape_thumb.jpg",
-            "token": "?hdnea=exp=1792047062~acl=/*~id=05090167965211744914574074031529~hmac=32e065c35584a6b5e8a8d6aca6fd572c03726570bd5ccc4835ff2bd9b947051d",
-            "token_updated": 1792011025
-        },
-        {
-            "match_id": "1090548037",
-            "title": "Real Betis vs Porto - 15 Oct 2026",
-            "tournament": "UEFA Champions League 2026-27",
-            "base_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Footlive1410/ENG/std_lrh-800300010.m3u8",
-            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025857/1791175659916329_UCL2627_MD2_Real_Betis_vs_Porto_landscape_thumb.jpg",
-            "token": "?hdnea=exp=1792047062~acl=/*~id=05090167965211744914574074031529~hmac=32e065c35584a6b5e8a8d6aca6fd572c03726570bd5ccc4835ff2bd9b947051d",
-            "token_updated": 1792011025
-        },
-        {
-            "match_id": "1090548040",
-            "title": "S. Bratislava vs Stuttgart - 15 Oct 2026",
-            "tournament": "UEFA Champions League 2026-27",
-            "base_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/Footlive1410/ENG/std_lrh-800300010.m3u8",
-            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025857/1791176288267329_UCL2627_MD2_Bratislava_vs_Stuttgart_landscape_thumb.jpg",
-            "token": "?hdnea=exp=1792047084~acl=/*~id=54817573247275177882406077304988~hmac=70d1a09b136c7e331f16b54ed93bef999cb70a4ef9f86fcd8e34aa4b8599e664",
-            "token_updated": 1792011025
-        },
-        {
-            "match_id": "1090548039",
-            "title": "Shakhtar vs AEK Athens - 15 Oct 2026",
-            "tournament": "UEFA Champions League 2026-27",
-            "base_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/Footlive1410/ENG/std_lrh-800300010.m3u8",
-            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025857/1791176078689329_UCL2627_MD2_Shakhtar_vs_AEK_Athens_landscape_thumb.jpg",
-            "token": "?hdnea=exp=1792047035~acl=/*~id=19957819045871406253677790351832~hmac=b3526ac29c9d7ca18622be7a7f4a547ba2bea905acc9891896881ec369e6a251",
-            "token_updated": 1792011025
-        }
-    ]
+    "live_matches": []
 }
