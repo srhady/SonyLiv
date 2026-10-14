@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "10:20:51 PM 14-10-2026"
+        "last_update": "10:50:29 PM 14-10-2026"
     },
     "live_matches": [
         {
@@ -13,16 +13,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Footlive1410/ENG/std_lrh-800300010.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025857/1791174240883329_UCL2627_MD2_LASK_vs_Liverpool_landscape_thumb.jpg",
             "token": "?hdnea=exp=1792038041~acl=/*~id=31838319374396318558546647614712~hmac=90c8ba6f0e5d5c44ce91d3c3e51ae79da612be16e049c3068d82ec76de1c7b68",
-            "token_updated": 1791994823
-        },
-        {
-            "match_id": "1090547987",
-            "title": "Hooghly Hitters vs Haryana Hurricanes - 14 Oct 2026",
-            "tournament": "Volleyball Championship League 2026 ",
-            "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/Volleyba1410/ENG/std_lrh-800300010.m3u8",
-            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026138/179166659556718_VCL_Hooghly_Hitters_vs_Haryana_Hurricanes_live_landscape_thumb.jpg",
-            "token": "?hdnea=exp=1792025440~acl=/*~id=72904856064578713871307045840459~hmac=cd2a3e0f19f9709db5d40cd063f28e236f2ec6f20b633d55e8fcb57ca8296a56",
-            "token_updated": 1791994823
+            "token_updated": 1791996626
         },
         {
             "match_id": "1090548027",
@@ -31,7 +22,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive1410/ENG/std_lrh-800300010.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025857/1791173966647329_UCL2627_MD2_Feyenoord_vs_Como_landscape_thumb.jpg",
             "token": "?hdnea=exp=1792038050~acl=/*~id=49979137453577214539217262172687~hmac=3474a3d08231cb9dca19b09b0927f98beeb08e75acde7055297bc3f7b3f1f3bb",
-            "token_updated": 1791994823
+            "token_updated": 1791996626
         }
     ]
 }
