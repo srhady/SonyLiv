@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "09:20:32 PM 15-10-2026"
+        "last_update": "09:50:26 PM 15-10-2026"
     },
     "live_matches": [
         {
@@ -13,16 +13,16 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/Volleyba1510/ENG/std_lrh-800300010.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026139/1791667716145390_VCL_Delhi_Dynamites_vs_Tamil_Titans_live_landscape_thumb.jpg",
             "token": "?hdnea=exp=1792111840~acl=/*~id=13431168511448795353573347450341~hmac=8f6774785abf0d11aa8abc9a65576beb9b2bda79209ed21b696c3e403acebb29",
-            "token_updated": 1792077627
+            "token_updated": 1792079424
         },
         {
             "match_id": "1090548076",
-            "title": "Rajputana Royals vs Mighty Marathas - 15 Oct 2026",
+            "title": "Kakatiya Knights vs Chero Archers - 15 Oct 2026",
             "tournament": "Archery Premier League 2026",
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/Archery_1510/ENG/std_lrh-800300010.m3u8",
-            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026136/1791663921276476_APL26_Rajputana_Royals_vs_Mighty_Marathas_live_landscape_thumb.jpg",
+            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026136/1791664082709476_APL26_Kakatiya_Knights_vs_Chero_Archers_live_landscape_thumb.jpg",
             "token": "?hdnea=exp=1792115436~acl=/*~id=86098971117906592845686181128552~hmac=875acf6f3d8098bd7484de556d0d11970ca00537a4b84e7d5946f909c44013dc",
-            "token_updated": 1792077627
+            "token_updated": 1792079424
         }
     ]
 }
