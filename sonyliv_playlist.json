@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "02:20:29 AM 16-10-2026"
+        "last_update": "02:50:26 AM 16-10-2026"
     },
     "live_matches": [
         {
@@ -13,7 +13,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/Footlive1510/ENG/std_lrh-800300010.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026166/179128435533336_UEL_MD2_Celta-vs-Juventus_live_landscape_thumb.jpg",
             "token": "?hdnea=exp=1792133435~acl=/*~id=12786026835876431190512389195846~hmac=fdc843b4f8b17ad7886e3e73f818bbf674defefd6f182549d0bff855dfcb3309",
-            "token_updated": 1792095625
+            "token_updated": 1792097424
         }
     ]
 }
