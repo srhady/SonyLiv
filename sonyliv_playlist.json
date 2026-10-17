@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "11:50:25 AM 17-10-2026"
+        "last_update": "12:20:26 PM 17-10-2026"
     },
     "live_matches": [
         {
@@ -13,7 +13,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/Golf_SJM1710/ENG/std_lrh-800300010.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026392/1792045218534492_Asian_TOur_SJM_Macao_Open_Day3_live_landscape_thumb.jpg",
             "token": "?hdnea=exp=1792252235~acl=/*~id=68871586804028336988491382304600~hmac=22c988887a661424286b03706e17ba698f91f84e3e133bc3b74ffa317d203e2d",
-            "token_updated": 1792216222
+            "token_updated": 1792218022
         }
     ]
 }
