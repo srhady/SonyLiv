@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "07:20:24 AM 18-10-2026"
+        "last_update": "07:50:23 AM 18-10-2026"
     },
     "live_matches": [
         {
@@ -13,7 +13,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/UFC_UFCF1710/ENG/std_lrh-800300010.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026508/1792166210323579_UFC_FN_Buckley_vs_Malott_landscape_thumb.jpg",
             "token": "?hdnea=exp=1792324233~acl=/*~id=61277077158219237076474832522530~hmac=806cb3c9326fe3bbb3270d6cf85bdce39076bc66b0a48a531035b7423f412be0",
-            "token_updated": 1792286421
+            "token_updated": 1792288220
         }
     ]
 }
