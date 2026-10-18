@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "01:50:27 PM 18-10-2026"
+        "last_update": "02:20:34 PM 18-10-2026"
     },
     "live_matches": [
         {
@@ -13,7 +13,7 @@
             "base_url": "https://livecfdai-par-mp.slivcdn.com/out/v1/cfed49dc0449444bac761f9dd9155916/std_lrh-800300010.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026393/1792046074732742_DP-World_India-Championship_Day4_landscape_thumb.jpg",
             "token": "?hdnea=exp=1792344036~acl=/*~id=35126441904256873407329726820446~hmac=6614df1da79190db9dd58e88ff1559e3775929ab045a414b6f7814945b7ad301",
-            "token_updated": 1792309824
+            "token_updated": 1792311622
         },
         {
             "match_id": "1090548739",
@@ -22,7 +22,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/Golf_SJM1810/ENG/std_lrh-800300010.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026392/1792045289085492_Asian_TOur_SJM_Macao_Open_Day4_live_landscape_thumb.jpg",
             "token": "?hdnea=exp=1792338635~acl=/*~id=63763230067086209932026693515615~hmac=513bb411c76255973917904a9edbadeffc51e52d0ce009d40ae1b84c63f46ba9",
-            "token_updated": 1792309824
+            "token_updated": 1792311622
         }
     ]
 }
