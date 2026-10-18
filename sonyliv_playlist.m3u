@@ -2,13 +2,13 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 07:50:25 PM 18-10-2026
+# last_update: 08:20:42 PM 18-10-2026
 
-#EXTINF:-1 tvg-id="sonyliv-1090548742" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026406/1792051271120214_ISL_18th_Oct_NorthEast_United_FC_vs_Kerala_Blasters_FC_live_landscape_thumb.jpg" group-title="Football", NorthEast United FC vs Kerala Blasters FC - 18 Oct 2026 | MG Indian Super League 2026-27
+#EXTINF:-1 tvg-id="sonyliv-1090548742" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026406/1792051271120214_ISL_18th_Oct_NorthEast_United_FC_vs_Kerala_Blasters_FC_live_landscape_thumb.jpg" group-title="Sport", NorthEast United FC vs Kerala Blasters FC - 18 Oct 2026 | MG Indian Super League 2026-27
 https://sonydaimenew.akamaized.net/hls/live/2005444/Footlive1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792374633~acl=/*~id=12259453420649222715806060036280~hmac=9f4b3710168483a7f62cbe1e26492d7b240a47c39925b6ad1e5774833ecbbd78
 
-#EXTINF:-1 tvg-id="sonyliv-1090548741" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026459/1792130666267133_VCL26_Emperia-Marathas-v-Tamil-Titans_live_landscape_thumb.jpg" group-title="Volleyball", Emperia Marathas vs Tamil Titans - Super 6 - 18 Oct 2026  | Volleyball Championship League 2026 
+#EXTINF:-1 tvg-id="sonyliv-1090548741" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026459/1792130666267133_VCL26_Emperia-Marathas-v-Tamil-Titans_live_landscape_thumb.jpg" group-title="Sport", Emperia Marathas vs Tamil Titans - Super 6 - 18 Oct 2026  | Volleyball Championship League 2026 
 https://sonydaimenew.akamaized.net/hls/live/2120304/Volleyba1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792371036~acl=/*~id=59082873898045085632344253057951~hmac=b08bbbb9edc85d3508233d422cbdb1452c1dcecb548b1c4d025de512f5b06f5e
 
-#EXTINF:-1 tvg-id="sonyliv-1090548750" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026606/1792261592107816_APL26_SF_Mighty_Marathas_vs_Kakatiya_Knights_landscape_thumb.jpg" group-title="Archery", Mighty Marathas vs Kakatiya Knights - Semi Final - 18 Oct 2026 | Archery Premier League 2026
+#EXTINF:-1 tvg-id="sonyliv-1090548750" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026606/1792261592107816_APL26_SF_Mighty_Marathas_vs_Kakatiya_Knights_landscape_thumb.jpg" group-title="Sport", Mighty Marathas vs Kakatiya Knights - Semi Final - 18 Oct 2026 | Archery Premier League 2026
 https://sonydaimenew.akamaized.net/hls/live/2022317/ArcheryL1810/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792374642~acl=/*~id=14995686125995684999920299278963~hmac=b7a28308e2c3417889e07cbe3bfb807ff648bc07ad7a70958f989cfdab73bf38
