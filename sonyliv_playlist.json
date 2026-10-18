@@ -3,17 +3,17 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "07:20:24 PM 18-10-2026"
+        "last_update": "07:50:42 PM 18-10-2026"
     },
     "live_matches": [
         {
-            "match_id": "1090549112",
-            "title": "Churchill Brothers SC vs East Bengal FC - 18 Oct 2026",
+            "match_id": "1090548742",
+            "title": "NorthEast United FC vs Kerala Blasters FC - 18 Oct 2026",
             "tournament": "MG Indian Super League 2026-27",
-            "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120305/Footlive1810/ENG/std_lrh-800300010.m3u8",
-            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026502/1792157806465755_ISL26_Churchill-Brothers-SC-vs-East-Bengal-FC_live_landscape_thumb.jpg",
-            "token": "?hdnea=exp=1792363835~acl=/*~id=31030325418032356700331035016574~hmac=3d73c575041b5024ae7a9f946d621caf44fbe733d408fb5c5802ecb389c7c8bc",
-            "token_updated": 1792329621
+            "base_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/Footlive1810/ENG/std_lrh-800300010.m3u8",
+            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026406/1792051271120214_ISL_18th_Oct_NorthEast_United_FC_vs_Kerala_Blasters_FC_live_landscape_thumb.jpg",
+            "token": "?hdnea=exp=1792374633~acl=/*~id=12259453420649222715806060036280~hmac=9f4b3710168483a7f62cbe1e26492d7b240a47c39925b6ad1e5774833ecbbd78",
+            "token_updated": 1792331422
         },
         {
             "match_id": "1090548741",
@@ -22,7 +22,16 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/Volleyba1810/ENG/std_lrh-800300010.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026459/1792130666267133_VCL26_Emperia-Marathas-v-Tamil-Titans_live_landscape_thumb.jpg",
             "token": "?hdnea=exp=1792371036~acl=/*~id=59082873898045085632344253057951~hmac=b08bbbb9edc85d3508233d422cbdb1452c1dcecb548b1c4d025de512f5b06f5e",
-            "token_updated": 1792329621
+            "token_updated": 1792331422
+        },
+        {
+            "match_id": "1090548750",
+            "title": "Mighty Marathas vs Kakatiya Knights - Semi Final - 18 Oct 2026",
+            "tournament": "Archery Premier League 2026",
+            "base_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/ArcheryL1810/ENG/std_lrh-800300010.m3u8",
+            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026606/1792261592107816_APL26_SF_Mighty_Marathas_vs_Kakatiya_Knights_landscape_thumb.jpg",
+            "token": "?hdnea=exp=1792374642~acl=/*~id=14995686125995684999920299278963~hmac=b7a28308e2c3417889e07cbe3bfb807ff648bc07ad7a70958f989cfdab73bf38",
+            "token_updated": 1792331422
         }
     ]
 }
