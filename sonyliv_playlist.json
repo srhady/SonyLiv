@@ -10,10 +10,9 @@
             "match_id": "1090549200",
             "title": "Sabah vs Dortmund - 20 Oct 2026",
             "tournament": "UEFA Champions League 2026-27",
-            "base_url": "https://liveakdai.slivcdn.com/hls/live/2119931/cricodi_2010/ENG/std_lrh-800300010.m3u8",
+            "base_url": "",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025901/179125022899319_UCL2627_MD3_Sabah_vs_Dortmund_landscape_thumb.jpg",
-            "token": "?hdnea=exp=1792558238~acl=/*~id=38479542624839911242321075661186~hmac=253b5f1041ff0fbe131c93e9837bfa612b7e8ce9fb0816f122447c4f4ba57c48",
-            "token_updated": 1792515023
+            "token": "
         },
         {
             "match_id": "1090549199",
