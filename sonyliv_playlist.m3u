@@ -2,7 +2,7 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 09:50:33 PM 20-10-2026
+# last_update: 10:20:33 PM 20-10-2026
 
-#EXTINF:-1 tvg-id="sonyliv-1090549193" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025832/1791097181496728_UYL26_Manchester_City_vs_Athens_live_landscape_thumb.jpg" group-title="Football", Manchester City vs Athens - MD3 - 20 Oct 2026 | UEFA Youth League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2120299/Footlive2010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792547447~acl=/*~id=21851789712037146174019241841181~hmac=d8578b409866096563521c987bbd9e6d47a817877a4ca5e9e0565932393895ec
+#EXTINF:-1 tvg-id="sonyliv-1090549199" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025901/179124692857319_UCL2627_MD3_Fenerbahce_vs_Slavia_Praha_landscape_thumb.jpg" group-title="Football", Fenerbahçe vs Slavia Praha - MD 3 - 20 Oct 2026 | UEFA Champions League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2120303/Footlive2010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792556450~acl=/*~id=51500422014432988568325545666100~hmac=91b290986f50e9a37bc7a6f0ebb65321bc95fac57dd14926e4115acf9dcadf9a
