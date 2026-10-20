@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "06:50:26 PM 20-10-2026"
+        "last_update": "07:20:27 PM 20-10-2026"
     },
     "live_matches": [
         {
@@ -13,7 +13,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive2010/ENG/std_lrh-800300010.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025833/1791097802834995_UYL26_PSG_vs_Barcelona_live_landscape_thumb.jpg",
             "token": "?hdnea=exp=1792540236~acl=/*~id=24430564820691220641780287558324~hmac=037aad3670b9deff7ce52f7f872c8b68cbdce5dceebd5e83934a118bc80b1038",
-            "token_updated": 1792500623
+            "token_updated": 1792502424
         }
     ]
 }
