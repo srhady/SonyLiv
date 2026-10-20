@@ -2,10 +2,7 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 07:50:35 PM 20-10-2026
-
-#EXTINF:-1 tvg-id="sonyliv-1090549194" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025833/1791097802834995_UYL26_PSG_vs_Barcelona_live_landscape_thumb.jpg" group-title="Football", PSG vs Barcelona - 20 Oct 2026 | UEFA Youth League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive2010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792540236~acl=/*~id=24430564820691220641780287558324~hmac=037aad3670b9deff7ce52f7f872c8b68cbdce5dceebd5e83934a118bc80b1038
+# last_update: 08:20:29 PM 20-10-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090549193" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025832/1791097181496728_UYL26_Manchester_City_vs_Athens_live_landscape_thumb.jpg" group-title="Football", Manchester City vs Athens - MD3 - 20 Oct 2026 | UEFA Youth League 2026-27
 https://sonydaimenew.akamaized.net/hls/live/2120299/Footlive2010/ENG/std_lrh-800300010.m3u8?hdnea=exp=1792547447~acl=/*~id=21851789712037146174019241841181~hmac=d8578b409866096563521c987bbd9e6d47a817877a4ca5e9e0565932393895ec
