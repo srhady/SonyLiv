@@ -3,16 +3,17 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "10:50:38 PM 20-10-2026"
+        "last_update": "11:20:47 PM 20-10-2026"
     },
     "live_matches": [
         {
             "match_id": "1090549200",
             "title": "Sabah vs Dortmund - 20 Oct 2026",
             "tournament": "UEFA Champions League 2026-27",
-            "base_url": "",
+            "base_url": "https://liveakdai.slivcdn.com/hls/live/2119931/cricodi_2010/ENG/std_lrh-800300010.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025901/179125022899319_UCL2627_MD3_Sabah_vs_Dortmund_landscape_thumb.jpg",
-            "token": "
+            "token": "?hdnea=exp=1792560037~acl=/*~id=86997383092927704888305701476784~hmac=5ee9f596a78657d58a81f0528e0ace9f9b790f5783c8e40333ee1b337da32a7f",
+            "token_updated": 1792516825
         },
         {
             "match_id": "1090549199",
@@ -20,8 +21,8 @@
             "tournament": "UEFA Champions League 2026-27",
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/Footlive2010/ENG/std_lrh-800300010.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025901/179124692857319_UCL2627_MD3_Fenerbahce_vs_Slavia_Praha_landscape_thumb.jpg",
-            "token": "?hdnea=exp=1792556450~acl=/*~id=51500422014432988568325545666100~hmac=91b290986f50e9a37bc7a6f0ebb65321bc95fac57dd14926e4115acf9dcadf9a",
-            "token_updated": 1792515023
+            "token": "?hdnea=exp=1792560046~acl=/*~id=49682730406349894361305308793777~hmac=1fbf92455d77ec62b0771595b6dd9a36e41e3a5349d4fd813bae204cf008db6e",
+            "token_updated": 1792516825
         }
     ]
 }
