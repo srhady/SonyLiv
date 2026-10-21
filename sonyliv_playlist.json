@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "10:50:33 PM 21-10-2026"
+        "last_update": "11:20:34 PM 21-10-2026"
     },
     "live_matches": [
         {
@@ -13,7 +13,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/Footlive2110/ENG/std_lrh-800300010.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025901/179125207661519_UCL2627_MD3_Como_vs_Man_United_landscape_thumb.jpg",
             "token": "?hdnea=exp=1792642858~acl=/*~id=35791217578557925080544863775487~hmac=9f393eb3472c81706dd3b9121a33a38e8c6303fc8b17aef6cee4cfe5afd6743e",
-            "token_updated": 1792601430
+            "token_updated": 1792603230
         },
         {
             "match_id": "1090549216",
@@ -22,7 +22,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive2110/ENG/std_lrh-800300010.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025901/179125185673619_UCL2627_MD3_Lille_vs_Galatasaray_landscape_thumb.jpg",
             "token": "?hdnea=exp=1792642871~acl=/*~id=19995102845518452434717113929765~hmac=c40d5c74e7cd27ce26be77f2849c01668a33a3895fe1934b448cf08111cfceb9",
-            "token_updated": 1792601430
+            "token_updated": 1792603230
         },
         {
             "match_id": "1090549320",
@@ -31,7 +31,7 @@
             "base_url": "https://liveakdai.slivcdn.com/hls/live/20000094/cricodi12110/ENG/std_lrh-800300010.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026725/1792417732166732_STCL_Delhi-Leaders-vs-Gujarat-Royals_live_landscape_thumb.jpg",
             "token": "?hdnea=exp=1792615850~acl=/*~id=83172242931311624649830689450973~hmac=d004e8522cfc0f4b21e4166bacb413bb492659098dae9702ed9ba711bac3aecc",
-            "token_updated": 1792601430
+            "token_updated": 1792603230
         }
     ]
 }
