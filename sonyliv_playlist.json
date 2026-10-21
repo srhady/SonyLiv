@@ -3,17 +3,17 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "06:50:51 PM 21-10-2026"
+        "last_update": "07:20:52 PM 21-10-2026"
     },
     "live_matches": [
         {
             "match_id": "1090549320",
-            "title": "Rajasthan Frontiers vs Haryana Lions - 21 Oct 2026",
+            "title": "Delhi Leaders vs Gujarat Royals - 21 Oct 2026",
             "tournament": "Salute Tiranga Cricket League (STCL) 2026",
             "base_url": "https://liveakdai.slivcdn.com/hls/live/20000094/cricodi12110/ENG/std_lrh-800300010.m3u8",
-            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026725/1792417147157732_STCL_Rajasthan-Frontiers-vs-Haryana-Lions_live_landscape_thumb.jpg",
+            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026725/1792417732166732_STCL_Delhi-Leaders-vs-Gujarat-Royals_live_landscape_thumb.jpg",
             "token": "?hdnea=exp=1792615850~acl=/*~id=83172242931311624649830689450973~hmac=d004e8522cfc0f4b21e4166bacb413bb492659098dae9702ed9ba711bac3aecc",
-            "token_updated": 1792587030
+            "token_updated": 1792588829
         }
     ]
 }
