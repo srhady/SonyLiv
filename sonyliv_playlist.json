@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "02:20:37 PM 22-10-2026"
+        "last_update": "02:50:27 PM 22-10-2026"
     },
     "live_matches": [
         {
@@ -13,7 +13,7 @@
             "base_url": "https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-INDNZ/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026907/1792594510946283_NZvsIND_1st_t20i_live_landscape_thumb.jpg",
             "token": "?hdnea=exp=1792697137~acl=/*~id=46691140553210813794468369638587~hmac=3636580318dba2d345ee61be7c68dd2ee6e504572b8c81d0369921bbd244e057",
-            "token_updated": 1792657231
+            "token_updated": 1792659024
         },
         {
             "match_id": "1090549541",
@@ -22,25 +22,7 @@
             "base_url": "https://liveakmt-p-md.slivcdn.com/hls/live/2119931/cricodi_2210/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026907/1792594510946283_NZvsIND_1st_t20i_live_landscape_thumb.jpg",
             "token": "?hdnea=exp=1792697137~acl=/*~id=46691140553210813794468369638587~hmac=3636580318dba2d345ee61be7c68dd2ee6e504572b8c81d0369921bbd244e057",
-            "token_updated": 1792657231
-        },
-        {
-            "match_id": "1090549540",
-            "title": "LINK Hong Kong Open - Day 1 - 22 Oct 2026 | Asian Tour 2026",
-            "tournament": "Asian Tour 2026",
-            "base_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/Golf_LIN2210/ENG/master.m3u8",
-            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026410/1792055323772141_Asian-Tour_LINK-Hong-Kong-Open_D1_live_landscape_thumb.jpg",
-            "token": "?hdnea=exp=1792697137~acl=/*~id=46691140553210813794468369638587~hmac=3636580318dba2d345ee61be7c68dd2ee6e504572b8c81d0369921bbd244e057",
-            "token_updated": 1792657231
-        },
-        {
-            "match_id": "1090549539",
-            "title": "Genesis Championship - Day 1 - 22 Oct 2026 | DP World Tour",
-            "tournament": "DP World Tour",
-            "base_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/Golf_Gen2210/ENG/master.m3u8",
-            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026929/1792611483435924_DP-World_Genesis-Championship_D1_live_landscape_thumb.jpg",
-            "token": "?hdnea=exp=1792698653~acl=/*~id=11837387321903060540070279630423~hmac=f04d6f09b73cc5e00754f8ad47791910a06c40d7bf6bddcecd7b023fb5ee0672",
-            "token_updated": 1792657231
+            "token_updated": 1792659024
         }
     ]
 }
