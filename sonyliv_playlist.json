@@ -3,9 +3,18 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "09:50:32 PM 22-10-2026"
+        "last_update": "10:20:48 PM 22-10-2026"
     },
     "live_matches": [
+        {
+            "match_id": "1090549627",
+            "title": "Jablonec vs Brighton - 22 Oct 2026 | UEFA Conference League 2026-27",
+            "tournament": "UEFA Conference League 2026-27",
+            "base_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/footlive2210/ENG/master.m3u8",
+            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026477/1792131894013184_UECL_26_MD2_Jablonec-vs-Brighton_live_landscape_thumb.jpg",
+            "token": "?hdnea=exp=1792729248~acl=/*~id=07405960129751451424282399762332~hmac=5abcdbdbb5b767e1fb52f572d8d5a63d944c95fb8af7cc2fec42ff2e909238e6",
+            "token_updated": 1792686025
+        },
         {
             "match_id": "1090549594",
             "title": "Mumbai Mavericks vs Tamilnadu Thunders - 22 Oct 2026 | Salute Tiranga Cricket League (STCL) 2026",
@@ -13,7 +22,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120305/criclive2210/HIN/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026937/179261767506469_STCL26_mumbai_vs_tamilnadu_landscape_thumb.jpg",
             "token": "?hdnea=exp=1792714848~acl=/*~id=44064913925070173180463365682967~hmac=14cb9ce74a31dc63fa0ad3b0cdf7e159a7e9850fe769f1f834466c5e4c78c1a3",
-            "token_updated": 1792684229
+            "token_updated": 1792686025
         },
         {
             "match_id": "1090549551",
@@ -22,7 +31,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2094588/footlive2210/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026439/1792070243386375_UECL_26_MD2_Kairat-Almaty-vs-Panathinaikos_live_landscape_thumb.jpg",
             "token": "?hdnea=exp=1792722051~acl=/*~id=72884240330924631891535877239987~hmac=b61e4eb54a129a96e0d18691496c41456c6a5c8691e6e496f4f791258930cb09",
-            "token_updated": 1792684229
+            "token_updated": 1792686025
         }
     ]
 }
