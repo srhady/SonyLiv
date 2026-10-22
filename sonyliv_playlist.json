@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "11:04:35 PM 22-10-2026"
+        "last_update": "11:20:30 PM 22-10-2026"
     },
     "live_matches": [
         {
@@ -13,7 +13,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2037139/footlive2210/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026477/1792131894013184_UECL_26_MD2_Jablonec-vs-Brighton_live_landscape_thumb.jpg",
             "token": "?hdnea=exp=1792729248~acl=/*~id=07405960129751451424282399762332~hmac=5abcdbdbb5b767e1fb52f572d8d5a63d944c95fb8af7cc2fec42ff2e909238e6",
-            "token_updated": 1792688468
+            "token_updated": 1792689626
         },
         {
             "match_id": "1090549594",
@@ -22,7 +22,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120305/criclive2210/HIN/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026937/179261767506469_STCL26_mumbai_vs_tamilnadu_landscape_thumb.jpg",
             "token": "?hdnea=exp=1792714848~acl=/*~id=44064913925070173180463365682967~hmac=14cb9ce74a31dc63fa0ad3b0cdf7e159a7e9850fe769f1f834466c5e4c78c1a3",
-            "token_updated": 1792688468
+            "token_updated": 1792689626
         },
         {
             "match_id": "1090549554",
@@ -31,7 +31,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/footlive2210/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025900/1791238994627235_UEL2627_MD3_Juventus_vs_Rennes_landscape_thumb.jpg",
             "token": "?hdnea=exp=1792731693~acl=/*~id=42327740877204314356723553323333~hmac=8c51609f36c52dae4748788e232ef12c3930928226b29cc7357a9fc98564a9e5",
-            "token_updated": 1792688468
+            "token_updated": 1792689626
         },
         {
             "match_id": "1090549561",
@@ -40,7 +40,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/footlive2210/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025900/1791240763871235_UEL2627_MD3_Lech_Poznan_vs_Sunderland_landscape_thumb.jpg",
             "token": "?hdnea=exp=1792731693~acl=/*~id=42327740877204314356723553323333~hmac=8c51609f36c52dae4748788e232ef12c3930928226b29cc7357a9fc98564a9e5",
-            "token_updated": 1792688468
+            "token_updated": 1792689626
         },
         {
             "match_id": "1090549657",
@@ -49,7 +49,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/footlive2210/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025900/1791240967901235_UEL2627_MD3_OFI_Crete_vs_Leverkusen_landscape_thumb.jpg",
             "token": "?hdnea=exp=1792731693~acl=/*~id=42327740877204314356723553323333~hmac=8c51609f36c52dae4748788e232ef12c3930928226b29cc7357a9fc98564a9e5",
-            "token_updated": 1792688468
+            "token_updated": 1792689626
         },
         {
             "match_id": "1090549560",
@@ -58,7 +58,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/footlive2210/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025900/1791240510727235_UEL2627_MD3_Sturm_Graz_vs_Marseille_landscape_thumb.jpg",
             "token": "?hdnea=exp=1792731693~acl=/*~id=42327740877204314356723553323333~hmac=8c51609f36c52dae4748788e232ef12c3930928226b29cc7357a9fc98564a9e5",
-            "token_updated": 1792688468
+            "token_updated": 1792689626
         },
         {
             "match_id": "1090549663",
@@ -67,7 +67,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120304/footlive2210/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025900/1791241394160235_UEL2627_MD3_Ararat_Armenia_vs_Alkmaar_landscape_thumb.jpg",
             "token": "?hdnea=exp=1792731693~acl=/*~id=42327740877204314356723553323333~hmac=8c51609f36c52dae4748788e232ef12c3930928226b29cc7357a9fc98564a9e5",
-            "token_updated": 1792688468
+            "token_updated": 1792689626
         },
         {
             "match_id": "1090549559",
@@ -76,7 +76,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2043696/footlive2210/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025900/1791240299648235_UEL2627_MD3_GNK_Dinamo_vs_NEC_landscape_thumb.jpg",
             "token": "?hdnea=exp=1792731693~acl=/*~id=42327740877204314356723553323333~hmac=8c51609f36c52dae4748788e232ef12c3930928226b29cc7357a9fc98564a9e5",
-            "token_updated": 1792688468
+            "token_updated": 1792689626
         },
         {
             "match_id": "1090549558",
@@ -85,7 +85,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/footlive2210/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025900/1791240028755235_UEL2627_MD3_UnionSG_vs_BeerSheva_landscape_thumb.jpg",
             "token": "?hdnea=exp=1792731693~acl=/*~id=42327740877204314356723553323333~hmac=8c51609f36c52dae4748788e232ef12c3930928226b29cc7357a9fc98564a9e5",
-            "token_updated": 1792688468
+            "token_updated": 1792689626
         },
         {
             "match_id": "1090549557",
@@ -94,7 +94,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2094590/footlive2210/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025900/1791239263773235_UEL2627_MD3_Ferencvaros_vs_Torrense_landscape_thumb.jpg",
             "token": "?hdnea=exp=1792731693~acl=/*~id=42327740877204314356723553323333~hmac=8c51609f36c52dae4748788e232ef12c3930928226b29cc7357a9fc98564a9e5",
-            "token_updated": 1792688468
+            "token_updated": 1792689626
         },
         {
             "match_id": "1090549621",
@@ -103,7 +103,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2022317/footlive2210/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026439/1792071298352375_UECL_26_MD2_Crvena-Zvezda-vs-Copenhagen_live_landscape_thumb.jpg",
             "token": "?hdnea=exp=1792731693~acl=/*~id=42327740877204314356723553323333~hmac=8c51609f36c52dae4748788e232ef12c3930928226b29cc7357a9fc98564a9e5",
-            "token_updated": 1792688468
+            "token_updated": 1792689626
         },
         {
             "match_id": "1090549625",
@@ -112,7 +112,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2022320/footlive2210/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026439/1792074621600375_UECL_26_MD2_Getafe-vs-Lugano_live_landscape_thumb.jpg",
             "token": "?hdnea=exp=1792731693~acl=/*~id=42327740877204314356723553323333~hmac=8c51609f36c52dae4748788e232ef12c3930928226b29cc7357a9fc98564a9e5",
-            "token_updated": 1792688468
+            "token_updated": 1792689626
         },
         {
             "match_id": "1090549624",
@@ -121,7 +121,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120306/footlive2210/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026439/1792071706563375_UECL_26_MD2_Pafos-vs-Riga_live_landscape_thumb.jpg",
             "token": "?hdnea=exp=1792731693~acl=/*~id=42327740877204314356723553323333~hmac=8c51609f36c52dae4748788e232ef12c3930928226b29cc7357a9fc98564a9e5",
-            "token_updated": 1792688468
+            "token_updated": 1792689626
         },
         {
             "match_id": "1090549626",
@@ -130,7 +130,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/footlive2210/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026459/1792129975828133_UECL_26_MD2_Trabzonspor-vs-Hearts_live_landscape_thumb.jpg",
             "token": "?hdnea=exp=1792731693~acl=/*~id=42327740877204314356723553323333~hmac=8c51609f36c52dae4748788e232ef12c3930928226b29cc7357a9fc98564a9e5",
-            "token_updated": 1792688468
+            "token_updated": 1792689626
         },
         {
             "match_id": "1090549630",
@@ -139,7 +139,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2037140/footlive2210/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026477/1792132638778184_UECL_26_MD2_Nordsjaelland-vs-CSKA-Sofia_live_landscape_thumb.jpg",
             "token": "?hdnea=exp=1792731693~acl=/*~id=42327740877204314356723553323333~hmac=8c51609f36c52dae4748788e232ef12c3930928226b29cc7357a9fc98564a9e5",
-            "token_updated": 1792688468
+            "token_updated": 1792689626
         },
         {
             "match_id": "1090549633",
@@ -148,7 +148,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2037143/footlive2210/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026477/1792136116771184_UECL_26_MD2_Inter-Escaldes-vs-Univ-Craiova_live_landscape_thumb.jpg",
             "token": "?hdnea=exp=1792731693~acl=/*~id=42327740877204314356723553323333~hmac=8c51609f36c52dae4748788e232ef12c3930928226b29cc7357a9fc98564a9e5",
-            "token_updated": 1792688468
+            "token_updated": 1792689626
         }
     ]
 }
