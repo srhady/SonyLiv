@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "12:52:47 AM 23-10-2026"
+        "last_update": "01:21:20 AM 23-10-2026"
     },
     "live_matches": [
         {
@@ -13,7 +13,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/footlive2210/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025900/1791244113649235_UEL2627_MD3_Bournemouth_vs_Milan_landscape_thumb.jpg",
             "token": "?hdnea=exp=1792738246~acl=/*~id=21229883169491563950827748997077~hmac=98e03ce0c6ffa77ce8150c208f33ee278d234241fe709f2e0c3436f6d584e8b0",
-            "token_updated": 1792695023
+            "token_updated": 1792696823
         },
         {
             "match_id": "1090549735",
@@ -22,7 +22,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2018458/footlive2210/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025900/1791245711395235_UEL2627_MD3_Besiktas_vs_Crystal_Palace_landscape_thumb.jpg",
             "token": "?hdnea=exp=1792738246~acl=/*~id=21229883169491563950827748997077~hmac=98e03ce0c6ffa77ce8150c208f33ee278d234241fe709f2e0c3436f6d584e8b0",
-            "token_updated": 1792695023
+            "token_updated": 1792696823
         },
         {
             "match_id": "1090549910",
@@ -31,43 +31,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2118669/footlive2210/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026498/1792147436477574_UECL_26_MD2_Ajax-vs-Atalanta_live_landscape_thumb.jpg",
             "token": "?hdnea=exp=1792738246~acl=/*~id=21229883169491563950827748997077~hmac=98e03ce0c6ffa77ce8150c208f33ee278d234241fe709f2e0c3436f6d584e8b0",
-            "token_updated": 1792695023
-        },
-        {
-            "match_id": "1090549554",
-            "title": "Juventus vs Rennes - 22 Oct 2026 | UEFA Europa League 2026-27",
-            "tournament": "UEFA Europa League 2026-27",
-            "base_url": "https://sonydaimenew.akamaized.net/hls/live/2105080/footlive2210/ENG/master.m3u8",
-            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025900/1791238994627235_UEL2627_MD3_Juventus_vs_Rennes_landscape_thumb.jpg",
-            "token": "?hdnea=exp=1792731693~acl=/*~id=42327740877204314356723553323333~hmac=8c51609f36c52dae4748788e232ef12c3930928226b29cc7357a9fc98564a9e5",
-            "token_updated": 1792695023
-        },
-        {
-            "match_id": "1090549558",
-            "title": "Union SG vs H. Beer-Sheva - 22 Oct 2026 | UEFA Europa League 2026-27",
-            "tournament": "UEFA Europa League 2026-27",
-            "base_url": "https://sonydaimenew.akamaized.net/hls/live/2105079/footlive2210/ENG/master.m3u8",
-            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025900/1791240028755235_UEL2627_MD3_UnionSG_vs_BeerSheva_landscape_thumb.jpg",
-            "token": "?hdnea=exp=1792731693~acl=/*~id=42327740877204314356723553323333~hmac=8c51609f36c52dae4748788e232ef12c3930928226b29cc7357a9fc98564a9e5",
-            "token_updated": 1792695023
-        },
-        {
-            "match_id": "1090549557",
-            "title": "Ferencváros vs Tørrense - 22 Oct 2026 | UEFA Europa League 2026-27",
-            "tournament": "UEFA Europa League 2026-27",
-            "base_url": "https://sonydaimenew.akamaized.net/hls/live/2094590/footlive2210/ENG/master.m3u8",
-            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025900/1791239263773235_UEL2627_MD3_Ferencvaros_vs_Torrense_landscape_thumb.jpg",
-            "token": "?hdnea=exp=1792731693~acl=/*~id=42327740877204314356723553323333~hmac=8c51609f36c52dae4748788e232ef12c3930928226b29cc7357a9fc98564a9e5",
-            "token_updated": 1792695023
-        },
-        {
-            "match_id": "1090549626",
-            "title": "Trabzonspor vs Hearts - 22 Oct 2026 | UEFA Conference League 2026-27",
-            "tournament": "UEFA Conference League 2026-27",
-            "base_url": "https://sonydaimenew.akamaized.net/hls/live/2022322/footlive2210/ENG/master.m3u8",
-            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026459/1792129975828133_UECL_26_MD2_Trabzonspor-vs-Hearts_live_landscape_thumb.jpg",
-            "token": "?hdnea=exp=1792731693~acl=/*~id=42327740877204314356723553323333~hmac=8c51609f36c52dae4748788e232ef12c3930928226b29cc7357a9fc98564a9e5",
-            "token_updated": 1792695023
+            "token_updated": 1792696823
         },
         {
             "match_id": "1090549732",
@@ -76,7 +40,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2094587/footlive2210/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025900/1791245455944235_UEL2627_MD3_Hoffenheim_vs_Lyon_landscape_thumb.jpg",
             "token": "?hdnea=exp=1792738246~acl=/*~id=21229883169491563950827748997077~hmac=98e03ce0c6ffa77ce8150c208f33ee278d234241fe709f2e0c3436f6d584e8b0",
-            "token_updated": 1792695023
+            "token_updated": 1792696823
         },
         {
             "match_id": "1090549726",
@@ -85,7 +49,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2018457/footlive2210/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025900/1791244999801235_UEL2627_MD3_Omonoia_vs_Benfica_landscape_thumb.jpg",
             "token": "?hdnea=exp=1792738246~acl=/*~id=21229883169491563950827748997077~hmac=98e03ce0c6ffa77ce8150c208f33ee278d234241fe709f2e0c3436f6d584e8b0",
-            "token_updated": 1792695023
+            "token_updated": 1792696823
         },
         {
             "match_id": "1090549740",
@@ -94,7 +58,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2022316/footlive2210/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025900/1791246009830235_UEL2627_MD3_Lillestrom_vs_Real_Sociedad_landscape_thumb.jpg",
             "token": "?hdnea=exp=1792738246~acl=/*~id=21229883169491563950827748997077~hmac=98e03ce0c6ffa77ce8150c208f33ee278d234241fe709f2e0c3436f6d584e8b0",
-            "token_updated": 1792695023
+            "token_updated": 1792696823
         },
         {
             "match_id": "1090549693",
@@ -103,7 +67,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120308/footlive2210/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025900/1791242328734235_UEL2627_MD3_Celtic_vs_Celta_landscape_thumb.jpg",
             "token": "?hdnea=exp=1792738246~acl=/*~id=21229883169491563950827748997077~hmac=98e03ce0c6ffa77ce8150c208f33ee278d234241fe709f2e0c3436f6d584e8b0",
-            "token_updated": 1792695023
+            "token_updated": 1792696823
         },
         {
             "match_id": "1090549688",
@@ -112,7 +76,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/footlive2210/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025900/1791241701105235_UEL2627_MD3_Olympiacos_vs_Sparta_Praha_landscape_thumb.jpg",
             "token": "?hdnea=exp=1792738246~acl=/*~id=21229883169491563950827748997077~hmac=98e03ce0c6ffa77ce8150c208f33ee278d234241fe709f2e0c3436f6d584e8b0",
-            "token_updated": 1792695023
+            "token_updated": 1792696823
         },
         {
             "match_id": "1090549716",
@@ -121,7 +85,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2094589/footlive2210/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025900/1791244460029235_UEL2627_MD3_Celje_vs_Salzburg_landscape_thumb.jpg",
             "token": "?hdnea=exp=1792738246~acl=/*~id=21229883169491563950827748997077~hmac=98e03ce0c6ffa77ce8150c208f33ee278d234241fe709f2e0c3436f6d584e8b0",
-            "token_updated": 1792695023
+            "token_updated": 1792696823
         },
         {
             "match_id": "1090549690",
@@ -130,7 +94,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120300/footlive2210/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025900/1791242066444235_UEL2627_MD3_Viktoria_Plzen_vs_Levski_Sofia_landscape_thumb.jpg",
             "token": "?hdnea=exp=1792738246~acl=/*~id=21229883169491563950827748997077~hmac=98e03ce0c6ffa77ce8150c208f33ee278d234241fe709f2e0c3436f6d584e8b0",
-            "token_updated": 1792695023
+            "token_updated": 1792696823
         },
         {
             "match_id": "1090549721",
@@ -139,7 +103,43 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2005444/footlive2210/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000025900/1791244725318235_UEL2627_MD3_Jagiellonia_vs_Anderlecht_landscape_thumb.jpg",
             "token": "?hdnea=exp=1792738246~acl=/*~id=21229883169491563950827748997077~hmac=98e03ce0c6ffa77ce8150c208f33ee278d234241fe709f2e0c3436f6d584e8b0",
-            "token_updated": 1792695023
+            "token_updated": 1792696823
+        },
+        {
+            "match_id": "1090549911",
+            "title": "AS Monaco vs SC Freiburg - 23 Oct 2026 | UEFA Conference League 2026-27",
+            "tournament": "UEFA Conference League 2026-27",
+            "base_url": "https://sonydaimenew.akamaized.net/hls/live/2118670/footlive2210/ENG/master.m3u8",
+            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026579/1792147880069704_UECL_26_MD2_AMonaco-vs-Freiburg_live_landscape_thumb.jpg",
+            "token": "?hdnea=exp=1792740043~acl=/*~id=51116950553377951978758497616059~hmac=7513b072aa83d96496424a63db0fc736e5f0b703183a5ab43959fb013e6e92b0",
+            "token_updated": 1792696823
+        },
+        {
+            "match_id": "1090549909",
+            "title": "Braga vs KAA Gent - 23 Oct 2026 | UEFA Conference League 2026-27",
+            "tournament": "UEFA Conference League 2026-27",
+            "base_url": "https://sonydaimenew.akamaized.net/hls/live/2118672/footlive2210/ENG/master.m3u8",
+            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026499/1792144452477451_UECL_26_MD2_Braga-vs-Gent_live_landscape_thumb.jpg",
+            "token": "?hdnea=exp=1792740043~acl=/*~id=51116950553377951978758497616059~hmac=7513b072aa83d96496424a63db0fc736e5f0b703183a5ab43959fb013e6e92b0",
+            "token_updated": 1792696823
+        },
+        {
+            "match_id": "1090549912",
+            "title": "FC Midtjylland vs K. Sint-Truidense VV - 23 Oct 2026 | UEFA Conference League 2026-27",
+            "tournament": "UEFA Conference League 2026-27",
+            "base_url": "https://sonydaimenew.akamaized.net/hls/live/2118668/footlive2210/ENG/master.m3u8",
+            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026578/1792235941546100_UECL26_MD2_Midtjylland-vs-Sint-Truidense_live_landscape_thumb.jpg",
+            "token": "?hdnea=exp=1792740043~acl=/*~id=51116950553377951978758497616059~hmac=7513b072aa83d96496424a63db0fc736e5f0b703183a5ab43959fb013e6e92b0",
+            "token_updated": 1792696823
+        },
+        {
+            "match_id": "1090549913",
+            "title": "L. Red Imps FC vs Twente - 23 Oct 2026 | UEFA Conference League 2026-27",
+            "tournament": "UEFA Conference League 2026-27",
+            "base_url": "https://sonydaimenew.akamaized.net/hls/live/2118676/footlive2210/ENG/master.m3u8",
+            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026578/1792236554065100_UECL26_MD2_L-Red-Imps-vs-Twente_live_landscape_thumb.jpg",
+            "token": "?hdnea=exp=1792740043~acl=/*~id=51116950553377951978758497616059~hmac=7513b072aa83d96496424a63db0fc736e5f0b703183a5ab43959fb013e6e92b0",
+            "token_updated": 1792696823
         }
     ]
 }
