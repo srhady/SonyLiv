@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "12:50:27 PM 23-10-2026"
+        "last_update": "01:20:29 PM 23-10-2026"
     },
     "live_matches": [
         {
@@ -13,7 +13,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/criclive2310/HIN/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026725/1792418899640732_STCL_Punjab-Falcons-vs-UP-Dhurandhar_live_landscape_thumb.jpg",
             "token": "?hdnea=exp=1792772447~acl=/*~id=81878409894825560317991616390658~hmac=9e1f7ab6dec7c89b471aeed6432c4cc4fcb1b4d0e3203d913a9a24dfc6b32100",
-            "token_updated": 1792738223
+            "token_updated": 1792740025
         },
         {
             "match_id": "1090550071",
@@ -22,7 +22,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120299/Golf_LIN2310/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026410/1792055341445141_Asian-Tour_LINK-Hong-Kong-Open_D2_live_landscape_thumb.jpg",
             "token": "?hdnea=exp=1792772447~acl=/*~id=81878409894825560317991616390658~hmac=9e1f7ab6dec7c89b471aeed6432c4cc4fcb1b4d0e3203d913a9a24dfc6b32100",
-            "token_updated": 1792738223
+            "token_updated": 1792740025
         },
         {
             "match_id": "1090550070",
@@ -31,7 +31,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120301/Golf_Gen2310/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026929/1792611478125924_DP-World_Genesis-Championship_D2_live_landscape_thumb.jpg",
             "token": "?hdnea=exp=1792767049~acl=/*~id=74840593534100273763159678033980~hmac=0454bea0c23e6c870f2ea4639cd930081bb6caf1d7ebc36a4a4244ed0e015d21",
-            "token_updated": 1792738223
+            "token_updated": 1792740025
         }
     ]
 }
