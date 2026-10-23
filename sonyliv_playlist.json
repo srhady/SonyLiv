@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "06:20:29 PM 23-10-2026"
+        "last_update": "06:50:45 PM 23-10-2026"
     },
     "live_matches": [
         {
@@ -13,7 +13,16 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120306/footlive2310/ENG/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026658/179233523030793_ISL26_KSHI_vs_EastBengalFC_live_landscape_thumb.jpg",
             "token": "?hdnea=exp=1792797648~acl=/*~id=34009329926714089171716740736499~hmac=b7b7c173fcdb8a53dc04741a3b8888cae3e302c9f83df6b7598c11daaebc1eeb",
-            "token_updated": 1792758023
+            "token_updated": 1792759825
+        },
+        {
+            "match_id": "1090550116",
+            "title": "Delhi Dynamites vs Emperia Marathas - Final - 23 Oct 2026 | Volleyball Champions League 2026",
+            "tournament": "Volleyball Champions League 2026",
+            "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120305/Volleyba2310/ENG/master.m3u8",
+            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026930/1792612456710353_VCL26_final_Delhi_Dynamites_vs_Emperia_Marathas_landscape_thumb.jpg",
+            "token": "?hdnea=exp=1792803045~acl=/*~id=58749512068931740502247453068094~hmac=46780a6025755b52cbf335aa62ea82dd9e276a2941d3f95417f4a1cdae8d8041",
+            "token_updated": 1792759825
         },
         {
             "match_id": "1090550072",
@@ -22,7 +31,7 @@
             "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120303/criclive2310/HIN/master.m3u8",
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026940/1792621782167596_STCL26_mumbai_vs_gujarat_landscape_thumb.jpg",
             "token": "?hdnea=exp=1792772447~acl=/*~id=81878409894825560317991616390658~hmac=9e1f7ab6dec7c89b471aeed6432c4cc4fcb1b4d0e3203d913a9a24dfc6b32100",
-            "token_updated": 1792758023
+            "token_updated": 1792759825
         }
     ]
 }
