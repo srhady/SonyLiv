@@ -2,7 +2,7 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 01:50:28 PM 24-10-2026
+# last_update: 02:20:27 PM 24-10-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090550278" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027088/1792739746933829_NZvsIND26_2nd_t20i_landscape_thumb.jpg" group-title="Cricket", 2nd T20I | India Tour of New Zealand 2026 [English]
 https://liveakmt-m-lr.slivcdn.com/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTe3b6prod-PlaybackConfig/2119931/cricodi_2410/ENG/master.m3u8?hdnea=exp=1792868409~acl=/*~id=28325060572396203695576858139302~hmac=ff68300154270d314d6dc2805b76b29942a88a86a77e82b14148fd63bed844d1
@@ -21,9 +21,6 @@ https://liveakmt-m-lr.slivcdn.com/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1b
 
 #EXTINF:-1 tvg-id="sonyliv-1090550308" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027088/1792739746933829_NZvsIND26_2nd_t20i_landscape_thumb.jpg" group-title="Cricket", 2nd T20I | India Tour of New Zealand 2026 [English]
 https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-INDNZ/master.m3u8?hdnea=exp=1792868409~acl=/*~id=28325060572396203695576858139302~hmac=ff68300154270d314d6dc2805b76b29942a88a86a77e82b14148fd63bed844d1
-
-#EXTINF:-1 tvg-id="sonyliv-1090550216" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026929/1792611472051924_DP-World_Genesis-Championship_D3_live_landscape_thumb.jpg" group-title="Golf", Genesis Championship - Day 3 | DP World Tour [English]
-https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT0b06prod-PlaybackConfig/2120302/Genesis_2410/ENG/master.m3u8?hdnea=exp=1792868409~acl=/*~id=28325060572396203695576858139302~hmac=ff68300154270d314d6dc2805b76b29942a88a86a77e82b14148fd63bed844d1
 
 #EXTINF:-1 tvg-id="sonyliv-1090550217" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026410/1792055358975141_Asian-Tour_LINK-Hong-Kong-Open_D3_live_landscape_thumb.jpg" group-title="Golf", LINK Hong Kong Open - Day 3 | Asian Tour 2026 [English]
 https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT9b3bprod-PlaybackConfig/2120307/AsianTou2410/ENG/master.m3u8?hdnea=exp=1792868409~acl=/*~id=28325060572396203695576858139302~hmac=ff68300154270d314d6dc2805b76b29942a88a86a77e82b14148fd63bed844d1
