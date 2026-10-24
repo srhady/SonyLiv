@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "10:20:47 PM 24-10-2026"
+        "last_update": "10:50:31 PM 24-10-2026"
     },
     "live_matches": [
         {
@@ -19,7 +19,7 @@
             },
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027071/1792702595849786_UFC333_Volkanovski_vs_Evloev_live_landscape_thumb.jpg",
             "token": "?hdnea=exp=1792900274~acl=/*~id=36928536637587841041974646731619~hmac=a2e77afeca5ac1657dcf89f20254834de8810b5bf4ee7e6380e1940cf1bc8ebc",
-            "token_updated": 1792858826,
+            "token_updated": 1792860625,
             "audio_list": [
                 {
                     "lang_code": "ENG",
@@ -52,7 +52,7 @@
             },
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026763/1792484022978376_Punjab_Falcons_vs_Haryana_Lions_landscape_thumb.jpg",
             "token": "?hdnea=exp=1792891253~acl=/*~id=52337549659131826064865916043669~hmac=f1f37db7ec2e718dfe5268ef39b80bb998b981d0372cedee11ec469a7f495a5d",
-            "token_updated": 1792858826,
+            "token_updated": 1792860625,
             "audio_list": [
                 {
                     "lang_code": "HIN",
