@@ -2,13 +2,13 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 09:50:34 PM 24-10-2026
+# last_update: 10:20:30 PM 24-10-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090550233" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027071/1792702595849786_UFC333_Volkanovski_vs_Evloev_live_landscape_thumb.jpg" group-title="Fight Sports", UFC 333 - Volkanovski vs Evloev | UFC 333 - Volkanovski vs Evloev [English]
 https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT5559prod-PlaybackConfig/2022320/UFC_UFC_2410/ENG/master.m3u8?hdnea=exp=1792900274~acl=/*~id=36928536637587841041974646731619~hmac=a2e77afeca5ac1657dcf89f20254834de8810b5bf4ee7e6380e1940cf1bc8ebc
 
 #EXTINF:-1 tvg-id="sonyliv-1090550233" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027071/1792702595849786_UFC333_Volkanovski_vs_Evloev_live_landscape_thumb.jpg" group-title="Fight Sports", UFC 333 - Volkanovski vs Evloev | UFC 333 - Volkanovski vs Evloev [Hindi]
-
+https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT7696prod-PlaybackConfig/2018458/UFC_UFC_2410/HIN/master.m3u8?hdnea=exp=1792900274~acl=/*~id=36928536637587841041974646731619~hmac=a2e77afeca5ac1657dcf89f20254834de8810b5bf4ee7e6380e1940cf1bc8ebc
 
 #EXTINF:-1 tvg-id="sonyliv-1090550233" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027071/1792702595849786_UFC333_Volkanovski_vs_Evloev_live_landscape_thumb.jpg" group-title="Fight Sports", UFC 333 - Volkanovski vs Evloev | UFC 333 - Volkanovski vs Evloev [Telugu]
 https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT8734prod-PlaybackConfig/2022316/UFC_UFC_2410/TEL/master.m3u8?hdnea=exp=1792900274~acl=/*~id=36928536637587841041974646731619~hmac=a2e77afeca5ac1657dcf89f20254834de8810b5bf4ee7e6380e1940cf1bc8ebc
@@ -18,12 +18,6 @@ https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf
 
 #EXTINF:-1 tvg-id="sonyliv-1090550233" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027071/1792702595849786_UFC333_Volkanovski_vs_Evloev_live_landscape_thumb.jpg" group-title="Fight Sports", UFC 333 - Volkanovski vs Evloev | UFC 333 - Volkanovski vs Evloev [Kannada]
 https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTa027prod-PlaybackConfig/2120299/UFC_UFC_2410/KAN/master.m3u8?hdnea=exp=1792900274~acl=/*~id=36928536637587841041974646731619~hmac=a2e77afeca5ac1657dcf89f20254834de8810b5bf4ee7e6380e1940cf1bc8ebc
-
-#EXTINF:-1 tvg-id="sonyliv-1090550221" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026659/1792341017913368_ISL26_OFC_vs_NorthEast_UnitedFC_live_landscape_thumb.jpg" group-title="Football", Odisha FC vs NorthEast United FC | MG Indian Super League 2026-27 [English]
-https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTc4a7prod-PlaybackConfig/2018457/Footlive2410/ENG/master.m3u8?hdnea=exp=1792891253~acl=/*~id=52337549659131826064865916043669~hmac=f1f37db7ec2e718dfe5268ef39b80bb998b981d0372cedee11ec469a7f495a5d
-
-#EXTINF:-1 tvg-id="sonyliv-1090550221" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026659/1792341017913368_ISL26_OFC_vs_NorthEast_UnitedFC_live_landscape_thumb.jpg" group-title="Football", Odisha FC vs NorthEast United FC | MG Indian Super League 2026-27 [Hindi]
-https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTc4a7prod-PlaybackConfig/2094587/Footlive2410/HIN/master.m3u8?hdnea=exp=1792891253~acl=/*~id=52337549659131826064865916043669~hmac=f1f37db7ec2e718dfe5268ef39b80bb998b981d0372cedee11ec469a7f495a5d
 
 #EXTINF:-1 tvg-id="sonyliv-1090550219" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026763/1792484022978376_Punjab_Falcons_vs_Haryana_Lions_landscape_thumb.jpg" group-title="Cricket", Punjab Falcons vs Haryana Lions | Salute Tiranga Cricket League (STCL) 2026 [Hindi]
 https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT604fprod-PlaybackConfig/2120308/criclive2410/HIN/master.m3u8?hdnea=exp=1792891253~acl=/*~id=52337549659131826064865916043669~hmac=f1f37db7ec2e718dfe5268ef39b80bb998b981d0372cedee11ec469a7f495a5d
