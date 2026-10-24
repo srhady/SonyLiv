@@ -2,10 +2,13 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 09:50:27 AM 24-10-2026
+# last_update: 10:20:27 AM 24-10-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090550213" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027138/1792752132049819_NZ_vs_IND_A_1st_test_day1_live_landscape_thumb.jpg" group-title="Cricket", 1st Unofficial Test - Day 1 - 24 Oct 2026 | India A Tour of New Zealand
 https://sonydaimenew.akamaized.net/hls/live/2120300/criclive2310/ENG/master.m3u8?hdnea=exp=1792835444~acl=/*~id=80252246033218102274912461493437~hmac=4c0ef408ddad4e94487affb2d322228293164e879c9c18c6ed805ae6d567eaf2
 
 #EXTINF:-1 tvg-id="sonyliv-1090550216" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026929/1792611472051924_DP-World_Genesis-Championship_D3_live_landscape_thumb.jpg" group-title="Golf", Genesis Championship - Day 3 - 24 Oct 2026 | DP World Tour
 https://sonydaimenew.akamaized.net/hls/live/2120302/Genesis_2410/ENG/master.m3u8?hdnea=exp=1792855246~acl=/*~id=56930153112694230242815352793050~hmac=aefa62b343e5e7805b6b75a67ad26e1e0e04c8fb25a1723bb817b6cae2c8166c
+
+#EXTINF:-1 tvg-id="sonyliv-1090550217" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026410/1792055358975141_Asian-Tour_LINK-Hong-Kong-Open_D3_live_landscape_thumb.jpg" group-title="Golf", LINK Hong Kong Open - Day 3 - 24 Oct 2026 | Asian Tour 2026
+https://sonydaimenew.akamaized.net/hls/live/2120307/AsianTou2410/ENG/master.m3u8?hdnea=exp=1792858852~acl=/*~id=43743134088678786837816661800315~hmac=d0a902532d5b81836320e196444428193acc1c9bd5d9200a5787e265d10b41d5
