@@ -2,19 +2,7 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 03:20:29 AM 25-10-2026
+# last_update: 03:50:29 AM 25-10-2026
 
-#EXTINF:-1 tvg-id="sonyliv-1090550233" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027071/1792702595849786_UFC333_Volkanovski_vs_Evloev_live_landscape_thumb.jpg" group-title="Fight Sports", UFC 333 - Volkanovski vs Evloev | UFC 333 - Volkanovski vs Evloev [English]
-https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT5559prod-PlaybackConfig/2022320/UFC_UFC_2410/ENG/master.m3u8?hdnea=exp=1792900274~acl=/*~id=36928536637587841041974646731619~hmac=a2e77afeca5ac1657dcf89f20254834de8810b5bf4ee7e6380e1940cf1bc8ebc
-
-#EXTINF:-1 tvg-id="sonyliv-1090550233" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027071/1792702595849786_UFC333_Volkanovski_vs_Evloev_live_landscape_thumb.jpg" group-title="Fight Sports", UFC 333 - Volkanovski vs Evloev | UFC 333 - Volkanovski vs Evloev [Hindi]
-https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT7696prod-PlaybackConfig/2018458/UFC_UFC_2410/HIN/master.m3u8?hdnea=exp=1792900274~acl=/*~id=36928536637587841041974646731619~hmac=a2e77afeca5ac1657dcf89f20254834de8810b5bf4ee7e6380e1940cf1bc8ebc
-
-#EXTINF:-1 tvg-id="sonyliv-1090550233" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027071/1792702595849786_UFC333_Volkanovski_vs_Evloev_live_landscape_thumb.jpg" group-title="Fight Sports", UFC 333 - Volkanovski vs Evloev | UFC 333 - Volkanovski vs Evloev [Telugu]
-https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT8734prod-PlaybackConfig/2022316/UFC_UFC_2410/TEL/master.m3u8?hdnea=exp=1792900274~acl=/*~id=36928536637587841041974646731619~hmac=a2e77afeca5ac1657dcf89f20254834de8810b5bf4ee7e6380e1940cf1bc8ebc
-
-#EXTINF:-1 tvg-id="sonyliv-1090550233" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027071/1792702595849786_UFC333_Volkanovski_vs_Evloev_live_landscape_thumb.jpg" group-title="Fight Sports", UFC 333 - Volkanovski vs Evloev | UFC 333 - Volkanovski vs Evloev [Tamil]
-https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT7b01prod-PlaybackConfig/2022317/UFC_UFC_2410/TAM/master.m3u8?hdnea=exp=1792900274~acl=/*~id=36928536637587841041974646731619~hmac=a2e77afeca5ac1657dcf89f20254834de8810b5bf4ee7e6380e1940cf1bc8ebc
-
-#EXTINF:-1 tvg-id="sonyliv-1090550233" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027071/1792702595849786_UFC333_Volkanovski_vs_Evloev_live_landscape_thumb.jpg" group-title="Fight Sports", UFC 333 - Volkanovski vs Evloev | UFC 333 - Volkanovski vs Evloev [Kannada]
-https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTa027prod-PlaybackConfig/2120299/UFC_UFC_2410/KAN/master.m3u8?hdnea=exp=1792900274~acl=/*~id=36928536637587841041974646731619~hmac=a2e77afeca5ac1657dcf89f20254834de8810b5bf4ee7e6380e1940cf1bc8ebc
+#EXTINF:-1 tvg-id="sonyliv-1090550571" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027143/179275469748881_NZ_vs_IND_A_1st_test_day2_live_landscape_thumb.jpg" group-title="Cricket", 1st Unofficial Test - Day 2 | India A Tour of New Zealand [English]
+https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT545eprod-PlaybackConfig/2094589/criclive2410/ENG/master.m3u8?hdnea=exp=1792921848~acl=/*~id=17698610224335161683163771569405~hmac=5fc025b0b537f2753b6c4e568e09e83560b2e602d864027d687829e43b67727b
