@@ -2,4 +2,28 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 12:20:24 PM 24-10-2026
+# last_update: 12:22:22 PM 24-10-2026
+
+#EXTINF:-1 tvg-id="sonyliv-1090550278" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027088/1792739746933829_NZvsIND26_2nd_t20i_landscape_thumb.jpg" group-title="Cricket", 2nd T20I | India Tour of New Zealand 2026 [English]
+https://liveakmt-m-lr.slivcdn.com/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTe7d9prod-PlaybackConfig/2119921/cricodi_2410/HIN/master.m3u8?hdnea=exp=1792866176~acl=/*~id=43744137830565308530533677166988~hmac=25c1bbb3fa8899ea0b8f14a976b9cb0af50b6c285368809383803c615faacf7b
+
+#EXTINF:-1 tvg-id="sonyliv-1090550278" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027088/1792739746933829_NZvsIND26_2nd_t20i_landscape_thumb.jpg" group-title="Cricket", 2nd T20I | India Tour of New Zealand 2026 [Hindi]
+https://liveakmt-m-lr.slivcdn.com/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT0518prod-PlaybackConfig/2119921/criclive2410/HIN/master.m3u8?hdnea=exp=1792866176~acl=/*~id=43744137830565308530533677166988~hmac=25c1bbb3fa8899ea0b8f14a976b9cb0af50b6c285368809383803c615faacf7b
+
+#EXTINF:-1 tvg-id="sonyliv-1090550278" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027088/1792739746933829_NZvsIND26_2nd_t20i_landscape_thumb.jpg" group-title="Cricket", 2nd T20I | India Tour of New Zealand 2026 [Telugu]
+https://liveakmt-m-lr.slivcdn.com/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT5181prod-PlaybackConfig/2119941/cricodi_2410/TEL/master.m3u8?hdnea=exp=1792866176~acl=/*~id=43744137830565308530533677166988~hmac=25c1bbb3fa8899ea0b8f14a976b9cb0af50b6c285368809383803c615faacf7b
+
+#EXTINF:-1 tvg-id="sonyliv-1090550278" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027088/1792739746933829_NZvsIND26_2nd_t20i_landscape_thumb.jpg" group-title="Cricket", 2nd T20I | India Tour of New Zealand 2026 [Tamil]
+https://liveakmt-m-lr.slivcdn.com/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT4379prod-PlaybackConfig/2119951/cricodi_2410/TAM/master.m3u8?hdnea=exp=1792866176~acl=/*~id=43744137830565308530533677166988~hmac=25c1bbb3fa8899ea0b8f14a976b9cb0af50b6c285368809383803c615faacf7b
+
+#EXTINF:-1 tvg-id="sonyliv-1090550278" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027088/1792739746933829_NZvsIND26_2nd_t20i_landscape_thumb.jpg" group-title="Cricket", 2nd T20I | India Tour of New Zealand 2026 [Kannada]
+https://liveakmt-m-lr.slivcdn.com/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTa083prod-PlaybackConfig/2119782/cricodi_2410/KAN/master.m3u8?hdnea=exp=1792866176~acl=/*~id=43744137830565308530533677166988~hmac=25c1bbb3fa8899ea0b8f14a976b9cb0af50b6c285368809383803c615faacf7b
+
+#EXTINF:-1 tvg-id="sonyliv-1090550308" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027088/1792739746933829_NZvsIND26_2nd_t20i_landscape_thumb.jpg" group-title="Cricket", 2nd T20I | India Tour of New Zealand 2026 [English]
+https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-INDNZ/master.m3u8?hdnea=exp=1792866176~acl=/*~id=43744137830565308530533677166988~hmac=25c1bbb3fa8899ea0b8f14a976b9cb0af50b6c285368809383803c615faacf7b
+
+#EXTINF:-1 tvg-id="sonyliv-1090550216" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026929/1792611472051924_DP-World_Genesis-Championship_D3_live_landscape_thumb.jpg" group-title="Golf", Genesis Championship - Day 3 | DP World Tour [English]
+https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT0b06prod-PlaybackConfig/2120302/Genesis_2410/ENG/master.m3u8?hdnea=exp=1792866176~acl=/*~id=43744137830565308530533677166988~hmac=25c1bbb3fa8899ea0b8f14a976b9cb0af50b6c285368809383803c615faacf7b
+
+#EXTINF:-1 tvg-id="sonyliv-1090550217" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026410/1792055358975141_Asian-Tour_LINK-Hong-Kong-Open_D3_live_landscape_thumb.jpg" group-title="Golf", LINK Hong Kong Open - Day 3 | Asian Tour 2026 [English]
+https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT9b3bprod-PlaybackConfig/2120307/AsianTou2410/ENG/master.m3u8?hdnea=exp=1792866176~acl=/*~id=43744137830565308530533677166988~hmac=25c1bbb3fa8899ea0b8f14a976b9cb0af50b6c285368809383803c615faacf7b
