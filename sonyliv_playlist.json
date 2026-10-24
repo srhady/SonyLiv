@@ -3,35 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "11:50:44 AM 24-10-2026"
+        "last_update": "12:20:24 PM 24-10-2026"
     },
-    "live_matches": [
-        {
-            "match_id": "1090550278",
-            "title": "2nd T20I - 24 Oct 2026 | India Tour of New Zealand 2026",
-            "tournament": "India Tour of New Zealand 2026",
-            "base_url": "https://liveakmt-p-md.slivcdn.com/hls/live/2119921/cricodi_2410/HIN/master.m3u8",
-            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027088/1792739746933829_NZvsIND26_2nd_t20i_landscape_thumb.jpg",
-            "token": "?hdnea=exp=1792864244~acl=/*~id=69028954704251494132013505570173~hmac=27084bae2c88d9de9bbb6c6c1d39492da4db0b91aa1d9b31a85d0d37da4a57c9",
-            "token_updated": 1792821022
-        },
-        {
-            "match_id": "1090550216",
-            "title": "Genesis Championship - Day 3 - 24 Oct 2026 | DP World Tour",
-            "tournament": "DP World Tour",
-            "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120302/Genesis_2410/ENG/master.m3u8",
-            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026929/1792611472051924_DP-World_Genesis-Championship_D3_live_landscape_thumb.jpg",
-            "token": "?hdnea=exp=1792855246~acl=/*~id=56930153112694230242815352793050~hmac=aefa62b343e5e7805b6b75a67ad26e1e0e04c8fb25a1723bb817b6cae2c8166c",
-            "token_updated": 1792821022
-        },
-        {
-            "match_id": "1090550217",
-            "title": "LINK Hong Kong Open - Day 3 - 24 Oct 2026 | Asian Tour 2026",
-            "tournament": "Asian Tour 2026",
-            "base_url": "https://sonydaimenew.akamaized.net/hls/live/2120307/AsianTou2410/ENG/master.m3u8",
-            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026410/1792055358975141_Asian-Tour_LINK-Hong-Kong-Open_D3_live_landscape_thumb.jpg",
-            "token": "?hdnea=exp=1792858852~acl=/*~id=43743134088678786837816661800315~hmac=d0a902532d5b81836320e196444428193acc1c9bd5d9200a5787e265d10b41d5",
-            "token_updated": 1792821022
-        }
-    ]
+    "live_matches": []
 }
