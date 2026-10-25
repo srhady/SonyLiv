@@ -3,25 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "11:20:27 PM 25-10-2026"
+        "last_update": "11:50:27 PM 25-10-2026"
     },
-    "live_matches": [
-        {
-            "match_id": "1090550567",
-            "title": "Rajasthan Frontiers vs UP Dhurandhar | Salute Tiranga Cricket League (STCL) 2026",
-            "tournament": "Salute Tiranga Cricket League (STCL) 2026",
-            "base_urls": {
-                "HIN": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT0b06prod-PlaybackConfig/2120306/criclive2510/HIN/master.m3u8"
-            },
-            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026765/1792485497377887_Rajasthan_Frontiers_vs_UP_landscape_thumb.jpg",
-            "token": "?hdnea=exp=1792988433~acl=/*~id=01230105743277044605730673579978~hmac=1e3ed7a8a6220d6567ede0232470bb0341cedf24b3a4333851f4beca63e25f37",
-            "token_updated": 1792948822,
-            "audio_list": [
-                {
-                    "lang_code": "HIN",
-                    "lang_label": "Hindi"
-                }
-            ]
-        }
-    ]
+    "live_matches": []
 }
