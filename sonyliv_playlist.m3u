@@ -2,7 +2,7 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 06:50:24 PM 25-10-2026
+# last_update: 07:20:27 PM 25-10-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090550558" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026665/1792351011297172_ISL26_Churchill_BrothersSC_vs_PFC_live_landscape_thumb.jpg" group-title="Football", Churchill Brothers SC vs Punjab FC | MG Indian Super League 2026-27 [English]
 https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT1fb8prod-PlaybackConfig/2120304/footlive2510/ENG/master.m3u8?hdnea=exp=1792968649~acl=/*~id=26944527904544337003888714978225~hmac=d9f6be48e4c7019e062c0410684b5fbc7611c8dddbd630173ef920d5cb354b66
@@ -10,5 +10,14 @@ https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf
 #EXTINF:-1 tvg-id="sonyliv-1090550558" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026665/1792351011297172_ISL26_Churchill_BrothersSC_vs_PFC_live_landscape_thumb.jpg" group-title="Football", Churchill Brothers SC vs Punjab FC | MG Indian Super League 2026-27 [Hindi]
 https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT1fb8prod-PlaybackConfig/2120305/footlive2510/HIN/master.m3u8?hdnea=exp=1792968649~acl=/*~id=26944527904544337003888714978225~hmac=d9f6be48e4c7019e062c0410684b5fbc7611c8dddbd630173ef920d5cb354b66
 
-#EXTINF:-1 tvg-id="sonyliv-1090550567" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026766/1792484827162767_Tamilnadu_Thunders_vs_Gujarat_royals_landscape_thumb.jpg" group-title="Cricket", Tamilnadu Thunders vs Gujarat royals | Salute Tiranga Cricket League (STCL) 2026 [Hindi]
+#EXTINF:-1 tvg-id="sonyliv-1090550560" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026665/1792351748337172_ISL26_KeralaBlastersFC_vs_MumbaiCityFC_live_landscape_thumb.jpg" group-title="Football", Kerala Blasters FC vs Mumbai City FC | MG Indian Super League 2026-27 [English]
+https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT2d27prod-PlaybackConfig/2120300/footlive2510/ENG/master.m3u8?hdnea=exp=1792977651~acl=/*~id=86512930116209831410264985061677~hmac=61ea95296557da4cc66ca2dc015c48bd4298f5feb244bdaf6049c9ef5563bbc2
+
+#EXTINF:-1 tvg-id="sonyliv-1090550560" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026665/1792351748337172_ISL26_KeralaBlastersFC_vs_MumbaiCityFC_live_landscape_thumb.jpg" group-title="Football", Kerala Blasters FC vs Mumbai City FC | MG Indian Super League 2026-27 [Hindi]
+https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT2d27prod-PlaybackConfig/2120302/footlive2510/HIN/master.m3u8?hdnea=exp=1792977651~acl=/*~id=86512930116209831410264985061677~hmac=61ea95296557da4cc66ca2dc015c48bd4298f5feb244bdaf6049c9ef5563bbc2
+
+#EXTINF:-1 tvg-id="sonyliv-1090550560" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026665/1792351748337172_ISL26_KeralaBlastersFC_vs_MumbaiCityFC_live_landscape_thumb.jpg" group-title="Football", Kerala Blasters FC vs Mumbai City FC | MG Indian Super League 2026-27 [Malayalam]
+https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT2d27prod-PlaybackConfig/2120303/footlive2510/MAL/master.m3u8?hdnea=exp=1792977651~acl=/*~id=86512930116209831410264985061677~hmac=61ea95296557da4cc66ca2dc015c48bd4298f5feb244bdaf6049c9ef5563bbc2
+
+#EXTINF:-1 tvg-id="sonyliv-1090550567" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026765/1792485497377887_Rajasthan_Frontiers_vs_UP_landscape_thumb.jpg" group-title="Cricket", Rajasthan Frontiers vs UP Dhurandhar | Salute Tiranga Cricket League (STCL) 2026 [Hindi]
 https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT0b06prod-PlaybackConfig/2120306/criclive2510/HIN/master.m3u8?hdnea=exp=1792947046~acl=/*~id=71823931476391307432356238763995~hmac=07a33500e7235aa31761b1841427509df33332d0378ab2dd6f4bc6beddf86a96
