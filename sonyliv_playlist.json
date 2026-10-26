@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "10:20:27 PM 26-10-2026"
+        "last_update": "10:50:28 PM 26-10-2026"
     },
     "live_matches": [
         {
@@ -15,7 +15,7 @@
             },
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026792/1792495920463308_UP_Dhurandhar_vs_Haryana_Lions_landscape_thumb.jpg",
             "token": "?hdnea=exp=1793047845~acl=/*~id=00967771597340576876780413123295~hmac=c12b288f25a15709fdb583f3210f7865a1954430f50201fd1caeaa289309b5a9",
-            "token_updated": 1793031623,
+            "token_updated": 1793033424,
             "audio_list": [
                 {
                     "lang_code": "HIN",
