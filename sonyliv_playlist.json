@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "05:50:25 AM 26-10-2026"
+        "last_update": "06:20:28 AM 26-10-2026"
     },
     "live_matches": [
         {
@@ -15,7 +15,7 @@
             },
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027143/179275492633881_NZ_vs_IND_A_1st_test_day3_live_landscape_thumb.jpg",
             "token": "?hdnea=exp=1793008246~acl=/*~id=54009841981951384097284120477470~hmac=7014272ac6a303bb57126aa9f43c645745283e52a1d9b8bc08dd921fdeaaaad5",
-            "token_updated": 1792972221,
+            "token_updated": 1792974023,
             "audio_list": [
                 {
                     "lang_code": "ENG",
