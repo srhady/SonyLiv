@@ -3,19 +3,51 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "06:50:28 PM 26-10-2026"
+        "last_update": "07:20:57 PM 26-10-2026"
     },
     "live_matches": [
         {
+            "match_id": "1090550650",
+            "title": "Mohun Bagan Super Giant vs Chennaiyin FC | MG Indian Super League 2026-27",
+            "tournament": "MG Indian Super League 2026-27",
+            "base_urls": {
+                "ENG": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT33a6prod-PlaybackConfig/2120303/Footlive2610/ENG/master.m3u8",
+                "HIN": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT33a6prod-PlaybackConfig/2120304/Footlive2610/HIN/master.m3u8",
+                "TAM": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT33a6prod-PlaybackConfig/2120300/Footlive2610/TAM/master.m3u8",
+                "BEN": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT33a6prod-PlaybackConfig/2120302/Footlive2610/BEN/master.m3u8"
+            },
+            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026665/1792352683390172_ISL26_MohunBaganSG_vs_ChennaiyinFC_live_landscape_thumb.jpg",
+            "token": "?hdnea=exp=1793064056~acl=/*~id=51002977668194131544334476955154~hmac=27422f5265fea38353fa2055c3043582dbc6906e519dba8b4732c9345cad5e03",
+            "token_updated": 1793020823,
+            "audio_list": [
+                {
+                    "lang_code": "ENG",
+                    "lang_label": "English"
+                },
+                {
+                    "lang_code": "HIN",
+                    "lang_label": "Hindi"
+                },
+                {
+                    "lang_code": "TAM",
+                    "lang_label": "Tamil"
+                },
+                {
+                    "lang_code": "BEN",
+                    "lang_label": "Bengali"
+                }
+            ]
+        },
+        {
             "match_id": "1090550648",
-            "title": "Rajasthan Frontiers vs Punjab Falcons | Salute Tiranga Cricket League (STCL) 2026",
+            "title": "UP Dhurandhar vs Haryana Lions | Salute Tiranga Cricket League (STCL) 2026",
             "tournament": "Salute Tiranga Cricket League (STCL) 2026",
             "base_urls": {
                 "HIN": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTe0ffprod-PlaybackConfig/2120301/criclive2610/HIN/master.m3u8"
             },
-            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026790/1792495475611963_Rajasthan_Frontiers_vs_Punjab_Falcons_landscape_thumb.jpg",
+            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026792/1792495920463308_UP_Dhurandhar_vs_Haryana_Lions_landscape_thumb.jpg",
             "token": "?hdnea=exp=1793047845~acl=/*~id=00967771597340576876780413123295~hmac=c12b288f25a15709fdb583f3210f7865a1954430f50201fd1caeaa289309b5a9",
-            "token_updated": 1793019024,
+            "token_updated": 1793020823,
             "audio_list": [
                 {
                     "lang_code": "HIN",
