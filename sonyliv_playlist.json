@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "08:50:33 PM 27-10-2026"
+        "last_update": "09:23:04 PM 27-10-2026"
     },
     "live_matches": [
         {
@@ -15,7 +15,7 @@
             },
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027434/1793041312495594_STCL26_delhi_vs_haryana_landscape_thumb.jpg",
             "token": "?hdnea=exp=1793146849~acl=/*~id=23934922890663764224271584022865~hmac=0c1c711a8009f6c568eae2b6ef3917e56d30cb3ef91f457895b5b441fd0b601d",
-            "token_updated": 1793112629,
+            "token_updated": 1793114579,
             "audio_list": [
                 {
                     "lang_code": "HIN",
