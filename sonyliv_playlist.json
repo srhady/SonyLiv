@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "12:50:33 PM 27-10-2026"
+        "last_update": "01:20:30 PM 27-10-2026"
     },
     "live_matches": [
         {
@@ -19,7 +19,7 @@
             },
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027300/1792876687980737_NZvsIND_3rd_t20i_clean_landscape_thumb.jpg",
             "token": "?hdnea=exp=1793123467~acl=/*~id=53353272139169536400317577047093~hmac=0145e8f7464062d1e0a5bd152e464eeb65d2f87cc23fe617d13e2e019293e06e",
-            "token_updated": 1793082027,
+            "token_updated": 1793085626,
             "audio_list": [
                 {
                     "lang_code": "ENG",
@@ -44,23 +44,6 @@
             ]
         },
         {
-            "match_id": "1090550766",
-            "title": "1st Unofficial Test - Day 4 | India A Tour of New Zealand",
-            "tournament": "India A Tour of New Zealand",
-            "base_urls": {
-                "ENG": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTaf23prod-PlaybackConfig/2120299/criclive2610/ENG/master.m3u8"
-            },
-            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027325/1792938503930905_NZ_A_vs_IND_A_1st_Unofficial_Test_Day4_live_landscape_thumb.jpg",
-            "token": "?hdnea=exp=1793094665~acl=/*~id=33578001970725760259722790433657~hmac=b4570ecf0f0c79373633116b1fe4b505d13b3b0d416b3e7411370b66c1366e74",
-            "token_updated": 1793082027,
-            "audio_list": [
-                {
-                    "lang_code": "ENG",
-                    "lang_label": "English"
-                }
-            ]
-        },
-        {
             "match_id": "1090550773",
             "title": "3rd T20I | India Tour of New Zealand 2026",
             "tournament": "India Tour of New Zealand 2026",
@@ -69,7 +52,7 @@
             },
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027300/1792876687980737_NZvsIND_3rd_t20i_clean_landscape_thumb.jpg",
             "token": "?hdnea=exp=1793125251~acl=/*~id=08133072583082121495450677842310~hmac=544813feaf3b1e69ee08116a6880a4a859438726bbcd513c79247327e9d43c32",
-            "token_updated": 1793082027,
+            "token_updated": 1793085626,
             "audio_list": [
                 {
                     "lang_code": "ENG",
