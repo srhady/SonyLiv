@@ -3,45 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "04:50:29 PM 27-10-2026"
+        "last_update": "05:20:29 PM 27-10-2026"
     },
-    "live_matches": [
-        {
-            "match_id": "1090550767",
-            "title": "3rd T20I | India Tour of New Zealand 2026",
-            "tournament": "India Tour of New Zealand 2026",
-            "base_urls": {
-                "ENG": "https://liveakmt-m-lr.slivcdn.com/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT5559prod-PlaybackConfig/2119931/cricodi_2710/ENG/master.m3u8",
-                "HIN": "https://liveakmt-m-lr.slivcdn.com/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT0b06prod-PlaybackConfig/2119921/cricodi_2710/HIN/master.m3u8",
-                "TEL": "https://liveakmt-m-lr.slivcdn.com/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT6b27prod-PlaybackConfig/2119941/cricodi_2710/TEL/master.m3u8",
-                "TAM": "https://liveakmt-m-lr.slivcdn.com/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTa270prod-PlaybackConfig/2119951/cricodi_2710/TAM/master.m3u8",
-                "KAN": "https://liveakmt-m-lr.slivcdn.com/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT40a1prod-PlaybackConfig/2119782/cricodi_2710/KAN/master.m3u8"
-            },
-            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027300/1792876687980737_NZvsIND_3rd_t20i_clean_landscape_thumb.jpg",
-            "token": "?hdnea=exp=1793123467~acl=/*~id=53353272139169536400317577047093~hmac=0145e8f7464062d1e0a5bd152e464eeb65d2f87cc23fe617d13e2e019293e06e",
-            "token_updated": 1793098225,
-            "audio_list": [
-                {
-                    "lang_code": "ENG",
-                    "lang_label": "English"
-                },
-                {
-                    "lang_code": "HIN",
-                    "lang_label": "Hindi"
-                },
-                {
-                    "lang_code": "TEL",
-                    "lang_label": "Telugu"
-                },
-                {
-                    "lang_code": "TAM",
-                    "lang_label": "Tamil"
-                },
-                {
-                    "lang_code": "KAN",
-                    "lang_label": "Kannada"
-                }
-            ]
-        }
-    ]
+    "live_matches": []
 }
