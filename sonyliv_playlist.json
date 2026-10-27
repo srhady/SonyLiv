@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "04:20:36 PM 27-10-2026"
+        "last_update": "04:50:29 PM 27-10-2026"
     },
     "live_matches": [
         {
@@ -19,7 +19,7 @@
             },
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027300/1792876687980737_NZvsIND_3rd_t20i_clean_landscape_thumb.jpg",
             "token": "?hdnea=exp=1793123467~acl=/*~id=53353272139169536400317577047093~hmac=0145e8f7464062d1e0a5bd152e464eeb65d2f87cc23fe617d13e2e019293e06e",
-            "token_updated": 1793096427,
+            "token_updated": 1793098225,
             "audio_list": [
                 {
                     "lang_code": "ENG",
@@ -40,23 +40,6 @@
                 {
                     "lang_code": "KAN",
                     "lang_label": "Kannada"
-                }
-            ]
-        },
-        {
-            "match_id": "1090550773",
-            "title": "3rd T20I | India Tour of New Zealand 2026",
-            "tournament": "India Tour of New Zealand 2026",
-            "base_urls": {
-                "ENG": "https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-INDNZ/master.m3u8"
-            },
-            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027300/1792876687980737_NZvsIND_3rd_t20i_clean_landscape_thumb.jpg",
-            "token": "?hdnea=exp=1793125251~acl=/*~id=08133072583082121495450677842310~hmac=544813feaf3b1e69ee08116a6880a4a859438726bbcd513c79247327e9d43c32",
-            "token_updated": 1793096427,
-            "audio_list": [
-                {
-                    "lang_code": "ENG",
-                    "lang_label": "English"
                 }
             ]
         }
