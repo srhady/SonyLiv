@@ -2,13 +2,7 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 10:20:35 PM 28-10-2026
-
-#EXTINF:-1 tvg-id="sonyliv-1090551075" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026665/1792353470120172_ISL26_FCGoa_vs_SportingClub_Delhi_live_landscape_thumb.jpg" group-title="Football", FC Goa vs Sporting Club Delhi | MG Indian Super League 2026-27 [English]
-https://liveakmt-m-lr.slivcdn.com/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT5559prod-PlaybackConfig/2119931/cricodi_2810/ENG/master.m3u8?hdnea=exp=1793236857~acl=/*~id=96181214760550814358411741514230~hmac=6e656f0dece6bdbe78917dc4c5e72acb9b5597583c4c796a3b9e99a12245be80
-
-#EXTINF:-1 tvg-id="sonyliv-1090551075" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000026665/1792353470120172_ISL26_FCGoa_vs_SportingClub_Delhi_live_landscape_thumb.jpg" group-title="Football", FC Goa vs Sporting Club Delhi | MG Indian Super League 2026-27 [Hindi]
-https://liveakmt-m-lr.slivcdn.com/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT5559prod-PlaybackConfig/2119921/cricodi_2810/HIN/master.m3u8?hdnea=exp=1793236857~acl=/*~id=96181214760550814358411741514230~hmac=6e656f0dece6bdbe78917dc4c5e72acb9b5597583c4c796a3b9e99a12245be80
+# last_update: 10:50:41 PM 28-10-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090551064" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027599/1793181428437269_STCL26_final_Haryana_Lions_vs_UP_Dhurandhar_landscape_thumb.jpg" group-title="Cricket", Haryana Lions vs UP Dhurandhar - Final | Salute Tiranga Cricket League (STCL) 2026 [Hindi]
 https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT33a6prod-PlaybackConfig/2120299/criclive2810/HIN/master.m3u8?hdnea=exp=1793233252~acl=/*~id=74226180586525656493550808381961~hmac=1c68fc219546453d1ea3b2492c8ef0ba7854e6b6544f54514a4088d0a10644cf
