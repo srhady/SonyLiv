@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "12:20:37 PM 28-10-2026"
+        "last_update": "12:50:32 PM 28-10-2026"
     },
     "live_matches": [
         {
@@ -15,7 +15,7 @@
             },
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027437/1793076736608450_STCL26_SF_Gujarat_Royals_vs_Punjab_Falcons_landscape_thumb.jpg",
             "token": "?hdnea=exp=1793204450~acl=/*~id=64105261433113662272449039450077~hmac=9fed16d61686b1e3b228c692342151522729db2c599e7f2d75cd2ef1187cef51",
-            "token_updated": 1793168430,
+            "token_updated": 1793170228,
             "audio_list": [
                 {
                     "lang_code": "HIN",
