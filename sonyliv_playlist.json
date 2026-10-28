@@ -3,19 +3,19 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "01:20:29 PM 28-10-2026"
+        "last_update": "01:50:27 PM 28-10-2026"
     },
     "live_matches": [
         {
             "match_id": "1090550845",
-            "title": "Gujarat Royals vs Punjab Falcons - Semi Final 2 | Salute Tiranga Cricket League (STCL) 2026",
+            "title": "Gujarat Royals vs UP Dhurandhar - Semi Final 2 | Salute Tiranga Cricket League (STCL) 2026",
             "tournament": "Salute Tiranga Cricket League (STCL) 2026",
             "base_urls": {
                 "HIN": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTe0ffprod-PlaybackConfig/2120300/criclive2810/HIN/master.m3u8"
             },
-            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027437/1793076736608450_STCL26_SF_Gujarat_Royals_vs_Punjab_Falcons_landscape_thumb.jpg",
+            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027580/1793171987464723_STCL26_SF_Gujarat_Royals_vs_UP_landscape_thumb.jpg",
             "token": "?hdnea=exp=1793204450~acl=/*~id=64105261433113662272449039450077~hmac=9fed16d61686b1e3b228c692342151522729db2c599e7f2d75cd2ef1187cef51",
-            "token_updated": 1793172025,
+            "token_updated": 1793173823,
             "audio_list": [
                 {
                     "lang_code": "HIN",
