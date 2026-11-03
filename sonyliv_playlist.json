@@ -3,19 +3,55 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "01:20:40 AM 04-11-2026"
+        "last_update": "01:52:31 AM 04-11-2026"
     },
     "live_matches": [
         {
-            "match_id": "1090551744",
-            "title": "Shakhtar Donetsk vs Sporting CP - MD 4 | UEFA Champions League 2026-27",
+            "match_id": "1090551748",
+            "title": "Manchester United vs AS Roma | UEFA Champions League 2026-27",
             "tournament": "UEFA Champions League 2026-27",
             "base_urls": {
-                "ENG": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT7a8bprod-PlaybackConfig/2120304/footlive0311/ENG/master.m3u8"
+                "ENG": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTa270prod-PlaybackConfig/2120308/footlive0311/ENG/master.m3u8",
+                "TEL": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTe7d9prod-PlaybackConfig/2120307/footlive0311/TEL/master.m3u8",
+                "TAM": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTe7d9prod-PlaybackConfig/2005444/footlive0311/TAM/master.m3u8",
+                "KAN": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTe7d9prod-PlaybackConfig/2120305/footlive0311/KAN/master.m3u8"
             },
-            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027330/1792950924165243_UCL26_MD4_Shakhtar_vs_SportingCP_landscape_thumb.jpg",
-            "token": "?hdnea=exp=1793769662~acl=/*~id=21676438590316111351385312268782~hmac=786e3833cb6eab507a49917f3257e528f7b98cf252e0d0271f1f5d477c906202",
-            "token_updated": 1793733636,
+            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027329/1792952482824378_UCL26_MD4_Man_United_vs_AS_Roma_eng_landscape_thumb.jpg",
+            "token": "?hdnea=exp=1793778670~acl=/*~id=00697157076113949785893863624833~hmac=1f53f35929440f77adb676a4b87c25e10b1cbb8fa6c882e76a2c3831741b06cf",
+            "token_updated": 1793735433,
+            "audio_list": [
+                {
+                    "lang_code": "ENG",
+                    "lang_label": "English"
+                },
+                {
+                    "lang_code": "HIN",
+                    "lang_label": "Hindi"
+                },
+                {
+                    "lang_code": "TEL",
+                    "lang_label": "Telugu"
+                },
+                {
+                    "lang_code": "TAM",
+                    "lang_label": "Tamil"
+                },
+                {
+                    "lang_code": "KAN",
+                    "lang_label": "Kannada"
+                }
+            ]
+        },
+        {
+            "match_id": "1090551747",
+            "title": "Atlético de Madrid vs Bayern Munich | UEFA Champions League 2026-27",
+            "tournament": "UEFA Champions League 2026-27",
+            "base_urls": {
+                "ENG": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT3f63prod-PlaybackConfig/2120302/footlive0311/ENG/master.m3u8"
+            },
+            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027329/1792952088187378_UCL26_MD4_Atletico_vs_Bayern_landscape_thumb.jpg",
+            "token": "?hdnea=exp=1793778670~acl=/*~id=00697157076113949785893863624833~hmac=1f53f35929440f77adb676a4b87c25e10b1cbb8fa6c882e76a2c3831741b06cf",
+            "token_updated": 1793735433,
             "audio_list": [
                 {
                     "lang_code": "ENG",
@@ -24,15 +60,83 @@
             ]
         },
         {
-            "match_id": "1090551745",
-            "title": "Galatasaray vs VfB Stuttgart | UEFA Champions League 2026-27",
+            "match_id": "1090551746",
+            "title": "Barcelona vs Aston Villa | UEFA Champions League 2026-27",
             "tournament": "UEFA Champions League 2026-27",
             "base_urls": {
-                "ENG": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTf4faprod-PlaybackConfig/2120303/footlive0311/ENG/master.m3u8"
+                "ENG": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT5559prod-PlaybackConfig/2120300/footlive0311/ENG/master.m3u8"
             },
-            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027329/1792951478118378_UCL26_MD4_Galatasaray_vs_VfB_Stuttgart_landscape_thumb.jpg",
-            "token": "?hdnea=exp=1793769662~acl=/*~id=21676438590316111351385312268782~hmac=786e3833cb6eab507a49917f3257e528f7b98cf252e0d0271f1f5d477c906202",
-            "token_updated": 1793733636,
+            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027329/1792951817788378_UCL26_MD4_Barcelona_vs_Aston_Villa_landscape_thumb.jpg",
+            "token": "?hdnea=exp=1793778670~acl=/*~id=00697157076113949785893863624833~hmac=1f53f35929440f77adb676a4b87c25e10b1cbb8fa6c882e76a2c3831741b06cf",
+            "token_updated": 1793735433,
+            "audio_list": [
+                {
+                    "lang_code": "ENG",
+                    "lang_label": "English"
+                }
+            ]
+        },
+        {
+            "match_id": "1090551755",
+            "title": "Villarreal vs PSG | UEFA Champions League 2026-27",
+            "tournament": "UEFA Champions League 2026-27",
+            "base_urls": {
+                "ENG": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT6b27prod-PlaybackConfig/2094589/footlive0311/ENG/master.m3u8"
+            },
+            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027330/1792953428976243_UCL26_MD4_Villarreal_vs_PSG_landscape_thumb.jpg",
+            "token": "?hdnea=exp=1793778670~acl=/*~id=00697157076113949785893863624833~hmac=1f53f35929440f77adb676a4b87c25e10b1cbb8fa6c882e76a2c3831741b06cf",
+            "token_updated": 1793735433,
+            "audio_list": [
+                {
+                    "lang_code": "ENG",
+                    "lang_label": "English"
+                }
+            ]
+        },
+        {
+            "match_id": "1090551753",
+            "title": "Feyenoord vs Inter Milan | UEFA Champions League 2026-27",
+            "tournament": "UEFA Champions League 2026-27",
+            "base_urls": {
+                "ENG": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT0518prod-PlaybackConfig/2094588/footlive0311/ENG/master.m3u8"
+            },
+            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027329/1792952919459378_UCL26_MD4_Feyenoord_vs_Inter_Milan_landscape_thumb.jpg",
+            "token": "?hdnea=exp=1793778670~acl=/*~id=00697157076113949785893863624833~hmac=1f53f35929440f77adb676a4b87c25e10b1cbb8fa6c882e76a2c3831741b06cf",
+            "token_updated": 1793735433,
+            "audio_list": [
+                {
+                    "lang_code": "ENG",
+                    "lang_label": "English"
+                }
+            ]
+        },
+        {
+            "match_id": "1090551756",
+            "title": "LASK vs Slovan Bratislava | UEFA Champions League 2026-27",
+            "tournament": "UEFA Champions League 2026-27",
+            "base_urls": {
+                "ENG": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT4379prod-PlaybackConfig/2094587/footlive0311/ENG/master.m3u8"
+            },
+            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027329/1792953756095378_UCL26_MD4_LASK_vs_Bratislava_landscape_thumb.jpg",
+            "token": "?hdnea=exp=1793778670~acl=/*~id=00697157076113949785893863624833~hmac=1f53f35929440f77adb676a4b87c25e10b1cbb8fa6c882e76a2c3831741b06cf",
+            "token_updated": 1793735433,
+            "audio_list": [
+                {
+                    "lang_code": "ENG",
+                    "lang_label": "English"
+                }
+            ]
+        },
+        {
+            "match_id": "1090551754",
+            "title": "Bodø/Glimt vs Lille | UEFA Champions League 2026-27",
+            "tournament": "UEFA Champions League 2026-27",
+            "base_urls": {
+                "ENG": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT07ebprod-PlaybackConfig/2018457/footlive0311/ENG/master.m3u8"
+            },
+            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027329/1792953144488378_UCL26_MD4_Bodo_vs_Lille_landscape_thumb.jpg",
+            "token": "?hdnea=exp=1793778670~acl=/*~id=00697157076113949785893863624833~hmac=1f53f35929440f77adb676a4b87c25e10b1cbb8fa6c882e76a2c3831741b06cf",
+            "token_updated": 1793735433,
             "audio_list": [
                 {
                     "lang_code": "ENG",
