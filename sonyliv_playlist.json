@@ -3,19 +3,19 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "11:21:17 PM 04-11-2026"
+        "last_update": "11:51:04 PM 04-11-2026"
     },
     "live_matches": [
         {
-            "match_id": "1090551922",
-            "title": "Stade Rennais FC vs Olympiacos FC | UEFA Europa League 2026-27",
-            "tournament": "UEFA Europa League 2026-27",
+            "match_id": "1090551910",
+            "title": "Fenerbahçe vs Liverpool | UEFA Champions League 2026-27",
+            "tournament": "UEFA Champions League 2026-27",
             "base_urls": {
-                "ENG": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTa74cprod-PlaybackConfig/2120299/footlive0411/ENG/master.m3u8"
+                "ENG": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT1fb8prod-PlaybackConfig/2022316/Footlive0411/ENG/master.m3u8"
             },
-            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027332/1792958081045483_UEL26_MD4_Stade_RennaisFC_vs_OlympiacosFC_landscape_thumb.jpg",
-            "token": "?hdnea=exp=1793850656~acl=/*~id=42709376307326580607588270268245~hmac=40ca6580fcb86f51ddde14ffb878b77dc876647b0fdc12ef81ecbfc0acf03cc6",
-            "token_updated": 1793812830,
+            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027329/1792953990078378_UCL26_MD4_Fenerbahce_vs_Liverpool_landscape_thumb.jpg",
+            "token": "?hdnea=exp=1793857851~acl=/*~id=83659208939244399959378200455225~hmac=39b017283816784a366e9466b14a043890d0472ec7bb60b038f2c0d981809c00",
+            "token_updated": 1793814627,
             "audio_list": [
                 {
                     "lang_code": "ENG",
