@@ -3,25 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "03:20:35 PM 04-11-2026"
+        "last_update": "04:20:49 PM 04-11-2026"
     },
-    "live_matches": [
-        {
-            "match_id": "1090552113",
-            "title": "1st ODI | India Tour of New Zealand 2026",
-            "tournament": "India Tour of New Zealand 2026",
-            "base_urls": {
-                "ENG": "https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-INDNZ/master.m3u8"
-            },
-            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028131/1793689445603200_NZvsIND_1st_odi_landscape_thumb.jpg",
-            "token": "?hdnea=exp=1793800256~acl=/*~id=84635706087704210471074559953035~hmac=ff2126721d1e595f1d4ee82aa727513b83d624802474bb969733c3a860defb53",
-            "token_updated": 1793784030,
-            "audio_list": [
-                {
-                    "lang_code": "ENG",
-                    "lang_label": "English"
-                }
-            ]
-        }
-    ]
+    "live_matches": []
 }
