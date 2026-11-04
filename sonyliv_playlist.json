@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "02:50:34 AM 05-11-2026"
+        "last_update": "03:20:31 AM 05-11-2026"
     },
     "live_matches": [
         {
@@ -19,7 +19,7 @@
             },
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027330/1792955587277243_UCL26_MD4_RBLeipzig_vs_ManCity_landscape_thumb.jpg",
             "token": "?hdnea=exp=1793865070~acl=/*~id=46029341793226549921227223927290~hmac=5120245a327e73790fe240e2ccfcfd67ed7a317392ff12ca1d83aa44f2eb3e50",
-            "token_updated": 1793825430,
+            "token_updated": 1793827227,
             "audio_list": [
                 {
                     "lang_code": "ENG",
@@ -52,7 +52,7 @@
             },
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027330/1792955986716242_UCL26_MD4_Slavia_Praha_vs_Arsenal_eng_landscape_thumb.jpg",
             "token": "?hdnea=exp=1793865070~acl=/*~id=46029341793226549921227223927290~hmac=5120245a327e73790fe240e2ccfcfd67ed7a317392ff12ca1d83aa44f2eb3e50",
-            "token_updated": 1793825430,
+            "token_updated": 1793827227,
             "audio_list": [
                 {
                     "lang_code": "ENG",
@@ -69,7 +69,7 @@
             },
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027329/1792954724592378_UCL26_MD4_Dortmund_vs_Real_Betis_landscape_thumb.jpg",
             "token": "?hdnea=exp=1793865070~acl=/*~id=46029341793226549921227223927290~hmac=5120245a327e73790fe240e2ccfcfd67ed7a317392ff12ca1d83aa44f2eb3e50",
-            "token_updated": 1793825430,
+            "token_updated": 1793827227,
             "audio_list": [
                 {
                     "lang_code": "ENG",
@@ -86,7 +86,7 @@
             },
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027329/1792955008635378_UCL26_MD4_Porto_vs_Napoli_landscape_thumb.jpg",
             "token": "?hdnea=exp=1793865070~acl=/*~id=46029341793226549921227223927290~hmac=5120245a327e73790fe240e2ccfcfd67ed7a317392ff12ca1d83aa44f2eb3e50",
-            "token_updated": 1793825430,
+            "token_updated": 1793827227,
             "audio_list": [
                 {
                     "lang_code": "ENG",
@@ -103,7 +103,7 @@
             },
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027330/1792956418897243_UCL26_MD4_RC_Lens_vs_Como_landscape_thumb.jpg",
             "token": "?hdnea=exp=1793865070~acl=/*~id=46029341793226549921227223927290~hmac=5120245a327e73790fe240e2ccfcfd67ed7a317392ff12ca1d83aa44f2eb3e50",
-            "token_updated": 1793825430,
+            "token_updated": 1793827227,
             "audio_list": [
                 {
                     "lang_code": "ENG",
@@ -120,7 +120,7 @@
             },
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027330/1792955265419243_UCL26_MD4_PSV_vs_Brugge_landscape_thumb.jpg",
             "token": "?hdnea=exp=1793865070~acl=/*~id=46029341793226549921227223927290~hmac=5120245a327e73790fe240e2ccfcfd67ed7a317392ff12ca1d83aa44f2eb3e50",
-            "token_updated": 1793825430,
+            "token_updated": 1793827227,
             "audio_list": [
                 {
                     "lang_code": "ENG",
@@ -137,7 +137,7 @@
             },
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027330/1792956660701243_UCL26_MD4_VikingFK_vs_Sabah_FC_landscape_thumb.jpg",
             "token": "?hdnea=exp=1793865070~acl=/*~id=46029341793226549921227223927290~hmac=5120245a327e73790fe240e2ccfcfd67ed7a317392ff12ca1d83aa44f2eb3e50",
-            "token_updated": 1793825430,
+            "token_updated": 1793827227,
             "audio_list": [
                 {
                     "lang_code": "ENG",
