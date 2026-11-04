@@ -2,22 +2,37 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 01:20:34 AM 05-11-2026
+# last_update: 01:50:35 AM 05-11-2026
 
-#EXTINF:-1 tvg-id="sonyliv-1090551911" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027329/1792954447868378_UCL26_MD4_AEK_Athens_vs_Real_Madrid_landscape_thumb.jpg" group-title="Football", AEK Athens vs Real Madrid | UEFA Champions League 2026-27 [English]
-https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT5559prod-PlaybackConfig/2120305/Footlive0411/ENG/master.m3u8?hdnea=exp=1793859671~acl=/*~id=50927113086388504997512085872660~hmac=1c4e431925c8aa1e598dbb7ee1bda794fad02f032abb99ce3c2378b77b90d7f3
+#EXTINF:-1 tvg-id="sonyliv-1090551915" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027330/1792955587277243_UCL26_MD4_RBLeipzig_vs_ManCity_landscape_thumb.jpg" group-title="Football", RB Leipzig vs Manchester City | UEFA Champions League 2026-27 [English]
+https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT7a8bprod-PlaybackConfig/2018457/footlive0411/ENG/master.m3u8?hdnea=exp=1793865070~acl=/*~id=46029341793226549921227223927290~hmac=5120245a327e73790fe240e2ccfcfd67ed7a317392ff12ca1d83aa44f2eb3e50
 
-#EXTINF:-1 tvg-id="sonyliv-1090551911" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027329/1792954447868378_UCL26_MD4_AEK_Athens_vs_Real_Madrid_landscape_thumb.jpg" group-title="Football", AEK Athens vs Real Madrid | UEFA Champions League 2026-27 [Hindi]
-https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT3f63prod-PlaybackConfig/2120306/Footlive0411/HIN/master.m3u8?hdnea=exp=1793859671~acl=/*~id=50927113086388504997512085872660~hmac=1c4e431925c8aa1e598dbb7ee1bda794fad02f032abb99ce3c2378b77b90d7f3
+#EXTINF:-1 tvg-id="sonyliv-1090551915" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027330/1792955587277243_UCL26_MD4_RBLeipzig_vs_ManCity_landscape_thumb.jpg" group-title="Football", RB Leipzig vs Manchester City | UEFA Champions League 2026-27 [Hindi]
+https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTa270prod-PlaybackConfig/2005444/footlive0411/HIN/master.m3u8?hdnea=exp=1793865070~acl=/*~id=46029341793226549921227223927290~hmac=5120245a327e73790fe240e2ccfcfd67ed7a317392ff12ca1d83aa44f2eb3e50
 
-#EXTINF:-1 tvg-id="sonyliv-1090551911" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027329/1792954447868378_UCL26_MD4_AEK_Athens_vs_Real_Madrid_landscape_thumb.jpg" group-title="Football", AEK Athens vs Real Madrid | UEFA Champions League 2026-27 [Telugu]
-https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT3f63prod-PlaybackConfig/2120300/Footlive0411/TEL/master.m3u8?hdnea=exp=1793859671~acl=/*~id=50927113086388504997512085872660~hmac=1c4e431925c8aa1e598dbb7ee1bda794fad02f032abb99ce3c2378b77b90d7f3
+#EXTINF:-1 tvg-id="sonyliv-1090551915" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027330/1792955587277243_UCL26_MD4_RBLeipzig_vs_ManCity_landscape_thumb.jpg" group-title="Football", RB Leipzig vs Manchester City | UEFA Champions League 2026-27 [Telugu]
+https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTa270prod-PlaybackConfig/2094588/footlive0411/TEL/master.m3u8?hdnea=exp=1793865070~acl=/*~id=46029341793226549921227223927290~hmac=5120245a327e73790fe240e2ccfcfd67ed7a317392ff12ca1d83aa44f2eb3e50
 
-#EXTINF:-1 tvg-id="sonyliv-1090551911" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027329/1792954447868378_UCL26_MD4_AEK_Athens_vs_Real_Madrid_landscape_thumb.jpg" group-title="Football", AEK Athens vs Real Madrid | UEFA Champions League 2026-27 [Tamil]
-https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT3f63prod-PlaybackConfig/2120302/Footlive0411/TAM/master.m3u8?hdnea=exp=1793859671~acl=/*~id=50927113086388504997512085872660~hmac=1c4e431925c8aa1e598dbb7ee1bda794fad02f032abb99ce3c2378b77b90d7f3
+#EXTINF:-1 tvg-id="sonyliv-1090551915" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027330/1792955587277243_UCL26_MD4_RBLeipzig_vs_ManCity_landscape_thumb.jpg" group-title="Football", RB Leipzig vs Manchester City | UEFA Champions League 2026-27 [Tamil]
+https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTa270prod-PlaybackConfig/2094589/footlive0411/TAM/master.m3u8?hdnea=exp=1793865070~acl=/*~id=46029341793226549921227223927290~hmac=5120245a327e73790fe240e2ccfcfd67ed7a317392ff12ca1d83aa44f2eb3e50
 
-#EXTINF:-1 tvg-id="sonyliv-1090551911" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027329/1792954447868378_UCL26_MD4_AEK_Athens_vs_Real_Madrid_landscape_thumb.jpg" group-title="Football", AEK Athens vs Real Madrid | UEFA Champions League 2026-27 [Kannada]
-https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT3f63prod-PlaybackConfig/2120307/Footlive0411/KAN/master.m3u8?hdnea=exp=1793859671~acl=/*~id=50927113086388504997512085872660~hmac=1c4e431925c8aa1e598dbb7ee1bda794fad02f032abb99ce3c2378b77b90d7f3
+#EXTINF:-1 tvg-id="sonyliv-1090551915" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027330/1792955587277243_UCL26_MD4_RBLeipzig_vs_ManCity_landscape_thumb.jpg" group-title="Football", RB Leipzig vs Manchester City | UEFA Champions League 2026-27 [Kannada]
+https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTa270prod-PlaybackConfig/2120308/footlive0411/KAN/master.m3u8?hdnea=exp=1793865070~acl=/*~id=46029341793226549921227223927290~hmac=5120245a327e73790fe240e2ccfcfd67ed7a317392ff12ca1d83aa44f2eb3e50
 
-#EXTINF:-1 tvg-id="sonyliv-1090551910" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027329/1792953990078378_UCL26_MD4_Fenerbahce_vs_Liverpool_landscape_thumb.jpg" group-title="Football", Fenerbahçe vs Liverpool | UEFA Champions League 2026-27 [English]
-https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT1fb8prod-PlaybackConfig/2022316/Footlive0411/ENG/master.m3u8?hdnea=exp=1793857851~acl=/*~id=83659208939244399959378200455225~hmac=39b017283816784a366e9466b14a043890d0472ec7bb60b038f2c0d981809c00
+#EXTINF:-1 tvg-id="sonyliv-1090551916" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027330/1792955986716242_UCL26_MD4_Slavia_Praha_vs_Arsenal_eng_landscape_thumb.jpg" group-title="Football", Slavia Praha vs Arsenal | UEFA Champions League 2026-27 [English]
+https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTe0ffprod-PlaybackConfig/2022320/footlive0411/ENG/master.m3u8?hdnea=exp=1793865070~acl=/*~id=46029341793226549921227223927290~hmac=5120245a327e73790fe240e2ccfcfd67ed7a317392ff12ca1d83aa44f2eb3e50
+
+#EXTINF:-1 tvg-id="sonyliv-1090551912" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027329/1792954724592378_UCL26_MD4_Dortmund_vs_Real_Betis_landscape_thumb.jpg" group-title="Football", Borussia Dortmund vs Real Betis | UEFA Champions League 2026-27 [English]
+https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT0b06prod-PlaybackConfig/2120303/footlive0411/ENG/master.m3u8?hdnea=exp=1793865070~acl=/*~id=46029341793226549921227223927290~hmac=5120245a327e73790fe240e2ccfcfd67ed7a317392ff12ca1d83aa44f2eb3e50
+
+#EXTINF:-1 tvg-id="sonyliv-1090551913" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027329/1792955008635378_UCL26_MD4_Porto_vs_Napoli_landscape_thumb.jpg" group-title="Football", FC Porto vs Napoli | UEFA Champions League 2026-27 [English]
+https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT9b3bprod-PlaybackConfig/2120304/footlive0411/ENG/master.m3u8?hdnea=exp=1793865070~acl=/*~id=46029341793226549921227223927290~hmac=5120245a327e73790fe240e2ccfcfd67ed7a317392ff12ca1d83aa44f2eb3e50
+
+#EXTINF:-1 tvg-id="sonyliv-1090551917" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027330/1792956418897243_UCL26_MD4_RC_Lens_vs_Como_landscape_thumb.jpg" group-title="Football", RC Lens vs Como 1907 | UEFA Champions League 2026-27 [English]
+https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTe7d9prod-PlaybackConfig/2094587/Footlive0411/ENG/master.m3u8?hdnea=exp=1793865070~acl=/*~id=46029341793226549921227223927290~hmac=5120245a327e73790fe240e2ccfcfd67ed7a317392ff12ca1d83aa44f2eb3e50
+
+#EXTINF:-1 tvg-id="sonyliv-1090551914" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027330/1792955265419243_UCL26_MD4_PSV_vs_Brugge_landscape_thumb.jpg" group-title="Football", PSV Eindhoven vs Club Brugge | UEFA Champions League 2026-27 [English]
+https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTf4faprod-PlaybackConfig/2022317/footlive0411/ENG/master.m3u8?hdnea=exp=1793865070~acl=/*~id=46029341793226549921227223927290~hmac=5120245a327e73790fe240e2ccfcfd67ed7a317392ff12ca1d83aa44f2eb3e50
+
+#EXTINF:-1 tvg-id="sonyliv-1090551918" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027330/1792956660701243_UCL26_MD4_VikingFK_vs_Sabah_FC_landscape_thumb.jpg" group-title="Football", Viking FK vs Sabah FC | UEFA Champions League 2026-27 [English]
+https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT0518prod-PlaybackConfig/2022322/Footlive0411/ENG/master.m3u8?hdnea=exp=1793865070~acl=/*~id=46029341793226549921227223927290~hmac=5120245a327e73790fe240e2ccfcfd67ed7a317392ff12ca1d83aa44f2eb3e50
