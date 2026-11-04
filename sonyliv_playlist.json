@@ -3,9 +3,46 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "11:51:04 PM 04-11-2026"
+        "last_update": "12:21:11 AM 05-11-2026"
     },
     "live_matches": [
+        {
+            "match_id": "1090551911",
+            "title": "AEK Athens vs Real Madrid | UEFA Champions League 2026-27",
+            "tournament": "UEFA Champions League 2026-27",
+            "base_urls": {
+                "ENG": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT5559prod-PlaybackConfig/2120305/Footlive0411/ENG/master.m3u8",
+                "HIN": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT3f63prod-PlaybackConfig/2120306/Footlive0411/HIN/master.m3u8",
+                "TEL": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT3f63prod-PlaybackConfig/2120300/Footlive0411/TEL/master.m3u8",
+                "TAM": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT3f63prod-PlaybackConfig/2120302/Footlive0411/TAM/master.m3u8",
+                "KAN": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT3f63prod-PlaybackConfig/2120307/Footlive0411/KAN/master.m3u8"
+            },
+            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027329/1792954447868378_UCL26_MD4_AEK_Athens_vs_Real_Madrid_landscape_thumb.jpg",
+            "token": "?hdnea=exp=1793859671~acl=/*~id=50927113086388504997512085872660~hmac=1c4e431925c8aa1e598dbb7ee1bda794fad02f032abb99ce3c2378b77b90d7f3",
+            "token_updated": 1793816426,
+            "audio_list": [
+                {
+                    "lang_code": "ENG",
+                    "lang_label": "English"
+                },
+                {
+                    "lang_code": "HIN",
+                    "lang_label": "Hindi"
+                },
+                {
+                    "lang_code": "TEL",
+                    "lang_label": "Telugu"
+                },
+                {
+                    "lang_code": "TAM",
+                    "lang_label": "Tamil"
+                },
+                {
+                    "lang_code": "KAN",
+                    "lang_label": "Kannada"
+                }
+            ]
+        },
         {
             "match_id": "1090551910",
             "title": "Fenerbahçe vs Liverpool | UEFA Champions League 2026-27",
@@ -15,7 +52,7 @@
             },
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027329/1792953990078378_UCL26_MD4_Fenerbahce_vs_Liverpool_landscape_thumb.jpg",
             "token": "?hdnea=exp=1793857851~acl=/*~id=83659208939244399959378200455225~hmac=39b017283816784a366e9466b14a043890d0472ec7bb60b038f2c0d981809c00",
-            "token_updated": 1793814627,
+            "token_updated": 1793816426,
             "audio_list": [
                 {
                     "lang_code": "ENG",
