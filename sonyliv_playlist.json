@@ -3,9 +3,43 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "11:23:59 PM 05-11-2026"
+        "last_update": "11:51:26 PM 05-11-2026"
     },
     "live_matches": [
+        {
+            "match_id": "1090551919",
+            "title": "AC Milan vs Ferencvárosi TC - MD 4 | UEFA Europa League 2026-27",
+            "tournament": "UEFA Europa League 2026-27",
+            "base_urls": {
+                "ENG": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT5559prod-PlaybackConfig/2120299/Footlive0511/ENG/master.m3u8"
+            },
+            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027331/1792957344930155_UEL26_MD4_AC_Milan_vs_Ferencvarosi_TC_landscape_thumb.jpg",
+            "token": "?hdnea=exp=1793944261~acl=/*~id=19456647490887530682285332279841~hmac=6f3a1655b045526388ee698a4762ac7e7de74f144f04b877461367d4b8baee8b",
+            "token_updated": 1793901029,
+            "audio_list": [
+                {
+                    "lang_code": "ENG",
+                    "lang_label": "English"
+                }
+            ]
+        },
+        {
+            "match_id": "1090551924",
+            "title": "Crystal Palace vs TSG 1899 Hoffenheim | UEFA Europa League 2026-27",
+            "tournament": "UEFA Europa League 2026-27",
+            "base_urls": {
+                "ENG": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT1fb8prod-PlaybackConfig/2120300/Footlive0511/ENG/master.m3u8"
+            },
+            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027331/1792958584600155_UEL26_MD4_Crystal_Palace_vs_Hoffenheim_landscape_thumb.jpg",
+            "token": "?hdnea=exp=1793944261~acl=/*~id=19456647490887530682285332279841~hmac=6f3a1655b045526388ee698a4762ac7e7de74f144f04b877461367d4b8baee8b",
+            "token_updated": 1793901029,
+            "audio_list": [
+                {
+                    "lang_code": "ENG",
+                    "lang_label": "English"
+                }
+            ]
+        },
         {
             "match_id": "1090551920",
             "title": "Real Sociedad vs Olympique Lyonnais | UEFA Europa League 2026-27",
@@ -15,7 +49,7 @@
             },
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027332/1792957626922483_UEL26_MD4_Real_Sociedad_vs_Lyonnais_landscape_thumb.jpg",
             "token": "?hdnea=exp=1793942491~acl=/*~id=31500798948407468279478999630306~hmac=f00afb8e62095b808795fbf1ddabd821b40d1f6d11b63a47d810d906a2537ebd",
-            "token_updated": 1793899229,
+            "token_updated": 1793901029,
             "audio_list": [
                 {
                     "lang_code": "ENG",
@@ -32,7 +66,7 @@
             },
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027331/1792957848318155_UEL26_MD4_AC_Sparta_Praha_vs_AFC_Bournemouth_landscape_thumb.jpg",
             "token": "?hdnea=exp=1793942491~acl=/*~id=31500798948407468279478999630306~hmac=f00afb8e62095b808795fbf1ddabd821b40d1f6d11b63a47d810d906a2537ebd",
-            "token_updated": 1793899229,
+            "token_updated": 1793901029,
             "audio_list": [
                 {
                     "lang_code": "ENG",
@@ -49,7 +83,7 @@
             },
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027331/1792958318540155_UEL26_MD4_Anderlecht_vs_Salzburg_landscape_thumb.jpg",
             "token": "?hdnea=exp=1793942491~acl=/*~id=31500798948407468279478999630306~hmac=f00afb8e62095b808795fbf1ddabd821b40d1f6d11b63a47d810d906a2537ebd",
-            "token_updated": 1793899229,
+            "token_updated": 1793901029,
             "audio_list": [
                 {
                     "lang_code": "ENG",
@@ -66,7 +100,7 @@
             },
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027331/1792959168586155_UEL26_MD4_LillestromSK_vs_FCViktoria_landscape_thumb.jpg",
             "token": "?hdnea=exp=1793942491~acl=/*~id=31500798948407468279478999630306~hmac=f00afb8e62095b808795fbf1ddabd821b40d1f6d11b63a47d810d906a2537ebd",
-            "token_updated": 1793899229,
+            "token_updated": 1793901029,
             "audio_list": [
                 {
                     "lang_code": "ENG",
@@ -83,7 +117,7 @@
             },
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027332/1792958865576483_UEL26_MD4_Nijmegen_vs_OmonoiaFC_landscape_thumb.jpg",
             "token": "?hdnea=exp=1793942491~acl=/*~id=31500798948407468279478999630306~hmac=f00afb8e62095b808795fbf1ddabd821b40d1f6d11b63a47d810d906a2537ebd",
-            "token_updated": 1793899229,
+            "token_updated": 1793901029,
             "audio_list": [
                 {
                     "lang_code": "ENG",
@@ -100,7 +134,7 @@
             },
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027331/1792959443512155_UEL26_MD4_Levski_Sofia_vs_Jagiellonia_landscape_thumb.jpg",
             "token": "?hdnea=exp=1793942491~acl=/*~id=31500798948407468279478999630306~hmac=f00afb8e62095b808795fbf1ddabd821b40d1f6d11b63a47d810d906a2537ebd",
-            "token_updated": 1793899229,
+            "token_updated": 1793901029,
             "audio_list": [
                 {
                     "lang_code": "ENG",
@@ -117,7 +151,7 @@
             },
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028125/179368619486249_UECL26_MD3_Atalanta-BC-v-FC-Kairat-Almaty_live_landscape_thumb.jpg",
             "token": "?hdnea=exp=1793942491~acl=/*~id=31500798948407468279478999630306~hmac=f00afb8e62095b808795fbf1ddabd821b40d1f6d11b63a47d810d906a2537ebd",
-            "token_updated": 1793899229,
+            "token_updated": 1793901029,
             "audio_list": [
                 {
                     "lang_code": "ENG",
@@ -134,7 +168,7 @@
             },
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028125/179368659009249_UECL26_MD3_FC-Midtjylland-v-AFC-Ajax_live_landscape_thumb.jpg",
             "token": "?hdnea=exp=1793942491~acl=/*~id=31500798948407468279478999630306~hmac=f00afb8e62095b808795fbf1ddabd821b40d1f6d11b63a47d810d906a2537ebd",
-            "token_updated": 1793899229,
+            "token_updated": 1793901029,
             "audio_list": [
                 {
                     "lang_code": "ENG",
@@ -151,7 +185,7 @@
             },
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028130/1793689921087518_UECL26_MD3_Trabzonspor-v-SC-Freiburg_live_landscape_thumb.jpg",
             "token": "?hdnea=exp=1793942491~acl=/*~id=31500798948407468279478999630306~hmac=f00afb8e62095b808795fbf1ddabd821b40d1f6d11b63a47d810d906a2537ebd",
-            "token_updated": 1793899229,
+            "token_updated": 1793901029,
             "audio_list": [
                 {
                     "lang_code": "ENG",
@@ -168,7 +202,24 @@
             },
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028134/1793691031437248_UECL26_MD3_AGF-Aarhus-VS-SC-Braga_live_landscape_thumb.jpg",
             "token": "?hdnea=exp=1793942491~acl=/*~id=31500798948407468279478999630306~hmac=f00afb8e62095b808795fbf1ddabd821b40d1f6d11b63a47d810d906a2537ebd",
-            "token_updated": 1793899229,
+            "token_updated": 1793901029,
+            "audio_list": [
+                {
+                    "lang_code": "ENG",
+                    "lang_label": "English"
+                }
+            ]
+        },
+        {
+            "match_id": "1090552379",
+            "title": "FK Crvena Zvezda vs Inter Club d'Escaldes | UEFA Conference League 2026-27",
+            "tournament": "UEFA Conference League 2026-27",
+            "base_urls": {
+                "ENG": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT0b06prod-PlaybackConfig/2120308/footlive0511/ENG/master.m3u8"
+            },
+            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028129/1793687734052544_UECL26_MD3_FK-Crvena-Zvezda-v-Inter-Club-dEscaldes_live_landscape_thumb.jpg",
+            "token": "?hdnea=exp=1793944261~acl=/*~id=19456647490887530682285332279841~hmac=6f3a1655b045526388ee698a4762ac7e7de74f144f04b877461367d4b8baee8b",
+            "token_updated": 1793901029,
             "audio_list": [
                 {
                     "lang_code": "ENG",
@@ -185,7 +236,7 @@
             },
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028129/1793688730612544_UECL26_MD3_KuPS-Kuopio-v-KAA-Gent_live_landscape_thumb.jpg",
             "token": "?hdnea=exp=1793942491~acl=/*~id=31500798948407468279478999630306~hmac=f00afb8e62095b808795fbf1ddabd821b40d1f6d11b63a47d810d906a2537ebd",
-            "token_updated": 1793899229,
+            "token_updated": 1793901029,
             "audio_list": [
                 {
                     "lang_code": "ENG",
@@ -202,7 +253,7 @@
             },
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028129/1793689144622544_UECL26_MD3_Lincoln-Red-Imps-FC-v-HNK-Hajduk-Split_live_landscape_thumb.jpg",
             "token": "?hdnea=exp=1793942491~acl=/*~id=31500798948407468279478999630306~hmac=f00afb8e62095b808795fbf1ddabd821b40d1f6d11b63a47d810d906a2537ebd",
-            "token_updated": 1793899229,
+            "token_updated": 1793901029,
             "audio_list": [
                 {
                     "lang_code": "ENG",
