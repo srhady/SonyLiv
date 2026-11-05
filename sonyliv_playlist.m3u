@@ -2,10 +2,13 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 07:20:33 PM 05-11-2026
+# last_update: 07:50:34 PM 05-11-2026
 
-#EXTINF:-1 tvg-id="sonyliv-1090552590" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027301/1792883293621355_ISL26_ChurchillBFC_vs_NorthEastUnitedFC_live_landscape_thumb.jpg" group-title="Football", Churchill Brothers FC vs NorthEast United FC | MG Indian Super League 2026-27 [English]
-https://liveakmt-m-lr.slivcdn.com/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT7b01prod-PlaybackConfig/2119931/cricodi_0511/ENG/master.m3u8?hdnea=exp=1793919056~acl=/*~id=96618440367271058711088244507217~hmac=c4153971da29189f7b230d6fa9cec799b21753ccc89a200f143140af35ca6659
+#EXTINF:-1 tvg-id="sonyliv-1090552592" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027301/1792883929690355_ISL26_MohunBaganSG_vs_OFC_live_landscape_thumb.jpg" group-title="Football", Mohun Bagan Super Giant vs OFC | MG Indian Super League 2026-27 [English]
+https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT01adprod-PlaybackConfig/2094590/Footlive0511/ENG/master.m3u8?hdnea=exp=1793929859~acl=/*~id=56085130896891619164690979368158~hmac=da80bcef1b6d3e06a02a324d517900b43537679b4df6e1f250ba54fadb554f22
 
-#EXTINF:-1 tvg-id="sonyliv-1090552590" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027301/1792883293621355_ISL26_ChurchillBFC_vs_NorthEastUnitedFC_live_landscape_thumb.jpg" group-title="Football", Churchill Brothers FC vs NorthEast United FC | MG Indian Super League 2026-27 [Hindi]
-https://liveakmt-m-lr.slivcdn.com/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT7b01prod-PlaybackConfig/2119921/cricodi_0511/HIN/master.m3u8?hdnea=exp=1793919056~acl=/*~id=96618440367271058711088244507217~hmac=c4153971da29189f7b230d6fa9cec799b21753ccc89a200f143140af35ca6659
+#EXTINF:-1 tvg-id="sonyliv-1090552592" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027301/1792883929690355_ISL26_MohunBaganSG_vs_OFC_live_landscape_thumb.jpg" group-title="Football", Mohun Bagan Super Giant vs OFC | MG Indian Super League 2026-27 [Hindi]
+https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT01adprod-PlaybackConfig/2105079/Footlive0511/HIN/master.m3u8?hdnea=exp=1793929859~acl=/*~id=56085130896891619164690979368158~hmac=da80bcef1b6d3e06a02a324d517900b43537679b4df6e1f250ba54fadb554f22
+
+#EXTINF:-1 tvg-id="sonyliv-1090552592" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027301/1792883929690355_ISL26_MohunBaganSG_vs_OFC_live_landscape_thumb.jpg" group-title="Football", Mohun Bagan Super Giant vs OFC | MG Indian Super League 2026-27 [Bengali]
+https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT01adprod-PlaybackConfig/2105080/Footlive0511/BEN/master.m3u8?hdnea=exp=1793929859~acl=/*~id=56085130896891619164690979368158~hmac=da80bcef1b6d3e06a02a324d517900b43537679b4df6e1f250ba54fadb554f22
