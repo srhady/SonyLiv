@@ -2,4 +2,40 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 10:50:36 PM 05-11-2026
+# last_update: 11:20:37 PM 05-11-2026
+
+#EXTINF:-1 tvg-id="sonyliv-1090551920" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027332/1792957626922483_UEL26_MD4_Real_Sociedad_vs_Lyonnais_landscape_thumb.jpg" group-title="Football", Real Sociedad vs Olympique Lyonnais | UEFA Europa League 2026-27 [English]
+https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT37d2prod-PlaybackConfig/2120301/Footlive0511/ENG/master.m3u8?hdnea=exp=1793942491~acl=/*~id=31500798948407468279478999630306~hmac=f00afb8e62095b808795fbf1ddabd821b40d1f6d11b63a47d810d906a2537ebd
+
+#EXTINF:-1 tvg-id="sonyliv-1090551921" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027331/1792957848318155_UEL26_MD4_AC_Sparta_Praha_vs_AFC_Bournemouth_landscape_thumb.jpg" group-title="Football", AC Sparta Praha vs AFC Bournemouth | UEFA Europa League 2026-27 [English]
+https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTe3b6prod-PlaybackConfig/2120306/Footlive0511/ENG/master.m3u8?hdnea=exp=1793942491~acl=/*~id=31500798948407468279478999630306~hmac=f00afb8e62095b808795fbf1ddabd821b40d1f6d11b63a47d810d906a2537ebd
+
+#EXTINF:-1 tvg-id="sonyliv-1090551923" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027331/1792958318540155_UEL26_MD4_Anderlecht_vs_Salzburg_landscape_thumb.jpg" group-title="Football", RSC Anderlecht vs FC Salzburg | UEFA Europa League 2026-27 [English]
+https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT2d27prod-PlaybackConfig/2120307/Footlive0511/ENG/master.m3u8?hdnea=exp=1793942491~acl=/*~id=31500798948407468279478999630306~hmac=f00afb8e62095b808795fbf1ddabd821b40d1f6d11b63a47d810d906a2537ebd
+
+#EXTINF:-1 tvg-id="sonyliv-1090551926" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027331/1792959168586155_UEL26_MD4_LillestromSK_vs_FCViktoria_landscape_thumb.jpg" group-title="Football", Lillestrøm SK vs FC Viktoria Plzeň | UEFA Europa League 2026-27 [English]
+https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT245cprod-PlaybackConfig/2120305/Footlive0511/ENG/master.m3u8?hdnea=exp=1793942491~acl=/*~id=31500798948407468279478999630306~hmac=f00afb8e62095b808795fbf1ddabd821b40d1f6d11b63a47d810d906a2537ebd
+
+#EXTINF:-1 tvg-id="sonyliv-1090551925" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027332/1792958865576483_UEL26_MD4_Nijmegen_vs_OmonoiaFC_landscape_thumb.jpg" group-title="Football", N.E.C. Nijmegen vs Omonia FC | UEFA Europa League 2026-27 [English]
+https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT02b6prod-PlaybackConfig/2120302/Footlive0511/ENG/master.m3u8?hdnea=exp=1793942491~acl=/*~id=31500798948407468279478999630306~hmac=f00afb8e62095b808795fbf1ddabd821b40d1f6d11b63a47d810d906a2537ebd
+
+#EXTINF:-1 tvg-id="sonyliv-1090551927" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027331/1792959443512155_UEL26_MD4_Levski_Sofia_vs_Jagiellonia_landscape_thumb.jpg" group-title="Football", PFC Levski Sofia vs Jagiellonia Białystok | UEFA Europa League 2026-27 [English]
+https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT74b0prod-PlaybackConfig/2018458/Footlive0511/ENG/master.m3u8?hdnea=exp=1793942491~acl=/*~id=31500798948407468279478999630306~hmac=f00afb8e62095b808795fbf1ddabd821b40d1f6d11b63a47d810d906a2537ebd
+
+#EXTINF:-1 tvg-id="sonyliv-1090551928" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028125/179368619486249_UECL26_MD3_Atalanta-BC-v-FC-Kairat-Almaty_live_landscape_thumb.jpg" group-title="Football", Atalanta BC vs FC Kairat Almaty | UEFA Conference League 2026-27 [English]
+https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTe0ffprod-PlaybackConfig/2120303/footlive0511/ENG/master.m3u8?hdnea=exp=1793942491~acl=/*~id=31500798948407468279478999630306~hmac=f00afb8e62095b808795fbf1ddabd821b40d1f6d11b63a47d810d906a2537ebd
+
+#EXTINF:-1 tvg-id="sonyliv-1090551929" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028125/179368659009249_UECL26_MD3_FC-Midtjylland-v-AFC-Ajax_live_landscape_thumb.jpg" group-title="Football", FC Midtjylland vs AFC Ajax | UEFA Conference League 2026-27 [English]
+https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT1e26prod-PlaybackConfig/2120304/footlive0511/ENG/master.m3u8?hdnea=exp=1793942491~acl=/*~id=31500798948407468279478999630306~hmac=f00afb8e62095b808795fbf1ddabd821b40d1f6d11b63a47d810d906a2537ebd
+
+#EXTINF:-1 tvg-id="sonyliv-1090552389" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028130/1793689921087518_UECL26_MD3_Trabzonspor-v-SC-Freiburg_live_landscape_thumb.jpg" group-title="Football", Trabzonspor A.Ş vs SC Freiburg | UEFA Conference League 2026-27 [English]
+https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTe7d9prod-PlaybackConfig/2005444/footlive0511/ENG/master.m3u8?hdnea=exp=1793942491~acl=/*~id=31500798948407468279478999630306~hmac=f00afb8e62095b808795fbf1ddabd821b40d1f6d11b63a47d810d906a2537ebd
+
+#EXTINF:-1 tvg-id="sonyliv-1090552395" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028134/1793691031437248_UECL26_MD3_AGF-Aarhus-VS-SC-Braga_live_landscape_thumb.jpg" group-title="Football", SC Braga vs AGF Aarhus | UEFA Conference League 2026-27 [English]
+https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTb6c9prod-PlaybackConfig/2018457/Footlive0511/ENG/master.m3u8?hdnea=exp=1793942491~acl=/*~id=31500798948407468279478999630306~hmac=f00afb8e62095b808795fbf1ddabd821b40d1f6d11b63a47d810d906a2537ebd
+
+#EXTINF:-1 tvg-id="sonyliv-1090552383" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028129/1793688730612544_UECL26_MD3_KuPS-Kuopio-v-KAA-Gent_live_landscape_thumb.jpg" group-title="Football", KuPS Kuopio vs KAA Gent | UEFA Conference League 2026-27 [English]
+https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTf4faprod-PlaybackConfig/2094588/footlive0511/ENG/master.m3u8?hdnea=exp=1793942491~acl=/*~id=31500798948407468279478999630306~hmac=f00afb8e62095b808795fbf1ddabd821b40d1f6d11b63a47d810d906a2537ebd
+
+#EXTINF:-1 tvg-id="sonyliv-1090552386" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028129/1793689144622544_UECL26_MD3_Lincoln-Red-Imps-FC-v-HNK-Hajduk-Split_live_landscape_thumb.jpg" group-title="Football", Lincoln Red Imps FC vs HNK Hajduk Split | UEFA Conference League 2026-27 [English]
+https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT7a8bprod-PlaybackConfig/2094589/footlive0511/ENG/master.m3u8?hdnea=exp=1793942491~acl=/*~id=31500798948407468279478999630306~hmac=f00afb8e62095b808795fbf1ddabd821b40d1f6d11b63a47d810d906a2537ebd
