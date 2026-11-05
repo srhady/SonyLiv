@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "03:20:34 AM 06-11-2026"
+        "last_update": "03:50:29 AM 06-11-2026"
     },
     "live_matches": [
         {
@@ -15,7 +15,7 @@
             },
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027331/1792959760705155_UEL26_MD4_Leverkusen_vs_Olympiquede_Marseille_landscape_thumb.jpg",
             "token": "?hdnea=exp=1793951451~acl=/*~id=64001243079770537849291860516986~hmac=ac1d7f3f5aee0dd34b703e2004e0f5d20598a3837a26f91c0b0d709fc918ccdf",
-            "token_updated": 1793913629,
+            "token_updated": 1793915426,
             "audio_list": [
                 {
                     "lang_code": "ENG",
@@ -32,7 +32,7 @@
             },
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027331/1792960301043155_UEL26_MD4_AZ_Alkmaar_vs_Juventus_landscape_thumb.jpg",
             "token": "?hdnea=exp=1793951451~acl=/*~id=64001243079770537849291860516986~hmac=ac1d7f3f5aee0dd34b703e2004e0f5d20598a3837a26f91c0b0d709fc918ccdf",
-            "token_updated": 1793913629,
+            "token_updated": 1793915426,
             "audio_list": [
                 {
                     "lang_code": "ENG",
@@ -49,7 +49,7 @@
             },
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027332/1792961394449483_UEL26_MD4_Sunderland_AFC_vs_GNK_Dinamo_landscape_thumb.jpg",
             "token": "?hdnea=exp=1793951451~acl=/*~id=64001243079770537849291860516986~hmac=ac1d7f3f5aee0dd34b703e2004e0f5d20598a3837a26f91c0b0d709fc918ccdf",
-            "token_updated": 1793913629,
+            "token_updated": 1793915426,
             "audio_list": [
                 {
                     "lang_code": "ENG",
@@ -66,7 +66,7 @@
             },
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027331/1792960030532155_UEL26_MD4_Benfica_vs_Lech_Poznan_landscape_thumb.jpg",
             "token": "?hdnea=exp=1793951451~acl=/*~id=64001243079770537849291860516986~hmac=ac1d7f3f5aee0dd34b703e2004e0f5d20598a3837a26f91c0b0d709fc918ccdf",
-            "token_updated": 1793913629,
+            "token_updated": 1793915426,
             "audio_list": [
                 {
                     "lang_code": "ENG",
@@ -83,7 +83,7 @@
             },
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027331/1792960788399155_UEL26_MD4_CelticFC_vs_BesiktasJK_landscape_thumb.jpg",
             "token": "?hdnea=exp=1793951451~acl=/*~id=64001243079770537849291860516986~hmac=ac1d7f3f5aee0dd34b703e2004e0f5d20598a3837a26f91c0b0d709fc918ccdf",
-            "token_updated": 1793913629,
+            "token_updated": 1793915426,
             "audio_list": [
                 {
                     "lang_code": "ENG",
@@ -100,7 +100,7 @@
             },
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027332/1792961074941483_UEL26_MD4_SKSturm_Graz_vs_NK_Celje_landscape_thumb.jpg",
             "token": "?hdnea=exp=1793951451~acl=/*~id=64001243079770537849291860516986~hmac=ac1d7f3f5aee0dd34b703e2004e0f5d20598a3837a26f91c0b0d709fc918ccdf",
-            "token_updated": 1793913629,
+            "token_updated": 1793915426,
             "audio_list": [
                 {
                     "lang_code": "ENG",
@@ -117,7 +117,7 @@
             },
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027331/1792962285451155_UEL26_MD4_Celta_vs_USG_landscape_thumb.jpg",
             "token": "?hdnea=exp=1793951451~acl=/*~id=64001243079770537849291860516986~hmac=ac1d7f3f5aee0dd34b703e2004e0f5d20598a3837a26f91c0b0d709fc918ccdf",
-            "token_updated": 1793913629,
+            "token_updated": 1793915426,
             "audio_list": [
                 {
                     "lang_code": "ENG",
@@ -134,7 +134,7 @@
             },
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027332/1792962980328483_UEL26_MD4_Torreense_vs_Ararat_Armenia_landscape_thumb.jpg",
             "token": "?hdnea=exp=1793951451~acl=/*~id=64001243079770537849291860516986~hmac=ac1d7f3f5aee0dd34b703e2004e0f5d20598a3837a26f91c0b0d709fc918ccdf",
-            "token_updated": 1793913629,
+            "token_updated": 1793915426,
             "audio_list": [
                 {
                     "lang_code": "ENG",
@@ -151,7 +151,7 @@
             },
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027331/1792963313031155_UEL26_MD4_BeerSheva_vs_OFICrete_landscape_thumb.jpg",
             "token": "?hdnea=exp=1793951451~acl=/*~id=64001243079770537849291860516986~hmac=ac1d7f3f5aee0dd34b703e2004e0f5d20598a3837a26f91c0b0d709fc918ccdf",
-            "token_updated": 1793913629,
+            "token_updated": 1793915426,
             "audio_list": [
                 {
                     "lang_code": "ENG",
@@ -168,7 +168,7 @@
             },
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028152/1793701377529766_UECL26_MD3_Getafe-CF-v-Brighton-Hove-Albion_live_landscape_thumb.jpg",
             "token": "?hdnea=exp=1793953266~acl=/*~id=08473241557981604154387084198533~hmac=0946c7ffe881024902a8901be1b5976cd07368f3f3b965548b440fe2727f1612",
-            "token_updated": 1793913629,
+            "token_updated": 1793915426,
             "audio_list": [
                 {
                     "lang_code": "ENG",
@@ -185,7 +185,7 @@
             },
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028136/1793694581648939_UECL26_MD3_AS-Monaco-v-FC-Nordsjaelland_live_landscape_thumb.jpg",
             "token": "?hdnea=exp=1793951451~acl=/*~id=64001243079770537849291860516986~hmac=ac1d7f3f5aee0dd34b703e2004e0f5d20598a3837a26f91c0b0d709fc918ccdf",
-            "token_updated": 1793913629,
+            "token_updated": 1793915426,
             "audio_list": [
                 {
                     "lang_code": "ENG",
@@ -202,7 +202,7 @@
             },
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028136/1793697832289939_UECL26_MD3_FC-Copenhagen-v-FC-Iberia-1999-Tbilisi_live_landscape_thumb.jpg",
             "token": "?hdnea=exp=1793951451~acl=/*~id=64001243079770537849291860516986~hmac=ac1d7f3f5aee0dd34b703e2004e0f5d20598a3837a26f91c0b0d709fc918ccdf",
-            "token_updated": 1793913629,
+            "token_updated": 1793915426,
             "audio_list": [
                 {
                     "lang_code": "ENG",
@@ -219,7 +219,7 @@
             },
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028152/1793701911398766_UECL26_MD3_FC-Twente-v-Pafos-FC_live_landscape_thumb.jpg",
             "token": "?hdnea=exp=1793951451~acl=/*~id=64001243079770537849291860516986~hmac=ac1d7f3f5aee0dd34b703e2004e0f5d20598a3837a26f91c0b0d709fc918ccdf",
-            "token_updated": 1793913629,
+            "token_updated": 1793915426,
             "audio_list": [
                 {
                     "lang_code": "ENG",
@@ -236,7 +236,7 @@
             },
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028136/1793697344104939_UECL26_MD3_Panathinaikos-FC-v-PFC-CSKA-Sofia_live_landscape_thumb.jpg",
             "token": "?hdnea=exp=1793953266~acl=/*~id=08473241557981604154387084198533~hmac=0946c7ffe881024902a8901be1b5976cd07368f3f3b965548b440fe2727f1612",
-            "token_updated": 1793913629,
+            "token_updated": 1793915426,
             "audio_list": [
                 {
                     "lang_code": "ENG",
@@ -253,7 +253,7 @@
             },
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028152/1793700974301766_UECL26_MD3_FC-Lugano-v-FK-Kauno-Zalgiris_live_landscape_thumb.jpg",
             "token": "?hdnea=exp=1793953266~acl=/*~id=08473241557981604154387084198533~hmac=0946c7ffe881024902a8901be1b5976cd07368f3f3b965548b440fe2727f1612",
-            "token_updated": 1793913629,
+            "token_updated": 1793915426,
             "audio_list": [
                 {
                     "lang_code": "ENG",
