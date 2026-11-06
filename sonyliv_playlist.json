@@ -3,23 +3,28 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "06:50:30 PM 06-11-2026"
+        "last_update": "07:20:57 PM 06-11-2026"
     },
     "live_matches": [
         {
-            "match_id": "1090552767",
-            "title": "Abu Dhabi HSBC Championship - Day 2 | DP World Tour",
-            "tournament": "DP World Tour",
+            "match_id": "1090552768",
+            "title": "FC Goa vs Bengaluru FC | MG Indian Super League 2026-27",
+            "tournament": "MG Indian Super League 2026-27",
             "base_urls": {
-                "ENG": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT5181prod-PlaybackConfig/2120299/Golflive0611/ENG/master.m3u8"
+                "ENG": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT7b01prod-PlaybackConfig/2120301/footlive0611/ENG/master.m3u8",
+                "HIN": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT7b01prod-PlaybackConfig/2120303/footlive0611/HIN/master.m3u8"
             },
-            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027303/1792888660743682_DP_World_Tour_Abu_Dhabi_HSBC_Championship_day2_landscape_thumb.jpg",
-            "token": "?hdnea=exp=1793991051~acl=/*~id=63486802740666128363684146740684~hmac=13759ccddb5e2d6974e6ac09694d5313b6a95407b8e4c41606ae118570cf9a1a",
-            "token_updated": 1793969426,
+            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027301/1792884419195355_ISL26_FC_GOA_vs_Bengaluru_FC_live_landscape_thumb.jpg",
+            "token": "?hdnea=exp=1794014457~acl=/*~id=71780757088595886050000995767357~hmac=2d130d3374fc5ac76977d8ea6983dae023aae6b4f15ca9633845cadff3275720",
+            "token_updated": 1793971229,
             "audio_list": [
                 {
                     "lang_code": "ENG",
                     "lang_label": "English"
+                },
+                {
+                    "lang_code": "HIN",
+                    "lang_label": "Hindi"
                 }
             ]
         }
