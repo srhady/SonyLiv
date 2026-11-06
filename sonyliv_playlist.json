@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "07:20:57 PM 06-11-2026"
+        "last_update": "07:50:34 PM 06-11-2026"
     },
     "live_matches": [
         {
@@ -16,7 +16,7 @@
             },
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027301/1792884419195355_ISL26_FC_GOA_vs_Bengaluru_FC_live_landscape_thumb.jpg",
             "token": "?hdnea=exp=1794014457~acl=/*~id=71780757088595886050000995767357~hmac=2d130d3374fc5ac76977d8ea6983dae023aae6b4f15ca9633845cadff3275720",
-            "token_updated": 1793971229,
+            "token_updated": 1793973027,
             "audio_list": [
                 {
                     "lang_code": "ENG",
