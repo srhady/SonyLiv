@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "09:50:33 PM 07-11-2026"
+        "last_update": "10:20:36 PM 07-11-2026"
     },
     "live_matches": [
         {
@@ -18,7 +18,7 @@
             },
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027301/1792886014840355_ISL26_ChennaiyinFC_vs_EBFC_live_landscape_thumb.jpg",
             "token": "?hdnea=exp=1794100866~acl=/*~id=23652171746488196813542591116941~hmac=25218741002910d806c02b47c60d6bbb7fbcc23b62c33790c762d729bd338226",
-            "token_updated": 1794066627,
+            "token_updated": 1794068427,
             "audio_list": [
                 {
                     "lang_code": "ENG",
