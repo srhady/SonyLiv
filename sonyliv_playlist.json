@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "05:20:43 PM 07-11-2026"
+        "last_update": "05:50:31 PM 07-11-2026"
     },
     "live_matches": [
         {
@@ -16,7 +16,7 @@
             },
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027301/1792885491102355_ISL26_KSHI_vs_Sporting_Club_Delhi_live_landscape_thumb.jpg",
             "token": "?hdnea=exp=1794091852~acl=/*~id=83179710262061372680509725491095~hmac=4ac9370af053d6f970aa60caa73ca7d19554642047710a4f0cfa41b6865d8a26",
-            "token_updated": 1794050428,
+            "token_updated": 1794052227,
             "audio_list": [
                 {
                     "lang_code": "ENG",
@@ -37,7 +37,7 @@
             },
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027303/1792888653936682_DP_World_Tour_Abu_Dhabi_HSBC_Championship_day3_landscape_thumb.jpg",
             "token": "?hdnea=exp=1794077444~acl=/*~id=01025300558010794039373680940066~hmac=df0fa100e197458a094d1394485e927caf4b54509982b49f1375cce0943ea1e5",
-            "token_updated": 1794050428,
+            "token_updated": 1794052227,
             "audio_list": [
                 {
                     "lang_code": "ENG",
