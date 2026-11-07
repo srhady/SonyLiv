@@ -3,23 +3,27 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "04:20:33 PM 07-11-2026"
+        "last_update": "04:50:52 PM 07-11-2026"
     },
     "live_matches": [
         {
-            "match_id": "1090552837",
-            "title": "2nd ODI | India Tour of New Zealand 2026",
-            "tournament": "India Tour of New Zealand 2026",
+            "match_id": "1090552850",
+            "title": "Inter Kashi vs Sporting Club Delhi | MG Indian Super League 2026-27",
+            "tournament": "MG Indian Super League 2026-27",
             "base_urls": {
-                "ENG": "https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-INDNZ/master.m3u8"
+                "HIN": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTe389prod-PlaybackConfig/2120302/Footlive0711/HIN/master.m3u8"
             },
-            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028436/1793942697341498_NZvsIND_2nd_odi_clean_landscape_thumb.jpg",
-            "token": "?hdnea=exp=1794059450~acl=/*~id=53641256541120658102129343195360~hmac=296fa2767c872cd2f7924a204638d277ec84c4fcd501289ddea5892a1a5066eb",
-            "token_updated": 1794046828,
+            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027301/1792885491102355_ISL26_KSHI_vs_Sporting_Club_Delhi_live_landscape_thumb.jpg",
+            "token": "?hdnea=exp=1794091852~acl=/*~id=83179710262061372680509725491095~hmac=4ac9370af053d6f970aa60caa73ca7d19554642047710a4f0cfa41b6865d8a26",
+            "token_updated": 1794048629,
             "audio_list": [
                 {
                     "lang_code": "ENG",
                     "lang_label": "English"
+                },
+                {
+                    "lang_code": "HIN",
+                    "lang_label": "Hindi"
                 }
             ]
         },
@@ -32,7 +36,7 @@
             },
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027303/1792888653936682_DP_World_Tour_Abu_Dhabi_HSBC_Championship_day3_landscape_thumb.jpg",
             "token": "?hdnea=exp=1794077444~acl=/*~id=01025300558010794039373680940066~hmac=df0fa100e197458a094d1394485e927caf4b54509982b49f1375cce0943ea1e5",
-            "token_updated": 1794046828,
+            "token_updated": 1794048629,
             "audio_list": [
                 {
                     "lang_code": "ENG",
