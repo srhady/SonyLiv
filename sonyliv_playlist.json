@@ -3,26 +3,9 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "02:20:30 PM 12-11-2026"
+        "last_update": "02:50:32 PM 12-11-2026"
     },
     "live_matches": [
-        {
-            "match_id": "1090553552",
-            "title": "Philippine Open - Day 1 | Asian Tour 2026",
-            "tournament": "Asian Tour 2026",
-            "base_urls": {
-                "ENG": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT5559prod-PlaybackConfig/2120299/Golf_Phi1211/ENG/master.m3u8"
-            },
-            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027302/1792887681050295_ASIANTOUR2026_Philippine_Open_Day1_landscape_thumb.jpg",
-            "token": "?hdnea=exp=1794500447~acl=/*~id=82163271950410431787955485461470~hmac=737b93208baa9c1844cd21d98429996d11f4ffc0d9d2f4512f4b4b8ad5750218",
-            "token_updated": 1794471625,
-            "audio_list": [
-                {
-                    "lang_code": "ENG",
-                    "lang_label": "English"
-                }
-            ]
-        },
         {
             "match_id": "1090553557",
             "title": "DP World Tour Champinship, Dubai - Day 1 | DP World Tour",
@@ -32,7 +15,7 @@
             },
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028796/1794398859855427_DP_World_Tour_Championship_Dubai_day1_landscape_thumb.jpg",
             "token": "?hdnea=exp=1794509456~acl=/*~id=12741215043937996646257804767319~hmac=6bc2bdad603750242332acb03d8326c7d81ce224e17e123a22248022bd10a0be",
-            "token_updated": 1794471625,
+            "token_updated": 1794473428,
             "audio_list": [
                 {
                     "lang_code": "ENG",
