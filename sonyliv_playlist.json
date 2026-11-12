@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "12:20:31 AM 13-11-2026"
+        "last_update": "12:50:31 AM 13-11-2026"
     },
     "live_matches": [
         {
@@ -15,7 +15,7 @@
             },
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027618/1793185950770769_UNL26_MD5_Turkiye-vs-Belgium_live_landscape_thumb.jpg",
             "token": "?hdnea=exp=1794545448~acl=/*~id=45710757988097459385176562298993~hmac=09326f5daefc2f76546d7e314995df1f54a891626d7f8b551c00e12204ef6f32",
-            "token_updated": 1794507627,
+            "token_updated": 1794509427,
             "audio_list": [
                 {
                     "lang_code": "ENG",
@@ -32,7 +32,7 @@
             },
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027664/1793254611850508_UNL26_MD5_Armenia-vs-Cyprus_live_landscape_thumb.jpg",
             "token": "?hdnea=exp=1794543668~acl=/*~id=69146673202856795240416329280514~hmac=053ac30c3b7fa84cdcf558f1222a50f4f53a0fa6f5360721092408ba778fab1e",
-            "token_updated": 1794507627,
+            "token_updated": 1794509427,
             "audio_list": [
                 {
                     "lang_code": "ENG",
