@@ -3,9 +3,26 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "01:21:58 AM 13-11-2026"
+        "last_update": "01:50:50 AM 13-11-2026"
     },
     "live_matches": [
+        {
+            "match_id": "1090553578",
+            "title": "Italy vs France | UEFA Nations League 2026-27",
+            "tournament": "UEFA Nations League 2026-27",
+            "base_urls": {
+                "ENG": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTa083prod-PlaybackConfig/2120306/Footlive1211/ENG/master.m3u8"
+            },
+            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027664/1793257198950508_UNL26_MD5_Italy-vs-France_live_landscape_thumb.jpg",
+            "token": "?hdnea=exp=1794556249~acl=/*~id=81716585149832399407756899124814~hmac=a29289a57db394e94b51daad778a82dc54545bf4ef8e3c313704d56e5aa97648",
+            "token_updated": 1794513028,
+            "audio_list": [
+                {
+                    "lang_code": "ENG",
+                    "lang_label": "English"
+                }
+            ]
+        },
         {
             "match_id": "1090553579",
             "title": "England vs Croatia | UEFA Nations League 2026-27",
@@ -15,7 +32,7 @@
             },
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027677/1793257674840871_UNL26_MD5_England-vs-Croatia_live_landscape_thumb.jpg",
             "token": "?hdnea=exp=1794554470~acl=/*~id=80337503855843114229189321917350~hmac=69ea99a8c32ca5ef8c724be8767c5bc3c739dfb11569e4df9898ee1090d7e687",
-            "token_updated": 1794511231,
+            "token_updated": 1794513028,
             "audio_list": [
                 {
                     "lang_code": "ENG",
@@ -32,7 +49,7 @@
             },
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027664/1793254891164508_UNL26_MD5_Czechia-vs-Spain_live_landscape_thumb.jpg",
             "token": "?hdnea=exp=1794554470~acl=/*~id=80337503855843114229189321917350~hmac=69ea99a8c32ca5ef8c724be8767c5bc3c739dfb11569e4df9898ee1090d7e687",
-            "token_updated": 1794511231,
+            "token_updated": 1794513028,
             "audio_list": [
                 {
                     "lang_code": "ENG",
@@ -49,7 +66,7 @@
             },
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027664/1793255552146508_UNL26_MD5_Montenegro-vs-Latvia_live_landscape_thumb.jpg",
             "token": "?hdnea=exp=1794554470~acl=/*~id=80337503855843114229189321917350~hmac=69ea99a8c32ca5ef8c724be8767c5bc3c739dfb11569e4df9898ee1090d7e687",
-            "token_updated": 1794511231,
+            "token_updated": 1794513028,
             "audio_list": [
                 {
                     "lang_code": "ENG",
@@ -66,7 +83,7 @@
             },
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027664/1793255214156508_UNL26_MD5_Albania-vs-Finland_live_landscape_thumb.jpg",
             "token": "?hdnea=exp=1794554470~acl=/*~id=80337503855843114229189321917350~hmac=69ea99a8c32ca5ef8c724be8767c5bc3c739dfb11569e4df9898ee1090d7e687",
-            "token_updated": 1794511231,
+            "token_updated": 1794513028,
             "audio_list": [
                 {
                     "lang_code": "ENG",
@@ -83,7 +100,7 @@
             },
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027664/1793256942014508_UNL26_MD5_San-Marino-vs-Belarus_live_landscape_thumb.jpg",
             "token": "?hdnea=exp=1794554470~acl=/*~id=80337503855843114229189321917350~hmac=69ea99a8c32ca5ef8c724be8767c5bc3c739dfb11569e4df9898ee1090d7e687",
-            "token_updated": 1794511231,
+            "token_updated": 1794513028,
             "audio_list": [
                 {
                     "lang_code": "ENG",
