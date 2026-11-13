@@ -2,10 +2,13 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 12:20:36 PM 13-11-2026
+# last_update: 12:50:32 PM 13-11-2026
 
 #EXTINF:-1 tvg-id="sonyliv-1090553600" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028746/1794294832944627_NZvsIND_4th_ODI_live_landscape_thumb.jpg" group-title="Cricket", 4th ODI | India Tour of New Zealand 2026 [English]
 https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-INDNZ/master.m3u8?hdnea=exp=1794577851~acl=/*~id=96293672809354845535538746530706~hmac=8bbbc88d5f85682228d9b734d907fd897180f44db2af882b15a81b06ec12c5fa
+
+#EXTINF:-1 tvg-id="sonyliv-1090553604" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028796/1794398866789427_DP_World_Tour_Championship_Dubai_day2_landscape_thumb.jpg" group-title="Golf", DP World Tour Championship, Dubai - Day 2 | DP World Tour [English]
+https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTc4a7prod-PlaybackConfig/2018457/Golf_DPW1311/ENG/master.m3u8?hdnea=exp=1794595849~acl=/*~id=03767627049733077604475844300847~hmac=25feb3ee1305758e911a81dc6594d209bb01d60a87a9cd45448ff2b1fad5a78b
 
 #EXTINF:-1 tvg-id="sonyliv-1090553601" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027302/1792887693162295_ASIANTOUR2026_Philippine_Open_Day2_landscape_thumb.jpg" group-title="Golf", Philippine Open - Day 2 | Asian Tour 2026 [English]
 https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT784aprod-PlaybackConfig/2094588/Golf_Phi1311/ENG/master.m3u8?hdnea=exp=1794586851~acl=/*~id=96841784072387061995417388123750~hmac=dbe1fa750703f3f5db8b03fe372976ff9d62fb3eccfe9e8ee74205b84557f7c6
