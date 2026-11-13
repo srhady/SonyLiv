@@ -2,7 +2,10 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 01:20:32 AM 14-11-2026
+# last_update: 01:50:34 AM 14-11-2026
+
+#EXTINF:-1 tvg-id="sonyliv-1090553727" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027697/1793265313818308_UNL26_MD5_Serbia-vs-Germany_live_landscape_thumb.jpg" group-title="Football", Serbia vs Germany | UEFA Nations League 2026-27 [English]
+https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT07ebprod-PlaybackConfig/2120308/Footlive1311/ENG/master.m3u8?hdnea=exp=1794642651~acl=/*~id=65815112888962667777849763150135~hmac=256d65c7f75ec75e5f4fc82332acd931ec9a26c35436acbe8c412075f78c4fdf
 
 #EXTINF:-1 tvg-id="sonyliv-1090553726" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027697/1793264939591308_UNL26_MD5_Netherlands-vs-Greece_live_landscape_thumb.jpg" group-title="Football", Netherlands vs Greece | UEFA Nations League 2026-27 [English]
 https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT7a8bprod-PlaybackConfig/2120304/Footlive1311/ENG/master.m3u8?hdnea=exp=1794640849~acl=/*~id=59279555303462469118366859482077~hmac=ce6b00c0febf706f37f2dbe729da2a9b7325f194c09c50057577b2371678e144
