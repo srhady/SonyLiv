@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "10:21:09 PM 14-11-2026"
+        "last_update": "10:50:33 PM 14-11-2026"
     },
     "live_matches": [
         {
@@ -15,7 +15,7 @@
             },
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027688/1793269515520450_UNL26_MD5_Norway-vs-Wales_live_landscape_thumb.jpg",
             "token": "?hdnea=exp=1794716455~acl=/*~id=13457047991325141932609389238619~hmac=21f22aa62e0cea64befad8f3aed6077b691d7f07be5a185859d9048f267741c7",
-            "token_updated": 1794673230,
+            "token_updated": 1794675029,
             "audio_list": [
                 {
                     "lang_code": "ENG",
@@ -32,7 +32,7 @@
             },
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027688/1793269264284450_UNL26_MD5_Georgia-vs-Hungary_live_landscape_thumb.jpg",
             "token": "?hdnea=exp=1794716455~acl=/*~id=13457047991325141932609389238619~hmac=21f22aa62e0cea64befad8f3aed6077b691d7f07be5a185859d9048f267741c7",
-            "token_updated": 1794673230,
+            "token_updated": 1794675029,
             "audio_list": [
                 {
                     "lang_code": "ENG",
