@@ -3,19 +3,36 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "09:50:35 PM 14-11-2026"
+        "last_update": "10:21:09 PM 14-11-2026"
     },
     "live_matches": [
         {
-            "match_id": "1090553933",
-            "title": "Kosovo vs Israel | UEFA Nations League 2026-27",
+            "match_id": "1090553935",
+            "title": "Norway vs Wales | UEFA Nations League 2026-27",
             "tournament": "UEFA Nations League 2026-27",
             "base_urls": {
-                "ENG": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTe0ffprod-PlaybackConfig/2094588/Footlive1411/ENG/master.m3u8"
+                "ENG": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT545eprod-PlaybackConfig/2094587/Footlive1411/ENG/master.m3u8"
             },
-            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027677/1793268731743871_UNL26_MD5_Kosovo-vs-Israel_live_landscape_thumb.jpg",
-            "token": "?hdnea=exp=1794707465~acl=/*~id=49093204393385190720904176284668~hmac=7354c06ba4a699eaa2662addf4a26a1b00abddb393278fbd13aeb94175ffd177",
-            "token_updated": 1794671430,
+            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027688/1793269515520450_UNL26_MD5_Norway-vs-Wales_live_landscape_thumb.jpg",
+            "token": "?hdnea=exp=1794716455~acl=/*~id=13457047991325141932609389238619~hmac=21f22aa62e0cea64befad8f3aed6077b691d7f07be5a185859d9048f267741c7",
+            "token_updated": 1794673230,
+            "audio_list": [
+                {
+                    "lang_code": "ENG",
+                    "lang_label": "English"
+                }
+            ]
+        },
+        {
+            "match_id": "1090553936",
+            "title": "Georgia vs Hungary | UEFA Nations League 2026-27",
+            "tournament": "UEFA Nations League 2026-27",
+            "base_urls": {
+                "ENG": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT4cbfprod-PlaybackConfig/2018457/Footlive1411/ENG/master.m3u8"
+            },
+            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027688/1793269264284450_UNL26_MD5_Georgia-vs-Hungary_live_landscape_thumb.jpg",
+            "token": "?hdnea=exp=1794716455~acl=/*~id=13457047991325141932609389238619~hmac=21f22aa62e0cea64befad8f3aed6077b691d7f07be5a185859d9048f267741c7",
+            "token_updated": 1794673230,
             "audio_list": [
                 {
                     "lang_code": "ENG",
