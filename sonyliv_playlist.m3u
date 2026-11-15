@@ -2,7 +2,10 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 06:50:33 PM 15-11-2026
+# last_update: 07:20:37 PM 15-11-2026
 
-#EXTINF:-1 tvg-id="sonyliv-1090554163" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000028796/1794398880189427_DP_World_Tour_Championship_Dubai_day4_landscape_thumb.jpg" group-title="Golf", DP World Tour Championship, Dubai - Day 4 | DP World Tour [English]
-https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT1fb8prod-PlaybackConfig/2120300/Golf_DPW1511/ENG/master.m3u8?hdnea=exp=1794766849~acl=/*~id=22282584142267020466311914481196~hmac=1ab643140c261a9b4e450d49121df98001a0f68946504c951f8ff7a2bfaaaab7
+#EXTINF:-1 tvg-id="sonyliv-1090554015" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027715/1793198605065884_UNL26_MD6_Latvia_vs_Armenia_landscape_thumb.jpg" group-title="Football", Latvia vs Armenia | UEFA Nations League 2026-27 [English]
+https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTa270prod-PlaybackConfig/2120303/Footlive1511/ENG/master.m3u8?hdnea=exp=1794792058~acl=/*~id=66257252883334084836907359682890~hmac=f933eede56438c5ee6555eda4b21c3aab77da44094fb98b29e24df899f0c2d67
+
+#EXTINF:-1 tvg-id="sonyliv-1090554016" tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027754/1793248801127967_UNL26_MD6_Cyprus_vs_Montenegro_landscape_thumb.jpg" group-title="Football", Cyprus vs Montenegro | UEFA Nations League 2026-27 [English]
+https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT7a8bprod-PlaybackConfig/2120302/Footlive1511/ENG/master.m3u8?hdnea=exp=1794792058~acl=/*~id=66257252883334084836907359682890~hmac=f933eede56438c5ee6555eda4b21c3aab77da44094fb98b29e24df899f0c2d67
