@@ -3,25 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "03:50:34 AM 16-11-2026"
+        "last_update": "04:20:32 AM 16-11-2026"
     },
-    "live_matches": [
-        {
-            "match_id": "1090554022",
-            "title": "Spain vs England | UEFA Nations League 2026-27",
-            "tournament": "UEFA Nations League 2026-27",
-            "base_urls": {
-                "ENG": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT545eprod-PlaybackConfig/2094588/footlive1511/ENG/master.m3u8"
-            },
-            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027854/1793254550038497_UNL26_MD6_Spain_vs_England_landscape_thumb.jpg",
-            "token": "?hdnea=exp=1794813648~acl=/*~id=96563552346942670061411038702564~hmac=1098b86461037cc8993840fbee9e5e472dbe96ba023d0b50c85e0cb35da1a1ba",
-            "token_updated": 1794779429,
-            "audio_list": [
-                {
-                    "lang_code": "ENG",
-                    "lang_label": "English"
-                }
-            ]
-        }
-    ]
+    "live_matches": []
 }
