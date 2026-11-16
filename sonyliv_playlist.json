@@ -3,43 +3,9 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "10:50:42 PM 16-11-2026"
+        "last_update": "11:20:33 PM 16-11-2026"
     },
     "live_matches": [
-        {
-            "match_id": "1090554435",
-            "title": "Faroe Islands vs Moldova | UEFA Nations League 2026-27",
-            "tournament": "UEFA Nations League 2026-27",
-            "base_urls": {
-                "ENG": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaT37d2prod-PlaybackConfig/2120299/footlive1611/ENG/master.m3u8"
-            },
-            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027772/1793257474667102_UNL26_MD6_Faroe_Islands_vs_Moldova_landscape_thumb.jpg",
-            "token": "?hdnea=exp=1794882051~acl=/*~id=89600579731469522688731707985924~hmac=7535615b0b8bb37777aeb212c3e64fea36931cb5090cdc84e51e606be877f5e7",
-            "token_updated": 1794847837,
-            "audio_list": [
-                {
-                    "lang_code": "ENG",
-                    "lang_label": "English"
-                }
-            ]
-        },
-        {
-            "match_id": "1090554453",
-            "title": "Kazakhstan vs Slovakia | UEFA Nations League 2026-27",
-            "tournament": "UEFA Nations League 2026-27",
-            "base_urls": {
-                "ENG": "https://sonymtmnew.akamaized.net/v1/master/0085f7057986fc2f8467089bb19b8b7e4f1bf8d7/mediaTe0ffprod-PlaybackConfig/2120301/Footlive1611/ENG/master.m3u8"
-            },
-            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027833/179325832303640_UNL26_MD6_Kazakhstan_vs_Slovakia_landscape_thumb.jpg",
-            "token": "?hdnea=exp=1794882051~acl=/*~id=89600579731469522688731707985924~hmac=7535615b0b8bb37777aeb212c3e64fea36931cb5090cdc84e51e606be877f5e7",
-            "token_updated": 1794847837,
-            "audio_list": [
-                {
-                    "lang_code": "ENG",
-                    "lang_label": "English"
-                }
-            ]
-        },
         {
             "match_id": "1090554490",
             "title": "Iceland vs Luxembourg | UEFA Nations League 2026-27",
@@ -49,7 +15,7 @@
             },
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027787/1793259677394700_UNL26_MD6_Iceland_vs_Luxembourg_landscape_thumb.jpg",
             "token": "?hdnea=exp=1794889253~acl=/*~id=42971677089367738001686365382672~hmac=6acdfe0b7091d9670cc30bc7e39bdd4c52a9126391f702bc23573ffca6dd85b8",
-            "token_updated": 1794847837,
+            "token_updated": 1794849629,
             "audio_list": [
                 {
                     "lang_code": "ENG",
@@ -66,7 +32,7 @@
             },
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027761/179326116564755_UNL26_MD6_Estonia_vs_Bulgaria_landscape_thumb.jpg",
             "token": "?hdnea=exp=1794889253~acl=/*~id=42971677089367738001686365382672~hmac=6acdfe0b7091d9670cc30bc7e39bdd4c52a9126391f702bc23573ffca6dd85b8",
-            "token_updated": 1794847837,
+            "token_updated": 1794849629,
             "audio_list": [
                 {
                     "lang_code": "ENG",
@@ -83,7 +49,7 @@
             },
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027835/1793267180605986_UNL26_MD6_Lithuania_vs_Liechtenstein_landscape_thumb.jpg",
             "token": "?hdnea=exp=1794889253~acl=/*~id=42971677089367738001686365382672~hmac=6acdfe0b7091d9670cc30bc7e39bdd4c52a9126391f702bc23573ffca6dd85b8",
-            "token_updated": 1794847837,
+            "token_updated": 1794849629,
             "audio_list": [
                 {
                     "lang_code": "ENG",
