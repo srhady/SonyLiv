@@ -3,7 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "08:50:31 PM 16-11-2026"
+        "last_update": "09:20:32 PM 16-11-2026"
     },
     "live_matches": [
         {
@@ -15,7 +15,7 @@
             },
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027772/1793257474667102_UNL26_MD6_Faroe_Islands_vs_Moldova_landscape_thumb.jpg",
             "token": "?hdnea=exp=1794882051~acl=/*~id=89600579731469522688731707985924~hmac=7535615b0b8bb37777aeb212c3e64fea36931cb5090cdc84e51e606be877f5e7",
-            "token_updated": 1794840627,
+            "token_updated": 1794842429,
             "audio_list": [
                 {
                     "lang_code": "ENG",
@@ -32,7 +32,7 @@
             },
             "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000027833/179325832303640_UNL26_MD6_Kazakhstan_vs_Slovakia_landscape_thumb.jpg",
             "token": "?hdnea=exp=1794882051~acl=/*~id=89600579731469522688731707985924~hmac=7535615b0b8bb37777aeb212c3e64fea36931cb5090cdc84e51e606be877f5e7",
-            "token_updated": 1794840627,
+            "token_updated": 1794842429,
             "audio_list": [
                 {
                     "lang_code": "ENG",
