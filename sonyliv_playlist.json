@@ -3,25 +3,7 @@
         "name": "SonyLiv Matches Live Data",
         "telegram": "https://t.me/livesportsplay",
         "owner": "Md Sohanur Rahman Hady",
-        "last_update": "11:50:27 AM 20-11-2026"
+        "last_update": "12:20:31 PM 20-11-2026"
     },
-    "live_matches": [
-        {
-            "match_id": "1090554835",
-            "title": "1st Test - Day 2 | India Tour of New Zealand 2026",
-            "tournament": "India Tour of New Zealand 2026",
-            "base_urls": {
-                "ENG": "https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-INDNZ/master.m3u8"
-            },
-            "thumbnail": "https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029396/1795085973106996_NZvsIND_1st_Test_Day2_landscape_thumb.jpg",
-            "token": "?hdnea=exp=1795170049~acl=/*~id=97019079267400676936531596987262~hmac=4137e08945a5c31f1b0d6cf7b5fbb52ff9865f101c0035fb0f265a7bff74c911",
-            "token_updated": 1795153822,
-            "audio_list": [
-                {
-                    "lang_code": "ENG",
-                    "lang_label": "English"
-                }
-            ]
-        }
-    ]
+    "live_matches": []
 }
