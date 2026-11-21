@@ -2,11 +2,11 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 06:20:27 PM 21-11-2026
+# last_update: 06:50:27 PM 21-11-2026
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029335/1794702022000862_ISL26_Chennaiyin_fC_vs_Punjab_FC_landscape_thumb.jpg" group-title="Live Sports",Chennaiyin FC vs Punjab FC - MG Indian Super League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive2111/ENG/master.m3u8?hdnea=exp=1795313555~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=a44676f6a2dae3c28c9a9802aa527db98a5a04aed432d4d0ec0da91c936e8381
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029479/1795171533377724_AsiaCup_RisingStar_SRI-A_vs_HKC_Live_landscape_thumb.jpg" group-title="Live Sports",Sri Lanka A vs Hong Kong - China - ACC Men's Asia Cup Rising Stars 2026
-https://sonydaimenew.akamaized.net/hls/live/2120299/criclive2111/ENG/master.m3u8?hdnea=exp=1795306756~acl=/*~id=90562635393194968322586110338398~hmac=7796239d22578e037be8fb59fe89baee9fd2172e65230388b4f22bf24abd141a
+https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive2111/ENG/master.m3u8?hdnea=exp=1795315426~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=3caebf6f718d51f5210edea732b6bd1a3eaaf44e67a4e326854bc549034a8a64
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029480/1795172675588333_AsiaCup_RisingStar_BAN-vs-AFG_Live_landscape_thumb.jpg" group-title="Live Sports",Bangladesh A vs Afghanistan A - ACC Men's Asia Cup Rising Stars 2026
-https://sonydaimenew.akamaized.net/hls/live/2120303/criclive2111/ENG/master.m3u8?hdnea=exp=1795306756~acl=/*~id=90562635393194968322586110338398~hmac=7796239d22578e037be8fb59fe89baee9fd2172e65230388b4f22bf24abd141a
+https://sonydaimenew.akamaized.net/hls/live/2120303/criclive2111/ENG/master.m3u8?hdnea=exp=1795308627~acl=/*~id=38602029335046280267495680428128~hmac=ae91dedab2ca1f01700be41780e6934bc9b9755c6aba4c9e7d2745d228d17040
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029479/1795171533377724_AsiaCup_RisingStar_SRI-A_vs_HKC_Live_landscape_thumb.jpg" group-title="Live Sports",Sri Lanka A vs Hong Kong - China - ACC Men's Asia Cup Rising Stars 2026
+https://sonydaimenew.akamaized.net/hls/live/2120299/criclive2111/ENG/master.m3u8?hdnea=exp=1795308627~acl=/*~id=38602029335046280267495680428128~hmac=ae91dedab2ca1f01700be41780e6934bc9b9755c6aba4c9e7d2745d228d17040
