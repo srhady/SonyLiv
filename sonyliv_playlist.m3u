@@ -2,9 +2,9 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 09:50:32 PM 21-11-2026
+# last_update: 10:20:27 PM 21-11-2026
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029506/1795187845283930_ISL26_NorthEast-United-FC-vs-FC-GOA-_landscape_thumb.jpg" group-title="Live Sports",NorthEast United FC vs FC Goa - MG Indian Super League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2094589/Footlive2111/ENG/master.m3u8?hdnea=exp=1795326231~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=a05c1d08255a2767bdeb2c24bd8f373d63f0853128600c0d786dd808ad9dc622
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029480/1795172675588333_AsiaCup_RisingStar_BAN-vs-AFG_Live_landscape_thumb.jpg" group-title="Live Sports",Bangladesh A vs Afghanistan A - ACC Men's Asia Cup Rising Stars 2026
-https://sonydaimenew.akamaized.net/hls/live/2120303/criclive2111/ENG/master.m3u8?hdnea=exp=1795319432~acl=/*~id=78070633636678863740015153154568~hmac=de04f4547c2486045ac0756505a42516cb576696f9f49ba396f24465f850b471
+https://sonydaimenew.akamaized.net/hls/live/2120303/criclive2111/ENG/master.m3u8?hdnea=exp=1795320896~acl=/*~id=31279230462444752170702436527503~hmac=747970fd35e51f6b52db43ce442a75314e4d8905940c7524ac2ef12e179de98e
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029506/1795187845283930_ISL26_NorthEast-United-FC-vs-FC-GOA-_landscape_thumb.jpg" group-title="Live Sports",NorthEast United FC vs FC Goa - MG Indian Super League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2094589/Footlive2111/ENG/master.m3u8?hdnea=exp=1795327964~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=aff9e75a860301b5a479f5ca26af2ae9ebe922a944737bbdf4bf0619495f3e90
