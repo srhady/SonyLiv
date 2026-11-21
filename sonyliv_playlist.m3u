@@ -2,4 +2,11 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 04:50:30 PM 21-11-2026
+# last_update: 05:05:56 PM 21-11-2026
+
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029479/1795171533377724_AsiaCup_RisingStar_SRI-A_vs_HKC_Live_landscape_thumb.jpg" group-title="Live Sports",Sri Lanka A vs Hong Kong - China - ACC Men's Asia Cup Rising Stars 2026
+https://sonydaimenew.akamaized.net/hls/live/2120299/criclive2111/ENG/master.m3u8?hdnea=exp=1795302083~acl=/*~id=21352186428988513446805036179743~hmac=b2dec6c2d8ed8e37662b4993ce3d9d292c632aa4df2eca0c87c046935008aeb3
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029480/1795172675588333_AsiaCup_RisingStar_BAN-vs-AFG_Live_landscape_thumb.jpg" group-title="Live Sports",Bangladesh A vs Afghanistan A - ACC Men's Asia Cup Rising Stars 2026
+https://sonydaimenew.akamaized.net/hls/live/2120303/criclive2111/ENG/master.m3u8?hdnea=exp=1795302083~acl=/*~id=21352186428988513446805036179743~hmac=b2dec6c2d8ed8e37662b4993ce3d9d292c632aa4df2eca0c87c046935008aeb3
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029335/1794702022000862_ISL26_Chennaiyin_fC_vs_Punjab_FC_landscape_thumb.jpg" group-title="Live Sports",Chennaiyin FC vs Punjab FC - MG Indian Super League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive2111/ENG/master.m3u8?hdnea=exp=1795309156~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=d6a9d9ddbb56eb14b744a6d461745761024e1c01ecf0b36bd1674f7e71d6cfd7
