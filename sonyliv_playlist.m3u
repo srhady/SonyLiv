@@ -2,11 +2,13 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 06:50:27 PM 21-11-2026
+# last_update: 07:20:27 PM 21-11-2026
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029335/1794702022000862_ISL26_Chennaiyin_fC_vs_Punjab_FC_landscape_thumb.jpg" group-title="Live Sports",Chennaiyin FC vs Punjab FC - MG Indian Super League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive2111/ENG/master.m3u8?hdnea=exp=1795315426~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=3caebf6f718d51f5210edea732b6bd1a3eaaf44e67a4e326854bc549034a8a64
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029480/1795172675588333_AsiaCup_RisingStar_BAN-vs-AFG_Live_landscape_thumb.jpg" group-title="Live Sports",Bangladesh A vs Afghanistan A - ACC Men's Asia Cup Rising Stars 2026
-https://sonydaimenew.akamaized.net/hls/live/2120303/criclive2111/ENG/master.m3u8?hdnea=exp=1795308627~acl=/*~id=38602029335046280267495680428128~hmac=ae91dedab2ca1f01700be41780e6934bc9b9755c6aba4c9e7d2745d228d17040
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029479/1795171533377724_AsiaCup_RisingStar_SRI-A_vs_HKC_Live_landscape_thumb.jpg" group-title="Live Sports",Sri Lanka A vs Hong Kong - China - ACC Men's Asia Cup Rising Stars 2026
-https://sonydaimenew.akamaized.net/hls/live/2120299/criclive2111/ENG/master.m3u8?hdnea=exp=1795308627~acl=/*~id=38602029335046280267495680428128~hmac=ae91dedab2ca1f01700be41780e6934bc9b9755c6aba4c9e7d2745d228d17040
+https://sonydaimenew.akamaized.net/hls/live/2120299/criclive2111/ENG/master.m3u8?hdnea=exp=1795310160~acl=/*~id=37271339171661590551367427459876~hmac=c8cdc2590717ffcf8c322961a53bf2bb11a8e6eb51c619297cab05180301dc5e
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029506/1795187845283930_ISL26_NorthEast-United-FC-vs-FC-GOA-_landscape_thumb.jpg" group-title="Live Sports",NorthEast United FC vs FC Goa - MG Indian Super League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2094589/Footlive2111/ENG/master.m3u8?hdnea=exp=1795317227~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=9d6b13fee075001057a4885c04a574520bcd5ebf95f5a86a6e9e0353b4b333d1
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029335/1794702022000862_ISL26_Chennaiyin_fC_vs_Punjab_FC_landscape_thumb.jpg" group-title="Live Sports",Chennaiyin FC vs Punjab FC - MG Indian Super League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive2111/ENG/master.m3u8?hdnea=exp=1795317227~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=9d6b13fee075001057a4885c04a574520bcd5ebf95f5a86a6e9e0353b4b333d1
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029480/1795172675588333_AsiaCup_RisingStar_BAN-vs-AFG_Live_landscape_thumb.jpg" group-title="Live Sports",Bangladesh A vs Afghanistan A - ACC Men's Asia Cup Rising Stars 2026
+https://sonydaimenew.akamaized.net/hls/live/2120303/criclive2111/ENG/master.m3u8?hdnea=exp=1795310160~acl=/*~id=37271339171661590551367427459876~hmac=c8cdc2590717ffcf8c322961a53bf2bb11a8e6eb51c619297cab05180301dc5e
