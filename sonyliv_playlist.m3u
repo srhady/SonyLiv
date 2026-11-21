@@ -2,11 +2,9 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 07:50:25 PM 21-11-2026
+# last_update: 08:20:30 PM 21-11-2026
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029506/1795187845283930_ISL26_NorthEast-United-FC-vs-FC-GOA-_landscape_thumb.jpg" group-title="Live Sports",NorthEast United FC vs FC Goa - MG Indian Super League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2094589/Footlive2111/ENG/master.m3u8?hdnea=exp=1795318944~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=d2d81ee48cf01a2a50e20978f43cd26aa8845ddd539771cadd69843a6892771d
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029479/1795171533377724_AsiaCup_RisingStar_SRI-A_vs_HKC_Live_landscape_thumb.jpg" group-title="Live Sports",Sri Lanka A vs Hong Kong - China - ACC Men's Asia Cup Rising Stars 2026
-https://sonydaimenew.akamaized.net/hls/live/2120299/criclive2111/ENG/master.m3u8?hdnea=exp=1795311956~acl=/*~id=26310900573899842793148506834540~hmac=d9649bab363b38a9b68686a1645fdf29c44ca4298eed36a11c2f03f6fd713ee1
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029480/1795172675588333_AsiaCup_RisingStar_BAN-vs-AFG_Live_landscape_thumb.jpg" group-title="Live Sports",Bangladesh A vs Afghanistan A - ACC Men's Asia Cup Rising Stars 2026
-https://sonydaimenew.akamaized.net/hls/live/2120303/criclive2111/ENG/master.m3u8?hdnea=exp=1795311956~acl=/*~id=26310900573899842793148506834540~hmac=d9649bab363b38a9b68686a1645fdf29c44ca4298eed36a11c2f03f6fd713ee1
+https://sonydaimenew.akamaized.net/hls/live/2120303/criclive2111/ENG/master.m3u8?hdnea=exp=1795313758~acl=/*~id=47402316400825695427451068628381~hmac=cd5ba89e062fefc353bd940caf9db41ce5260c61382c97b7913512800a6eadc7
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029506/1795187845283930_ISL26_NorthEast-United-FC-vs-FC-GOA-_landscape_thumb.jpg" group-title="Live Sports",NorthEast United FC vs FC Goa - MG Indian Super League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2094589/Footlive2111/ENG/master.m3u8?hdnea=exp=1795320829~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=465461ea46fcd6777ca4d4701eb1433f5287f62c0b4660c25a6c5cefdbce4943
