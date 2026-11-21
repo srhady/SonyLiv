@@ -2,7 +2,7 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 11:20:31 PM 21-11-2026
+# last_update: 11:50:29 PM 21-11-2026
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029480/1795172675588333_AsiaCup_RisingStar_BAN-vs-AFG_Live_landscape_thumb.jpg" group-title="Live Sports",Bangladesh A vs Afghanistan A - ACC Men's Asia Cup Rising Stars 2026
-https://sonydaimenew.akamaized.net/hls/live/2120303/criclive2111/ENG/master.m3u8?hdnea=exp=1795324831~acl=/*~id=82913930924097269305625579149072~hmac=141869b57757e52bbfafc7d8017b9aeb34bf37f9ffa408928c3f5c2ffcd67122
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029535/1795216895013771_UFC_Fight_Night_Prochazka_vs_Stirling_landscape_thumb.jpg" group-title="Live Sports",UFC Fight Night - Prochazka vs Stirling
+https://sonydaimenew.akamaized.net/hls/live/2120305/UFC_Proc2111/ENG/master.m3u8?hdnea=exp=1795333429~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=261e5f6fbd60fba1c1d896c582891957f0162cbbb9fb43c5295db43da0dbad21
