@@ -2,9 +2,21 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 01:20:27 AM 25-11-2026
+# last_update: 01:50:47 AM 25-11-2026
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029637/1795313030813444_UCL26_MD5_Bodo_vs_LASK_landscape_thumb.jpg" group-title="Live Sports",Bodø/Glimt vs LASK - UEFA Champions League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2120306/Footlive2411/ENG/master.m3u8?hdnea=exp=1795598027~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=a3437e895727386ce498b72c7d7e68488d4776b7df2ae19a19e07239b60bd877
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029637/1795320669674444_UCL26_MD5_Feyenoord_vs_Porto_landscape_thumb.jpg" group-title="Live Sports",Feyenoord vs FC Porto - UEFA Champions League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2120302/Footlive2411/ENG/master.m3u8?hdnea=exp=1795593046~acl=/*~id=97261805523970230473977628558998~hmac=45a6ada2dcd040f2efec621b97c151a1e2b019211be042143c0e4d051c709755
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029637/1795320397654444_UCL26_MD5_Arsenal_vs_Dortmund_landscape_thumb.jpg" group-title="Live Sports",Arsenal vs Borussia Dortmund - UEFA Champions League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2094587/Footlive2411/ENG/master.m3u8?hdnea=exp=1795593046~acl=/*~id=97261805523970230473977628558998~hmac=45a6ada2dcd040f2efec621b97c151a1e2b019211be042143c0e4d051c709755
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029637/1795318910325444_UCL26_MD5_Man_City_vs_Napoli_landscape_thumb.jpg" group-title="Live Sports",Manchester City vs Napoli - UEFA Champions League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2120308/Footlive2411/ENG/master.m3u8?hdnea=exp=1795593046~acl=/*~id=97261805523970230473977628558998~hmac=45a6ada2dcd040f2efec621b97c151a1e2b019211be042143c0e4d051c709755
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029666/1795330176307198_UCL26_MD5_Bratislava_vs_Real_Betis_landscape_thumb.jpg" group-title="Live Sports",Slovan Bratislava vs Real Betis - UEFA Champions League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2094588/Footlive2411/ENG/master.m3u8?hdnea=exp=1795593046~acl=/*~id=97261805523970230473977628558998~hmac=45a6ada2dcd040f2efec621b97c151a1e2b019211be042143c0e4d051c709755
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029637/1795314761395444_UCL26_MD5_Galatasaray_vs_Aston_Villa_landscape_thumb.jpg" group-title="Live Sports",Galatasaray vs Aston Villa - UEFA Champions League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2120307/Footlive2411/ENG/master.m3u8?hdnea=exp=1795598027~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=a3437e895727386ce498b72c7d7e68488d4776b7df2ae19a19e07239b60bd877
+https://sonydaimenew.akamaized.net/hls/live/2120307/Footlive2411/ENG/master.m3u8?hdnea=exp=1795593046~acl=/*~id=97261805523970230473977628558998~hmac=45a6ada2dcd040f2efec621b97c151a1e2b019211be042143c0e4d051c709755
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029666/1795330600882198_UCL26_MD5_Como_vs_Athens_landscape_thumb.jpg" group-title="Live Sports",Como 1907 vs AEK Athens - UEFA Champions League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2022316/Footlive2411/ENG/master.m3u8?hdnea=exp=1795593046~acl=/*~id=97261805523970230473977628558998~hmac=45a6ada2dcd040f2efec621b97c151a1e2b019211be042143c0e4d051c709755
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029637/1795315004894444_UCL26_MD5_Real_Madrid_vs_PSV_landscape_thumb.jpg" group-title="Live Sports",Real Madrid vs PSV Eindhoven - UEFA Champions League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2120300/Footlive2411/ENG/master.m3u8?hdnea=exp=1795593046~acl=/*~id=97261805523970230473977628558998~hmac=45a6ada2dcd040f2efec621b97c151a1e2b019211be042143c0e4d051c709755
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029666/1795326333966198_UCL26_MD5_RB_Leipzig_vs_RC_Lens_landscape_thumb.jpg" group-title="Live Sports",RB Leipzig vs RC Lens - UEFA Champions League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2120305/Footlive2411/ENG/master.m3u8?hdnea=exp=1795593046~acl=/*~id=97261805523970230473977628558998~hmac=45a6ada2dcd040f2efec621b97c151a1e2b019211be042143c0e4d051c709755
