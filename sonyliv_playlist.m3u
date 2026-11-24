@@ -2,9 +2,9 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 07:20:33 PM 24-11-2026
+# last_update: 07:50:28 PM 24-11-2026
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029724/1795410670843751_ACRS26_PAK_A_vs_NEPAL_live_landscape_thumb.jpg" group-title="Live Sports",Pakistan A vs Nepal - ACC Men's Asia Cup Rising Stars 2026
-https://sonydaimenew.akamaized.net/hls/live/2120299/Criclive2411/ENG/master.m3u8?hdnea=exp=1795569355~acl=/*~id=51820061670726398524622980654239~hmac=680ef94542e6bbb13e996a9a34591159d02657fa116edf1a3e6a7edf96536c21
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029517/1795024918000181_ISL26_NorthEast_United_vs_Sporting_Club_Delhi_landscape_thumb.jpg" group-title="Live Sports",NorthEast United vs Sporting Club Delhi - MG Indian Super League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive2411/ENG/master.m3u8?hdnea=exp=1795576432~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=2775fed0621c35fd8f8148b4243f0b2d58975d41de72f1549b59d63acb208550
+https://sonydaimenew.akamaized.net/hls/live/2120304/Footlive2411/ENG/master.m3u8?hdnea=exp=1795578108~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=0ce5de1764e12b181c158e089e5c91072a2683453137a311b34eb4e0181fea56
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029724/1795410670843751_ACRS26_PAK_A_vs_NEPAL_live_landscape_thumb.jpg" group-title="Live Sports",Pakistan A vs Nepal - ACC Men's Asia Cup Rising Stars 2026
+https://sonydaimenew.akamaized.net/hls/live/2120299/Criclive2411/ENG/master.m3u8?hdnea=exp=1795571308~acl=/*~id=48519029636008241048301688334304~hmac=81e3d62842870cfc5e682265ec8788d4b1dca9e2be953915f13ea78684ae202d
