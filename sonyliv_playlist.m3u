@@ -2,9 +2,9 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 11:20:31 PM 25-11-2026
+# last_update: 11:50:30 PM 25-11-2026
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029666/1795341493241198_UCL26_MD5_Slavia_Praha_vs_Villarreal_landscape_thumb.jpg" group-title="Live Sports",Slavia Praha vs Villarreal - UEFA Champions League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2120301/footlive2511/ENG/master.m3u8?hdnea=exp=1795677230~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=3d6f000d641e2b69abfd882f03a6a5f6e79034aa9ed04a4bea8a534965e2cb0d
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029666/1795343521422198_UCL26_MD5_Sabah_FC_vs_Barcelona_landscape_thumb.jpg" group-title="Live Sports",Sabah FC vs Barcelona - UEFA Champions League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2037139/footlive2511/ENG/master.m3u8?hdnea=exp=1795677231~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=20698e44b67022168896ca3a7562df84da14c5680997d4258925b784be61704d
+https://sonydaimenew.akamaized.net/hls/live/2037139/footlive2511/ENG/master.m3u8?hdnea=exp=1795678972~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=5e7be0f8902df2addd2501a6be3cf5c6b3fc992504a9158e6b155a0aaaf60a6e
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029666/1795341493241198_UCL26_MD5_Slavia_Praha_vs_Villarreal_landscape_thumb.jpg" group-title="Live Sports",Slavia Praha vs Villarreal - UEFA Champions League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2120301/footlive2511/ENG/master.m3u8?hdnea=exp=1795678972~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=5e7be0f8902df2addd2501a6be3cf5c6b3fc992504a9158e6b155a0aaaf60a6e
