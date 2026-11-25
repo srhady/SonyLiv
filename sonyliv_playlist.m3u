@@ -2,19 +2,19 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 01:50:29 AM 26-11-2026
+# last_update: 02:20:28 AM 26-11-2026
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029672/1795350640916820_UCL26_MD5_Club_Brugge_vs_Liverpool_landscape_thumb.jpg" group-title="Live Sports",Club Brugge vs Liverpool - UEFA Champions League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2118669/Footlive2511/ENG/master.m3u8?hdnea=exp=1795686228~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=94d58f42e40038fd56004a0113258d3d7ac5be699142b5146e95dfcbe7c6ba90
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029672/1795350347649820_UCL26_MD5_Sporting_CP_vs_Man_United_landscape_thumb.jpg" group-title="Live Sports",Sporting CP vs Manchester United - UEFA Champions League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2105079/Footlive2511/ENG/master.m3u8?hdnea=exp=1795686228~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=94d58f42e40038fd56004a0113258d3d7ac5be699142b5146e95dfcbe7c6ba90
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029666/1795343735792198_UCL26_MD5_PSG_vs_roma_landscape_thumb.jpg" group-title="Live Sports",PSG vs AS Roma - UEFA Champions League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2037141/Footlive2511/ENG/master.m3u8?hdnea=exp=1795686228~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=94d58f42e40038fd56004a0113258d3d7ac5be699142b5146e95dfcbe7c6ba90
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029672/1795350859703820_UCL26_MD5_Lille_vs_Bayern_landscape_thumb.jpg" group-title="Live Sports",Lille vs Bayern Munich - UEFA Champions League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2118670/Footlive2511/ENG/master.m3u8?hdnea=exp=1795686228~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=94d58f42e40038fd56004a0113258d3d7ac5be699142b5146e95dfcbe7c6ba90
+https://sonydaimenew.akamaized.net/hls/live/2118670/Footlive2511/ENG/master.m3u8?hdnea=exp=1795687928~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=aba135f2ec911e1eec41ab0f06fbf748418d3369eb718dc026c8d9294bbb5515
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029672/1795350347649820_UCL26_MD5_Sporting_CP_vs_Man_United_landscape_thumb.jpg" group-title="Live Sports",Sporting CP vs Manchester United - UEFA Champions League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2105079/Footlive2511/ENG/master.m3u8?hdnea=exp=1795687928~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=aba135f2ec911e1eec41ab0f06fbf748418d3369eb718dc026c8d9294bbb5515
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029666/1795343735792198_UCL26_MD5_PSG_vs_roma_landscape_thumb.jpg" group-title="Live Sports",PSG vs AS Roma - UEFA Champions League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2037141/Footlive2511/ENG/master.m3u8?hdnea=exp=1795687928~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=aba135f2ec911e1eec41ab0f06fbf748418d3369eb718dc026c8d9294bbb5515
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029672/1795351785173820_UCL26_MD5_Shakhtar_Donetsk_vs_Fenerbahce_landscape_thumb.jpg" group-title="Live Sports",Shakhtar Donetsk vs Fenerbahçe - UEFA Champions League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2118668/Footlive2511/ENG/master.m3u8?hdnea=exp=1795686228~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=94d58f42e40038fd56004a0113258d3d7ac5be699142b5146e95dfcbe7c6ba90
+https://sonydaimenew.akamaized.net/hls/live/2118668/Footlive2511/ENG/master.m3u8?hdnea=exp=1795687928~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=aba135f2ec911e1eec41ab0f06fbf748418d3369eb718dc026c8d9294bbb5515
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029666/1795343863613198_UCL26_MD5_Inter_vs_Stuttgart_landscape_thumb.jpg" group-title="Live Sports",Inter Milan vs VfB Stuttgart - UEFA Champions League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2037142/Footlive2511/ENG/master.m3u8?hdnea=exp=1795686228~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=94d58f42e40038fd56004a0113258d3d7ac5be699142b5146e95dfcbe7c6ba90
+https://sonydaimenew.akamaized.net/hls/live/2037142/Footlive2511/ENG/master.m3u8?hdnea=exp=1795687928~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=aba135f2ec911e1eec41ab0f06fbf748418d3369eb718dc026c8d9294bbb5515
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029666/1795344031626198_UCL26_MD5_Atletico_vs_Viking_landscape_thumb.jpg" group-title="Live Sports",Atlético de Madrid vs Viking FK - UEFA Champions League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2037143/Footlive2511/ENG/master.m3u8?hdnea=exp=1795686228~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=94d58f42e40038fd56004a0113258d3d7ac5be699142b5146e95dfcbe7c6ba90
+https://sonydaimenew.akamaized.net/hls/live/2037143/Footlive2511/ENG/master.m3u8?hdnea=exp=1795687928~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=aba135f2ec911e1eec41ab0f06fbf748418d3369eb718dc026c8d9294bbb5515
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029672/1795350640916820_UCL26_MD5_Club_Brugge_vs_Liverpool_landscape_thumb.jpg" group-title="Live Sports",Club Brugge vs Liverpool - UEFA Champions League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2118669/Footlive2511/ENG/master.m3u8?hdnea=exp=1795687928~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=aba135f2ec911e1eec41ab0f06fbf748418d3369eb718dc026c8d9294bbb5515
