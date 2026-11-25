@@ -2,5 +2,7 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 06:20:28 PM 25-11-2026
+# last_update: 06:50:27 PM 25-11-2026
 
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029562/1795243348812330_UYL26_MD5_Sporting_CP_vs_ManUnited_landscape_thumb.jpg" group-title="Live Sports",Sporting CP vs Manchester United - UEFA Youth League 2026-27
+https://sonydaimenew.akamaized.net/hls/live/2120303/footlive2511/ENG/master.m3u8?hdnea=exp=1795660913~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=5b62d416b7934732384d6652bc856d108db1622e81d3512199a148eec2f417e4
