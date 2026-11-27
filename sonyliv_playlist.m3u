@@ -2,9 +2,7 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 12:20:34 PM 27-11-2026
+# last_update: 12:50:28 PM 27-11-2026
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029986/1795622243895554_DP_World_Tour_BMW_PGA_day2_landscape_thumb.jpg" group-title="Live Sports",BMW Australian PGA Championship - Day 2 - DP World Tour
-https://sonydaimenew.akamaized.net/hls/live/2118865/Golf_BMW2611/ENG/master.m3u8?hdnea=exp=1795810433~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=801febd7b7f8786c67db1af3f49abd3df90e249bd4fdb305a6cb5ce3b54e29be
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000030044/1795694848783427_AO_wildcard_playoffs_2027_Womens_and_Mens_singles_SFs_landscape_thumb.jpg" group-title="Live Sports",Men's & Women's Singles - Semi-Finals - AO Asia Pacific Wildcard Playoffs 2027
-https://sonydaimenew.akamaized.net/hls/live/2118867/Tennis_A2711/ENG/master.m3u8?hdnea=exp=1795810433~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=801febd7b7f8786c67db1af3f49abd3df90e249bd4fdb305a6cb5ce3b54e29be
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000030114/1795761699256622_AO_wildcard_playoffs_2027_Mens_Doubles_Final_landscape_thumb.jpg" group-title="Live Sports",Men's & Women's Doubles - Final - AO Asia Pacific Wildcard Playoffs 2027
+https://sonydaimenew.akamaized.net/hls/live/2118867/Tennis_A2711/ENG/master.m3u8?hdnea=exp=1795812186~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=0667c2b085a30b13ae4b4d05edaf3f59413ab962aedd44ce507d980f70cccb55
