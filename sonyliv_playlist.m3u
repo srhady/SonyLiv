@@ -2,9 +2,7 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 10:20:30 PM 27-11-2026
+# last_update: 10:50:30 PM 27-11-2026
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029518/1795032618000423_ISL26_KSHI_vs_Churchill_Brothers_FC_landscape_thumb.jpg" group-title="Live Sports",KSHI vs Churchill Brothers FC - MG Indian Super League 2026-27
-https://sonydaimenew.akamaized.net/hls/live/2120301/Footlive2711/ENG/master.m3u8?hdnea=exp=1795846321~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=1c3e32beee53937eb56026bb6833a512738ddf86669e8ba8ccc9ea4c214683c1
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029940/1795599539816102_ACC_Rising_Star_SF_PAK_vs_BAN_live_landscape_thumb.jpg" group-title="Live Sports",Pakistan A vs Bangladesh A - Semi-Final - ACC Men's Asia Cup Rising Stars 2026
-https://sonydaimenew.akamaized.net/hls/live/2120299/Criclive2711/ENG/master.m3u8?hdnea=exp=1795839522~acl=/*~id=67315873451649988779556598032966~hmac=0b4e615595c8e259c5a2e256bc586cea5032659a2eeb389d7cc554f5319779a0
+https://sonydaimenew.akamaized.net/hls/live/2120299/Criclive2711/ENG/master.m3u8?hdnea=exp=1795841308~acl=/*~id=33372599308897720405415478432791~hmac=1ff6536dbbcc8b652d239ba1fb7cc993ceafeae525d860fd5e467ceb2fd40428
