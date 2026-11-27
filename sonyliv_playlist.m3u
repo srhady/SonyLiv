@@ -2,11 +2,11 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 10:50:26 AM 27-11-2026
+# last_update: 11:20:27 AM 27-11-2026
 
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029839/179551441961579_NZ_vs_IND_2nd_Test_Day1_landscape_thumb.jpg" group-title="Live Sports",2nd Test - Day 1 - India Tour of New Zealand 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-INDNZ/master.m3u8?hdnea=exp=1795804977~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=7afe789e3974a66d04630724a7c5f8587821a71a5c2d630c3c28e84de69b2d29
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000030044/1795694848783427_AO_wildcard_playoffs_2027_Womens_and_Mens_singles_SFs_landscape_thumb.jpg" group-title="Live Sports",Men's & Women's Singles - Semi-Finals - AO Asia Pacific Wildcard Playoffs 2027
-https://sonydaimenew.akamaized.net/hls/live/2118867/Tennis_A2711/ENG/master.m3u8?hdnea=exp=1795804977~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=7afe789e3974a66d04630724a7c5f8587821a71a5c2d630c3c28e84de69b2d29
+https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-INDNZ/master.m3u8?hdnea=exp=1795806827~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=bd5b2f255eaa0d215a6b143f45c1530691128ea5fc4fe2159761bb79fc2a0b85
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029986/1795622243895554_DP_World_Tour_BMW_PGA_day2_landscape_thumb.jpg" group-title="Live Sports",BMW Australian PGA Championship - Day 2 - DP World Tour
-https://sonydaimenew.akamaized.net/hls/live/2118865/Golf_BMW2611/ENG/master.m3u8?hdnea=exp=1795804977~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=7afe789e3974a66d04630724a7c5f8587821a71a5c2d630c3c28e84de69b2d29
+https://sonydaimenew.akamaized.net/hls/live/2118865/Golf_BMW2611/ENG/master.m3u8?hdnea=exp=1795806827~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=bd5b2f255eaa0d215a6b143f45c1530691128ea5fc4fe2159761bb79fc2a0b85
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000030044/1795694848783427_AO_wildcard_playoffs_2027_Womens_and_Mens_singles_SFs_landscape_thumb.jpg" group-title="Live Sports",Men's & Women's Singles - Semi-Finals - AO Asia Pacific Wildcard Playoffs 2027
+https://sonydaimenew.akamaized.net/hls/live/2118867/Tennis_A2711/ENG/master.m3u8?hdnea=exp=1795806827~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=bd5b2f255eaa0d215a6b143f45c1530691128ea5fc4fe2159761bb79fc2a0b85
