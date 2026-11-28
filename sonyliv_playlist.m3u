@@ -2,9 +2,9 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 10:50:30 AM 28-11-2026
+# last_update: 11:20:27 AM 28-11-2026
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029844/1795521587084816_NZ_vs_IND_2nd_Test_Day2_landscape_thumb.jpg" group-title="Live Sports",2nd Test - Day 2 - India Tour of New Zealand 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-INDNZ/master.m3u8?hdnea=exp=1795891430~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=b6858c66d73f0ad38cffb3c99a75d9a9b76ac6d7b00bb3805f3e3e0d8979de3e
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000030044/1795694818521427_AO_wildcard_playoffs_2027_Womens_and_Mens_Singles_Final_landscape_thumb.jpg" group-title="Live Sports",Men's & Women's Singles - Final - AO Asia Pacific Wildcard Playoffs 2027
-https://sonydaimenew.akamaized.net/hls/live/2120299/Tennis_A2811/ENG/master.m3u8?hdnea=exp=1795891430~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=b6858c66d73f0ad38cffb3c99a75d9a9b76ac6d7b00bb3805f3e3e0d8979de3e
+https://sonydaimenew.akamaized.net/hls/live/2120299/Tennis_A2811/ENG/master.m3u8?hdnea=exp=1795893166~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=8d748abf0df251ad1b3ba7709958e7adf1c24689e7512a1544f981b8617a247a
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029844/1795521587084816_NZ_vs_IND_2nd_Test_Day2_landscape_thumb.jpg" group-title="Live Sports",2nd Test - Day 2 - India Tour of New Zealand 2026
+https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-INDNZ/master.m3u8?hdnea=exp=1795893166~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=8d748abf0df251ad1b3ba7709958e7adf1c24689e7512a1544f981b8617a247a
