@@ -2,9 +2,7 @@
 # name: SonyLiv Matches Full Data
 # telegram: https://t.me/livesportsplay
 # owner: Md Sohanur Rahman Hady
-# last_update: 08:50:29 AM 28-11-2026
+# last_update: 09:20:33 AM 28-11-2026
 
-#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029986/1795622259556554_DP_World_Tour_BMW_PGA_day3_landscape_thumb.jpg" group-title="Live Sports",BMW Australian PGA Championship - Day 3 - DP World Tour
-https://sonydaimenew.akamaized.net/hls/live/2120303/Golf_BMW2711/ENG/master.m3u8?hdnea=exp=1795884229~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=8ff2814b0d02ed58c2dc1fb115b220d7c51fa780a7f16f55da0ea07122381bb8
 #EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000029844/1795521587084816_NZ_vs_IND_2nd_Test_Day2_landscape_thumb.jpg" group-title="Live Sports",2nd Test - Day 2 - India Tour of New Zealand 2026
-https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-INDNZ/master.m3u8?hdnea=exp=1795884229~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=8ff2814b0d02ed58c2dc1fb115b220d7c51fa780a7f16f55da0ea07122381bb8
+https://sonyeventsglobal.akamaized.net/hls/live/2022321/DAI17-INDNZ/master.m3u8?hdnea=exp=1795886033~acl=*~id=15567844900197867dbaea76dba5fd9c95a32b2cae~hmac=85398b004dedeed2acd47b8f29fb042ea589b6eeaa22733a65cbb0b25e8478b7
